@@ -1,0 +1,32 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <BaseHead title="Plastic-Free Swaps | Eco Living Journey" description="Plastic-free alternatives that are beginner-friendly and actually stick." />
+</head>
+<body>
+  <Header />
+  <main class="container">
+    <h1>Plastic-Free Swaps</h1>
+    <p>No perfection. Just better defaults.</p>
+
+    <h2>Top categories</h2>
+    <ul>
+      <li>Kitchen essentials</li>
+      <li>Cleaning tools</li>
+      <li>Bathroom basics</li>
+    </ul>
+  </main>
+  <Footer />
+</body>
+</html>
+
+<style>
+  .container { max-width: 900px; margin: 0 auto; padding: 2rem 1rem; }
+  h2 { margin-top: 2rem; }
+</style>

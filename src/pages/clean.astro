@@ -1,0 +1,32 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <BaseHead title="Non-Toxic Cleaning | Eco Living Journey" description="Non-toxic cleaning routines and products that work — without harsh chemicals." />
+</head>
+<body>
+  <Header />
+  <main class="container">
+    <h1>Non-Toxic Cleaning (That Actually Works)</h1>
+    <p>Simple routines first. Products second.</p>
+
+    <h2>Beginner routine</h2>
+    <ul>
+      <li>All-purpose spray (safe + cheap)</li>
+      <li>Bathroom quick-clean routine</li>
+      <li>Laundry basics for sensitive skin</li>
+    </ul>
+  </main>
+  <Footer />
+</body>
+</html>
+
+<style>
+  .container { max-width: 900px; margin: 0 auto; padding: 2rem 1rem; }
+  h2 { margin-top: 2rem; }
+</style>

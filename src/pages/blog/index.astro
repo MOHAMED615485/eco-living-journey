@@ -89,25 +89,100 @@ const posts = (await getCollection('blog')).sort(
 	<body>
 		<Header />
 		<main>
-			<section>
-				<ul>
-					{
-						posts.map((post) => (
-							<li>
-								<a href={`/blog/${post.id}/`}>
-									{post.data.heroImage && (
-										<Image width={720} height={360} src={post.data.heroImage} alt="" />
-									)}
-									<h4 class="title">{post.data.title}</h4>
-									<p class="date">
-										<FormattedDate date={post.data.pubDate} />
-									</p>
-								</a>
-							</li>
-						))
-					}
-				</ul>
-			</section>
+			---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead
+      title="Eco Living Journey"
+      description="Practical eco-friendly home swaps for beginners — especially for apartments and small spaces."
+    />
+  </head>
+
+  <body>
+    <Header />
+
+    <main class="home">
+      <section class="hero">
+        <p class="eyebrow">Sustainable living for apartments & small spaces</p>
+        <h1>Make Your Home More Eco-Friendly — Without Making Life Complicated</h1>
+        <p class="lead">
+          Simple product swaps, practical guides, and honest comparisons for beginners.
+        </p>
+
+        <div class="cta">
+          <a class="button" href="/start/">Start Here</a>
+          <a class="link" href="/about/">What is Eco Living Journey?</a>
+        </div>
+      </section>
+
+      <section class="grid">
+        <h2>Browse by category</h2>
+
+        <div class="cards">
+          <a class="card" href="/kitchen/">
+            <h3>Eco Kitchen</h3>
+            <p>Food storage, low-waste swaps, and renter-friendly basics.</p>
+          </a>
+
+          <a class="card" href="/cleaning/">
+            <h3>Non-Toxic Cleaning</h3>
+            <p>Simple routines and products that work (without harsh chemicals).</p>
+          </a>
+
+          <a class="card" href="/bathroom/">
+            <h3>Sustainable Bathroom</h3>
+            <p>Low-waste essentials, easy upgrades, and best value picks.</p>
+          </a>
+
+          <a class="card" href="/plastic-free/">
+            <h3>Plastic-Free Swaps</h3>
+            <p>Beginner-friendly alternatives that actually stick.</p>
+          </a>
+        </div>
+      </section>
+
+      <section class="featured">
+        <h2>Start with these guides</h2>
+        <div class="cards">
+          <a class="card" href="/start/">
+            <h3>Beginner’s Roadmap</h3>
+            <p>Your no-overwhelm starter plan.</p>
+          </a>
+          <a class="card" href="/blog/">
+            <h3>Latest posts</h3>
+            <p>New tutorials and comparisons every week.</p>
+          </a>
+        </div>
+      </section>
+    </main>
+
+    <Footer />
+  </body>
+</html>
+
+<style>
+  .home { padding: 2.5rem 1rem; max-width: 980px; margin: 0 auto; }
+  .hero { padding: 2rem 0 2.5rem; }
+  .eyebrow { letter-spacing: .08em; text-transform: uppercase; font-size: .85rem; opacity: .75; margin: 0 0 .5rem; }
+  h1 { margin: 0 0 .75rem; }
+  .lead { font-size: 1.1rem; line-height: 1.6; max-width: 60ch; opacity: .9; margin: 0; }
+  .cta { display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 1.25rem; }
+  .button { display: inline-block; padding: .75rem 1rem; border-radius: .75rem; text-decoration: none; border: 1px solid currentColor; }
+  .link { align-self: center; }
+  .grid { margin-top: 2.5rem; }
+  .cards { display: grid; gap: 1rem; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .card { padding: 1rem; border-radius: .9rem; border: 1px solid rgba(0,0,0,.12); text-decoration: none; }
+  .card h3 { margin: 0 0 .25rem; }
+  .card p { margin: 0; opacity: .85; }
+  .featured { margin-top: 2.5rem; }
+  @media (max-width: 720px){ .cards { grid-template-columns: 1fr; } }
+</style>
 		</main>
 		<Footer />
 	</body>

@@ -1,0 +1,35 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <BaseHead title="Eco Kitchen | Eco Living Journey" description="Simple kitchen swaps for small spaces: storage, waste reduction, and budget upgrades." />
+</head>
+<body>
+  <Header />
+  <main class="container">
+    <h1>Eco Kitchen: Small-Space Swaps</h1>
+    <p>Low effort, high impact. Start here if you want results fast.</p>
+
+    <h2>Top beginner swaps</h2>
+    <ul>
+      <li>Reusable containers (best value types)</li>
+      <li>Compost options for apartments</li>
+      <li>Plastic-free dish tools</li>
+    </ul>
+
+    <h2>Coming next</h2>
+    <p>We’ll publish “best picks” lists you can trust (no junk, no hype).</p>
+  </main>
+  <Footer />
+</body>
+</html>
+
+<style>
+  .container { max-width: 900px; margin: 0 auto; padding: 2rem 1rem; }
+  h2 { margin-top: 2rem; }
+</style>

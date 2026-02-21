@@ -1,0 +1,32 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <BaseHead title="Sustainable Bathroom | Eco Living Journey" description="Bathroom swaps: low-waste essentials, budget picks, and renter-friendly upgrades." />
+</head>
+<body>
+  <Header />
+  <main class="container">
+    <h1>Sustainable Bathroom Swaps</h1>
+    <p>Focus on items you replace often (that’s where the money + waste disappears).</p>
+
+    <h2>Best places to start</h2>
+    <ul>
+      <li>Refillable soap and shampoo options</li>
+      <li>Reusable cotton alternatives</li>
+      <li>Toilet paper + bidet budget guide</li>
+    </ul>
+  </main>
+  <Footer />
+</body>
+</html>
+
+<style>
+  .container { max-width: 900px; margin: 0 auto; padding: 2rem 1rem; }
+  h2 { margin-top: 2rem; }
+</style>

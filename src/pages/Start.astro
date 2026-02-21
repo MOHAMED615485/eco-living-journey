@@ -1,0 +1,40 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead title="Start Here | Eco Living Journey" description="Your beginner roadmap for eco-friendly living in apartments." />
+  </head>
+  <body>
+    <Header />
+
+    <main class="container">
+      <h1>Start Here: The Beginner Roadmap</h1>
+      <p>Start small. Save money. Avoid overwhelm. This is the fastest way to build habits that last.</p>
+
+      <h2>Step 1 — Pick one room</h2>
+      <ul>
+        <li><a href="/kitchen/">Kitchen (easiest wins)</a></li>
+        <li><a href="/cleaning/">Cleaning (health + budget)</a></li>
+        <li><a href="/bathroom/">Bathroom (low-waste basics)</a></li>
+      </ul>
+
+      <h2>Step 2 — Use the “3-rule”</h2>
+      <p>Only buy a swap if it’s: (1) practical, (2) affordable, and (3) you’ll actually use it.</p>
+
+      <h2>Step 3 — Build your starter kit</h2>
+      <p>Once you’ve done 3–5 swaps, you’ll know your style and can upgrade smarter.</p>
+    </main>
+
+    <Footer />
+  </body>
+</html>
+
+<style>
+  .container { max-width: 900px; margin: 0 auto; padding: 2rem 1rem; }
+  h2 { margin-top: 2rem; }
+</style>
