@@ -1,0 +1,28 @@
+---
+import { getCollection } from "astro:content";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+
+const posts = await getCollection("blog");
+---
+
+<html lang="en">
+  <body>
+    <Header />
+    <main style="max-width: 800px; margin: 2rem auto;">
+      <h1>Blog</h1>
+
+      <p><b>DEBUG:</b> posts.length = {posts.length}</p>
+      <pre>{JSON.stringify(posts.map(p => ({ slug: p.slug, title: p.data.title })), null, 2)}</pre>
+
+      <ul>
+        {posts.map((post) => (
+          <li>
+            <a href={`/blog/${post.slug}`}>{post.data.title}</a>
+          </li>
+        ))}
+      </ul>
+    </main>
+    <Footer />
+  </body>
+</html>
