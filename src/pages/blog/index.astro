@@ -1,67 +1,23 @@
 ---
-import Header from "../../components/Header.astro";
-import Footer from "../../components/Footer.astro";
-import BaseHead from "../../components/BaseHead.astro";
-import { getCollection } from "astro:content";
+import { getCollection } from 'astro:content';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
 
-const posts = await getCollection("blog");
+const posts = await getCollection('blog');
 ---
 
-<!doctype html>
 <html lang="en">
-  <head>
-    <BaseHead 
-      title="Blog | Eco Living Journey"
-      description="Eco-friendly living tips for apartments and small spaces."
-    />
-    <style>
-      .container {
-        max-width: 980px;
-        margin: 0 auto;
-        padding: 2rem 1rem;
-      }
-
-      .posts {
-        list-style: none;
-        padding: 0;
-        display: grid;
-        gap: 1rem;
-      }
-
-      .post-card {
-        padding: 1rem;
-        border: 1px solid rgba(0,0,0,.1);
-        border-radius: 12px;
-        text-decoration: none;
-      }
-
-      .post-card:hover {
-        border-color: rgba(0,0,0,.3);
-      }
-
-      h2 {
-        margin: 0 0 0.25rem;
-      }
-
-      p {
-        margin: 0;
-        opacity: 0.8;
-      }
-    </style>
-  </head>
-
   <body>
     <Header />
-
-    <main class="container">
+    
+    <main style="max-width: 800px; margin: 2rem auto;">
       <h1>Blog</h1>
 
-      <ul class="posts">
+      <ul style="list-style: none; padding: 0;">
         {posts.map((post) => (
-          <li>
-            <a class="post-card" href={`/blog/${post.slug}/`}>
-              <h2>{post.data.title}</h2>
-              <p>{post.data.description}</p>
+          <li style="margin-bottom: 1.5rem;">
+            <a href={`/blog/${post.slug}`} style="font-size: 1.2rem;">
+              {post.data.title}
             </a>
           </li>
         ))}
