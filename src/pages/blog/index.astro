@@ -16,7 +16,7 @@ const posts = await getCollection('blog');
       <ul style="list-style: none; padding: 0;">
         {posts.map((post) => (
           <li style="margin-bottom: 1.5rem;">
-            <a href={`/blog/${post.slug}`} style="font-size: 1.2rem;">
+            <a href={`/blog/${post.id}`} style="font-size: 1.2rem;">
               {post.data.title}
             </a>
           </li>
