@@ -3,7 +3,7 @@ backend:
   repo: MOHAMED615485/eco-living-journey
   branch: main
   base_url: https://ecoliving-journey.com
-  auth_endpoint: /api/auth
+  auth_endpoint: api/auth  # Remove the leading slash
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
