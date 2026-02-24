@@ -2,8 +2,8 @@ backend:
   name: github
   repo: MOHAMED615485/eco-living-journey
   branch: main
-  base_url: https://ecoliving-journey.com
-  auth_endpoint: api/auth  # Remove the leading slash
+ base_url: https://eco-living-journey-v2.pages.dev
+  auth_endpoint: /api/auth  # Remove the leading slash
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
