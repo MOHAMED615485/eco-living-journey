@@ -6,12 +6,8 @@ backend:
   auth_endpoint: /api/auth
   scope: repo
 
-# --- CHANGED SECTION START ---
-# This saves images to 'src/assets' so Astro can process them
 media_folder: "src/assets"
-# This tells the blog post to look for the image two folders up (../../assets)
 public_folder: "../../assets"
-# --- CHANGED SECTION END ---
 
 collections:
   - name: "blog"
