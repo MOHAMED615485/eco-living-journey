@@ -1,0 +1,65 @@
+---
+layout: ../../layouts/BlogPost.astro
+title: 5 Simple Swaps to Save Money and the Planet in 2026
+description: Start your eco-living journey today with 5 budget-friendly
+  sustainable swaps that reduce waste and save you hundreds of dollars.
+pubDate: 2026-02-25T01:27:00.000+01:00
+heroImage: ../../assets/eco-swaps-hero.jpg
+---
+\## Sustainability Doesn't Have to Be Expensive
+
+
+
+A common myth about eco-friendly living is that it costs a fortune. We see expensive organic cotton shirts and high-tech solar gadgets and think, \*"I can't afford that."\*
+
+
+
+But the truth? \*\*Real sustainability is about using less.\*\* And using less means spending less.
+
+
+
+If you are just starting your eco-living journey, you don't need to buy new things. In fact, the best way to start is by swapping out wasteful habits for reusable ones. Here are 5 simple swaps that will save you hundreds of dollars this year.
+
+
+
+\### 1. Ditch the Plastic Water Bottles
+
+\* \*\*The Cost:\*\* Buying a $2 bottle of water every day costs you over \*\*$700 a year\**.
+
+\* \*\*The Swap:\** Invest $20 in a high-quality stainless steel bottle. It lasts for years and eliminates thousands of plastic bottles.
+
+
+
+\### 2. Switch to LED Light Bulbs
+
+\* \*\*The Cost:\** Traditional bulbs waste 90% of their energy as heat.
+
+\* \*\*The Swap:\*\* LED bulbs use 75% less energy. Replacing your five most-used bulbs can save you around \*\*$75 a year\**.
+
+
+
+\### 3. Wash Laundry in Cold Water
+
+\* \*\*The Cost:\** Heating water accounts for 90% of a washing machine's energy use.
+
+\* \*\*The Swap:\** Switch to "Cold." Modern detergents work perfectly in cold water, saving you money and protecting your clothes.
+
+
+
+\### 4. Bring Your Own Shopping Bags
+
+\* \*\*The Cost:\** Many stores now charge for plastic bags.
+
+\* \*\*The Swap:\** Keep canvas bags in your car or by your door. They are stronger and help you avoid extra fees.
+
+
+
+\### 5. Make Your Own Cleaning Spray
+
+\* \*\*The Cost:\** All-purpose cleaners can cost $5 and contain harsh chemicals.
+
+\* \*\*The Swap:\*\* Mix equal parts \*\*white vinegar and water\**. It’s non-toxic, effective, and costs pennies.
+
+
+
+\*\*Which of these swaps will you try first? Let me know in the comments below!\*\*
