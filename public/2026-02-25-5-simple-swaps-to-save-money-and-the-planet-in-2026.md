@@ -4,7 +4,7 @@ title: 5 Simple Swaps to Save Money and the Planet in 2026
 description: Start your eco-living journey today with 5 budget-friendly
   sustainable swaps that reduce waste and save you hundreds of dollars.
 pubDate: 2026-02-25T01:27:00.000+01:00
-heroImage: "../../assets/hero.jpg"
+heroImage: "../../assets/swaps.jpg"
 ---
 \## Sustainability Doesn't Have to Be Expensive
 
