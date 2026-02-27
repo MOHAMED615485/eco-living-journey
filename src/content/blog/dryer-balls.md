@@ -2,7 +2,7 @@
 title: "Do Wool Dryer Balls Actually Work? (Or Are We Just Playing Fetch With Our Laundry?)"
 description: "Ethan breaks down why swapping dryer sheets for wool balls is the ultimate budget-friendly eco-hack."
 pubDate: "Feb 27 2026"
-heroImage: "../../assets/swaps.jpg"
+heroImage: "../../assets/dryer-balls.JPG"
 ---
 
 Let’s be honest: the first time I saw a pack of wool dryer balls, I thought they were oversized tennis balls for a dog that has very sophisticated taste. 
