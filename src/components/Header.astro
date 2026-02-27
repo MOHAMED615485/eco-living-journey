@@ -17,33 +17,36 @@ import HeaderLink from './HeaderLink.astro';
 
 <style>
     header { 
-        margin: 0; 
         padding: 1em; 
         background: white; 
-        box-shadow: 0 2px 8px rgba(0,0,0, 5%); 
+        box-shadow: 0 2px 8px rgba(0,0,0, 0.05); 
     }
     nav { 
         display: flex; 
         align-items: center; 
-        justify-content: space-between; 
+        justify-content: space-between; /* Keeps logo left, links right on PC */
         max-width: 960px; 
         margin: 0 auto; 
     }
     .logo-link img { 
-        height: 120px; /* Stronger presence on PC */
+        height: 100px; /* Large but controlled */
         width: auto; 
         display: block; 
     }
-    .internal-links { display: flex; gap: 1.5em; }
+    .internal-links { 
+        display: flex; 
+        gap: 2em; 
+    }
 
-    /* Mobile specific centering */
     @media (max-width: 720px) { 
         nav { 
-            flex-direction: column; /* Stacks logo on top of links */
-            gap: 1em;
+            flex-direction: column; /* Stacks them for mobile */
+            gap: 1.5em;
+            text-align: center;
         }
         .logo-link img { 
-            height: 90px; /* Balanced size for mobile */
+            height: 80px; /* Slightly smaller for mobile */
+            margin: 0 auto;
         }
         .internal-links { 
             justify-content: center;
