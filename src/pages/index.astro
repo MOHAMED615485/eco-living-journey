@@ -1,15 +1,59 @@
 ---
-import Header from "../components/Header.astro";
-import Footer from "../components/Footer.astro";
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 ---
 
+<!doctype html>
 <html lang="en">
-  <body>
-    <Header />
-    <main style="max-width: 800px; margin: 2rem auto;">
-      <h1>Welcome to Eco Living Journey</h1>
-      <p>This is the main home page.</p>
-    </main>
-    <Footer />
-  </body>
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section class="hero">
+				<h1>Welcome to Eco Living Journey</h1>
+				<p>Practical tips and DIY hacks to help you live a greener life without breaking the bank.</p>
+				<a href="/blog" class="cta-button">Read the Blog</a>
+			</section>
+		</main>
+		<Footer />
+		<style>
+			main {
+				width: 100%;
+				max-width: 960px;
+				margin: 0 auto;
+				padding: 3em 1em;
+				text-align: center;
+			}
+			.hero h1 {
+				font-size: 3rem;
+				color: #2f855a;
+				margin-bottom: 0.5em;
+			}
+			.hero p {
+				font-size: 1.25rem;
+				color: #4a5568;
+				margin-bottom: 2em;
+			}
+			.cta-button {
+				background-color: #2f855a;
+				color: white;
+				padding: 1rem 2rem;
+				border-radius: 50px;
+				text-decoration: none;
+				font-weight: bold;
+				transition: background 0.3s ease;
+			}
+			.cta-button:hover {
+				background-color: #276749;
+			}
+			@media (max-width: 720px) {
+				.hero h1 { font-size: 2rem; }
+				.hero p { font-size: 1rem; }
+			}
+		</style>
+	</body>
 </html>

@@ -7,116 +7,101 @@ import FormattedDate from '../components/FormattedDate.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, heroImage } = Astro.props;
 ---
 
 <html lang="en">
-	<head>
-		<BaseHead title={title} description={description} />
-		<style>
-		.hero-image {
-	width: 100%;
-	margin-bottom: 2em;
-	display: flex;
-	justify-content: center;
-}
-.hero-image img {
-	display: block;
-	margin: 0 auto;
-	width: 100%;
-	max-width: 100%;
-	height: 450px; /* High-quality look for PC */
-	object-fit: cover; /* This stops the stretching/squashing! */
-	border-radius: 12px;
-	box-shadow: var(--box-shadow);
-}
-@media (max-width: 720px) {
-	.hero-image img {
-		height: 280px; /* Better height for mobile viewing */
-	}
-}
+    <head>
+        <BaseHead title={title} description={description} />
+        <style>
+            main {
+                width: 100%;
+                max-width: 960px;
+                margin: 0 auto;
+                padding: 2em 1em;
+            }
+            .hero-image {
+                width: 100%;
+                margin-bottom: 2em;
+                display: flex;
+                justify-content: center;
+            }
+            .hero-image img {
+                display: block;
+                margin: 0 auto;
+                width: 100%;
+                max-width: 100%;
+                height: 450px; 
+                object-fit: cover; /* Keeps photos from stretching or squashing */
+                border-radius: 16px;
+                box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            }
+            .prose {
+                width: 720px;
+                max-width: 100%;
+                margin: 0 auto;
+                padding: 1em;
+                color: #333333;
+                line-height: 1.8;
+                font-size: 1.15rem;
+            }
+            .title {
+                margin-bottom: 1em;
+                padding: 1em 0;
+                text-align: center;
+            }
+            .title h1 {
+                margin: 0 0 0.5em 0;
+                font-size: 2.5em;
+                color: #1a202c;
+            }
+            .date {
+                margin-bottom: 0.5em;
+                color: #718096;
+            }
+            
+            /* Nature Green Styles for Ethan's Brand */
+            .prose h2 {
+                color: #2f855a;
+                margin-top: 1.5em;
+                border-bottom: 2px solid #e2e8f0;
+                padding-bottom: 0.3em;
+            }
+            .prose h3 {
+                color: #2d3748;
+                margin-top: 1.5em;
+            }
 
-@media (max-width: 720px) {
-    .hero-image img {
-        height: 250px; /* Shorter height for phones */
-    }
-}
+            @media (max-width: 720px) {
+                .hero-image img {
+                    height: 280px; /* Perfect height for phones */
+                }
+                .title h1 {
+                    font-size: 2em;
+                }
+            }
+        </style>
+    </head>
 
-.prose {
-    width: calc(100% - 2em);
-    max-width: 720px;
-    margin: 0 auto;
-    padding: 1em 0;
-    color: rgb(var(--gray-dark));
-}
-			.prose {
-				width: 720px;
-				max-width: calc(100% - 2em);
-				margin: auto;
-				padding: 1em;
-				color: #333333;
-				line-height: 1.8; /* Makes the text easy to surf through */
-				font-size: 1.15rem;
-			}
-			.title {
-				margin-bottom: 1em;
-				padding: 1em 0;
-				text-align: center;
-				line-height: 1;
-			}
-			.title h1 {
-				margin: 0 0 0.5em 0;
-				font-size: 2.5em;
-				color: #1a202c;
-			}
-			.date {
-				margin-bottom: 0.5em;
-				color: #718096;
-			}
-			
-			/* Automatically styles all future Markdown content */
-			.prose h2 {
-				color: #2f855a; /* A nice Nature Green for Eco Living */
-				margin-top: 1.5em;
-				border-bottom: 2px solid #e2e8f0;
-				padding-bottom: 0.3em;
-			}
-			.prose h3 {
-				color: #2d3748;
-				margin-top: 1.5em;
-			}
-			.prose ul {
-				padding-left: 1.5em;
-				margin-bottom: 1.5em;
-			}
-			.prose li {
-				margin-bottom: 0.5em;
-			}
-			.prose strong {
-				color: #1a202c;
-			}
-		</style>
-	</head>
-
-	<body>
-		<Header />
-		<main>
-			<article>
-				<div class="hero-image">
-				{heroImage && <img width={1020} height={510} src={heroImage.src} alt={title} />}
-				</div>
-				<div class="prose">
-					<div class="title">
-						<div class="date">
-							<FormattedDate date={pubDate} />
-						</div>
-						<h1>{title}</h1>
-						<hr />
-					</div>
-					<slot />
-				</div>
-			</article>
-		</main>
-		<Footer />
-	</body>
+    <body>
+        <Header />
+        <main>
+            <article>
+                <div class="hero-image">
+                    {heroImage && <img width={1020} height={510} src={heroImage.src} alt={title} />}
+                </div>
+                <div class="prose">
+                    <div class="title">
+                        <div class="date">
+                            <FormattedDate date={pubDate} />
+                        </div>
+                        <h1>{title}</h1>
+                        <hr />
+                    </div>
+                    <slot />
+                </div>
+            </article>
+        </main>
+        <Footer />
+    </body>
 </html>
