@@ -24,11 +24,13 @@ const posts = (await getCollection('blog')).sort(
     box-shadow: 0 4px 12px rgba(0,0,0,0.05); /* Adds a premium soft shadow */
 }
 
-ul li img {
-    width: 100%;
-    height: 250px; /* Fixed height for uniformity */
-    object-fit: cover; /* This prevents stretching! */
-    display: block;
+ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* This centers the cards on PC */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 @media (max-width: 720px) {
