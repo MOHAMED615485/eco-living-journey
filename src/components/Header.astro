@@ -4,19 +4,16 @@ import { SITE_TITLE } from '../consts';
 ---
 
 <header>
-	<nav>
-		<h2>
-			<a href="/" style="display: flex; align-items: center; text-decoration: none; gap: 10px;">
-				<img src="/logo.png" alt="Eco Living Journey Logo" style="height: 60px; width: auto;" />
-				<span style="color: #2f855a; font-weight: 800;">Eco Living Journey</span>
-			</a>
-		</h2>
-		<div class="internal-links">
-			<HeaderLink href="/">Home</HeaderLink>
-			<HeaderLink href="/blog">Blog</HeaderLink>
-			<HeaderLink href="/about">About</HeaderLink>
-		</div>
-	</nav>
+<nav style="display: flex; align-items: center; justify-content: space-between; padding: 1rem 0;">
+    <a href="/" style="display: flex; align-items: center; text-decoration: none; gap: 12px;">
+        <img src="/logo.png" alt="Eco Living Journey Logo" style="height: 65px; width: auto;" />
+    </a>
+    <div class="internal-links" style="display: flex; gap: 1.5rem;">
+        <HeaderLink href="/">Home</HeaderLink>
+        <HeaderLink href="/blog">Blog</HeaderLink>
+        <HeaderLink href="/about">About</HeaderLink>
+    </div>
+</nav>
 </header>
 
 <style>
