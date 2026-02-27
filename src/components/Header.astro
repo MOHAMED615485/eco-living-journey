@@ -1,27 +1,24 @@
 ---
 import HeaderLink from './HeaderLink.astro';
-import { SITE_TITLE } from '../consts';
 ---
 
 <header>
-<nav style="display: flex; align-items: center; justify-content: space-between; padding: 1rem 0;">
-    <a href="/" style="display: flex; align-items: center; text-decoration: none; gap: 12px;">
-        <img src="/logo.png" alt="Eco Living Journey Logo" style="height: 65px; width: auto;" />
-    </a>
-    <div class="internal-links" style="display: flex; gap: 1.5rem;">
-        <HeaderLink href="/">Home</HeaderLink>
-        <HeaderLink href="/blog">Blog</HeaderLink>
-        <HeaderLink href="/about">About</HeaderLink>
-    </div>
-</nav>
+	<nav>
+		<a href="/" class="logo-link">
+			<img src="/logo.png" alt="Eco Living Journey Logo" />
+		</a>
+		<div class="internal-links">
+			<HeaderLink href="/">Home</HeaderLink>
+			<HeaderLink href="/blog">Blog</HeaderLink>
+			<HeaderLink href="/about">About</HeaderLink>
+		</div>
+	</nav>
 </header>
 
 <style>
-	header { margin: 0; padding: 0 1em; background: white; box-shadow: 0 2px 8px rgba(var(--black), 5%); }
-	h2 { margin: 0; font-size: 1em; }
-	nav { display: flex; align-items: center; justify-content: space-between; }
-	.internal-links { display: flex; gap: 1em; }
-	@media (max-width: 720px) {
-		.internal-links { display: none; }
-	}
+	header { margin: 0; padding: 0 1em; background: white; box-shadow: 0 2px 8px rgba(0,0,0, 5%); }
+	nav { display: flex; align-items: center; justify-content: space-between; max-width: 960px; margin: 0 auto; padding: 0.5em 0; }
+	.logo-link img { height: 70px; width: auto; display: block; }
+	.internal-links { display: flex; gap: 1.5em; }
+	@media (max-width: 720px) { .internal-links { display: none; } }
 </style>
