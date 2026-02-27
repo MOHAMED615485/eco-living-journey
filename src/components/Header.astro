@@ -17,8 +17,24 @@ import HeaderLink from './HeaderLink.astro';
 
 <style>
     header { margin: 0; padding: 0 1em; background: white; box-shadow: 0 2px 8px rgba(0,0,0, 5%); }
-    nav { display: flex; align-items: center; justify-content: space-between; max-width: 960px; margin: 0 auto; padding: 0.5em 0; }
-    .logo-link img { height: 70px; width: auto; display: block; }
+    nav { 
+        display: flex; 
+        align-items: center; 
+        justify-content: space-between; 
+        max-width: 960px; 
+        margin: 0 auto; 
+        padding: 1em 0; 
+    }
+    .logo-link img { 
+        height: 100px; /* Bigger for PC */
+        width: auto; 
+        display: block; 
+        transition: height 0.3s ease;
+    }
     .internal-links { display: flex; gap: 1.5em; }
-    @media (max-width: 720px) { .internal-links { display: none; } }
+    
+    @media (max-width: 720px) { 
+        .logo-link img { height: 80px; } /* Perfectly sized for mobile */
+        .internal-links { display: flex; gap: 1em; font-size: 0.9em; } 
+    }
 </style>
