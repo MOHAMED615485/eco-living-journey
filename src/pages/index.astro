@@ -9,51 +9,67 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			main {
+				width: 100%;
+				max-width: 960px; /* Limits the width so it doesn't stretch too far on PC */
+				margin: 0 auto; /* The magic command to center the whole page */
+				padding: 3em 1em;
+				text-align: center; /* Centers the text for a professional look */
+			}
+			.hero {
+				padding: 4rem 1rem;
+				background: #f0fdf4; /* A very light green tint to match the eco-theme */
+				border-radius: 32px;
+				margin-bottom: 3rem;
+			}
+			.hero h1 {
+				font-size: 3.5rem;
+				color: #1a202c;
+				margin-bottom: 0.5em;
+				line-height: 1.1;
+			}
+			.hero p {
+				font-size: 1.25rem;
+				color: #4a5568;
+				max-width: 600px;
+				margin: 0 auto 2rem auto;
+				line-height: 1.6;
+			}
+			.cta-button {
+				display: inline-block;
+				background-color: #2f855a; /* Ethan's Nature Green */
+				color: white;
+				padding: 1.25rem 2.5rem;
+				border-radius: 50px;
+				text-decoration: none;
+				font-weight: 800;
+				font-size: 1.1rem;
+				transition: transform 0.2s ease, background 0.2s ease;
+				box-shadow: 0 10px 15px -3px rgba(47, 133, 90, 0.3);
+			}
+			.cta-button:hover {
+				background-color: #276749;
+				transform: translateY(-2px);
+			}
+
+			/* Mobile Tweaks */
+			@media (max-width: 720px) {
+				.hero { padding: 2rem 1rem; }
+				.hero h1 { font-size: 2.25rem; }
+				.hero p { font-size: 1.1rem; }
+			}
+		</style>
 	</head>
 	<body>
 		<Header />
 		<main>
 			<section class="hero">
-				<h1>Welcome to Eco Living Journey</h1>
-				<p>Practical tips and DIY hacks to help you live a greener life without breaking the bank.</p>
-				<a href="/blog" class="cta-button">Read the Blog</a>
+				<h1>Welcome to <span style="color: #2f855a;">Eco Living</span> Journey</h1>
+				<p>Practical tips and DIY hacks to help you live a greener life without breaking the bank. Hosted by Ethan.</p>
+				<a href="/blog" class="cta-button">Start Surfing the Blog</a>
 			</section>
 		</main>
 		<Footer />
-		<style>
-			main {
-				width: 100%;
-				max-width: 960px;
-				margin: 0 auto;
-				padding: 3em 1em;
-				text-align: center;
-			}
-			.hero h1 {
-				font-size: 3rem;
-				color: #2f855a;
-				margin-bottom: 0.5em;
-			}
-			.hero p {
-				font-size: 1.25rem;
-				color: #4a5568;
-				margin-bottom: 2em;
-			}
-			.cta-button {
-				background-color: #2f855a;
-				color: white;
-				padding: 1rem 2rem;
-				border-radius: 50px;
-				text-decoration: none;
-				font-weight: bold;
-				transition: background 0.3s ease;
-			}
-			.cta-button:hover {
-				background-color: #276749;
-			}
-			@media (max-width: 720px) {
-				.hero h1 { font-size: 2rem; }
-				.hero p { font-size: 1rem; }
-			}
-		</style>
 	</body>
 </html>
