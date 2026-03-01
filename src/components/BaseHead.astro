@@ -56,3 +56,9 @@ const { title, description, image = FallbackImage } = Astro.props;
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(image.src, Astro.url)} />
+<style is:global>
+  html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+</style>
