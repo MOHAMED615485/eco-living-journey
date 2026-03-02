@@ -2,7 +2,7 @@
 title: "Wool Dryer Balls vs. Dryer Sheets: The $100 Mistake"
 description: "Why I stopped buying dryer sheets and how much money it actually saved me."
 pubDate: "Mar 02 2026"
-heroImage: "/dryer-balls.jpg"
+heroImage: "./dryer-balls.jpg"
 ---
 
 I’m not a professional environmentalist. I’m a guy with a 9-to-5 who was tired of seeing $10 disappear every month on boxes of dryer sheets. 
