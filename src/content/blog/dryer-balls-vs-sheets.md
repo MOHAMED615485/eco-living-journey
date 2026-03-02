@@ -22,4 +22,4 @@ I switched to **EcoJeannie Wool Dryer Balls**. Here is why:
 | Chemicals | Yes | No |
 | Reusable | No | Yes (1,000+ times) |
 
-**My Verdict:** If you want to save $100 this year, grab these [Link: Your Amazon Associate Link]. It's the easiest swap I've ever made.
+**My Verdict:** If you want to save $100 this year, grab these [Link: Your Amazon Associate Link]. It's the easiest swap I've ever made. 
