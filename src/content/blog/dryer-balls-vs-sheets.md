@@ -1,7 +1,7 @@
 ---
 title: "Wool Dryer Balls vs. Dryer Sheets: The $100 Mistake"
 description: "Why I stopped buying dryer sheets and how much money it actually saved me."
-pubDate: "Mar 02 2026"
+pubDate: "2026-03-02"
 heroImage: "./dryer-balls.jpg"
 ---
 
@@ -22,4 +22,4 @@ I switched to **EcoJeannie Wool Dryer Balls**. Here is why:
 | Chemicals | Yes | No |
 | Reusable | No | Yes (1,000+ times) |
 
-**My Verdict:** If you want to save $100 this year, grab these [Link: Your Amazon Associate Link]. It's the easiest swap I've ever made. 
+**My Verdict:** If you want to save $100 this year, grab these [Link: Your Amazon Associate Link]. It's the easiest swap I've ever made.
