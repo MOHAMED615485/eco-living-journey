@@ -7,167 +7,129 @@ import FormattedDate from '../components/FormattedDate.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 ---
 
 <html lang="en">
-    <head>
-        <BaseHead title={title} description={description} />
-<style>
-	main {
-		width: calc(100% - 2em);
-		max-width: 800px;
-		margin: 0 auto;
-		background: #ffffff;
-		padding: 2.5rem;
-		border-radius: 15px;
-        /* BIG, EASY-TO-READ TEXT */
-		font-size: 1.4rem; 
-		line-height: 1.6;
-		color: #333;
-	}
+	<head>
+		<BaseHead title={title} description={description} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<article>
+				<div class="hero-image">
+					{heroImage && <img width={1020} height={510} src={heroImage} alt="" />}
+				</div>
+				<div class="prose">
+					<div class="title">
+						<div class="date">
+							<FormattedDate date={pubDate} />
+							{
+								updatedDate && (
+									<div class="last-updated-on">
+										Last updated on <FormattedDate date={updatedDate} />
+									</div>
+								)
+							}
+						</div>
+						<h1>{title}</h1>
+						<hr />
+					</div>
+					<slot />
+				</div>
+			</article>
+		</main>
+		<Footer />
 
-    /* CENTER THE INFOGRAPHIC */
-	.prose img[src*="infographic"] {
-		display: block;
-		margin: 4rem auto !important;
-		border-radius: 15px;
-		box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-	}
+		<style is:global>
+			/* --- DESKTOP VIEW (Big & Cheerful) --- */
+			main {
+				width: calc(100% - 2em);
+				max-width: 800px;
+				margin: 0 auto;
+				background: #ffffff;
+				padding: 2.5rem;
+				border-radius: 15px;
+				font-size: 1.4rem; 
+				line-height: 1.6;
+				color: #333;
+			}
 
-    /* SIMPLE TABLE WITH BOLD LINES & COLORS */
-	.prose table {
-		width: 100%;
-		border: 4px solid #4caf50; /* Cheerful Green Border */
-		margin: 3rem 0;
-        border-collapse: collapse;
-	}
-	.prose th {
-		background-color: #4caf50;
-		color: white !important;
-		padding: 20px;
-		border: 2px solid #388e3c;
-        text-align: left;
-	}
-	.prose td {
-		padding: 20px;
-		border: 2px solid #e0e0e0;
-	}
-	.prose tr:nth-child(even) {
-		background-color: #f1f8e9; /* Light Green Striped Rows */
-	}
+			.prose img {
+				display: block;
+				margin: 4rem auto !important;
+				border-radius: 15px;
+				box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+				max-width: 100%;
+			}
 
-    /* CHEERFUL ORANGE BUTTON */
-	.cta-container { text-align: center; margin: 4rem 0; }
-	.cta-button {
-		display: inline-block;
-		background: #ff9800; /* Cheerful Orange */
-		color: white !important;
-		padding: 25px 50px;
-		border-radius: 60px;
-		text-decoration: none !important;
-		font-weight: bold;
-		font-size: 1.6rem;
-        box-shadow: 0 6px 20px rgba(255, 152, 0, 0.4);
-	}
+			.prose table {
+				width: 100%;
+				border: 4px solid #4caf50;
+				margin: 3rem 0;
+				border-collapse: collapse;
+			}
+			.prose th {
+				background-color: #4caf50;
+				color: white !important;
+				padding: 20px;
+				border: 2px solid #388e3c;
+				text-align: left;
+			}
+			.prose td {
+				padding: 20px;
+				border: 2px solid #e0e0e0;
+			}
+			.prose tr:nth-child(even) {
+				background-color: #f1f8e9;
+			}
 
-	.author-box {
-		background: #e3f2fd; /* Cheerful Blue */
-		padding: 25px;
-		border-radius: 15px;
-		margin-top: 4rem;
-        border-left: 8px solid #2196f3;
-	}
-<style>
-	/* --- DESKTOP VIEW (Big & Cheerful) --- */
-	main {
-		width: calc(100% - 2em);
-		max-width: 800px;
-		margin: 0 auto;
-		background: #ffffff;
-		padding: 2.5rem;
-		border-radius: 15px;
-		font-size: 1.4rem; 
-		line-height: 1.6;
-		color: #333;
-	}
+			.cta-container { text-align: center; margin: 4rem 0; }
+			.cta-button {
+				display: inline-block;
+				background: #ff9800;
+				color: white !important;
+				padding: 25px 50px;
+				border-radius: 60px;
+				text-decoration: none !important;
+				font-weight: bold;
+				font-size: 1.6rem;
+				box-shadow: 0 6px 20px rgba(255, 152, 0, 0.4);
+			}
 
-	.prose img[src*="infographic"] {
-		display: block;
-		margin: 4rem auto !important;
-		border-radius: 15px;
-		box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-		max-width: 100%;
-	}
+			.author-box {
+				background: #e3f2fd;
+				padding: 25px;
+				border-radius: 15px;
+				margin-top: 4rem;
+				border-left: 8px solid #2196f3;
+			}
 
-	.prose table {
-		width: 100%;
-		border: 4px solid #4caf50;
-		margin: 3rem 0;
-		border-collapse: collapse;
-	}
-	.prose th {
-		background-color: #4caf50;
-		color: white !important;
-		padding: 20px;
-		border: 2px solid #388e3c;
-		text-align: left;
-	}
-	.prose td {
-		padding: 20px;
-		border: 2px solid #e0e0e0;
-	}
-	.prose tr:nth-child(even) {
-		background-color: #f1f8e9;
-	}
-
-	.cta-container { text-align: center; margin: 4rem 0; }
-	.cta-button {
-		display: inline-block;
-		background: #ff9800;
-		color: white !important;
-		padding: 25px 50px;
-		border-radius: 60px;
-		text-decoration: none !important;
-		font-weight: bold;
-		font-size: 1.6rem;
-		box-shadow: 0 6px 20px rgba(255, 152, 0, 0.4);
-	}
-
-	.author-box {
-		background: #e3f2fd;
-		padding: 25px;
-		border-radius: 15px;
-		margin-top: 4rem;
-		border-left: 8px solid #2196f3;
-	}
-
-	/* --- MOBILE VIEW (Shrinks everything for phones) --- */
-	@media (max-width: 768px) {
-		main {
-			padding: 1.5rem 1rem; /* Removes massive edge spacing */
-			font-size: 1.1rem; /* Normal, readable phone text */
-			width: 100%; 
-			border-radius: 0; 
-		}
-		.prose table {
-			display: block;
-			overflow-x: auto; /* Lets you swipe the table sideways if it's too wide */
-			font-size: 0.95rem; /* Smaller text inside the table */
-		}
-		.prose th, .prose td {
-			padding: 10px; /* Smaller boxes in the table */
-		}
-		.cta-button {
-			padding: 15px 30px; /* Shrinks the giant button */
-			font-size: 1.2rem;
-			display: block;
-			width: 90%; /* Stops the button from breaking off the screen */
-			margin: 0 auto;
-		}
-		.prose img[src*="infographic"] {
-			margin: 2rem auto !important; /* Less empty space around image */
-		}
-	}
-</style>
+			/* --- MOBILE VIEW (Shrinks everything for phones) --- */
+			@media (max-width: 768px) {
+				main {
+					padding: 1.5rem 1rem; 
+					font-size: 1.1rem; 
+					width: 100%; 
+					border-radius: 0; 
+				}
+				.prose table {
+					display: block;
+					overflow-x: auto; 
+					font-size: 0.95rem; 
+				}
+				.prose th, .prose td {
+					padding: 10px; 
+				}
+				.cta-button {
+					padding: 15px 30px; 
+					font-size: 1.2rem;
+					display: block;
+					width: 90%; 
+					margin: 0 auto;
+				}
+			}
+		</style>
+	</body>
 </html>
