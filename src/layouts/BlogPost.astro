@@ -63,14 +63,13 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
                 border-radius: 12px;
             }
 
-            main table {
-                width: 100%;
-                border-collapse: collapse !important; 
-                margin: 2rem 0;
-                border: 3px solid #4caf50 !important;
-                display: block; 
-                overflow-x: auto;
-            }
+         /* THIS FORCES THE TABLE LINES TO SHOW AND STRETCH FULL WIDTH */
+	main table {
+		width: 100%;
+		border-collapse: collapse !important; 
+		margin: 2rem 0;
+		border: 3px solid #4caf50 !important; /* Thick Cheerful Green */
+	}
             main th {
                 background-color: #4caf50 !important;
                 color: white !important;
