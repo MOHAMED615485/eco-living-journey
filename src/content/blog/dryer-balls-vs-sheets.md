@@ -1,6 +1,6 @@
 ---
-title: "Wool Dryer Balls vs. Dryer Sheets: The $100+ Yearly Mistake"
-description: "I tested wool dryer balls for 30 days. Here is the easy math, the science, and why dryer sheets are a waste of money!"
+title: "Dryer Balls vs. Sheets: The $100+ Mistake"
+description: "Why dryer sheets are a waste of money for regular families."
 pubDate: "2026-03-03"
 heroImage: "./dryer-balls.jpg"
 ---
