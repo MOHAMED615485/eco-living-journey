@@ -11,177 +11,100 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 ---
 
 <html lang="en">
-	<head>
-		<BaseHead title={title} description={description} />
-	</head>
-	<body>
-		<Header />
-		<main>
-			<article>
-				<div class="hero-image">
-					{heroImage && <img width={1020} height={510} src={heroImage} alt="" />}
-				</div>
-				<div class="prose">
-					<div class="title">
-						<div class="date">
-							<FormattedDate date={pubDate} />
-							{
-								updatedDate && (
-									<div class="last-updated-on">
-										Last updated on <FormattedDate date={updatedDate} />
-									</div>
-								)
-							}
-						</div>
-						<h1>{title}</h1>
-						<hr />
-					</div>
-					<slot />
-				</div>
-			</article>
-		</main>
-		<Footer />
+    <head>
+        <BaseHead title={title} description={description} />
+    </head>
+    <body>
+        <Header />
+        <main>
+            <article>
+                <div class="hero-image">
+                    {heroImage && <img width={1020} height={510} src={heroImage} alt="" />}
+                </div>
+                <div class="prose">
+                    <div class="title">
+                        <div class="date">
+                            <FormattedDate date={pubDate} />
+                            {
+                                updatedDate && (
+                                    <div class="last-updated-on">
+                                        Last updated on <FormattedDate date={updatedDate} />
+                                    </div>
+                                )
+                            }
+                        </div>
+                        <h1>{title}</h1>
+                        <hr />
+                    </div>
+                    <slot />
+                </div>
+            </article>
+        </main>
+        <Footer />
 
-<style>
-	main {
-		width: 100%;
-		max-width: 800px;
-		margin: 0 auto;
-		padding: 1rem; /* More space for small phone screens */
-		background: #ffffff;
-		font-size: 1.3rem; /* Nice big text for easy reading */
-		line-height: 1.6;
-		color: #333;
-	}
+        <style is:global>
+            main {
+                width: 100%;
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 1.5rem; 
+                background: #ffffff;
+                font-size: 1.2rem; 
+                line-height: 1.6;
+                color: #333;
+                overflow-x: hidden;
+            }
 
-	/* FIX: IMAGES MUST FIT THE PHONE SCREEN */
-	.prose img {
-		display: block;
-		margin: 2rem auto !important;
-		max-width: 100% !important; /* Forces it to stay inside the phone edges */
-		height: auto !important; /* Keeps the picture from looking squashed */
-		border-radius: 12px;
-		box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-	}
+            main img {
+                display: block;
+                margin: 2rem auto !important;
+                max-width: 100% !important;
+                height: auto !important;
+                border-radius: 12px;
+            }
 
-	/* TABLE: SOLID LINES & CHEERFUL COLORS */
-	.prose table {
-		width: 100%;
-		border-collapse: collapse !important; /* This forces the lines to show */
-		margin: 2.5rem 0;
-		border: 3px solid #4caf50 !important; /* Thick Green Outer Line */
-	}
-	.prose th {
-		background-color: #4caf50;
-		color: white !important;
-		padding: 15px 10px;
-		border: 2px solid #388e3c !important; /* Dark Green Lines for Header */
-		text-align: left;
-		font-size: 1.1rem;
-	}
-	.prose td {
-		padding: 15px 10px;
-		border: 2px solid #e0e0e0 !important; /* SOLID GRAY LINES FOR THE TABLE */
-		font-size: 1rem;
-	}
-	.prose tr:nth-child(even) {
-		background-color: #f9fdf9; /* Very Light Green Stripe */
-	}
+            main table {
+                width: 100%;
+                border-collapse: collapse !important; 
+                margin: 2rem 0;
+                border: 3px solid #4caf50 !important;
+                display: block; 
+                overflow-x: auto;
+            }
+            main th {
+                background-color: #4caf50 !important;
+                color: white !important;
+                padding: 12px !important;
+                border: 2px solid #388e3c !important;
+                text-align: left;
+            }
+            main td {
+                padding: 12px !important;
+                border: 2px solid #e0e0e0 !important;
+            }
+            main tr:nth-child(even) {
+                background-color: #f1f8e9 !important;
+            }
 
-	/* CHEERFUL ORANGE BUTTON */
-	.cta-container { text-align: center; margin: 4rem 0; }
-	.cta-button {
-		display: inline-block;
-		background: #ff9800;
-		color: white !important;
-		padding: 20px 40px;
-		border-radius: 60px;
-		text-decoration: none !important;
-		font-weight: bold;
-		font-size: 1.4rem;
-		box-shadow: 0 6px 20px rgba(255, 152, 0, 0.4);
-		transition: transform 0.2s;
-	}
-	.cta-button:hover { transform: scale(1.05); }
-
-	/* CHEERFUL BIO BOX */
-	.author-box {
-		background: #e3f2fd;
-		padding: 25px;
-		border-radius: 15px;
-		margin-top: 4rem;
-		border: 2px dashed #2196f3;
-	}
-</style><style>
-	main {
-		width: 100%;
-		max-width: 800px;
-		margin: 0 auto;
-		padding: 1rem; /* More space for small phone screens */
-		background: #ffffff;
-		font-size: 1.3rem; /* Nice big text for easy reading */
-		line-height: 1.6;
-		color: #333;
-	}
-
-	/* FIX: IMAGES MUST FIT THE PHONE SCREEN */
-	.prose img {
-		display: block;
-		margin: 2rem auto !important;
-		max-width: 100% !important; /* Forces it to stay inside the phone edges */
-		height: auto !important; /* Keeps the picture from looking squashed */
-		border-radius: 12px;
-		box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-	}
-
-	/* TABLE: SOLID LINES & CHEERFUL COLORS */
-	.prose table {
-		width: 100%;
-		border-collapse: collapse !important; /* This forces the lines to show */
-		margin: 2.5rem 0;
-		border: 3px solid #4caf50 !important; /* Thick Green Outer Line */
-	}
-	.prose th {
-		background-color: #4caf50;
-		color: white !important;
-		padding: 15px 10px;
-		border: 2px solid #388e3c !important; /* Dark Green Lines for Header */
-		text-align: left;
-		font-size: 1.1rem;
-	}
-	.prose td {
-		padding: 15px 10px;
-		border: 2px solid #e0e0e0 !important; /* SOLID GRAY LINES FOR THE TABLE */
-		font-size: 1rem;
-	}
-	.prose tr:nth-child(even) {
-		background-color: #f9fdf9; /* Very Light Green Stripe */
-	}
-
-	/* CHEERFUL ORANGE BUTTON */
-	.cta-container { text-align: center; margin: 4rem 0; }
-	.cta-button {
-		display: inline-block;
-		background: #ff9800;
-		color: white !important;
-		padding: 20px 40px;
-		border-radius: 60px;
-		text-decoration: none !important;
-		font-weight: bold;
-		font-size: 1.4rem;
-		box-shadow: 0 6px 20px rgba(255, 152, 0, 0.4);
-		transition: transform 0.2s;
-	}
-	.cta-button:hover { transform: scale(1.05); }
-
-	/* CHEERFUL BIO BOX */
-	.author-box {
-		background: #e3f2fd;
-		padding: 25px;
-		border-radius: 15px;
-		margin-top: 4rem;
-		border: 2px dashed #2196f3;
-	}
-</style>
-	</body>
+            .cta-container { text-align: center; margin: 3rem 0; }
+            .cta-button {
+                display: inline-block;
+                background: #ff9800;
+                color: white !important;
+                padding: 18px 30px;
+                border-radius: 50px;
+                text-decoration: none !important;
+                font-weight: bold;
+                font-size: 1.2rem;
+                box-shadow: 0 4px 12px rgba(255, 152, 0, 0.3);
+            }
+            .author-box {
+                background: #e3f2fd;
+                padding: 20px;
+                border-radius: 10px;
+                margin-top: 3rem;
+                border-left: 5px solid #2196f3;
+            }
+        </style>
+    </body>
 </html>
