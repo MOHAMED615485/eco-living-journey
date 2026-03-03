@@ -63,9 +63,12 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
                 border-radius: 12px;
             }
 
-         /* THIS FORCES THE TABLE LINES TO SHOW AND STRETCH FULL WIDTH */
+        /* THIS FORCES THE TABLE TO SQUEEZE ONTO THE SCREEN */
 	main table {
-		width: 100%;
+		display: table !important; 
+		width: 100% !important;
+		table-layout: fixed !important; /* Forces columns to fit the screen */
+		word-wrap: break-word !important; /* Stops long words from pushing the border off */
 		border-collapse: collapse !important; 
 		margin: 2rem 0;
 		border: 3px solid #4caf50 !important; /* Thick Cheerful Green */
