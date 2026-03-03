@@ -14,61 +14,119 @@ const { title, description, pubDate, heroImage } = Astro.props;
     <head>
         <BaseHead title={title} description={description} />
 <style>
+	/* Premium Body Container */
 	main {
 		width: calc(100% - 2em);
-		max-width: 800px;
+		max-width: 820px;
 		margin: 0 auto;
 		background: #ffffff;
-		padding: 3rem 2rem;
-		border-radius: 16px;
-		box-shadow: 0 15px 45px rgba(0,0,0,0.03);
-        line-height: 1.8;
+		padding: 3rem 2.5rem;
+		border-radius: 12px;
+		box-shadow: 0 10px 40px rgba(0,0,0,0.03);
+		line-height: 1.9;
+		color: #333333;
+		font-size: 1.1rem;
 	}
-	/* CENTER IMAGES & INFOGRAPHICS */
+
+	/* Title Typography */
+	.title h1 {
+		font-size: 3rem;
+		margin: 0 0 1rem 0;
+		line-height: 1.2;
+		color: #1a1a1a;
+	}
+
+	/* TARGETED CENTERING: INFOGRAPHIC ONLY */
+	.prose img[src*="infographic"] {
+		display: block;
+		margin: 4rem auto !important; /* Force center and heavy vertical padding */
+		border-radius: 16px;
+		box-shadow: 0 15px 40px rgba(0,0,0,0.08);
+		max-width: 95%;
+	}
+	/* Default behavior for other images (Hero, non-infographics) */
 	.prose img {
 		display: block;
-		margin: 3.5rem auto !important;
-		border-radius: 12px;
-		box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+		margin: 2rem 0;
+		border-radius: 8px;
 		max-width: 100%;
 	}
-	/* PREMIUM CTA BUTTON SYSTEM */
+
+	/* PREMIUM TABLE STYLING: Lines, Colors, Stripes */
+	.prose table {
+		width: 100%;
+		border-collapse: separate;
+		border-spacing: 0;
+		margin: 3rem 0;
+		border: 1px solid #e0e0e0;
+		border-radius: 8px;
+		overflow: hidden;
+		box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+	}
+	/* Colored Table Header */
+	.prose th {
+		background-color: #2d5a27; /* Eco Green Header */
+		color: white !important;
+		padding: 18px 20px;
+		font-weight: 700;
+		text-align: left;
+		text-transform: uppercase;
+		font-size: 0.9rem;
+		border-bottom: 2px solid #23471f;
+	}
+	/* Table Body Rows */
+	.prose td {
+		padding: 18px 20px;
+		border-bottom: 1px solid #e0e0e0;
+		color: #444444;
+	}
+	/* Add striped rows (put colors on even rows) */
+	.prose tr:nth-child(even) {
+		background-color: #f9fbf9;
+	}
+	/* Color the final line to draw emphasis */
+	.prose tr:last-child td {
+		background-color: #eef7ee; /* Lighter Green Emphasis */
+		font-weight: bold;
+		border-bottom: none;
+	}
+
+	/* High-Ticket Button (Same style, just fits the tone) */
 	.cta-container {
 		text-align: center;
-		margin: 4rem 0;
+		margin: 5rem 0;
 		padding: 40px;
-		background: #f9fbf9;
+		background: #fcfdfc;
 		border-radius: 20px;
 		border: 1px solid #eef2ee;
 	}
 	.cta-button {
 		display: inline-block;
-		background: #2d5a27; /* Eco Green */
+		background: #2d5a27;
 		color: white !important;
 		padding: 22px 50px;
 		border-radius: 100px;
 		text-decoration: none !important;
 		font-weight: 800;
 		font-size: 1.3rem;
-		box-shadow: 0 10px 25px rgba(45, 90, 39, 0.2);
 		transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+		box-shadow: 0 10px 25px rgba(45, 90, 39, 0.2);
 	}
 	.cta-button:hover {
 		transform: scale(1.05) translateY(-5px);
 		box-shadow: 0 15px 35px rgba(45, 90, 39, 0.3);
 	}
-    .cta-subtext {
-        margin-top: 15px;
-        font-size: 0.9rem;
-        color: #7f8c8d;
-    }
+    .cta-subtext { margin-top: 15px; font-size: 0.9rem; color: #7f8c8d; }
+
 	/* AUTHOR BOX STYLING */
 	.author-box {
 		background: #f4f7f4;
-		padding: 25px;
+		padding: 30px;
 		border-radius: 12px;
-		margin-top: 4rem;
+		margin-top: 5rem;
+		border-left: 5px solid #2d5a27; /* Accent Green Line */
 	}
+	.author-box h3 { margin-top: 0; color: #2d5a27; }
 </style>
     </head>
 
