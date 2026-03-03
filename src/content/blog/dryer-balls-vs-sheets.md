@@ -53,4 +53,14 @@ After about 6 months or 100 loads, wool balls can become "clogged" with loose fi
 ### My Verdict
 If you want to save nearly $400 over the next few years with zero effort, this is the easiest swap you’ll ever make. I personally use **EcoJeannie Wool Dryer Balls** because they are high-density and don't shed.
 
-**Check them out here:** [Insert Your Amazon Associate Link]
+<div class="cta-container">
+    <a href="https://amzn.to/4l4IQzz" class="cta-button">Check Price & Start Saving Today</a>
+    <p class="cta-subtext">Verified Eco-Friendly & High-Density Wool</p>
+</div>
+
+---
+
+<div class="author-box">
+    <h3>Meet the Author</h3>
+    <p><strong>Ethan</strong> is a 9-to-5 professional dedicated to finding sustainable home swaps that actually pay for themselves. He founded <strong>Eco Living Journey</strong> to help families cut recurring bills without sacrificing quality.</p>
+</div>

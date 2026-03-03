@@ -13,69 +13,44 @@ const { title, description, pubDate, heroImage } = Astro.props;
 <html lang="en">
     <head>
         <BaseHead title={title} description={description} />
-        <style>
-            main {
-                width: 100%;
-                max-width: 960px;
-                margin: 0 auto;
-                padding: 2em 1em;
-            }
-          .hero-image img {
-    display: block;
-    margin: 0 auto;
-    width: 100%;
-    height: 500px; /* High-quality PC height */
-    object-fit: cover !important; /* Forces the image to crop, not squash */
-    border-radius: 16px;
-}
-@media (max-width: 720px) {
-    .hero-image img { height: 300px; } /* Proportional height for mobile */
-}
-            .prose {
-                width: 720px;
-                max-width: 100%;
-                margin: 0 auto;
-                padding: 1em;
-                color: #333333;
-                line-height: 1.8;
-                font-size: 1.15rem;
-            }
-            .title {
-                margin-bottom: 1em;
-                padding: 1em 0;
-                text-align: center;
-            }
-            .title h1 {
-                margin: 0 0 0.5em 0;
-                font-size: 2.5em;
-                color: #1a202c;
-            }
-            .date {
-                margin-bottom: 0.5em;
-                color: #718096;
-            }
-            
-            /* Nature Green Styles for Ethan's Brand */
-            .prose h2 {
-                color: #2f855a;
-                margin-top: 1.5em;
-                border-bottom: 2px solid #e2e8f0;
-                padding-bottom: 0.3em;
-            }
-            .prose h3 {
-                color: #2d3748;
-                margin-top: 1.5em;
-            }
-
-            @media (max-width: 720px) {
-                .hero-image img {
-                    height: 280px; /* Perfect height for phones */
-                }
-                .title h1 {
-                    font-size: 2em;
-                }
-            }
-        </style>
+       <style>
+	main {
+		width: calc(100% - 2em);
+		max-width: 720px;
+		margin: 0 auto;
+		background: #ffffff;
+		padding: 2rem;
+		border-radius: 12px;
+		box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+	}
+	/* CENTERS INFOGRAPHICS AND ADDS STYLE */
+	.prose img {
+		display: block;
+		margin: 3rem auto !important; /* Forces centering */
+		border-radius: 16px;
+		box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+		max-width: 90%;
+	}
+	/* THE PREMIUM CTA BUTTON */
+	.cta-button {
+		display: block;
+		width: fit-content;
+		margin: 2.5rem auto;
+		padding: 20px 45px;
+		background: #2d5a27; /* Deep Eco Green */
+		color: white !important;
+		text-decoration: none !important;
+		font-weight: 800;
+		font-size: 1.2rem;
+		border-radius: 60px;
+		transition: transform 0.3s ease;
+		box-shadow: 0 8px 20px rgba(45, 90, 39, 0.3);
+	}
+	.cta-button:hover {
+		transform: scale(1.05) translateY(-3px);
+		background: #3e7a36;
+	}
+</style>
     </head>
 
     <body>
