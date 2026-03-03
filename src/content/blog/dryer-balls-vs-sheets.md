@@ -2,7 +2,7 @@
 title: "Dryer Balls vs. Sheets: The $100+ Mistake"
 description: "Why dryer sheets are a waste of money for regular families."
 pubDate: "2026-03-03"
-heroImage: "/dryer-balls.jpg"
+heroImage: "./dryer-balls.jpg"
 ---
 
 ### The Short Answer
@@ -18,7 +18,7 @@ Dryer sheets are like a bill you never signed up for. They cover your clothes in
 * **They cost too much:** $10 a month adds up fast!
 * **They're messy:** They clog your dryer with sticky gunk.
 
-![Easy Comparison Chart](/infographic-1.jpg)
+![Easy Comparison Chart](./infographic-1.jpg)
 
 ### Why Wool Balls Win
 Wool balls don't use wax. They just bounce around and help air move better.
