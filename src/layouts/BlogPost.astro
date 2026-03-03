@@ -19,10 +19,10 @@ const { title, description, pubDate, heroImage } = Astro.props;
 		max-width: 800px;
 		margin: 0 auto;
 		background: #ffffff;
-		padding: 2rem;
+		padding: 2.5rem;
 		border-radius: 15px;
-        /* BIG TEXT FOR EASY READING */
-		font-size: 1.3rem; 
+        /* BIG, EASY-TO-READ TEXT */
+		font-size: 1.4rem; 
 		line-height: 1.6;
 		color: #333;
 	}
@@ -30,50 +30,53 @@ const { title, description, pubDate, heroImage } = Astro.props;
     /* CENTER THE INFOGRAPHIC */
 	.prose img[src*="infographic"] {
 		display: block;
-		margin: 3rem auto !important;
+		margin: 4rem auto !important;
 		border-radius: 15px;
 		box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 	}
 
-    /* SIMPLE, COLORFUL TABLE WITH LINES */
+    /* SIMPLE TABLE WITH BOLD LINES & COLORS */
 	.prose table {
 		width: 100%;
-		border: 3px solid #4caf50; /* Cheerful Green Border */
-		margin: 2rem 0;
+		border: 4px solid #4caf50; /* Cheerful Green Border */
+		margin: 3rem 0;
+        border-collapse: collapse;
 	}
 	.prose th {
 		background-color: #4caf50;
 		color: white !important;
-		padding: 15px;
-		border: 1px solid #388e3c;
+		padding: 20px;
+		border: 2px solid #388e3c;
+        text-align: left;
 	}
 	.prose td {
-		padding: 15px;
-		border: 1px solid #e0e0e0;
+		padding: 20px;
+		border: 2px solid #e0e0e0;
 	}
 	.prose tr:nth-child(even) {
-		background-color: #f1f8e9; /* Light Green Rows */
+		background-color: #f1f8e9; /* Light Green Striped Rows */
 	}
 
-    /* CHEERFUL BUTTON */
-	.cta-container { text-align: center; margin: 3rem 0; }
+    /* CHEERFUL ORANGE BUTTON */
+	.cta-container { text-align: center; margin: 4rem 0; }
 	.cta-button {
 		display: inline-block;
 		background: #ff9800; /* Cheerful Orange */
 		color: white !important;
-		padding: 20px 40px;
-		border-radius: 50px;
+		padding: 25px 50px;
+		border-radius: 60px;
 		text-decoration: none !important;
 		font-weight: bold;
-		font-size: 1.4rem;
-        box-shadow: 0 4px 15px rgba(255, 152, 0, 0.4);
+		font-size: 1.6rem;
+        box-shadow: 0 6px 20px rgba(255, 152, 0, 0.4);
 	}
 
 	.author-box {
 		background: #e3f2fd; /* Cheerful Blue */
-		padding: 20px;
-		border-radius: 10px;
-		margin-top: 3rem;
+		padding: 25px;
+		border-radius: 15px;
+		margin-top: 4rem;
+        border-left: 8px solid #2196f3;
 	}
 </style>
     </head>
