@@ -19,7 +19,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 		<main>
 			<article>
 				<div class="hero-image">
-					{heroImage && <img src={heroImage} alt="" />}
+					{heroImage && <img width={1020} height={510} src={heroImage} alt="" />}
 				</div>
 				<div class="prose">
 					<div class="title">
@@ -42,92 +42,48 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 		</main>
 		<Footer />
 
-		<style is:global>
-			/* --- MAGIC RULE: STOPS ELEMENTS FROM LEAKING OFF SCREEN --- */
-			*, *::before, *::after {
-				box-sizing: border-box !important;
-			}
-
+		<style>
 			main {
-				width: 100%;
-				max-width: 900px; 
-				margin: 0 auto;
-				padding: 1rem; 
-				background: #ffffff;
-				font-size: 1.2rem; 
-				line-height: 1.6;
-				color: #333;
-				overflow-x: hidden;
+				width: calc(100% - 2rem);
+				max-width: 100%;
+				margin: 0;
 			}
-
-			/* --- THE HERO IMAGE FIX (NO ZOOM, SHOWS FULL BACKGROUND) --- */
 			.hero-image {
 				width: 100%;
-				margin-bottom: 2rem;
-				display: flex;
-				justify-content: center;
-				background: #f9f9f9; /* Adds a soft background if the image is tall */
-				border-radius: 12px;
-				overflow: hidden;
 			}
-
 			.hero-image img {
 				display: block;
-				max-width: 100%;
-				height: auto;
-				max-height: 600px; /* Prevents portrait images from being too tall on PC */
-				
-				/* --- THE KEY SETTINGS --- */
-				object-fit: contain; /* This stops the zooming/cropping */
-				image-rendering: auto;
-				/* ------------------------ */
-			}
-
-			/* --- CONTENT STYLING --- */
-			main img {
-				display: block;
-				margin: 2.5rem auto !important;
-				max-width: 100% !important;
-				height: auto !important;
+				margin: 0 auto;
 				border-radius: 12px;
+				box-shadow: var(--box-shadow);
+				/* Restored original cover behavior */
+				width: 100%;
+				height: auto;
+				object-fit: cover;
 			}
-
-			/* TABLE SQUEEZE FIX */
-			main table {
-				width: 100% !important;
-				max-width: 100% !important;
-				border-collapse: collapse !important; 
-				margin: 2rem 0;
-				border: 4px solid #4caf50 !important; 
-				display: table; 
-				table-layout: fixed !important; 
+			.prose {
+				width: 720px;
+				max-width: calc(100% - 2rem);
+				margin: auto;
+				padding: 1rem;
+				color: rgb(var(--gray-dark));
 			}
-			main th {
-				background-color: #4caf50 !important;
-				color: white !important;
-				padding: 10px 5px !important; 
-				border: 2px solid #388e3c !important; 
-				text-align: left;
+			.title {
+				margin-bottom: 1rem;
+				padding: 1rem 0;
+				text-align: center;
+				line-height: 1;
 			}
-			main td {
-				padding: 10px 5px !important;
-				border: 2px solid #e0e0e0 !important; 
-				word-wrap: break-word !important; 
+			.title h1 {
+				margin: 0 0 0.5rem 0;
 			}
-
-			.cta-button {
-				display: inline-block;
-				background: #0277bd; 
-				color: white !important;
-				padding: 18px 30px;
-				border-radius: 50px;
-				text-decoration: none !important;
-				font-weight: bold;
-				box-shadow: 0 4px 12px rgba(2, 119, 189, 0.3);
+			.date {
+				margin-bottom: 0.5rem;
+				color: rgb(var(--gray));
 			}
-
-			.title h1 { font-size: 2.5rem; line-height: 1.2; margin: 0.5rem 0; }
-			hr { border: none; border-top: 1px solid #eee; margin: 1rem 0; }
+			.last-updated-on {
+				font-style: italic;
+			}
 		</style>
 	</body>
 </html>
