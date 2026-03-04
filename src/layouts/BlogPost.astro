@@ -97,21 +97,22 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				background-color: #f1f8e9 !important; 
 			}
 
-			/* BUTTON & AUTHOR BOX */
-			.cta-container { text-align: center; margin: 3rem 0; width: 100%; }
-			.cta-button {
-				display: block;
-				width: 95%; 
-				margin: 0 auto;
-				background: #ff9800;
-				color: white !important;
-				padding: 18px 10px;
-				border-radius: 50px;
-				text-decoration: none !important;
-				font-weight: bold;
-				font-size: 1.2rem;
-				box-shadow: 0 4px 12px rgba(255, 152, 0, 0.3);
-			}
+		/* PREMIUM TRUST BLUE BUTTON */
+	.cta-button {
+		display: inline-block;
+		background: #0277bd; /* Deep Premium Blue */
+		color: white !important;
+		padding: 18px 30px;
+		border-radius: 50px;
+		text-decoration: none !important;
+		font-weight: bold;
+		font-size: 1.2rem;
+		box-shadow: 0 4px 12px rgba(2, 119, 189, 0.3); /* Soft blue shadow */
+        transition: transform 0.2s;
+	}
+    .cta-button:hover {
+        transform: scale(1.05); /* Slight pop when they tap it */
+    }
 			.author-box {
 				background: #e3f2fd;
 				padding: 20px;

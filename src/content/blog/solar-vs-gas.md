@@ -54,7 +54,7 @@ If you are pretty handy, you can install some kits yourself in a weekend. But fo
 If you own your home and want to crush your utility bill forever, this is the ultimate upgrade. It takes a bigger chunk of cash up front, but the return on investment is massive. 
 
 <div class="cta-container">
-    <a href="INSERT_AMAZON_LINK_HERE" class="cta-button">Check Solar Heater Prices Today!</a>
+    <a href="https://www.amazon.com/s?k=Evacuated+Tube+Solar+Water+Heater&rh=p_36%3A90000-&dc=&ds=v1%3Aj3F%2Fpz1qdF%2BaaBrp%2FwACXFueStpo8dP%2Bo8%2ByR%2FFCQEs&crid=2GXPQKG644G45&qid=1772632971&rnid=2661611011&sprefix=evacuated+tube+solar+water+heater%2Caps%2C468&linkCode=ll2&tag=ecolivingjo0d-20&linkId=ce464acbe80f052fc04d1aa5405d9f2b&language=en_US&ref_=as_li_ss_tl" class="cta-button">Check Solar Heater Prices Today!</a>
 </div>
 
 ---
