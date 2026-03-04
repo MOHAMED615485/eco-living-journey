@@ -2,7 +2,7 @@
 title: "Why I Ditched My Gas Generator: The Top 3 Portable Solar Power Stations (2026)"
 description: "Gas generators are loud, expensive, and require constant maintenance. Here is the exact financial breakdown of why switching to a silent, portable solar generator saves you money, plus the top 3 units to buy."
 pubDate: "Mar 04 2026"
-heroImage: "./solar-infographic.jpg"
+heroImage: "./solar-generator.jpg"
 ---
 
 As a homeowner, there is nothing worse than the exact moment the power goes out during a winter storm. Your fridge starts getting warm, the Wi-Fi dies, and you are left sitting in the dark hoping the grid comes back online soon.

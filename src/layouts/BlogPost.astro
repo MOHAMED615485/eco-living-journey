@@ -42,23 +42,45 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 		</main>
 		<Footer />
 
-	<style is:global>
-  /* This fixes the image without breaking your tables or text */
+<style is:global>
+  /* 1. Perfect Hero Image (No Zooming) */
   .hero-image img {
-    width: 100% !important;
-    height: auto !important;
-    max-height: 500px !important;
-    object-fit: contain !important;
+    width: 100%;
+    max-height: 450px;
+    object-fit: contain; 
     border-radius: 12px;
-    background-color: #f4f4f4; /* Adds a clean background to the 'zoomed out' areas */
+    background-color: #f8f9fa; /* Clean background */
+    margin-bottom: 2rem;
   }
 
-  /* This ensures your tables stay professional */
+  /* 2. Normal Blog Images */
+  .prose img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 2rem 0;
+  }
+
+  /* 3. Professional Tables (Borders & Colors Restored) */
   table {
     width: 100%;
     border-collapse: collapse;
-    margin: 20px 0;
-    font-size: 1rem !important; /* Forces text back to normal size */
+    margin: 2rem 0;
+    font-size: 1rem;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+  }
+  th, td {
+    padding: 15px;
+    border: 1px solid #e2e8f0;
+    text-align: left;
+  }
+  th {
+    background-color: #0056b3; /* Your Trust Blue */
+    color: white;
+    font-weight: bold;
+  }
+  tr:nth-child(even) {
+    background-color: #f8fafc;
   }
 </style>
 	</body>
