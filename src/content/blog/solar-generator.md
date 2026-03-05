@@ -59,3 +59,4 @@ If your main goal is raw, heavy-duty power to run power tools, massive appliance
 Any of these three units will completely change how you handle a power outage. You will never have to stand in the freezing rain trying to pull-start a loud engine ever again. 
 
 If you want the best tech, grab the **EcoFlow**. If you want a lightweight classic, grab the **Jackery**. If you need industrial power, grab the **Bluetti**.
+<script async data-uid="c7ed9c1a27" src="https://eco-living-journey.kit.com/c7ed9c1a27/index.js"></script>
