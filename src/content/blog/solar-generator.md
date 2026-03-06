@@ -59,18 +59,36 @@ When you think of portable power, you probably picture Jackery's iconic orange a
 
 I get asked all the time: "Ethan, why is the EcoFlow $1,400 more?" 
 
-It’s all about the **Cost per Watt-Hour ($/Wh)**. Think of this like the "price per gallon" for your home backup.
+It’s all about the **Cost per Watt-Hour ($/Wh)**. Think of this like the "price per gallon" for your home backup. Here is the exact breakdown:
 
-* **EcoFlow Delta Pro 3:** $3,299 / 4,096Wh = **$0.80 per Wh**
-* **Jackery 2000 Plus:** $1,899 / 2,042Wh = **$0.93 per Wh**
+<div style="overflow-x: auto; margin: 2rem 0;">
+  <table style="width: 100%; border-collapse: collapse; text-align: left; box-shadow: 0 4px 6px rgba(0,0,0,0.1); font-size: 1.05rem;">
+    <thead>
+      <tr style="background-color: #28a745; color: white;">
+        <th style="padding: 15px; border: 1px solid #ddd;">🔋 Power Station</th>
+        <th style="padding: 15px; border: 1px solid #ddd;">💵 Sticker Price</th>
+        <th style="padding: 15px; border: 1px solid #ddd;">⚡ Cost per Wh</th>
+        <th style="padding: 15px; border: 1px solid #ddd;">❄️ 150W Fridge Runtime</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 15px; border: 1px solid #ddd; font-weight: bold;">EcoFlow Delta Pro 3</td>
+        <td style="padding: 15px; border: 1px solid #ddd;">$3,299</td>
+        <td style="padding: 15px; border: 1px solid #ddd; color: #28a745; font-weight: bold;">🟢 $0.80 / Wh</td>
+        <td style="padding: 15px; border: 1px solid #ddd; color: #28a745; font-weight: bold;">🟢 ~27 Hours</td>
+      </tr>
+      <tr style="background-color: #f9f9f9;">
+        <td style="padding: 15px; border: 1px solid #ddd; font-weight: bold;">Jackery 2000 Plus</td>
+        <td style="padding: 15px; border: 1px solid #ddd;">$1,899</td>
+        <td style="padding: 15px; border: 1px solid #ddd;">$0.93 / Wh</td>
+        <td style="padding: 15px; border: 1px solid #ddd;">~13.5 Hours</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-**The Reality Check:** While the Jackery has a lower "sticker price," the EcoFlow is actually **14% cheaper per unit of energy** you’re buying. 
-
-**Why it matters for you:** If you need to run a 150W refrigerator:
-* The **Jackery** keeps it cold for about **13.5 hours**.
-* The **EcoFlow** keeps it cold for about **27 hours**.
-
-If you have a family and a full fridge of groceries, that extra 14 hours is the difference between a minor inconvenience and $500 in spoiled food. ⚡
+**The Reality Check:** While the Jackery is much easier on your wallet today, the EcoFlow is actually giving you a **14% discount on the actual energy you are buying.** If you have a family and a full fridge of groceries, that extra 14 hours of runtime is the difference between a minor inconvenience and throwing away $500 in spoiled food. 🌿
 
 ### ⚖️ The Final Verdict: Which One Should You Buy?
 
