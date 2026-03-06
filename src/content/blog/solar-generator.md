@@ -16,7 +16,7 @@ If you are ready to upgrade your emergency prep, here are the top 2 high-tier so
 ---
 
 ### 1. The "Smart Tech" Choice: EcoFlow DELTA Series
-![EcoFlow Delta Pro 3](./ecoflow.png)
+![EcoFlow Delta Pro 3](./eco1.png)
 
 If you want the Tesla of solar generators, this is it. EcoFlow is famous for having the absolute fastest charging speeds in the industry (plug it into the wall, and it goes from 0% to 80% in under an hour). The companion phone app is incredible, letting you monitor exactly how many watts your fridge is pulling from across the room.
 
@@ -31,7 +31,7 @@ If you want the Tesla of solar generators, this is it. EcoFlow is famous for hav
 ---
 
 ### 2. The "Ol' Reliable" Choice: Jackery Explorer Series
-![Jackery Explorer 2000 Plus](./jackery.png)
+![Jackery Explorer 2000 Plus](./jack1.png)
 
 When you think of portable power, you probably picture Jackery's iconic orange and black design. They are the most famous brand in the space for a reason: absolute bulletproof reliability. While they might not have the flashy app features of the EcoFlow, they are incredibly durable, lightweight, and consistently perform in extreme weather.
 
