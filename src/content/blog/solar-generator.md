@@ -15,7 +15,7 @@ If you are ready to upgrade your emergency prep, here are the top 2 high-tier so
 
 ---
 
-### 1. The "Smart Tech" Choice: EcoFlow DELTA Series
+## 1. The "Smart Tech" Choice: EcoFlow DELTA Series
 ![EcoFlow Delta Pro 3](./eco1.png)
 
 If you want the Tesla of solar generators, this is it. EcoFlow is famous for having the absolute fastest charging speeds in the industry (plug it into the wall, and it goes from 0% to 80% in under an hour). The companion phone app is incredible, letting you monitor exactly how many watts your fridge is pulling from across the room.
@@ -30,7 +30,7 @@ If you want the Tesla of solar generators, this is it. EcoFlow is famous for hav
 
 ---
 
-### 2. The "Ol' Reliable" Choice: Jackery Explorer Series
+## 2. The "Ol' Reliable" Choice: Jackery Explorer Series
 ![Jackery Explorer 2000 Plus](./jack1.png)
 
 When you think of portable power, you probably picture Jackery's iconic orange and black design. They are the most famous brand in the space for a reason: absolute bulletproof reliability. While they might not have the flashy app features of the EcoFlow, they are incredibly durable, lightweight, and consistently perform in extreme weather.
@@ -45,7 +45,7 @@ When you think of portable power, you probably picture Jackery's iconic orange a
 
 ---
 
-### 📊 Head-to-Head: The 2026 Power Comparison
+## 📊 Head-to-Head: The 2026 Power Comparison
 
 | Feature | EcoFlow Delta Pro 3 | Jackery Explorer 2000 Plus |
 | :--- | :--- | :--- |
@@ -55,7 +55,7 @@ When you think of portable power, you probably picture Jackery's iconic orange a
 | **Cost per Wh** | ~$0.80/Wh | ~$0.93/Wh |
 | **The Verdict** | Best Overall Value | Best Entry-Level Pro |
 
-### 🧮 Let’s Talk Real Numbers (The "Blackout Math")
+## 🧮 Let’s Talk Real Numbers (The "Blackout Math")
 
 I get asked all the time: "Ethan, why is the EcoFlow $1,400 more?" 
 
@@ -90,7 +90,7 @@ It’s all about the **Cost per Watt-Hour ($/Wh)**. Think of this like the "pric
 
 **The Reality Check:** While the Jackery is much easier on your wallet today, the EcoFlow is actually giving you a **14% discount on the actual energy you are buying.** If you have a family and a full fridge of groceries, that extra 14 hours of runtime is the difference between a minor inconvenience and throwing away $500 in spoiled food. 🌿
 
-### ⚖️ The Final Verdict: Which One Should You Buy?
+## ⚖️ The Final Verdict: Which One Should You Buy?
 
 Both of these units are 100% safe for indoor use—no fumes, no gas, and no noise. Just instant, reliable power.
 
@@ -106,3 +106,44 @@ Both of these units are 100% safe for indoor use—no fumes, no gas, and no nois
 <div>
   <script async data-uid="c7ed9c1a27" src="https://eco-living-journey.kit.com/c7ed9c1a27/index.js"></script>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Why I Ditched My Gas Generator: The Top 2 Portable Solar Power Stations (2026)",
+      "author": {
+        "@type": "Person",
+        "name": "Ethan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Eco Living Journey",
+        "url": "https://ecoliving-journey.com"
+      },
+      "datePublished": "2026-03-04",
+      "url": "https://ecoliving-journey.com/blog/solar-generator/"
+    },
+    {
+      "@type": "Product",
+      "name": "EcoFlow Delta Pro 3",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "3299.00"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Jackery Explorer 2000 Plus",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "1899.00"
+      }
+    }
+  ]
+}
+</script>
