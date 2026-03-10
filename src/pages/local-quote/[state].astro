@@ -1,7 +1,6 @@
 ---
 import states from '../../data/states.json';
 
-// This tells Astro to generate a page for every state in the JSON file
 export function getStaticPaths() {
   return states.map((data) => {
     return {
@@ -11,7 +10,6 @@ export function getStaticPaths() {
   });
 }
 
-const { state } = Astro.params;
 const { data } = Astro.props;
 ---
 
@@ -19,40 +17,24 @@ const { data } = Astro.props;
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Blackout-Proof Home Setup in {data.state}</title>
-    <meta name="description" content="Get a custom Level 3 solar and battery backup quote for your home in {data.state}." />
+    <title>Premium Audit: {data.state}</title>
     <style>
-      body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
-      .container { background: #f8fafc; padding: 30px; border-radius: 12px; border-top: 5px solid #0056b3; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
-      h1 { color: #0056b3; }
-      .alert { background: #ffede1; padding: 15px; border-left: 4px solid #e86e00; margin-bottom: 20px; font-weight: bold; }
-      .cta-button { display: block; text-align: center; background: #28a745; color: white; padding: 15px 20px; text-decoration: none; font-size: 1.2rem; font-weight: bold; border-radius: 5px; margin-top: 20px; }
+      body { font-family: sans-serif; background: #f8fafc; color: #1e293b; margin: 0; padding: 0; }
+      .nav { background: white; padding: 24px; text-align: center; border-bottom: 1px solid #e2e8f0; font-weight: bold; font-size: 1.5rem; }
+      .container { max-width: 650px; margin: 40px auto; padding: 40px; background: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+      .alert { background: #fff7ed; border-left: 4px solid #ea580c; padding: 20px; margin-bottom: 25px; color: #9a3412; font-weight: 600; }
+      .btn { display: block; text-align: center; background: #059669; color: white; padding: 20px; border-radius: 8px; text-decoration: none; font-weight: bold; margin-top: 30px; }
+      .btn:hover { background: #047857; }
     </style>
   </head>
   <body>
+    <div class="nav">EcoLiving Journey</div>
     <div class="container">
-      <h1>Secure Your {data.state} Home Against Grid Failures</h1>
-      
-      <div class="alert">
-        ⚠️ Grid Warning: The {data.gridName} network is increasingly vulnerable to {data.primaryThreat}.
-      </div>
-
-      <p>{data.trigger}</p>
-
-      <h2>The Level 3 Unbreakable Setup</h2>
-      <p>A standard portable battery won't cut it when the {data.gridName} grid goes down for days. You need a fully integrated solar and battery reserve system wired directly into your home's electrical panel.</p>
-      
-      <ul>
-        <li><strong>Average {data.state} Installation Cost:</strong> {data.installCost}</li>
-        <li><strong>Permitting:</strong> Requires local {data.state} city approval and a licensed electrician.</li>
-      </ul>
-
-      <h2>Stop Guessing. Get Your Custom Blueprint.</h2>
-      <p>Every home’s electrical panel and roof orientation is different. Click below to request a free, no-obligation home audit from a certified local installer in {data.state}.</p>
-
-    <a href={`mailto:ethan@ecoliving-journey.com?subject=Level 3 Audit Request in ${data.state}&body=Hi Ethan,%0D%0A%0D%0AI am interested in getting a custom Level 3 solar and battery backup quote for my home in ${data.state}.%0D%0A%0D%0AHere is my information for the audit:%0D%0A%0D%0AName: %0D%0APhone Number: %0D%0AStreet Address: %0D%0ACity and Zip Code: %0D%0AAverage Monthly Electric Bill: %0D%0A%0D%0APlease let me know the next steps.`} class="cta-button">
-        Request My Free {data.state} Home Audit
-      </a>
+      <h1>{data.state} Grid Resilience Report</h1>
+      <div class="alert">⚠️ Warning: {data.gridName} vulnerability confirmed for {data.primaryThreat}.</div>
+      <p>A Level 3 system is required to maintain power during extended {data.gridName} outages.</p>
+      <p><strong>Estimated Installation:</strong> {data.installCost}</p>
+      <a href={`mailto:ethan@ecoliving-journey.com?subject=Audit: ${data.state}&body=Name:%0D%0APhone:%0D%0AAddress:%0D%0AAvg Bill:`} class="btn">Request My Free {data.state} Home Audit</a>
     </div>
   </body>
 </html>
