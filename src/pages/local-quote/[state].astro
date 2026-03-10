@@ -1,0 +1,58 @@
+---
+import states from '../../data/states.json';
+
+// This tells Astro to generate a page for every state in the JSON file
+export function getStaticPaths() {
+  return states.map((data) => {
+    return {
+      params: { state: data.slug },
+      props: { data },
+    };
+  });
+}
+
+const { state } = Astro.params;
+const { data } = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Blackout-Proof Home Setup in {data.state}</title>
+    <meta name="description" content="Get a custom Level 3 solar and battery backup quote for your home in {data.state}." />
+    <style>
+      body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
+      .container { background: #f8fafc; padding: 30px; border-radius: 12px; border-top: 5px solid #0056b3; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+      h1 { color: #0056b3; }
+      .alert { background: #ffede1; padding: 15px; border-left: 4px solid #e86e00; margin-bottom: 20px; font-weight: bold; }
+      .cta-button { display: block; text-align: center; background: #28a745; color: white; padding: 15px 20px; text-decoration: none; font-size: 1.2rem; font-weight: bold; border-radius: 5px; margin-top: 20px; }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Secure Your {data.state} Home Against Grid Failures</h1>
+      
+      <div class="alert">
+        ⚠️ Grid Warning: The {data.gridName} network is increasingly vulnerable to {data.primaryThreat}.
+      </div>
+
+      <p>{data.trigger}</p>
+
+      <h2>The Level 3 Unbreakable Setup</h2>
+      <p>A standard portable battery won't cut it when the {data.gridName} grid goes down for days. You need a fully integrated solar and battery reserve system wired directly into your home's electrical panel.</p>
+      
+      <ul>
+        <li><strong>Average {data.state} Installation Cost:</strong> {data.installCost}</li>
+        <li><strong>Permitting:</strong> Requires local {data.state} city approval and a licensed electrician.</li>
+      </ul>
+
+      <h2>Stop Guessing. Get Your Custom Blueprint.</h2>
+      <p>Every home’s electrical panel and roof orientation is different. Click below to request a free, no-obligation home audit from a certified local installer in {data.state}.</p>
+
+      <a href={`mailto:quotes@ecoliving-journey.com?subject=Level 3 Audit Request in ${data.state}`} class="cta-button">
+        Request My Free {data.state} Home Audit
+      </a>
+    </div>
+  </body>
+</html>
