@@ -118,6 +118,18 @@ If EcoFlow is a luxury sports car, the Jackery 2000 Plus is an indestructible of
   <a href="/local-quote" class="b2b-btn">📍 Check Your Local Grid Threat & Request a Home Audit</a>
 </div>
 
+<h2>🤔 The "Blackout Prep" FAQ</h2>
+<p>Before you make a final decision, let's clear up the three most common questions I get from homeowners trying to figure out this whole off-grid thing.</p>
+
+<h3>Can a portable solar station run a central air conditioner?</h3>
+<p>The short answer? No. The realistic answer? You are asking a golf cart to pull a freight train. A standard 3-ton central AC unit requires an absolutely massive surge of energy just to start up, and then pulls a constant heavy load to keep running. Portable units are amazing for running window AC units or keeping a single room cool. But if you want to keep your entire house at 70 degrees during a blackout, you need to step up to a <strong>Level 3 integrated system</strong> wired directly to your breaker panel.</p>
+
+<h3>How long do these new "LiFePO4" batteries actually last?</h3>
+<p>You’ll see the term "LiFePO4" (Lithium Iron Phosphate) thrown around a lot. In plain English, this is a massive upgrade over the old battery sitting in your smartphone. A phone battery degrades after about 500 charge cycles. These new LiFePO4 batteries are rated for over 3,000+ cycles before they even drop to 80% health. That means you could drain and recharge these portable stations every single day for 10 years, and they would still work perfectly. It's a true decade-long investment.</p>
+
+<h3>Do portable solar stations qualify for the Federal Solar Tax Credit?</h3>
+<p>This is where things get really interesting. Under the current Residential Clean Energy Credit, standalone batteries <em>can</em> qualify for the 30% tax credit, but there is a catch: the battery must have a capacity of at least 3 kilowatt-hours (kWh). This means smaller camping batteries won't cut it. However, heavy-duty units (and certainly the whole-home systems we map out in our local grid audits) often do qualify, effectively giving you a 30% discount. <em>(Disclaimer: Always verify with your tax professional!)</em></p>
+
 <h2>🎯 Final Verdict & Checklist</h2>
 
 Both of these units are 100% safe for indoor use—no fumes, no gas, and no noise. Just instant, reliable power.
@@ -129,7 +141,4 @@ Both of these units are 100% safe for indoor use—no fumes, no gas, and no nois
 
 **💡 Pro Tip: Check Your Math Before You Buy!** Not sure exactly how much wattage your specific appliances need? Join 1,000+ homeowners who have stopped guessing. 
 
-👇 **Download our FREE Blackout-Proof Home Checklist below to calculate your exact emergency power load.**
-
-<br><br>
-<script async data-uid="c7ed9c1a27" src="https://eco-living-journey.kit.com/c7ed9c1a27/index.js"></script>
+👇 **Download our FREE Blackout-Proof Home Checklist
