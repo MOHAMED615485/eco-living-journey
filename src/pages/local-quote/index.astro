@@ -6,49 +6,138 @@ import states from '../../data/states.json';
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Select Your State - Off-Grid Blueprint</title>
+    <title>Select Your Region - EcoLiving Journey</title>
     <style>
-      body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 40px 20px; text-align: center; }
-      h1 { color: #0056b3; margin-bottom: 10px; }
-      p { font-size: 1.1rem; margin-bottom: 30px; color: #555; }
-      .grid-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; }
-      .state-button { 
-        display: block; 
-        background: #28a745; 
-        color: white; 
-        padding: 15px; 
-        text-decoration: none; 
-        font-size: 1.2rem; 
-        font-weight: bold; 
-        border-radius: 8px; 
-        transition: background 0.3s ease;
+      /* Premium CSS Architecture */
+      :root {
+        --primary: #059669; /* Premium Eco Green */
+        --primary-hover: #047857;
+        --secondary: #1e293b; /* Deep Slate */
+        --bg-color: #f8fafc;
+        --card-bg: #ffffff;
+        --text-main: #334155;
+        --text-muted: #64748b;
       }
-      .state-button:hover { background: #218838; }
       
-      /* Special styling for the catch-all button */
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+      
+      body { 
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
+        background-color: var(--bg-color); 
+        color: var(--text-main); 
+        line-height: 1.6; 
+        -webkit-font-smoothing: antialiased;
+      }
+
+      /* Trust Signal: Faux Navigation Bar */
+      .top-bar {
+        background-color: var(--card-bg);
+        padding: 24px 0;
+        text-align: center;
+        border-bottom: 1px solid #e2e8f0;
+        box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        margin-bottom: 50px;
+      }
+      .brand-logo {
+        font-size: 1.5rem;
+        font-weight: 800;
+        color: var(--secondary);
+        text-decoration: none;
+        letter-spacing: -0.5px;
+      }
+      .brand-logo span {
+        color: var(--primary);
+      }
+
+      /* Core Layout Engine */
+      .container {
+        max-width: 850px;
+        margin: 0 auto;
+        padding: 0 20px 80px;
+        text-align: center;
+      }
+
+      h1 { 
+        color: var(--secondary); 
+        font-size: 2.5rem; 
+        font-weight: 800;
+        margin-bottom: 15px; 
+        letter-spacing: -1px;
+      }
+      
+      p.subtitle { 
+        font-size: 1.15rem; 
+        color: var(--text-muted); 
+        margin-bottom: 50px; 
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      /* Premium Grid & Interactive Elements */
+      .grid-container { 
+        display: grid; 
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); 
+        gap: 20px; 
+      }
+      
+      .state-button { 
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: var(--card-bg); 
+        color: var(--secondary); 
+        padding: 20px; 
+        text-decoration: none; 
+        font-size: 1.125rem; 
+        font-weight: 600; 
+        border-radius: 12px; 
+        border: 1px solid #e2e8f0;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+        transition: all 0.3s ease;
+      }
+      
+      .state-button:hover { 
+        border-color: var(--primary);
+        color: var(--primary);
+        transform: translateY(-4px);
+        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+      }
+      
+      /* Distinct Catch-All Styling */
       .other-button {
-        background: #0056b3; 
+        background: var(--secondary);
+        color: white;
+        border: none;
       }
       .other-button:hover {
-        background: #004494;
+        background: #0f172a; /* Darker slate on hover */
+        color: white;
+        border-color: transparent;
       }
     </style>
   </head>
   <body>
     
-    <h1>Initiate Your Home Audit</h1>
-    <p>Select your state below to view local grid threats and connect with a certified off-grid installer in your area.</p>
+    <div class="top-bar">
+      <a href="/" class="brand-logo">EcoLiving <span>Journey</span></a>
+    </div>
 
-    <div class="grid-container">
-      {states.map((data) => (
-        <a href={`/local-quote/${data.slug}`} class="state-button">
-          {data.state}
+    <div class="container">
+      <h1>Initiate Your Home Audit</h1>
+      <p class="subtitle">Select your region below to view local grid threats and connect with a certified off-grid installer in your area.</p>
+
+      <div class="grid-container">
+        {states.map((data) => (
+          <a href={`/local-quote/${data.slug}`} class="state-button">
+            {data.state}
+          </a>
+        ))}
+        
+        <a href="mailto:ethan@ecoliving-journey.com?subject=Custom Home Audit Request - Unlisted State" class="state-button other-button">
+          Other Region
         </a>
-      ))}
-      
-     <a href="mailto:ethan@ecoliving-journey.com?subject=Custom Home Audit Request - Unlisted State" class="state-button other-button">
-  Other
-</a>
+      </div>
     </div>
 
   </body>
