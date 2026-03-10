@@ -1,0 +1,42 @@
+[
+  {
+    "state": "Texas",
+    "slug": "texas",
+    "gridName": "ERCOT",
+    "primaryThreat": "Winter Freezes & Summer Blackouts",
+    "installCost": "$28,500",
+    "trigger": "Texas homeowners need systems that can withstand multi-day grid failures during extreme temperature drops."
+  },
+  {
+    "state": "California",
+    "slug": "california",
+    "gridName": "CAISO",
+    "primaryThreat": "Wildfires & Rolling Brownouts",
+    "installCost": "$26,200",
+    "trigger": "California homeowners face aggressive utility rate hikes and constant rolling brownouts during fire season."
+  },
+  {
+    "state": "Florida",
+    "slug": "florida",
+    "gridName": "FRCC",
+    "primaryThreat": "Category 5 Hurricanes",
+    "installCost": "$24,800",
+    "trigger": "Florida homeowners need hurricane-rated solar infrastructure that can survive 150mph winds and massive storm surges."
+  },
+  {
+    "state": "New York",
+    "slug": "new-york",
+    "gridName": "NYISO",
+    "primaryThreat": "Severe Blizzards & Aging Infrastructure",
+    "installCost": "$29,100",
+    "trigger": "New York's aging grid infrastructure leaves homeowners highly vulnerable during heavy winter snowfall and ice storms."
+  },
+  {
+    "state": "North Carolina",
+    "slug": "north-carolina",
+    "gridName": "Duke Energy",
+    "primaryThreat": "Coastal Storms & Inland Flooding",
+    "installCost": "$25,500",
+    "trigger": "North Carolina's unpredictable coastal weather requires heavy-duty battery backups that kick in the second the lines go down."
+  }
+]
