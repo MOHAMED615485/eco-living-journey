@@ -142,3 +142,13 @@ Both of these units are 100% safe for indoor use—no fumes, no gas, and no nois
 **💡 Pro Tip: Check Your Math Before You Buy!** Not sure exactly how much wattage your specific appliances need? Join 1,000+ homeowners who have stopped guessing. 
 
 👇 **Download our FREE Blackout-Proof Home Checklist
+## Sizing Your Home Backup: The "Blackout Math" FAQ
+
+**Q: Can a portable power station run a 3-ton central AC?**
+A: Only if it supports a 120A LRA (Locked Rotor Amperage) surge. Most "Level 1" portables fail here. You need a "Level 3" integrated system like the EcoFlow Delta Pro Ultra for this.
+
+**Q: How long will 1kWh last in a blackout?**
+A: Approximately 40 minutes if running a standard electric kettle (1,500W). For a 24-hour fridge-only backup, a minimum of 2kWh is recommended to account for compressor spikes.
+
+**Q: What is the difference between Level 1 and Level 3 backup?**
+A: Level 1 is a "plug-and-play" portable unit for appliances. Level 3 is a professionally installed, panel-integrated system designed for whole-home resilience.
