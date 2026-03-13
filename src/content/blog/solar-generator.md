@@ -54,6 +54,8 @@ Before you buy a solar battery, you have to understand the hard physics of home 
 
 If you strictly run a high-efficiency fridge and your Wi-Fi router, a standard 2kWh battery will easily last you 10 to 12 hours. However, the moment you plug in a standard 1,500W space heater, that exact same battery will be completely dead in 1.2 hours. You must buy a system properly sized for your specific emergency load.
 
+> ⚡ **Don't want to do the math yourself?** Stop guessing and risking your gear. **[Use our Free Local Grid Audit tool](/local-quote/)** to calculate your exact home surge requirements and see what systems work for your zip code.
+
 <h2>⚔️ Head-to-Head: EcoFlow vs. Jackery</h2>
 
 If you are looking for "Level 1" resilience to confidently survive a 12-to-24-hour grid failure, here is how the top two units compare in real-world blackout conditions:
