@@ -152,4 +152,5 @@ A: Approximately 40 minutes if running a standard electric kettle (1,500W). For 
 
 **Q: What is the difference between Level 1 and Level 3 backup?**
 A: Level 1 is a "plug-and-play" portable unit for appliances. Level 3 is a professionally installed, panel-integrated system designed for whole-home resilience.
+👉 **[Download our FREE Blackout-Proof Home Checklist](https://ecoliving-journey.kit.com/c7ed9c1a27)**
 <script is:inline async data-uid="c7ed9c1a27" src="https://automate.kit.com/c7ed9c1a27/index.js"></script>
