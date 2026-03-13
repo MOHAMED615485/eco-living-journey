@@ -133,8 +133,9 @@ If EcoFlow is a luxury sports car, the Jackery 2000 Plus is an indestructible of
 Both of these units are 100% safe for indoor use—no fumes, no gas, and no noise. Just instant, reliable power.
 
 <ul>
-  <li>✅ <strong>Choose the EcoFlow Delta Pro 3 if:</strong> You have a larger home and need to power heavy appliances for 24+ hours.</li>
-  <li>✅ <strong>Choose the Jackery Explorer 2000 Plus if:</strong> You want a rugged, bulletproof system that is easy to move and highly reliable.</li>
+  <li style="margin-bottom: 15px;">✅ <strong>Choose the EcoFlow Delta Pro 3 if:</strong> You have a larger home and need to power heavy appliances for 24+ hours. <br>👉 <strong><a href="https://amzn.to/4rRrIjm" target="_blank" style="color: #ea580c; text-decoration: underline;">Check Current Amazon Price ➔</a></strong></li>
+  
+  <li>✅ <strong>Choose the Jackery Explorer 2000 Plus if:</strong> You want a rugged, bulletproof system that is easy to move and highly reliable. <br>👉 <strong><a href="https://amzn.to/4uaQ7lc" target="_blank" style="color: #ea580c; text-decoration: underline;">Check Current Amazon Price ➔</a></strong></li>
 </ul>
 
 **💡 Pro Tip: Check Your Math Before You Buy!** Not sure exactly how much wattage your specific appliances need? Stop guessing and risking your gear. Join 1,000+ homeowners who have already bulletproofed their homes. 
