@@ -117,3 +117,24 @@ If EcoFlow is a luxury sports car, the Jackery 2000 Plus is an indestructible of
   <p>For true, multi-day grid failures, you must advance to a <strong>Level 3 System</strong>—a fully integrated solar array and battery reserve wired directly into your home's main electrical panel. Stop guessing what your home actually needs.</p>
   <a href="/local-quote" class="b2b-btn">📍 Check Your Local Grid Threat & Request a Home Audit</a>
 </div>
+<h2>🤔 The "Blackout Prep" FAQ</h2>
+<p>Before you make a final decision, let's clear up the three most common questions I get from homeowners trying to figure out this whole off-grid thing.</p>
+
+<h3>Can a portable solar station run a central air conditioner?</h3>
+<p>The short answer? No. The realistic answer? You are asking a golf cart to pull a freight train. A standard 3-ton central AC unit requires an absolutely massive surge of energy just to start up, and then pulls a constant heavy load to keep running. Portable units are amazing for running window AC units or keeping a single room cool. But if you want to keep your entire house at 70 degrees during a blackout, you need to step up to a <strong>Level 3 integrated system</strong> wired directly to your breaker panel.</p>
+
+<h3>How long do these new "LiFePO4" batteries actually last?</h3>
+<p>You’ll see the term "LiFePO4" (Lithium Iron Phosphate) thrown around a lot. In plain English, this is a massive upgrade over the old battery sitting in your smartphone. A phone battery degrades after about 500 charge cycles. These new LiFePO4 batteries are rated for over 3,000+ cycles before they even drop to 80% health. That means you could drain and recharge these portable stations every single day for 10 years, and they would still work perfectly. It's a true decade-long investment.</p>
+
+<h2>🎯 Final Verdict & The "Blackout Math"</h2>
+
+Both of these units are 100% safe for indoor use—no fumes, no gas, and no noise. Just instant, reliable power.
+
+<ul>
+  <li>✅ <strong>Choose the EcoFlow Delta Pro 3 if:</strong> You have a larger home and need to power heavy appliances for 24+ hours.</li>
+  <li>✅ <strong>Choose the Jackery Explorer 2000 Plus if:</strong> You want a rugged, bulletproof system that is easy to move and highly reliable.</li>
+</ul>
+
+**💡 Pro Tip: Check Your Math Before You Buy!** Not sure exactly how much wattage your specific appliances need? Stop guessing and risking your gear. Join 1,000+ homeowners who have already bulletproofed their homes. 
+
+👇 **Fill out the form below to get my exact Blackout-Proof Home Checklist sent straight to your inbox.**
