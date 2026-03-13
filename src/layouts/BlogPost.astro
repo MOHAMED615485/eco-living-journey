@@ -11,7 +11,10 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 ---
 
 <html lang="en">
-<script is:inline src="https://f.convertkit.com/ckjs/ck.5.js"></script>
+  <head>
+    <BaseHead title={title} description={description} />
+    <script is:inline src="https://f.convertkit.com/ckjs/ck.5.js"></script>
+  </head>
   <body>
     <Header />
     <main>
@@ -138,4 +141,3 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
     </style>
   </body>
 </html>
-<script is:inline src="https://f.convertkit.com/ckjs/ck.5.js"></script>
