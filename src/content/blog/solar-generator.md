@@ -32,7 +32,7 @@ heroImage: "./solar-generator.jpg"
 
 As a homeowner, there is absolutely nothing worse than the exact moment the power goes out during a severe winter storm or extreme heatwave. You hear the sudden silence as the HVAC unit shuts down, your fridge starts getting warm, the Wi-Fi dies, and you are left sitting in the dark hoping the grid operators can bring the system back online before your pipes freeze or your house reaches 90 degrees.
 
-With recent data showing ERCOT’s winter reserve margins dropping dangerously low and California’s PG&E expanding their Public Safety Power Shutoff (PSPS) protocols, regional grid vulnerability is no longer a hypothetical scenario. It is a mathematical certainty. If you are relying on an aging infrastructure to keep your family safe, you are playing a very dangerous game of roulette. **<a href="/local-quote" style="color: #059669; text-decoration: underline;">Check your state's specific grid vulnerabilities and local threats here.</a>**
+With recent data showing ERCOT’s winter reserve margins dropping dangerously low and California’s PG&E expanding their Public Safety Power Shutoff (PSPS) protocols, regional grid vulnerability is no longer a hypothetical scenario. It is a mathematical certainty. If you are relying on an aging infrastructure to keep your family safe, you are playing a very dangerous game of roulette. **<a href="/grid-threats/" style="color: #059669; text-decoration: underline;">Check your state's specific grid vulnerabilities and local threats here.</a>**
 
 <h2>🚨 The Hidden Danger of the "Gas Trap"</h2>
 
@@ -117,27 +117,11 @@ If EcoFlow is a luxury sports car, the Jackery 2000 Plus is an indestructible of
   <h2 style="margin-top: 0;">⚠️ The Hard Truth: When Portable Batteries Fail</h2>
   <p>Here is the uncomfortable reality most marketers refuse to tell you: Jackery and EcoFlow units are incredible machines, but they are strictly <strong>Level 1</strong> resilience. They will save your groceries, but they cannot run a central air conditioning unit or electric furnace during a multi-day grid collapse.</p>
   <p>For true, multi-day grid failures, you must advance to a <strong>Level 3 System</strong>—a fully integrated solar array and battery reserve wired directly into your home's main electrical panel. Stop guessing what your home actually needs.</p>
-  <a href="/local-quote" class="b2b-btn">📍 Check Your Local Grid Threat & Request a Home Audit</a>
+  <a href="/grid-threats/" class="b2b-btn">📍 Check Your Local Grid Threat & Request a Home Audit</a>
 </div>
+
 <h2>🤔 The "Blackout Prep" FAQ</h2>
 <p>Before you make a final decision, let's clear up the three most common questions I get from homeowners trying to figure out this whole off-grid thing.</p>
 
 <h3>Can a portable solar station run a central air conditioner?</h3>
-<p>The short answer? No. The realistic answer? You are asking a golf cart to pull a freight train. A standard 3-ton central AC unit requires an absolutely massive surge of energy just to start up, and then pulls a constant heavy load to keep running. Portable units are amazing for running window AC units or keeping a single room cool. But if you want to keep your entire house at 70 degrees during a blackout, you need to step up to a <strong>Level 3 integrated system</strong> wired directly to your breaker panel.</p>
-
-<h3>How long do these new "LiFePO4" batteries actually last?</h3>
-<p>You’ll see the term "LiFePO4" (Lithium Iron Phosphate) thrown around a lot. In plain English, this is a massive upgrade over the old battery sitting in your smartphone. A phone battery degrades after about 500 charge cycles. These new LiFePO4 batteries are rated for over 3,000+ cycles before they even drop to 80% health. That means you could drain and recharge these portable stations every single day for 10 years, and they would still work perfectly. It's a true decade-long investment.</p>
-
-<h2>🎯 Final Verdict & The "Blackout Math"</h2>
-
-Both of these units are 100% safe for indoor use—no fumes, no gas, and no noise. Just instant, reliable power.
-
-<ul>
-  <li style="margin-bottom: 15px;">✅ <strong>Choose the EcoFlow Delta Pro 3 if:</strong> You have a larger home and need to power heavy appliances for 24+ hours. <br>👉 <strong><a href="https://amzn.to/4rRrIjm" target="_blank" style="color: #ea580c; text-decoration: underline;">Check Current Amazon Price ➔</a></strong></li>
-  
-  <li>✅ <strong>Choose the Jackery Explorer 2000 Plus if:</strong> You want a rugged, bulletproof system that is easy to move and highly reliable. <br>👉 <strong><a href="https://amzn.to/4uaQ7lc" target="_blank" style="color: #ea580c; text-decoration: underline;">Check Current Amazon Price ➔</a></strong></li>
-</ul>
-
-**💡 Pro Tip: Check Your Math Before You Buy!** Not sure exactly how much wattage your specific appliances need? Stop guessing and risking your gear. Join 1,000+ homeowners who have already bulletproofed their homes. 
-
-👇 **Fill out the form below to get my exact Blackout-Proof Home Checklist sent straight to your inbox.**
+<p>The short answer? No. The realistic answer? You are asking a golf cart to pull a freight train. A standard 3-ton central AC
