@@ -98,7 +98,7 @@
       </div>
     </div>
 
-   <button class="calc-btn" id="trigger-calc" onclick="runCalculator()">Calculate My Total Surge Load ➔</button>
+    <button class="calc-btn" id="trigger-calc" onclick="runCalculator()">Calculate My Total Surge Load ➔</button>
   </div>
 
   <div id="processing">
@@ -118,61 +118,41 @@
       <p style="font-size: 16px; color: #78350f; margin-bottom: 20px;">Enter your email below. We will instantly email you the list of specific battery models that can handle your <strong><span id="email-surge">0</span>W</strong> load, plus your free Blackout Checklist.</p>
       
       <style is:inline>
-        /* 1. Kill the Ghost Headers */
-        .formkit-header, .formkit-subheader { 
-            display: none !important; 
-        }
-        
-        /* 2. Fix the Box-within-a-Box Background */
-        .formkit-form, [data-style="minimal"], .formkit-background {
-            background: transparent !important;
-            padding-top: 0 !important;
-            padding-bottom: 0 !important;
-            box-shadow: none !important;
-        }
-
-        /* 3. Premium Input Fields */
-        .formkit-input {
-            border: 1px solid #cbd5e1 !important;
-            border-radius: 8px !important;
-            padding: 16px !important;
-            font-size: 16px !important;
-            background: #ffffff !important;
-            box-shadow: inset 0 2px 4px rgba(0,0,0,0.02) !important;
-            transition: all 0.2s ease-in-out !important;
-        }
-        
-        /* Adds a premium amber glow when they click on a text box */
-        .formkit-input:focus {
-            border-color: #f59e0b !important;
-            outline: none !important;
-            box-shadow: 0 0 0 3px rgba(245, 158, 11, 0.2) !important;
-        }
-
-        /* 4. Upgrade the Button */
-        .formkit-submit {
-            padding: 18px !important;
-            font-size: 18px !important;
-            letter-spacing: 0.5px !important;
-            transition: transform 0.2s ease, box-shadow 0.2s ease !important;
-        }
-        .formkit-submit:hover {
-            transform: translateY(-2px) !important;
-            box-shadow: 0 4px 12px rgba(15, 23, 42, 0.2) !important;
-        }
-
-        /* 5. Hide the ConvertKit Watermark & Blend the Spam Text */
-        .formkit-powered-by-convertkit-container {
-            display: none !important;
-        }
-        .formkit-guarantee {
-            color: #92400e !important;
-            font-size: 13px !important;
-            margin-top: 15px !important;
-        }
+        .formkit-header, .formkit-subheader { display: none !important; }
+        .formkit-form, [data-style="minimal"], .formkit-background { background: transparent !important; padding-top: 0 !important; padding-bottom: 0 !important; box-shadow: none !important; }
+        .formkit-input { border: 1px solid #cbd5e1 !important; border-radius: 8px !important; padding: 16px !important; font-size: 16px !important; background: #ffffff !important; box-shadow: inset 0 2px 4px rgba(0,0,0,0.02) !important; transition: all 0.2s ease-in-out !important; }
+        .formkit-input:focus { border-color: #f59e0b !important; outline: none !important; box-shadow: 0 0 0 3px rgba(245, 158, 11, 0.2) !important; }
+        .formkit-submit { padding: 18px !important; font-size: 18px !important; letter-spacing: 0.5px !important; transition: transform 0.2s ease, box-shadow 0.2s ease !important; }
+        .formkit-submit:hover { transform: translateY(-2px) !important; box-shadow: 0 4px 12px rgba(15, 23, 42, 0.2) !important; }
+        .formkit-powered-by-convertkit-container { display: none !important; }
+        .formkit-guarantee { color: #92400e !important; font-size: 13px !important; margin-top: 15px !important; }
       </style>
 
-     <script is:inline>
+      <script is:inline src="https://f.convertkit.com/ckjs/ck.5.js"></script>
+      <form action="https://app.kit.com/forms/9204796/subscriptions" class="seva-form formkit-form" method="post" data-sv-form="9204796" data-uid="b3fe8c40d3" data-format="inline" data-version="5" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:&quot;Success! Now check your email to confirm your subscription.&quot;,&quot;redirect_url&quot;:&quot;&quot;},&quot;powered_by&quot;:{&quot;show&quot;:false}}}" style="background-color: transparent; border-radius: 8px;">
+        <div data-style="minimal">
+          <ul class="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul>
+          <div data-element="fields" data-stacked="true" class="seva-fields formkit-fields">
+            <div class="formkit-field">
+              <input class="formkit-input" aria-label="First Name" name="fields[first_name]" required="" placeholder="First Name" type="text" />
+            </div>
+            <div class="formkit-field">
+              <input class="formkit-input" name="email_address" aria-label="Email Address" placeholder="Email Address" required="" type="email" />
+            </div>
+            <button data-element="submit" class="formkit-submit" style="color: rgb(255, 255, 255); background-color: #0f172a; border-radius: 8px; font-weight: 700;">
+              <span class="">Send My Results ➔</span>
+            </button>
+          </div>
+          <div class="formkit-guarantee" data-element="guarantee">We won't send you spam. Unsubscribe at any time.</div>
+        </div>
+      </form>
+      
+    </div>
+  </div>
+
+</div>
+
+<script is:inline>
   function runCalculator() {
     let checkedBoxes = document.querySelectorAll('.calc-item:checked');
     if (checkedBoxes.length === 0) {
@@ -198,3 +178,6 @@
     }, 1500);
   }
 </script>
+
+</body>
+</html>
