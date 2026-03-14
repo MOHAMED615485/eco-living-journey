@@ -1,63 +1,153 @@
-<div class="calculator-container" style="max-width: 600px; margin: 40px auto; font-family: sans-serif;">
-  <h2>⚡ Free Blackout Load Calculator</h2>
-  <p>Select the appliances you absolutely need to run during a grid failure. We will calculate your exact "Surge Load" so you don't buy a battery that instantly trips and shuts down.</p>
+---
+// Premium Local Quote Calculator Page
+---
+
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Free Grid Audit Calculator</title>
+  <style>
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f4f7f6; color: #1e293b; margin: 0; padding: 0; }
+    .calc-wrapper { max-width: 700px; margin: 50px auto; padding: 30px; background: white; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.08); }
+    .header-text { text-align: center; margin-bottom: 30px; }
+    .header-text h1 { margin: 0 0 10px 0; color: #0f172a; font-size: 28px; }
+    .header-text p { color: #64748b; font-size: 16px; margin: 0; }
+    
+    .grid-settings { background: #f8fafc; padding: 20px; border-radius: 10px; border: 1px solid #e2e8f0; margin-bottom: 25px; }
+    .grid-settings label { font-weight: bold; display: block; margin-bottom: 8px; }
+    .grid-settings select, .grid-settings input { width: 100%; padding: 12px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 16px; }
+
+    .appliance-row { display: flex; align-items: center; justify-content: space-between; padding: 15px 0; border-bottom: 1px solid #f1f5f9; flex-wrap: wrap; gap: 10px;}
+    .appliance-row:last-child { border-bottom: none; }
+    .checkbox-group { display: flex; align-items: center; gap: 12px; font-size: 17px; font-weight: 500; cursor: pointer; width: 100%; max-width: 250px;}
+    .checkbox-group input { width: 20px; height: 20px; cursor: pointer; accent-color: #0c905c; }
+    .model-input { flex-grow: 1; padding: 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 14px; min-width: 200px;}
+    
+    .calc-btn { background: #0f172a; color: white; border: none; padding: 18px; font-size: 18px; border-radius: 8px; cursor: pointer; font-weight: bold; width: 100%; transition: all 0.3s ease; margin-top: 20px;}
+    .calc-btn:hover { background: #1e293b; box-shadow: 0 5px 15px rgba(0,0,0,0.2); transform: translateY(-2px); }
+
+    /* Processing Animation */
+    #processing { display: none; text-align: center; padding: 40px; }
+    .spinner { border: 4px solid #f3f3f3; border-top: 4px solid #0c905c; border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; margin: 0 auto 15px auto; }
+    @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+    /* Results Panel */
+    #results-panel { display: none; margin-top: 30px; animation: fadeIn 0.5s ease-in; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    .data-box { background: #f0fdf4; border: 2px solid #10bf7a; border-radius: 10px; padding: 25px; text-align: center; margin-bottom: 25px;}
+    .data-box h3 { color: #0c905c; margin-top: 0; font-size: 22px;}
+    
+    .lead-capture-box { background: #fffbeb; border: 2px dashed #f59e0b; padding: 25px; border-radius: 10px; text-align: center; }
+  </style>
+</head>
+<body>
+
+<div class="calc-wrapper">
   
-  <div class="appliance-list" style="margin-bottom: 25px; background: #f9fafb; padding: 20px; border-radius: 8px; border: 1px solid #e5e7eb;">
-    <label style="display: block; margin-bottom: 12px; font-size: 16px; cursor: pointer;">
-      <input type="checkbox" class="calc-item" data-running="150" data-surge="800"> 🧊 Full-Size Refrigerator
-    </label>
-    <label style="display: block; margin-bottom: 12px; font-size: 16px; cursor: pointer;">
-      <input type="checkbox" class="calc-item" data-running="50" data-surge="50"> 📶 Wi-Fi Router & Modems
-    </label>
-    <label style="display: block; margin-bottom: 12px; font-size: 16px; cursor: pointer;">
-      <input type="checkbox" class="calc-item" data-running="1500" data-surge="1500"> 🔥 Standard Space Heater
-    </label>
-    <label style="display: block; margin-bottom: 12px; font-size: 16px; cursor: pointer;">
-      <input type="checkbox" class="calc-item" data-running="1000" data-surge="3000"> 💧 Well Pump (1/2 HP)
-    </label>
-    <label style="display: block; margin-bottom: 12px; font-size: 16px; cursor: pointer;">
-      <input type="checkbox" class="calc-item" data-running="800" data-surge="1200"> ❄️ Window AC Unit (8,000 BTU)
-    </label>
-    <label style="display: block; margin-bottom: 12px; font-size: 16px; cursor: pointer;">
-      <input type="checkbox" class="calc-item" data-running="100" data-surge="100"> 💡 LED Lights & Phone Chargers
-    </label>
+  <div id="calculator-step">
+    <div class="header-text">
+      <h1>⚡ Premium Blackout Load Audit</h1>
+      <p>Configure your home's grid specs and appliances to calculate your exact emergency load.</p>
+    </div>
+
+    <div class="grid-settings">
+      <label>Home Grid Voltage & Connection Phase:</label>
+      <select id="grid-voltage">
+        <option value="120">Standard US 120V (Most Homes)</option>
+        <option value="240">Heavy Duty 240V (Required for Central AC/Well Pumps)</option>
+      </select>
+    </div>
+
+    <div style="margin-bottom: 20px;">
+      <h3 style="margin-bottom: 10px; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px;">Select Critical Appliances</h3>
+      
+      <div class="appliance-row">
+        <label class="checkbox-group">
+          <input type="checkbox" class="calc-item" data-surge="800" data-running="150"> 🧊 Refrigerator
+        </label>
+        <input type="text" class="model-input" placeholder="Make/Model (e.g., Samsung French Door)">
+      </div>
+
+      <div class="appliance-row">
+        <label class="checkbox-group">
+          <input type="checkbox" class="calc-item" data-surge="1500" data-running="1500"> 🔥 Space Heater
+        </label>
+        <input type="text" class="model-input" placeholder="Watts (Default: 1500W)">
+      </div>
+
+      <div class="appliance-row">
+        <label class="checkbox-group">
+          <input type="checkbox" class="calc-item" data-surge="3000" data-running="1000"> 💧 Well Pump
+        </label>
+        <input type="text" class="model-input" placeholder="HP / Type (e.g., 1/2 HP Submersible)">
+      </div>
+
+      <div class="appliance-row">
+        <label class="checkbox-group">
+          <input type="checkbox" class="calc-item" data-surge="1200" data-running="800"> ❄️ Window AC Unit
+        </label>
+        <input type="text" class="model-input" placeholder="BTU Size (e.g., 8,000 BTU)">
+      </div>
+      
+      <div class="appliance-row">
+        <label class="checkbox-group">
+          <input type="checkbox" class="calc-item" data-surge="100" data-running="100"> 📶 Wi-Fi & Devices
+        </label>
+        <input type="text" class="model-input" placeholder="Number of devices">
+      </div>
+    </div>
+
+    <button class="calc-btn" id="trigger-calc">Calculate My Total Surge Load ➔</button>
   </div>
 
-  <button id="calc-btn" style="background: #0056b3; color: white; border: none; padding: 15px 24px; font-size: 18px; border-radius: 5px; cursor: pointer; font-weight: bold; width: 100%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">Calculate My Blackout Load</button>
+  <div id="processing">
+    <div class="spinner"></div>
+    <h3 style="color: #0f172a;">Analyzing Grid Load...</h3>
+    <p style="color: #64748b;">Calculating locked rotor amps and surge requirements.</p>
+  </div>
 
-  <div id="calc-results" style="display: none; margin-top: 30px; padding: 25px; border: 2px solid #10bf7a; border-radius: 8px; background: #f0fdf4;">
-    <h3 style="margin-top: 0; color: #0c905c; text-align: center;">📊 Your Custom Grid Audit:</h3>
-    <p style="font-size: 18px;"><strong>Total Running Watts:</strong> <span id="running-total">0</span>W</p>
-    <p style="font-size: 18px;"><strong>Total Surge Watts:</strong> <span id="surge-total">0</span>W <br><em style="color: #dc2626; font-size: 14px;">(Warning: This is the massive spike that kills cheap portable batteries instantly)</em></p>
-    
-    <div style="margin-top: 25px; border-top: 2px dashed #10bf7a; padding-top: 25px;">
-      <p style="font-weight: bold; text-align: center; font-size: 18px;">👇 Enter your email below to instantly see which systems can safely handle your <span id="surge-highlight">0</span>W surge load without failing.</p>
+  <div id="results-panel">
+    <div class="data-box">
+      <h3>📊 Audit Complete</h3>
+      <p style="font-size: 18px; margin: 10px 0;">Your home requires a massive <strong><span id="final-surge">0</span>W Surge Capacity</strong> to safely start these appliances without tripping the system.</p>
+    </div>
+
+    <div class="lead-capture-box">
+      <h3 style="color: #b45309; margin-top: 0; font-size: 22px;">Where should we send your results?</h3>
+      <p style="font-size: 16px; color: #78350f; margin-bottom: 20px;">Enter your email below. We will instantly email you the list of specific battery models that can handle your <strong><span id="email-surge">0</span>W</strong> load, plus your free Blackout Checklist.</p>
       
       </div>
   </div>
+
 </div>
 
 <script is:inline>
-  document.getElementById('calc-btn').addEventListener('click', function() {
-    let totalRunning = 0;
-    let totalSurge = 0;
+  document.getElementById('trigger-calc').addEventListener('click', function() {
     let checkedBoxes = document.querySelectorAll('.calc-item:checked');
-    
     if (checkedBoxes.length === 0) {
-      alert("Please select at least one appliance to calculate your load.");
+      alert("Please select at least one appliance.");
       return;
     }
 
+    let totalSurge = 0;
     checkedBoxes.forEach(function(checkbox) {
-      totalRunning += parseInt(checkbox.getAttribute('data-running'));
       totalSurge += parseInt(checkbox.getAttribute('data-surge'));
     });
-    
-    document.getElementById('running-total').innerText = totalRunning.toLocaleString();
-    document.getElementById('surge-total').innerText = totalSurge.toLocaleString();
-    document.getElementById('surge-highlight').innerText = totalSurge.toLocaleString();
-    
-    document.getElementById('calc-results').style.display = 'block';
-    this.style.display = 'none'; // Hides the button after calculation
+
+    // Hide Step 1, Show Processing
+    document.getElementById('calculator-step').style.display = 'none';
+    document.getElementById('processing').style.display = 'block';
+
+    // Simulate Premium Calculation Delay (1.5 seconds)
+    setTimeout(function() {
+      document.getElementById('processing').style.display = 'none';
+      document.getElementById('final-surge').innerText = totalSurge.toLocaleString();
+      document.getElementById('email-surge').innerText = totalSurge.toLocaleString();
+      document.getElementById('results-panel').style.display = 'block';
+    }, 1500);
   });
 </script>
+
+</body>
+</html>
