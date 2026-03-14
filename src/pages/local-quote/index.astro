@@ -1,144 +1,63 @@
----
-import states from '../../data/states.json';
----
+<div class="calculator-container" style="max-width: 600px; margin: 40px auto; font-family: sans-serif;">
+  <h2>⚡ Free Blackout Load Calculator</h2>
+  <p>Select the appliances you absolutely need to run during a grid failure. We will calculate your exact "Surge Load" so you don't buy a battery that instantly trips and shuts down.</p>
+  
+  <div class="appliance-list" style="margin-bottom: 25px; background: #f9fafb; padding: 20px; border-radius: 8px; border: 1px solid #e5e7eb;">
+    <label style="display: block; margin-bottom: 12px; font-size: 16px; cursor: pointer;">
+      <input type="checkbox" class="calc-item" data-running="150" data-surge="800"> 🧊 Full-Size Refrigerator
+    </label>
+    <label style="display: block; margin-bottom: 12px; font-size: 16px; cursor: pointer;">
+      <input type="checkbox" class="calc-item" data-running="50" data-surge="50"> 📶 Wi-Fi Router & Modems
+    </label>
+    <label style="display: block; margin-bottom: 12px; font-size: 16px; cursor: pointer;">
+      <input type="checkbox" class="calc-item" data-running="1500" data-surge="1500"> 🔥 Standard Space Heater
+    </label>
+    <label style="display: block; margin-bottom: 12px; font-size: 16px; cursor: pointer;">
+      <input type="checkbox" class="calc-item" data-running="1000" data-surge="3000"> 💧 Well Pump (1/2 HP)
+    </label>
+    <label style="display: block; margin-bottom: 12px; font-size: 16px; cursor: pointer;">
+      <input type="checkbox" class="calc-item" data-running="800" data-surge="1200"> ❄️ Window AC Unit (8,000 BTU)
+    </label>
+    <label style="display: block; margin-bottom: 12px; font-size: 16px; cursor: pointer;">
+      <input type="checkbox" class="calc-item" data-running="100" data-surge="100"> 💡 LED Lights & Phone Chargers
+    </label>
+  </div>
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Select Your Region - EcoLiving Journey</title>
-    <style>
-      /* Premium CSS Architecture */
-      :root {
-        --primary: #059669; /* Premium Eco Green */
-        --primary-hover: #047857;
-        --secondary: #1e293b; /* Deep Slate */
-        --bg-color: #f8fafc;
-        --card-bg: #ffffff;
-        --text-main: #334155;
-        --text-muted: #64748b;
-      }
-      
-      * { box-sizing: border-box; margin: 0; padding: 0; }
-      
-      body { 
-        font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
-        background-color: var(--bg-color); 
-        color: var(--text-main); 
-        line-height: 1.6; 
-        -webkit-font-smoothing: antialiased;
-      }
+  <button id="calc-btn" style="background: #0056b3; color: white; border: none; padding: 15px 24px; font-size: 18px; border-radius: 5px; cursor: pointer; font-weight: bold; width: 100%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">Calculate My Blackout Load</button>
 
-      /* Trust Signal: Faux Navigation Bar */
-      .top-bar {
-        background-color: var(--card-bg);
-        padding: 24px 0;
-        text-align: center;
-        border-bottom: 1px solid #e2e8f0;
-        box-shadow: 0 1px 2px rgba(0,0,0,0.05);
-        margin-bottom: 50px;
-      }
-      .brand-logo {
-        font-size: 1.5rem;
-        font-weight: 800;
-        color: var(--secondary);
-        text-decoration: none;
-        letter-spacing: -0.5px;
-      }
-      .brand-logo span {
-        color: var(--primary);
-      }
-
-      /* Core Layout Engine */
-      .container {
-        max-width: 850px;
-        margin: 0 auto;
-        padding: 0 20px 80px;
-        text-align: center;
-      }
-
-      h1 { 
-        color: var(--secondary); 
-        font-size: 2.5rem; 
-        font-weight: 800;
-        margin-bottom: 15px; 
-        letter-spacing: -1px;
-      }
-      
-      p.subtitle { 
-        font-size: 1.15rem; 
-        color: var(--text-muted); 
-        margin-bottom: 50px; 
-        max-width: 600px;
-        margin-left: auto;
-        margin-right: auto;
-      }
-
-      /* Premium Grid & Interactive Elements */
-      .grid-container { 
-        display: grid; 
-        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); 
-        gap: 20px; 
-      }
-      
-      .state-button { 
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        background: var(--card-bg); 
-        color: var(--secondary); 
-        padding: 20px; 
-        text-decoration: none; 
-        font-size: 1.125rem; 
-        font-weight: 600; 
-        border-radius: 12px; 
-        border: 1px solid #e2e8f0;
-        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
-        transition: all 0.3s ease;
-      }
-      
-      .state-button:hover { 
-        border-color: var(--primary);
-        color: var(--primary);
-        transform: translateY(-4px);
-        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-      }
-      
-      /* Distinct Catch-All Styling */
-      .other-button {
-        background: var(--secondary);
-        color: white;
-        border: none;
-      }
-      .other-button:hover {
-        background: #0f172a; /* Darker slate on hover */
-        color: white;
-        border-color: transparent;
-      }
-    </style>
-  </head>
-  <body>
+  <div id="calc-results" style="display: none; margin-top: 30px; padding: 25px; border: 2px solid #10bf7a; border-radius: 8px; background: #f0fdf4;">
+    <h3 style="margin-top: 0; color: #0c905c; text-align: center;">📊 Your Custom Grid Audit:</h3>
+    <p style="font-size: 18px;"><strong>Total Running Watts:</strong> <span id="running-total">0</span>W</p>
+    <p style="font-size: 18px;"><strong>Total Surge Watts:</strong> <span id="surge-total">0</span>W <br><em style="color: #dc2626; font-size: 14px;">(Warning: This is the massive spike that kills cheap portable batteries instantly)</em></p>
     
-    <div class="top-bar">
-      <a href="/" class="brand-logo">EcoLiving <span>Journey</span></a>
-    </div>
-
-    <div class="container">
-      <h1>Initiate Your Home Audit</h1>
-      <p class="subtitle">Select your region below to view local grid threats and connect with a certified off-grid installer in your area.</p>
-
-      <div class="grid-container">
-        {states.map((data) => (
-          <a href={`/local-quote/${data.slug}`} class="state-button">
-            {data.state}
-          </a>
-        ))}
-        
-      <a href="mailto:ethan@ecoliving-journey.com?subject=Custom Home Audit Request - Unlisted State&body=Hi Ethan,%0D%0A%0D%0AI am interested in getting a custom Level 3 solar and battery backup quote, but my state wasn't listed.%0D%0A%0D%0AHere is my information for the audit:%0D%0A%0D%0AName: %0D%0APhone Number: %0D%0AStreet Address: %0D%0ACity, State, and Zip Code: %0D%0AAverage Monthly Electric Bill: %0D%0A%0D%0APlease let me know the next steps." class="state-button other-button">
-          Other Region
-        </a>
+    <div style="margin-top: 25px; border-top: 2px dashed #10bf7a; padding-top: 25px;">
+      <p style="font-weight: bold; text-align: center; font-size: 18px;">👇 Enter your email below to instantly see which systems can safely handle your <span id="surge-highlight">0</span>W surge load without failing.</p>
+      
       </div>
-    </div>
+  </div>
+</div>
 
-  </body>
-</html>
+<script is:inline>
+  document.getElementById('calc-btn').addEventListener('click', function() {
+    let totalRunning = 0;
+    let totalSurge = 0;
+    let checkedBoxes = document.querySelectorAll('.calc-item:checked');
+    
+    if (checkedBoxes.length === 0) {
+      alert("Please select at least one appliance to calculate your load.");
+      return;
+    }
+
+    checkedBoxes.forEach(function(checkbox) {
+      totalRunning += parseInt(checkbox.getAttribute('data-running'));
+      totalSurge += parseInt(checkbox.getAttribute('data-surge'));
+    });
+    
+    document.getElementById('running-total').innerText = totalRunning.toLocaleString();
+    document.getElementById('surge-total').innerText = totalSurge.toLocaleString();
+    document.getElementById('surge-highlight').innerText = totalSurge.toLocaleString();
+    
+    document.getElementById('calc-results').style.display = 'block';
+    this.style.display = 'none'; // Hides the button after calculation
+  });
+</script>
