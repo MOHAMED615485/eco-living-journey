@@ -1,0 +1,52 @@
+---
+import states from '../data/states.json';
+---
+
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>State Grid Vulnerability Reports</title>
+  <style>
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f4f7f6; color: #1e293b; margin: 0; padding: 0; }
+    .container { max-width: 800px; margin: 50px auto; padding: 30px; background: white; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.08); }
+    h1 { text-align: center; color: #0f172a; margin-bottom: 10px; font-size: 28px; }
+    p.subtitle { text-align: center; color: #64748b; margin-bottom: 30px; font-size: 16px; }
+    
+    .state-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; }
+    
+    .state-btn { 
+      display: block; 
+      text-align: center; 
+      background: #f8fafc; 
+      color: #0f172a; 
+      padding: 15px; 
+      border-radius: 8px; 
+      text-decoration: none; 
+      font-weight: bold; 
+      border: 1px solid #e2e8f0; 
+      transition: all 0.2s ease; 
+    }
+    .state-btn:hover { 
+      background: #0f172a; 
+      color: white; 
+      transform: translateY(-2px); 
+      box-shadow: 0 4px 12px rgba(15, 23, 42, 0.15); 
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>📍 State Grid Vulnerability Reports</h1>
+    <p class="subtitle">Select your state below to see your local grid threat level and projected outage risks.</p>
+    
+    <div class="state-grid">
+      {states.map((data) => (
+        <a href={`/local-quote/${data.slug}/`} class="state-btn">
+          {data.state}
+        </a>
+      ))}
+    </div>
+  </div>
+</body>
+</html>
