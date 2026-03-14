@@ -159,4 +159,29 @@
 <script is:inline>
   function runCalculator() {
     let checkedBoxes = document.querySelectorAll('.calc-item:checked');
-    if (checkedBoxes.length === 0
+    if (checkedBoxes.length === 0) {
+      alert("Please select at least one appliance to calculate your load.");
+      return;
+    }
+
+    let totalSurge = 0;
+    checkedBoxes.forEach(function(checkbox) {
+      totalSurge += parseInt(checkbox.getAttribute('data-surge'));
+    });
+
+    // Hide Step 1, Show Processing
+    document.getElementById('calculator-step').style.display = 'none';
+    document.getElementById('processing').style.display = 'block';
+
+    // Simulate Premium Calculation Delay (1.5 seconds)
+    setTimeout(function() {
+      document.getElementById('processing').style.display = 'none';
+      document.getElementById('final-surge').innerText = totalSurge.toLocaleString();
+      document.getElementById('email-surge').innerText = totalSurge.toLocaleString();
+      document.getElementById('results-panel').style.display = 'block';
+    }, 1500);
+  }
+</script>
+
+</body>
+</html>
