@@ -117,6 +117,10 @@
       <h3 style="color: #b45309; margin-top: 0; font-size: 22px;">Where should we send your results?</h3>
       <p style="font-size: 16px; color: #78350f; margin-bottom: 20px;">Enter your email below. We will instantly email you the list of specific battery models that can handle your <strong><span id="email-surge">0</span>W</strong> load, plus your free Blackout Checklist.</p>
       
+      <div style="background: #ffedd5; border: 1px solid #fdba74; color: #9a3412; padding: 14px; border-radius: 8px; font-size: 15px; margin-bottom: 25px; font-weight: 600;">
+        ⚠️ IMPORTANT: Your results will be sent immediately. If you don't see it in 60 seconds, check your Spam or Promotions folder and click "Confirm" to unlock your custom guide!
+      </div>
+
       <style is:inline>
         .formkit-header, .formkit-subheader { display: none !important; }
         .formkit-form, [data-style="minimal"], .formkit-background { background: transparent !important; padding-top: 0 !important; padding-bottom: 0 !important; box-shadow: none !important; }
@@ -155,29 +159,4 @@
 <script is:inline>
   function runCalculator() {
     let checkedBoxes = document.querySelectorAll('.calc-item:checked');
-    if (checkedBoxes.length === 0) {
-      alert("Please select at least one appliance to calculate your load.");
-      return;
-    }
-
-    let totalSurge = 0;
-    checkedBoxes.forEach(function(checkbox) {
-      totalSurge += parseInt(checkbox.getAttribute('data-surge'));
-    });
-
-    // Hide Step 1, Show Processing
-    document.getElementById('calculator-step').style.display = 'none';
-    document.getElementById('processing').style.display = 'block';
-
-    // Simulate Premium Calculation Delay (1.5 seconds)
-    setTimeout(function() {
-      document.getElementById('processing').style.display = 'none';
-      document.getElementById('final-surge').innerText = totalSurge.toLocaleString();
-      document.getElementById('email-surge').innerText = totalSurge.toLocaleString();
-      document.getElementById('results-panel').style.display = 'block';
-    }, 1500);
-  }
-</script>
-
-</body>
-</html>
+    if (checkedBoxes.length === 0
