@@ -30,6 +30,8 @@ const { title, description, image = FallbackImage } = Astro.props;
 />
 <meta name="generator" content={Astro.generator} />
 
+<meta name="impact-site-verification" content="d8bc139f-6fa3-4f8b-b948-3d9bcfffbd54" />
+
 <meta name="p:domain_verify" content="786a7fc7e131a98a228a0345831b4d91"/>
 
 <link rel="preload" href="/fonts/atkinson-regular.woff" as="font" type="font/woff" crossorigin />
@@ -43,26 +45,4 @@ const { title, description, image = FallbackImage } = Astro.props;
 
 <meta property="og:type" content="website" />
 <meta property="og:url" content={Astro.url} />
-<meta property="og:title" content={title} />
-<meta property="og:description" content={description} />
-<meta property="og:image" content={new URL(image.src, Astro.url)} />
-
-<meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content={Astro.url} />
-<meta property="twitter:title" content={title} />
-<meta property="twitter:description" content={description} />
-<meta property="twitter:image" content={new URL(image.src, Astro.url)} />
-<style is:global>
-  /* This magic rule stops padding from stretching the screen */
-  *, *::before, *::after {
-    box-sizing: border-box;
-  }
-  
-  html, body {
-    width: 100%;
-    max-width: 100%;
-    overflow-x: hidden;
-    margin: 0;
-    padding: 0;
-  }
-</style>
+<meta property="og:title
