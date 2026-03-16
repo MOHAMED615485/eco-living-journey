@@ -2,7 +2,7 @@
 title: "Will a Solar Generator Run a Chest Freezer? (The Blackout Math)"
 description: "Before you rely on a portable battery for your emergency food supply, you must calculate the Locked Rotor Amps (surge wattage) of your chest freezer."
 pubDate: "Mar 16 2026"
-heroImage: "/images/uploads/stocked-chest-freezer.jpg"
+heroImage: "../../assets/stocked-chest-freezer.jpg"
 ---
 
 <h1>🧊 Will a Solar Generator Run a Chest Freezer? (The Blackout Math)</h1>
