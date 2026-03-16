@@ -1,9 +1,8 @@
 ---
-layout: ../../layouts/BlogPostLayout.astro
 title: "Will a Solar Generator Run a Chest Freezer? (The Blackout Math)"
 description: "Before you rely on a portable battery for your emergency food supply, you must calculate the Locked Rotor Amps (surge wattage) of your chest freezer."
-author: "Ethan"
-date: "2026-03-16"
+pubDate: "Mar 16 2026"
+heroImage: "/images/uploads/stocked-chest-freezer.jpg"
 ---
 
 <h1>🧊 Will a Solar Generator Run a Chest Freezer? (The Blackout Math)</h1>
@@ -16,7 +15,7 @@ date: "2026-03-16"
 
 <p>Then, they jump on Amazon and buy a standard 1kWh portable battery, thinking they have effectively built a bulletproof, off-grid food preservation system for the winter.</p>
 
-<img src="/images/stocked-chest-freezer.jpg" alt="A fully stocked chest freezer with emergency meat and vegetables" class="w-full rounded-xl shadow-md my-6 border border-gray-200" />
+<img src="/images/uploads/stocked-chest-freezer.jpg" ... />
 
 <p>Honestly, I almost made this exact same mistake. I was looking at the energy guide sticker on the back of my own deep freezer. I saw that it only pulled about 150 watts of electricity, and my brain immediately did the simple math: <em>"Okay, 150 watts going into a 1,000-watt-hour battery means this thing will run for almost a week straight!"</em></p>
 
@@ -38,7 +37,7 @@ date: "2026-03-16"
 
 <p>Before you even look at buying a solar generator, you have to find out exactly what your specific freezer pulls. You cannot guess this number. Every manufacturer is different, and older freezers pull significantly more power than modern ones.</p>
 
-<img src="/images/appliance-lra-sticker.jpg" alt="Close up of a refrigerator data plate showing the Locked Rotor Amps LRA rating" class="w-full rounded-xl shadow-md my-6 border border-gray-200" />
+<img src="/images/uploads/appliance-lra-sticker.jpg" ... />
 
 <p>Here is exactly how you find your numbers:</p>
 
