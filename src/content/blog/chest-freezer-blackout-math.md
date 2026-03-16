@@ -97,15 +97,15 @@ heroImage: "../../assets/stocked-chest-freezer.jpg"
 
 <h3>1. The Sweet Spot: EcoFlow DELTA 2</h3>
 <p>This is honestly the gold standard for most normal households. It features a 1,024Wh LiFePO4 battery, but the real reason this is my top recommendation is its massive <strong>2,700W surge capacity</strong>. It will absolutely laugh at a chest freezer compressor kicking on.<br>
-**[👉 Check the current price on Amazon](https://amzn.to/4boW99s)**
+<br><a href="https://amzn.to/4boW99s" target="_blank" rel="noopener noreferrer" class="inline-block bg-yellow-400 text-gray-900 font-bold text-lg py-3 px-8 rounded-lg shadow-md hover:bg-yellow-500 transition-colors duration-200 mt-2 mb-6">👉 Check Current Price on Amazon</a>
 
 <h3>2. The Budget Pick: Jackery Explorer 1000 v2</h3>
 <p>If you only have a small 5 cubic foot chest freezer and are on a strict budget, the Jackery 1000 v2 will get the job done reliably. It handles up to a 1,500W surge, which gives you plenty of overhead for a small, modern compressor.<br>
-**[👉 Check the current price on Amazon](https://amzn.to/4rA9JNl)**
+<br><a href="https://amzn.to/4rA9JNl" target="_blank" rel="noopener noreferrer" class="inline-block bg-yellow-400 text-gray-900 font-bold text-lg py-3 px-8 rounded-lg shadow-md hover:bg-yellow-500 transition-colors duration-200 mt-2 mb-6">👉 Check Current Price on Amazon</a>
 
 <h3>3. The Doomsday Pick: EcoFlow DELTA Pro</h3>
 <p>If you are running a massive 15+ cubic foot meat locker, stop playing around and get the Pro. It packs a jaw-dropping 3,600W running capacity with a <strong>7,200W surge capacity</strong>. You could theoretically run your deep freezer, your main kitchen fridge, and a space heater simultaneously without tripping this inverter.<br>
-**[👉 Check the current price on Amazon](https://amzn.to/4sLYVMW)**
+<br><a href="https://amzn.to/4sLYVMW" target="_blank" rel="noopener noreferrer" class="inline-block bg-yellow-400 text-gray-900 font-bold text-lg py-3 px-8 rounded-lg shadow-md hover:bg-yellow-500 transition-colors duration-200 mt-2 mb-6">👉 Check Current Price on Amazon</a>
 
 <h2>🥶 Pro Tip: How to Keep Your Freezer Cold Longer in a Blackout</h2>
 
