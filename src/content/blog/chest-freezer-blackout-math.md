@@ -99,19 +99,19 @@ heroImage: "../../assets/stocked-chest-freezer.jpg"
 <p>This is honestly the gold standard for most normal households. It features a 1,024Wh LiFePO4 battery, but the real reason this is my top recommendation is its massive <strong>2,700W surge capacity</strong>. It will absolutely laugh at a chest freezer compressor kicking on.<br>
 <h3>1. The Sweet Spot: EcoFlow DELTA 2</h3>
 <p>This is honestly the gold standard for most normal households. It features a 1,024Wh LiFePO4 battery, but the real reason this is my top recommendation is its massive <strong>2,700W surge capacity</strong>. It will absolutely laugh at a chest freezer compressor kicking on.</p>
-<a href="https://amzn.to/4boW99s" target="_blank" rel="noopener noreferrer" style="background-color: #ea580c; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: bold; font-size: 18px; text-decoration: none; display: inline-block; margin: 15px 0 30px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<a href="https://amzn.to/4boW99s" target="_blank" rel="noopener noreferrer" style="background-color: #c2410c; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: bold; font-size: 18px; text-decoration: none; display: inline-block; margin: 15px 0 30px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   🛒 Check Current Price on Amazon ➔
 </a>
 
 <h3>2. The Budget Pick: Jackery Explorer 1000 v2</h3>
 <p>If you only have a small 5 cubic foot chest freezer and are on a strict budget, the Jackery 1000 v2 will get the job done reliably. It handles up to a 1,500W surge, which gives you plenty of overhead for a small, modern compressor.</p>
-<a href="https://amzn.to/4rA9JNl" target="_blank" rel="noopener noreferrer" style="background-color: #ea580c; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: bold; font-size: 18px; text-decoration: none; display: inline-block; margin: 15px 0 30px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<a href="https://amzn.to/4rA9JNl" target="_blank" rel="noopener noreferrer" style="background-color: #c2410c; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: bold; font-size: 18px; text-decoration: none; display: inline-block; margin: 15px 0 30px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   🛒 Check Current Price on Amazon ➔
 </a>
 
 <h3>3. The Doomsday Pick: EcoFlow DELTA Pro</h3>
 <p>If you are running a massive 15+ cubic foot meat locker, stop playing around and get the Pro. It packs a jaw-dropping 3,600W running capacity with a <strong>7,200W surge capacity</strong>. You could theoretically run your deep freezer, your main kitchen fridge, and a space heater simultaneously without tripping this inverter.</p>
-<a href="https://amzn.to/4sLYVMW" target="_blank" rel="noopener noreferrer" style="background-color: #ea580c; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: bold; font-size: 18px; text-decoration: none; display: inline-block; margin: 15px 0 30px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<a href="https://amzn.to/4sLYVMW" target="_blank" rel="noopener noreferrer" style="background-color: #c2410c; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: bold; font-size: 18px; text-decoration: none; display: inline-block; margin: 15px 0 30px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   🛒 Check Current Price on Amazon ➔
 </a>
 
