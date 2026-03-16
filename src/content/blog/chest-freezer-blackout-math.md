@@ -15,7 +15,7 @@ heroImage: "../../assets/stocked-chest-freezer.jpg"
 
 <p>Then, they jump on Amazon and buy a standard 1kWh portable battery, thinking they have effectively built a bulletproof, off-grid food preservation system for the winter.</p>
 
-<img src="/images/uploads/stocked-chest-freezer.jpg" ... />
+<img src="/images/uploads/stocked-chest-freezer.jpg" alt="A fully stocked chest freezer with emergency meat and vegetables" class="w-full rounded-xl shadow-md my-6 border border-gray-200" />
 
 <p>Honestly, I almost made this exact same mistake. I was looking at the energy guide sticker on the back of my own deep freezer. I saw that it only pulled about 150 watts of electricity, and my brain immediately did the simple math: <em>"Okay, 150 watts going into a 1,000-watt-hour battery means this thing will run for almost a week straight!"</em></p>
 
@@ -37,7 +37,7 @@ heroImage: "../../assets/stocked-chest-freezer.jpg"
 
 <p>Before you even look at buying a solar generator, you have to find out exactly what your specific freezer pulls. You cannot guess this number. Every manufacturer is different, and older freezers pull significantly more power than modern ones.</p>
 
-<img src="/images/uploads/appliance-lra-sticker.jpg" ... />
+<img src="/images/uploads/appliance-lra-sticker.jpg" alt="Close up of a refrigerator data plate showing the Locked Rotor Amps LRA rating" class="w-full rounded-xl shadow-md my-6 border border-gray-200" />
 
 <p>Here is exactly how you find your numbers:</p>
 
@@ -97,15 +97,15 @@ heroImage: "../../assets/stocked-chest-freezer.jpg"
 
 <h3>1. The Sweet Spot: EcoFlow DELTA 2</h3>
 <p>This is honestly the gold standard for most normal households. It features a 1,024Wh LiFePO4 battery, but the real reason this is my top recommendation is its massive <strong>2,700W surge capacity</strong>. It will absolutely laugh at a chest freezer compressor kicking on.<br>
-<em>[Insert Amazon Affiliate Link Here]</em></p>
+**[👉 Check the current price on Amazon](https://amzn.to/4boW99s)**
 
 <h3>2. The Budget Pick: Jackery Explorer 1000 v2</h3>
 <p>If you only have a small 5 cubic foot chest freezer and are on a strict budget, the Jackery 1000 v2 will get the job done reliably. It handles up to a 1,500W surge, which gives you plenty of overhead for a small, modern compressor.<br>
-<em>[Insert Amazon Affiliate Link Here]</em></p>
+**[👉 Check the current price on Amazon](https://amzn.to/4rA9JNl)**
 
 <h3>3. The Doomsday Pick: EcoFlow DELTA Pro</h3>
 <p>If you are running a massive 15+ cubic foot meat locker, stop playing around and get the Pro. It packs a jaw-dropping 3,600W running capacity with a <strong>7,200W surge capacity</strong>. You could theoretically run your deep freezer, your main kitchen fridge, and a space heater simultaneously without tripping this inverter.<br>
-<em>[Insert Amazon Affiliate Link Here]</em></p>
+**[👉 Check the current price on Amazon](https://amzn.to/4sLYVMW)**
 
 <h2>🥶 Pro Tip: How to Keep Your Freezer Cold Longer in a Blackout</h2>
 
