@@ -2,7 +2,7 @@
 title: "Solar Water Heaters vs. Gas: The Ultimate Utility Bill Cutter"
 description: "I did the honest math on how much heating water actually costs. Here is why switching to a solar water heater can save you thousands."
 pubDate: "2026-03-04"
-heroImage: "./solar-heater.webp"
+heroImage: "./solar-heater.jpg"
 ---
 
 <style>

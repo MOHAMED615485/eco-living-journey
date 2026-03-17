@@ -2,7 +2,7 @@
 title: "Will a Solar Generator Run a Chest Freezer? (The Blackout Math)"
 description: "Before you rely on a portable battery for your emergency food supply, you must calculate the Locked Rotor Amps (surge wattage) of your chest freezer."
 pubDate: "Mar 16 2026"
-heroImage: "../../assets/stocked-chest-freezer.webp"
+heroImage: "../../assets/stocked-chest-freezer.jpg"
 ---
 
 <h1>🧊 Will a Solar Generator Run a Chest Freezer? (The Blackout Math)</h1>
@@ -15,7 +15,7 @@ heroImage: "../../assets/stocked-chest-freezer.webp"
 
 <p>Then, they jump on Amazon and buy a standard 1kWh portable battery, thinking they have effectively built a bulletproof, off-grid food preservation system for the winter.</p>
 
-<img src="/images/uploads/stocked-chest-freezer.webp" alt="A fully stocked chest freezer with emergency meat and vegetables" class="w-full rounded-xl shadow-md my-6 border border-gray-200" />
+<img src="/images/uploads/stocked-chest-freezer.jpg" alt="A fully stocked chest freezer with emergency meat and vegetables" class="w-full rounded-xl shadow-md my-6 border border-gray-200" />
 
 <p>Honestly, I almost made this exact same mistake. I was looking at the energy guide sticker on the back of my own deep freezer. I saw that it only pulled about 150 watts of electricity, and my brain immediately did the simple math: <em>"Okay, 150 watts going into a 1,000-watt-hour battery means this thing will run for almost a week straight!"</em></p>
 
