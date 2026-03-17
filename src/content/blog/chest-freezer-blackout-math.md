@@ -97,8 +97,7 @@ heroImage: "../../assets/stocked-chest-freezer.jpg"
 
 <h3>1. The Sweet Spot: EcoFlow DELTA 2</h3>
 <p>This is honestly the gold standard for most normal households. It features a 1,024Wh LiFePO4 battery, but the real reason this is my top recommendation is its massive <strong>2,700W surge capacity</strong>. It will absolutely laugh at a chest freezer compressor kicking on.<br>
-<h3>1. The Sweet Spot: EcoFlow DELTA 2</h3>
-<p>This is honestly the gold standard for most normal households. It features a 1,024Wh LiFePO4 battery, but the real reason this is my top recommendation is its massive <strong>2,700W surge capacity</strong>. It will absolutely laugh at a chest freezer compressor kicking on.</p>
+
 <a href="https://amzn.to/4boW99s" target="_blank" rel="noopener noreferrer" style="background-color: #c2410c; color: #ffffff; padding: 14px 32px; border-radius: 8px; font-weight: bold; font-size: 18px; text-decoration: none; display: inline-block; margin: 15px 0 30px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   🛒 Check Current Price on Amazon ➔
 </a>
