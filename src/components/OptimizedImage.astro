@@ -1,0 +1,32 @@
+---
+import { Image } from 'astro:assets';
+
+interface Props {
+  src: any; // Astro handles the import object
+  alt: string;
+  isLCP?: boolean; // Set this to true for the first image on the page
+}
+
+const { src, alt, isLCP = false } = Astro.props;
+---
+
+<Image 
+  src={src} 
+  alt={alt} 
+  width={1200} 
+  height={675} 
+  format="webp"
+  quality="mid"
+  loading={isLCP ? "eager" : "lazy"} 
+  decoding={isLCP ? "sync" : "async"}
+  class="rounded-lg shadow-md"
+/>
+
+<style>
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1.5rem auto;
+  }
+</style>
