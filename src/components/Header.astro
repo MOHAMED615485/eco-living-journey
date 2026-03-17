@@ -1,37 +1,56 @@
 ---
-import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
----<header>
-    <nav>
-       <a href="/">
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="/logo.png" alt="Logo" width="40" height="40" style="border-radius: 8px;" />
-    {SITE_TITLE}
-  </div>
-</a>
-        <div class="internal-links">
-            <HeaderLink href="/">Home</HeaderLink>
-            <HeaderLink href="/blog">Blog</HeaderLink>
-            <HeaderLink href="/about">About</HeaderLink>
-        </div>
-    </nav>
+import { SITE_TITLE } from '../consts';
+---
+
+<header>
+	<nav>
+		<h2>
+			<a href="/" style="display: flex; align-items: center; gap: 10px; text-decoration: none;">
+				<img src="/logo.png" alt="Logo" width="40" height="40" style="border-radius: 8px;" />
+				{SITE_TITLE}
+			</a>
+		</h2>
+		<div class="internal-links">
+			<HeaderLink href="/">Home</HeaderLink>
+			<HeaderLink href="/blog">Blog</HeaderLink>
+			<HeaderLink href="/about">About</HeaderLink>
+		</div>
+	</nav>
 </header>
 
 <style>
-    header { padding: 1em; background: white; box-shadow: 0 2px 10px rgba(0,0,0,0.08); }
-    nav { 
-        display: flex; 
-        align-items: center; 
-        justify-content: space-between; /* Links right, logo left on PC */
-        max-width: 1000px; 
-        margin: 0 auto; 
-    }
-    .logo-link img { height: 90px; width: auto; display: block; }
-    .internal-links { display: flex; gap: 2.5em; font-weight: 600; }
-
-    @media (max-width: 720px) {
-        nav { flex-direction: column; gap: 1.5em; text-align: center; }
-        .logo-link img { height: 75px; }
-        .internal-links { gap: 1.5em; justify-content: center; }
-    }
+	header {
+		margin: 0;
+		padding: 0 1em;
+		background: white;
+		box-shadow: 0 2px 8px rgba(var(--black), 5%);
+	}
+	h2 {
+		margin: 0;
+		font-size: 1em;
+	}
+	h2 a,
+	h2 a.active {
+		text-decoration: none;
+		color: var(--black);
+	}
+	nav {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+	nav a {
+		padding: 1em 0.5em;
+		color: var(--black);
+		border-bottom: 4px solid transparent;
+		text-decoration: none;
+	}
+	nav a.active {
+		text-decoration: none;
+		border-bottom-color: var(--accent);
+	}
+	.internal-links {
+		display: flex;
+	}
 </style>
