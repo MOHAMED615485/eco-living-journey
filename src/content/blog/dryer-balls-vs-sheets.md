@@ -2,7 +2,7 @@
 title: "Dryer Balls vs. Sheets: The $100+ Mistake"
 description: "Why dryer sheets are a waste of money for regular families."
 pubDate: "2026-03-03"
-heroImage: "./dryer-balls.jpg"
+heroImage: "./dryer-balls.webp"
 ---
 
 <style>
