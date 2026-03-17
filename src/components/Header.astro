@@ -1,11 +1,14 @@
 ---
+import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
----
-<header>
+---<header>
     <nav>
-        <a href="/" class="logo-link">
-            <img src="/logo.jpg" alt="Eco Living Journey Logo" />
-        </a>
+       <a href="/">
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="/logo.png" alt="Logo" width="40" height="40" style="border-radius: 8px;" />
+    {SITE_TITLE}
+  </div>
+</a>
         <div class="internal-links">
             <HeaderLink href="/">Home</HeaderLink>
             <HeaderLink href="/blog">Blog</HeaderLink>
