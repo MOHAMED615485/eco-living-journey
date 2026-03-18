@@ -145,7 +145,7 @@ That's not a gadget. That's infrastructure.
 If you've got a chest freezer stocked with food you care about, the math works. Use the [free calculator](/local-quote/) to confirm your specific numbers first — and if the DELTA 3 Plus checks out for your setup, I wouldn't hesitate.
 
 <div class="cta-container">
-  <a href="https://amzn.to/4boW99s" target="_blank" rel="noopener noreferrer" class="cta-button">
+  <a href="https://amzn.to/4rHkw8D" target="_blank" rel="noopener noreferrer" class="cta-button">
     🛒 Check Current Price on Amazon →
   </a>
 </div>
@@ -154,5 +154,5 @@ If you've got a chest freezer stocked with food you care about, the math works. 
 
 *— Ethan*
 
-*Got a question about your specific freezer model or setup? Leave it in the comments. I check regularly and I'll give you a straight answer.*
+
 
