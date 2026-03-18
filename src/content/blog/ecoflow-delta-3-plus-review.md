@@ -2,7 +2,7 @@
 title: "EcoFlow DELTA 3 Plus Review: I Ran It on My Chest Freezer for 6 Months (Here's the Real Story)"
 description: "After losing $800 worth of frozen meat in a power outage, I spent months testing the EcoFlow DELTA 3 Plus on my garage chest freezer. Here's my honest, no-fluff review — the good, the bad, and the number most reviewers never mention."
 pubDate: "Mar 20 2026"
-heroImage: "../../assets/ecoflow-delta-3-plus-review.jpg"
+heroImage: "../../assets/ecoflow-delta-3-plus-review.webp"
 ---
 
 ## Will the EcoFlow DELTA 3 Plus Run a Chest Freezer During a Blackout?
