@@ -1,5 +1,5 @@
 ---
-// Premium Blackout Load Calculator
+// Blackout Load Calculator — 3-Step Wizard
 ---
 
 <html lang="en">
@@ -8,1023 +8,463 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Blackout Load Calculator — Eco Living Journey</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=DM+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet" />
   <style>
     :root {
-      --bg: #0a0f0d;
-      --surface: #111a16;
-      --surface2: #172118;
-      --border: #1e2f23;
-      --green: #22c55e;
-      --green-dim: #16a34a;
-      --green-glow: rgba(34,197,94,0.15);
-      --amber: #f59e0b;
-      --red: #ef4444;
-      --text: #e8f0eb;
-      --muted: #6b8a73;
+      --bg: #f7faf8;
+      --surface: #ffffff;
+      --border: #e2ebe5;
+      --green: #2f855a;
+      --green-light: #f0fdf4;
+      --green-mid: #d1fae5;
+      --text: #1a202c;
+      --muted: #718096;
+      --amber: #d97706;
+      --red: #dc2626;
       --font-display: 'Syne', sans-serif;
       --font-body: 'DM Sans', sans-serif;
+      --radius: 16px;
     }
-
     * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: var(--font-body); background: var(--bg); color: var(--text); min-height: 100vh; }
 
-    body {
-      font-family: var(--font-body);
-      background: var(--bg);
-      color: var(--text);
-      min-height: 100vh;
-      padding: 0 0 80px 0;
-    }
+    .progress-bar { position: fixed; top: 0; left: 0; right: 0; height: 4px; background: var(--border); z-index: 100; }
+    .progress-fill { height: 100%; background: var(--green); transition: width 0.4s ease; }
 
-    /* Hero Header */
-    .hero {
-      position: relative;
-      text-align: center;
-      padding: 60px 24px 48px;
-      overflow: hidden;
-    }
-    .hero::before {
-      content: '';
-      position: absolute;
-      top: -60px; left: 50%;
-      transform: translateX(-50%);
-      width: 600px; height: 300px;
-      background: radial-gradient(ellipse, rgba(34,197,94,0.12) 0%, transparent 70%);
-      pointer-events: none;
-    }
-    .hero-badge {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      background: var(--green-glow);
-      border: 1px solid rgba(34,197,94,0.3);
-      color: var(--green);
-      font-size: 13px;
-      font-weight: 600;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      padding: 6px 16px;
-      border-radius: 100px;
-      margin-bottom: 24px;
-    }
-    .hero h1 {
-      font-family: var(--font-display);
-      font-size: clamp(32px, 6vw, 58px);
-      font-weight: 800;
-      line-height: 1.05;
-      color: #fff;
-      margin-bottom: 16px;
-      letter-spacing: -0.02em;
-    }
-    .hero h1 span { color: var(--green); }
-    .hero p {
-      max-width: 560px;
-      margin: 0 auto;
-      color: var(--muted);
-      font-size: 17px;
-      line-height: 1.6;
-    }
+    .step-container { display: none; min-height: 100vh; flex-direction: column; }
+    .step-container.active { display: flex; }
 
-    /* Main Layout */
-    .calc-layout {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 0 20px;
-      display: grid;
-      gap: 20px;
-    }
+    .step-header { padding: 40px 24px 0; max-width: 680px; margin: 0 auto; width: 100%; }
+    .step-tag { display: inline-flex; align-items: center; background: var(--green-light); border: 1px solid var(--green-mid); color: var(--green); font-size: 12px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; padding: 5px 14px; border-radius: 100px; margin-bottom: 16px; }
+    .step-title { font-family: var(--font-display); font-size: clamp(26px, 5vw, 38px); font-weight: 800; line-height: 1.1; margin-bottom: 10px; }
+    .step-title span { color: var(--green); }
+    .step-subtitle { font-size: 16px; color: var(--muted); line-height: 1.5; }
 
-    /* Cards */
-    .card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      padding: 28px;
-    }
-    .card-title {
-      font-family: var(--font-display);
-      font-size: 16px;
-      font-weight: 700;
-      color: var(--green);
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      margin-bottom: 20px;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-    .card-title::after {
-      content: '';
-      flex: 1;
-      height: 1px;
-      background: var(--border);
-    }
+    .step-body { flex: 1; padding: 24px; max-width: 680px; margin: 0 auto; width: 100%; }
+    .step-footer { padding: 20px 24px 40px; max-width: 680px; margin: 0 auto; width: 100%; }
 
-    /* Voltage Selector */
-    .voltage-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 12px;
-    }
-    .voltage-btn {
-      background: var(--surface2);
-      border: 2px solid var(--border);
-      border-radius: 12px;
-      padding: 16px;
-      cursor: pointer;
-      transition: all 0.2s;
-      text-align: left;
-      color: var(--text);
-    }
-    .voltage-btn.active {
-      border-color: var(--green);
-      background: var(--green-glow);
-    }
-    .voltage-btn .v-label {
-      font-family: var(--font-display);
-      font-size: 22px;
-      font-weight: 700;
-      color: var(--green);
-      display: block;
-    }
-    .voltage-btn .v-desc {
-      font-size: 13px;
-      color: var(--muted);
-      margin-top: 4px;
-    }
+    .app-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
 
-    /* Appliance List */
-    .appliance-list { display: flex; flex-direction: column; gap: 10px; }
+    .app-card { background: var(--surface); border: 2px solid var(--border); border-radius: var(--radius); padding: 18px 16px; cursor: pointer; transition: all 0.18s ease; user-select: none; position: relative; }
+    .app-card:hover { border-color: #a7d7b8; background: var(--green-light); }
+    .app-card.selected { border-color: var(--green); background: var(--green-light); box-shadow: 0 0 0 4px rgba(47,133,90,0.1); }
+    .app-card .check { position: absolute; top: 12px; right: 12px; width: 22px; height: 22px; border: 2px solid var(--border); border-radius: 6px; background: white; display: flex; align-items: center; justify-content: center; transition: all 0.18s; }
+    .app-card.selected .check { background: var(--green); border-color: var(--green); }
+    .app-card.selected .check::after { content: ''; width: 10px; height: 7px; border-left: 2px solid white; border-bottom: 2px solid white; transform: rotate(-45deg) translateY(-1px); display: block; }
+    .app-emoji { font-size: 28px; margin-bottom: 10px; display: block; }
+    .app-label { font-size: 14px; font-weight: 600; color: var(--text); margin-bottom: 4px; line-height: 1.3; padding-right: 26px; }
+    .app-surge-tag { display: inline-block; margin-top: 8px; background: #fff7ed; border: 1px solid #fed7aa; color: var(--amber); font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 100px; }
 
-    .appliance-item {
-      background: var(--surface2);
-      border: 2px solid var(--border);
-      border-radius: 12px;
-      padding: 16px 20px;
-      cursor: pointer;
-      transition: all 0.2s;
-      display: grid;
-      grid-template-columns: auto 1fr auto;
-      align-items: center;
-      gap: 16px;
-    }
-    .appliance-item:hover { border-color: rgba(34,197,94,0.3); }
-    .appliance-item.selected {
-      border-color: var(--green);
-      background: var(--green-glow);
-    }
+    .custom-box { background: var(--surface); border: 2px dashed var(--border); border-radius: var(--radius); padding: 20px; margin-top: 12px; }
+    .custom-box-title { font-size: 13px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.07em; margin-bottom: 14px; }
+    .custom-fields { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 10px; }
+    .field-wrap label { display: block; font-size: 12px; color: var(--muted); margin-bottom: 5px; font-weight: 500; }
+    .field-wrap input { width: 100%; background: var(--bg); border: 1px solid var(--border); border-radius: 10px; padding: 10px 14px; font-family: var(--font-body); font-size: 14px; color: var(--text); outline: none; transition: border-color 0.2s; }
+    .field-wrap input:focus { border-color: var(--green); }
+    .field-wrap input::placeholder { color: #c0ccc4; }
+    .add-custom-btn { width: 100%; background: var(--green-light); border: 1px solid var(--green-mid); color: var(--green); border-radius: 10px; padding: 10px; font-family: var(--font-body); font-size: 14px; font-weight: 600; cursor: pointer; transition: all 0.2s; }
+    .add-custom-btn:hover { background: var(--green-mid); }
 
-    .app-check {
-      width: 22px; height: 22px;
-      border: 2px solid var(--border);
-      border-radius: 6px;
-      background: var(--surface);
-      display: flex; align-items: center; justify-content: center;
-      transition: all 0.2s;
-      flex-shrink: 0;
-    }
-    .appliance-item.selected .app-check {
-      background: var(--green);
-      border-color: var(--green);
-    }
-    .app-check svg { opacity: 0; transition: opacity 0.15s; }
-    .appliance-item.selected .app-check svg { opacity: 1; }
+    .duration-display { text-align: center; margin: 32px 0 24px; }
+    .duration-num { font-family: var(--font-display); font-size: 80px; font-weight: 800; color: var(--green); line-height: 1; }
+    .duration-unit { font-size: 18px; color: var(--muted); margin-top: 6px; }
 
-    .app-info { min-width: 0; }
-    .app-name {
-      font-weight: 600;
-      font-size: 15px;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-    .app-name .emoji { font-size: 18px; }
-    .app-watts {
-      font-size: 12px;
-      color: var(--muted);
-      margin-top: 3px;
-    }
+    .slider-wrap { padding: 0 8px; }
+    input[type="range"] { width: 100%; -webkit-appearance: none; height: 6px; border-radius: 3px; background: var(--border); outline: none; cursor: pointer; }
+    input[type="range"]::-webkit-slider-thumb { -webkit-appearance: none; width: 28px; height: 28px; border-radius: 50%; background: var(--green); border: 3px solid white; box-shadow: 0 2px 8px rgba(47,133,90,0.4); cursor: pointer; }
+    .slider-labels { display: flex; justify-content: space-between; margin-top: 10px; font-size: 12px; color: var(--muted); }
 
-    .app-surge {
-      text-align: right;
-      flex-shrink: 0;
-    }
-    .surge-val {
-      font-family: var(--font-display);
-      font-size: 18px;
-      font-weight: 700;
-      color: var(--amber);
-    }
-    .surge-label {
-      font-size: 11px;
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: 0.06em;
-    }
+    .presets { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-top: 28px; }
+    .preset-btn { background: var(--surface); border: 2px solid var(--border); border-radius: 12px; padding: 14px 8px; text-align: center; cursor: pointer; transition: all 0.18s; font-family: var(--font-body); }
+    .preset-btn:hover, .preset-btn.active { border-color: var(--green); background: var(--green-light); }
+    .preset-num { font-family: var(--font-display); font-size: 22px; font-weight: 700; color: var(--green); display: block; }
+    .preset-label { font-size: 12px; color: var(--muted); }
 
-    /* Custom Appliance */
-    .custom-row {
-      display: grid;
-      grid-template-columns: 1fr 1fr 1fr auto;
-      gap: 10px;
-      align-items: end;
-      margin-top: 12px;
-    }
-    .field-group label {
-      display: block;
-      font-size: 12px;
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: 0.06em;
-      margin-bottom: 6px;
-    }
-    .field-group input {
-      width: 100%;
-      background: var(--surface2);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      padding: 10px 14px;
-      color: var(--text);
-      font-family: var(--font-body);
-      font-size: 14px;
-      outline: none;
-      transition: border-color 0.2s;
-    }
-    .field-group input:focus { border-color: var(--green); }
-    .field-group input::placeholder { color: var(--muted); }
-    .add-btn {
-      background: var(--green-glow);
-      border: 1px solid rgba(34,197,94,0.4);
-      color: var(--green);
-      border-radius: 8px;
-      padding: 10px 18px;
-      cursor: pointer;
-      font-weight: 600;
-      font-size: 14px;
-      white-space: nowrap;
-      transition: all 0.2s;
-    }
-    .add-btn:hover { background: rgba(34,197,94,0.25); }
-
-    /* Runtime */
-    .runtime-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 12px;
-    }
-
-    /* Calculate Button */
-    .calc-btn {
-      width: 100%;
-      background: var(--green);
-      color: #0a0f0d;
-      border: none;
-      border-radius: 12px;
-      padding: 20px;
-      font-family: var(--font-display);
-      font-size: 18px;
-      font-weight: 700;
-      cursor: pointer;
-      transition: all 0.2s;
-      letter-spacing: 0.02em;
-      position: relative;
-      overflow: hidden;
-    }
-    .calc-btn:hover {
-      background: #4ade80;
-      transform: translateY(-2px);
-      box-shadow: 0 8px 30px rgba(34,197,94,0.3);
-    }
-    .calc-btn:active { transform: translateY(0); }
-
-    /* Processing */
-    #processing {
-      display: none;
-      text-align: center;
-      padding: 60px 20px;
-    }
-    .proc-ring {
-      width: 64px; height: 64px;
-      border: 3px solid var(--border);
-      border-top-color: var(--green);
-      border-radius: 50%;
-      animation: spin 0.8s linear infinite;
-      margin: 0 auto 20px;
-    }
+    .proc-wrap { display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 80vh; gap: 20px; text-align: center; }
+    .proc-ring { width: 56px; height: 56px; border: 3px solid var(--border); border-top-color: var(--green); border-radius: 50%; animation: spin 0.8s linear infinite; }
     @keyframes spin { to { transform: rotate(360deg); } }
-    .proc-text {
-      font-family: var(--font-display);
-      font-size: 20px;
-      color: var(--green);
-    }
-    .proc-sub { color: var(--muted); font-size: 14px; margin-top: 8px; }
+    .proc-title { font-family: var(--font-display); font-size: 22px; font-weight: 700; color: var(--text); }
+    .proc-sub { font-size: 14px; color: var(--muted); }
 
-    /* Results */
-    #results-panel { display: none; }
+    .verdict-box { background: var(--surface); border: 2px solid var(--border); border-radius: var(--radius); overflow: hidden; margin-bottom: 16px; }
+    .verdict-stripe { height: 6px; width: 100%; }
+    .verdict-content { padding: 22px; }
+    .verdict-label { display: inline-block; font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; padding: 4px 14px; border-radius: 100px; margin-bottom: 10px; }
+    .verdict-safe { background: var(--green-light); color: var(--green); }
+    .verdict-caution { background: #fffbeb; color: var(--amber); }
+    .verdict-danger { background: #fef2f2; color: var(--red); }
+    .verdict-title { font-family: var(--font-display); font-size: 20px; font-weight: 800; margin-bottom: 6px; }
+    .verdict-desc { font-size: 14px; color: var(--muted); line-height: 1.5; }
 
-    .result-hero {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      padding: 32px;
-      text-align: center;
-      position: relative;
-      overflow: hidden;
-      margin-bottom: 20px;
-    }
-    .result-hero::before {
-      content: '';
-      position: absolute;
-      top: 0; left: 0; right: 0;
-      height: 3px;
-      background: linear-gradient(90deg, var(--green), var(--amber), var(--red));
-    }
+    .stats-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-bottom: 16px; }
+    .stat-box { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 18px 10px; text-align: center; }
+    .stat-val { font-family: var(--font-display); font-size: 22px; font-weight: 800; line-height: 1; margin-bottom: 6px; }
+    .stat-val.surge { color: var(--amber); }
+    .stat-val.run { color: var(--green); }
+    .stat-val.bat { color: #2563eb; }
+    .stat-label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; }
 
-    .verdict-badge {
-      display: inline-block;
-      padding: 6px 18px;
-      border-radius: 100px;
-      font-size: 13px;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.1em;
-      margin-bottom: 16px;
-    }
-    .verdict-safe { background: rgba(34,197,94,0.15); color: var(--green); border: 1px solid rgba(34,197,94,0.3); }
-    .verdict-caution { background: rgba(245,158,11,0.15); color: var(--amber); border: 1px solid rgba(245,158,11,0.3); }
-    .verdict-danger { background: rgba(239,68,68,0.15); color: var(--red); border: 1px solid rgba(239,68,68,0.3); }
+    .breakdown { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; margin-bottom: 16px; }
+    .breakdown-header { padding: 14px 18px; border-bottom: 1px solid var(--border); font-size: 12px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.07em; }
+    .breakdown-row { display: flex; justify-content: space-between; align-items: center; padding: 13px 18px; border-bottom: 1px solid var(--border); font-size: 14px; gap: 10px; }
+    .breakdown-row:last-child { border-bottom: none; }
+    .breakdown-name { font-weight: 500; flex: 1; }
+    .breakdown-surge { color: var(--amber); font-weight: 700; font-size: 13px; white-space: nowrap; }
+    .breakdown-run { color: var(--green); font-weight: 600; font-size: 13px; white-space: nowrap; }
 
-    .result-nums {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 16px;
-      margin: 24px 0;
-    }
-    .num-box {
-      background: var(--surface2);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 20px 12px;
-    }
-    .num-val {
-      font-family: var(--font-display);
-      font-size: 28px;
-      font-weight: 800;
-      line-height: 1;
-      margin-bottom: 6px;
-    }
-    .num-val.surge-color { color: var(--amber); }
-    .num-val.run-color { color: var(--green); }
-    .num-val.bat-color { color: #60a5fa; }
-    .num-label { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; }
+    .email-box { background: linear-gradient(135deg, #f0fdf4, #dcfce7); border: 2px solid var(--green-mid); border-radius: var(--radius); padding: 28px 22px; text-align: center; margin-bottom: 16px; }
+    .email-icon { font-size: 36px; margin-bottom: 12px; }
+    .email-title { font-family: var(--font-display); font-size: 22px; font-weight: 800; color: var(--text); margin-bottom: 8px; }
+    .email-desc { font-size: 15px; color: var(--muted); margin-bottom: 20px; line-height: 1.5; }
+    .email-bullets { list-style: none; text-align: left; margin: 0 auto 22px; display: inline-block; }
+    .email-bullets li { font-size: 14px; color: var(--text); margin-bottom: 8px; display: flex; align-items: center; gap: 8px; }
+    .email-bullets li::before { content: '✓'; color: var(--green); font-weight: 700; flex-shrink: 0; }
 
-    /* Appliance breakdown */
-    .breakdown-table { width: 100%; border-collapse: collapse; }
-    .breakdown-table th {
-      text-align: left;
-      font-size: 11px;
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      padding: 10px 14px;
-      border-bottom: 1px solid var(--border);
-    }
-    .breakdown-table td {
-      padding: 14px;
-      border-bottom: 1px solid var(--border);
-      font-size: 14px;
-    }
-    .breakdown-table tr:last-child td { border-bottom: none; }
-    .breakdown-table .td-surge { color: var(--amber); font-weight: 700; font-family: var(--font-display); }
-    .breakdown-table .td-run { color: var(--green); font-weight: 600; }
+    .cta-btn { width: 100%; background: var(--green); color: white; border: none; border-radius: 14px; padding: 18px; font-family: var(--font-display); font-size: 18px; font-weight: 700; cursor: pointer; transition: all 0.2s; }
+    .cta-btn:hover { background: #276749; transform: translateY(-2px); box-shadow: 0 8px 24px rgba(47,133,90,0.3); }
+    .cta-btn:disabled { background: #a0aec0; transform: none; box-shadow: none; cursor: not-allowed; }
 
-    /* Recommendation cards */
-    .rec-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; }
-    .rec-card {
-      background: var(--surface2);
-      border: 1px solid var(--border);
-      border-radius: 14px;
-      padding: 22px;
-      position: relative;
-    }
-    .rec-card.top-pick {
-      border-color: var(--green);
-    }
-    .top-pick-badge {
-      position: absolute;
-      top: -1px; right: 16px;
-      background: var(--green);
-      color: #0a0f0d;
-      font-size: 11px;
-      font-weight: 800;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      padding: 4px 12px;
-      border-radius: 0 0 8px 8px;
-    }
-    .rec-name {
-      font-family: var(--font-display);
-      font-size: 17px;
-      font-weight: 700;
-      margin-bottom: 4px;
-    }
-    .rec-capacity {
-      font-size: 13px;
-      color: var(--muted);
-      margin-bottom: 14px;
-    }
-    .rec-stats { display: flex; flex-direction: column; gap: 8px; }
-    .rec-stat { display: flex; justify-content: space-between; align-items: center; font-size: 13px; }
-    .rec-stat-label { color: var(--muted); }
-    .rec-stat-val { font-weight: 600; }
-    .rec-stat-val.ok { color: var(--green); }
-    .rec-stat-val.warn { color: var(--amber); }
-    .rec-stat-val.bad { color: var(--red); }
-    .rec-link {
-      display: block;
-      text-align: center;
-      margin-top: 16px;
-      background: var(--green-glow);
-      border: 1px solid rgba(34,197,94,0.3);
-      color: var(--green);
-      text-decoration: none;
-      padding: 10px;
-      border-radius: 8px;
-      font-weight: 600;
-      font-size: 14px;
-      transition: all 0.2s;
-    }
-    .rec-link:hover { background: rgba(34,197,94,0.2); }
+    .back-btn { background: none; border: none; color: var(--muted); font-family: var(--font-body); font-size: 15px; cursor: pointer; display: flex; align-items: center; gap: 6px; padding: 0; margin-bottom: 16px; transition: color 0.2s; }
+    .back-btn:hover { color: var(--text); }
 
-    /* Tips */
-    .tips-list { display: flex; flex-direction: column; gap: 10px; }
-    .tip-item {
-      display: flex;
-      gap: 14px;
-      align-items: flex-start;
-      padding: 14px;
-      background: var(--surface2);
-      border-radius: 10px;
-      border: 1px solid var(--border);
-    }
-    .tip-icon { font-size: 20px; flex-shrink: 0; margin-top: 2px; }
-    .tip-text { font-size: 14px; line-height: 1.5; color: var(--text); }
-    .tip-text strong { color: var(--green); }
+    .selected-count { font-size: 14px; color: var(--green); font-weight: 600; text-align: center; margin-bottom: 14px; min-height: 20px; }
 
-    /* Email capture */
-    .email-capture {
-      background: linear-gradient(135deg, #0f2318, #0a1a10);
-      border: 1px solid rgba(34,197,94,0.3);
-      border-radius: 16px;
-      padding: 32px;
-      text-align: center;
-    }
-    .email-capture h3 {
-      font-family: var(--font-display);
-      font-size: 22px;
-      font-weight: 800;
-      color: #fff;
-      margin-bottom: 8px;
-    }
-    .email-capture p { color: var(--muted); font-size: 15px; margin-bottom: 24px; }
-
-    .reset-btn {
-      display: block;
-      width: 100%;
-      background: transparent;
-      border: 1px solid var(--border);
-      color: var(--muted);
-      border-radius: 10px;
-      padding: 14px;
-      font-family: var(--font-body);
-      font-size: 15px;
-      cursor: pointer;
-      margin-top: 16px;
-      transition: all 0.2s;
-    }
-    .reset-btn:hover { border-color: var(--green); color: var(--green); }
-
-    /* Responsive */
-    @media (max-width: 600px) {
-      .custom-row { grid-template-columns: 1fr 1fr; }
-      .custom-row .add-btn { grid-column: 1/-1; }
-      .result-nums { grid-template-columns: 1fr 1fr; }
-      .voltage-grid { grid-template-columns: 1fr; }
-      .runtime-grid { grid-template-columns: 1fr; }
-    }
-
-    /* ConvertKit overrides */
+    /* ConvertKit */
     .formkit-header, .formkit-subheader { display: none !important; }
-    .formkit-form, [data-style="minimal"] { background: transparent !important; padding: 0 !important; box-shadow: none !important; border: none !important; }
-    .formkit-input {
-      background: var(--surface2) !important;
-      border: 1px solid var(--border) !important;
-      color: var(--text) !important;
-      border-radius: 8px !important;
-      padding: 14px !important;
-      font-size: 15px !important;
-    }
+    .formkit-form { background: transparent !important; padding: 0 !important; box-shadow: none !important; border: none !important; max-width: 100% !important; }
+    [data-style="minimal"] { background: transparent !important; padding: 0 !important; }
+    .formkit-fields { flex-direction: column !important; gap: 10px !important; }
+    .formkit-field { flex: none !important; }
+    .formkit-input { background: white !important; border: 2px solid var(--border) !important; color: var(--text) !important; border-radius: 12px !important; padding: 14px 16px !important; font-size: 15px !important; font-family: var(--font-body) !important; width: 100% !important; }
     .formkit-input:focus { border-color: var(--green) !important; outline: none !important; }
-    .formkit-submit {
-      background: var(--green) !important;
-      color: #0a0f0d !important;
-      border-radius: 8px !important;
-      font-weight: 700 !important;
-      padding: 14px !important;
-      font-size: 16px !important;
-    }
+    .formkit-submit { background: var(--green) !important; color: white !important; border-radius: 12px !important; font-family: var(--font-display) !important; font-weight: 700 !important; font-size: 17px !important; padding: 16px !important; width: 100% !important; border: none !important; cursor: pointer !important; }
     .formkit-powered-by-convertkit-container { display: none !important; }
-    .formkit-guarantee { color: var(--muted) !important; font-size: 13px !important; }
+    .formkit-guarantee { color: var(--muted) !important; font-size: 13px !important; margin-top: 12px !important; }
+
+    @media (max-width: 420px) {
+      .app-grid { grid-template-columns: 1fr 1fr; }
+      .stats-row { grid-template-columns: 1fr 1fr; }
+      .presets { grid-template-columns: repeat(2, 1fr); }
+      .custom-fields { grid-template-columns: 1fr; }
+      .duration-num { font-size: 64px; }
+    }
   </style>
 </head>
 <body>
 
-<!-- Hero -->
-<div class="hero">
-  <div class="hero-badge">⚡ Free Tool</div>
-  <h1>Blackout <span>Load</span><br/>Calculator</h1>
-  <p>Enter your appliances and get the exact surge capacity, battery size, and runtime you need — no guessing.</p>
+<div class="progress-bar">
+  <div class="progress-fill" id="progress-fill" style="width: 33%"></div>
 </div>
 
-<div class="calc-layout">
-
-  <!-- Step 1: Voltage -->
-  <div class="card" id="step-voltage">
-    <div class="card-title">① Grid Voltage</div>
-    <div class="voltage-grid">
-      <button class="voltage-btn active" onclick="setVoltage(120, this)">
-        <span class="v-label">120V</span>
-        <span class="v-desc">Standard US — most homes, fridges, freezers, lights</span>
-      </button>
-      <button class="voltage-btn" onclick="setVoltage(240, this)">
-        <span class="v-label">240V</span>
-        <span class="v-desc">Heavy-duty — central AC, well pumps, dryers</span>
-      </button>
+<!-- STEP 1 -->
+<div class="step-container active" id="step-1">
+  <div class="step-header">
+    <div class="step-tag">Step 1 of 3</div>
+    <h1 class="step-title">Which appliances do you<br/><span>need to power?</span></h1>
+    <p class="step-subtitle">Tap everything you want running during a blackout.</p>
+  </div>
+  <div class="step-body">
+    <div id="selected-count" class="selected-count"></div>
+    <div class="app-grid" id="app-grid">
+      <div class="app-card" onclick="toggleCard(this)" data-running="150" data-surge="900" data-name="Chest Freezer (7 cu. ft.)">
+        <div class="check"></div><span class="app-emoji">🧊</span>
+        <div class="app-label">Chest Freezer 7 cu. ft.</div>
+        <div class="app-surge-tag">900W surge</div>
+      </div>
+      <div class="app-card" onclick="toggleCard(this)" data-running="100" data-surge="600" data-name="Chest Freezer (5 cu. ft.)">
+        <div class="check"></div><span class="app-emoji">🧊</span>
+        <div class="app-label">Chest Freezer 5 cu. ft.</div>
+        <div class="app-surge-tag">600W surge</div>
+      </div>
+      <div class="app-card" onclick="toggleCard(this)" data-running="250" data-surge="1500" data-name="Chest Freezer (15 cu. ft.)">
+        <div class="check"></div><span class="app-emoji">🧊</span>
+        <div class="app-label">Chest Freezer 15 cu. ft.</div>
+        <div class="app-surge-tag">1,500W surge</div>
+      </div>
+      <div class="app-card" onclick="toggleCard(this)" data-running="180" data-surge="1200" data-name="Refrigerator">
+        <div class="check"></div><span class="app-emoji">🥶</span>
+        <div class="app-label">Refrigerator Standard</div>
+        <div class="app-surge-tag">1,200W surge</div>
+      </div>
+      <div class="app-card" onclick="toggleCard(this)" data-running="1500" data-surge="1500" data-name="Space Heater">
+        <div class="check"></div><span class="app-emoji">🔥</span>
+        <div class="app-label">Space Heater 1,500W</div>
+        <div class="app-surge-tag">No surge</div>
+      </div>
+      <div class="app-card" onclick="toggleCard(this)" data-running="1000" data-surge="3000" data-name="Well Pump (½ HP)">
+        <div class="check"></div><span class="app-emoji">💧</span>
+        <div class="app-label">Well Pump ½ HP</div>
+        <div class="app-surge-tag">3,000W surge</div>
+      </div>
+      <div class="app-card" onclick="toggleCard(this)" data-running="800" data-surge="2400" data-name="Window AC (8,000 BTU)">
+        <div class="check"></div><span class="app-emoji">❄️</span>
+        <div class="app-label">Window AC 8,000 BTU</div>
+        <div class="app-surge-tag">2,400W surge</div>
+      </div>
+      <div class="app-card" onclick="toggleCard(this)" data-running="350" data-surge="1050" data-name="Sump Pump (⅓ HP)">
+        <div class="check"></div><span class="app-emoji">🌀</span>
+        <div class="app-label">Sump Pump ⅓ HP</div>
+        <div class="app-surge-tag">1,050W surge</div>
+      </div>
+      <div class="app-card" onclick="toggleCard(this)" data-running="20" data-surge="20" data-name="Wi-Fi Router">
+        <div class="check"></div><span class="app-emoji">📶</span>
+        <div class="app-label">Wi-Fi Router</div>
+        <div class="app-surge-tag">No surge</div>
+      </div>
+      <div class="app-card" onclick="toggleCard(this)" data-running="60" data-surge="60" data-name="LED Lights (10 bulbs)">
+        <div class="check"></div><span class="app-emoji">💡</span>
+        <div class="app-label">LED Lights 10 bulbs</div>
+        <div class="app-surge-tag">No surge</div>
+      </div>
+      <div class="app-card" onclick="toggleCard(this)" data-running="400" data-surge="400" data-name="Laptop + Phone Charging">
+        <div class="check"></div><span class="app-emoji">💻</span>
+        <div class="app-label">Laptop + Phone</div>
+        <div class="app-surge-tag">No surge</div>
+      </div>
+      <div class="app-card" onclick="toggleCard(this)" data-running="700" data-surge="700" data-name="Microwave">
+        <div class="check"></div><span class="app-emoji">🍳</span>
+        <div class="app-label">Microwave 700W</div>
+        <div class="app-surge-tag">No surge</div>
+      </div>
+    </div>
+    <div class="custom-box">
+      <div class="custom-box-title">+ Add your own appliance</div>
+      <div class="custom-fields">
+        <div class="field-wrap">
+          <label>Appliance name</label>
+          <input type="text" id="c-name" placeholder="e.g. My Freezer" />
+        </div>
+        <div class="field-wrap">
+          <label>Running watts</label>
+          <input type="number" id="c-run" placeholder="e.g. 150" />
+        </div>
+        <div class="field-wrap">
+          <label>Surge watts</label>
+          <input type="number" id="c-surge" placeholder="e.g. 900" />
+        </div>
+        <div class="field-wrap" style="display:flex;align-items:flex-end;">
+          <button class="add-custom-btn" onclick="addCustom()">Add →</button>
+        </div>
+      </div>
+      <p style="font-size:12px;color:var(--muted);">💡 Find surge watts on your appliance data plate: LRA × Voltage</p>
     </div>
   </div>
+  <div class="step-footer">
+    <button class="cta-btn" id="step1-next" onclick="goStep2()" disabled>
+      Next: Set Blackout Duration →
+    </button>
+  </div>
+</div>
 
-  <!-- Step 2: Appliances -->
-  <div class="card">
-    <div class="card-title">② Select Appliances</div>
-    <div class="appliance-list" id="appliance-list">
-
-      <div class="appliance-item" onclick="toggleApp(this)" data-running="150" data-surge="900" data-lra="7.5">
-        <div class="app-check"><svg width="12" height="10" viewBox="0 0 12 10" fill="none"><path d="M1 5l3.5 3.5L11 1" stroke="#0a0f0d" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        <div class="app-info">
-          <div class="app-name"><span class="emoji">🧊</span>Chest Freezer (7 cu. ft.)</div>
-          <div class="app-watts">Running: 150W — LRA: 7.5A @ 120V</div>
-        </div>
-        <div class="app-surge"><div class="surge-val">900W</div><div class="surge-label">Surge</div></div>
-      </div>
-
-      <div class="appliance-item" onclick="toggleApp(this)" data-running="100" data-surge="600" data-lra="5.0">
-        <div class="app-check"><svg width="12" height="10" viewBox="0 0 12 10" fill="none"><path d="M1 5l3.5 3.5L11 1" stroke="#0a0f0d" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        <div class="app-info">
-          <div class="app-name"><span class="emoji">🧊</span>Chest Freezer (5 cu. ft.)</div>
-          <div class="app-watts">Running: 100W — LRA: 5.0A @ 120V</div>
-        </div>
-        <div class="app-surge"><div class="surge-val">600W</div><div class="surge-label">Surge</div></div>
-      </div>
-
-      <div class="appliance-item" onclick="toggleApp(this)" data-running="250" data-surge="1500" data-lra="12.5">
-        <div class="app-check"><svg width="12" height="10" viewBox="0 0 12 10" fill="none"><path d="M1 5l3.5 3.5L11 1" stroke="#0a0f0d" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        <div class="app-info">
-          <div class="app-name"><span class="emoji">🧊</span>Chest Freezer (15 cu. ft.)</div>
-          <div class="app-watts">Running: 250W — LRA: 12.5A @ 120V</div>
-        </div>
-        <div class="app-surge"><div class="surge-val">1,500W</div><div class="surge-label">Surge</div></div>
-      </div>
-
-      <div class="appliance-item" onclick="toggleApp(this)" data-running="180" data-surge="1200" data-lra="10.0">
-        <div class="app-check"><svg width="12" height="10" viewBox="0 0 12 10" fill="none"><path d="M1 5l3.5 3.5L11 1" stroke="#0a0f0d" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        <div class="app-info">
-          <div class="app-name"><span class="emoji">🥶</span>Refrigerator (Standard)</div>
-          <div class="app-watts">Running: 180W — LRA: 10.0A @ 120V</div>
-        </div>
-        <div class="app-surge"><div class="surge-val">1,200W</div><div class="surge-label">Surge</div></div>
-      </div>
-
-      <div class="appliance-item" onclick="toggleApp(this)" data-running="1500" data-surge="1500" data-lra="0">
-        <div class="app-check"><svg width="12" height="10" viewBox="0 0 12 10" fill="none"><path d="M1 5l3.5 3.5L11 1" stroke="#0a0f0d" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        <div class="app-info">
-          <div class="app-name"><span class="emoji">🔥</span>Space Heater (1500W)</div>
-          <div class="app-watts">Running: 1,500W — No surge (resistive load)</div>
-        </div>
-        <div class="app-surge"><div class="surge-val">1,500W</div><div class="surge-label">Surge</div></div>
-      </div>
-
-      <div class="appliance-item" onclick="toggleApp(this)" data-running="1000" data-surge="3000" data-lra="25.0">
-        <div class="app-check"><svg width="12" height="10" viewBox="0 0 12 10" fill="none"><path d="M1 5l3.5 3.5L11 1" stroke="#0a0f0d" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        <div class="app-info">
-          <div class="app-name"><span class="emoji">💧</span>Well Pump (½ HP)</div>
-          <div class="app-watts">Running: 1,000W — LRA: 25.0A @ 120V</div>
-        </div>
-        <div class="app-surge"><div class="surge-val">3,000W</div><div class="surge-label">Surge</div></div>
-      </div>
-
-      <div class="appliance-item" onclick="toggleApp(this)" data-running="800" data-surge="2400" data-lra="20.0">
-        <div class="app-check"><svg width="12" height="10" viewBox="0 0 12 10" fill="none"><path d="M1 5l3.5 3.5L11 1" stroke="#0a0f0d" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        <div class="app-info">
-          <div class="app-name"><span class="emoji">❄️</span>Window AC (8,000 BTU)</div>
-          <div class="app-watts">Running: 800W — LRA: 20.0A @ 120V</div>
-        </div>
-        <div class="app-surge"><div class="surge-val">2,400W</div><div class="surge-label">Surge</div></div>
-      </div>
-
-      <div class="appliance-item" onclick="toggleApp(this)" data-running="20" data-surge="20" data-lra="0">
-        <div class="app-check"><svg width="12" height="10" viewBox="0 0 12 10" fill="none"><path d="M1 5l3.5 3.5L11 1" stroke="#0a0f0d" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        <div class="app-info">
-          <div class="app-name"><span class="emoji">📶</span>Wi-Fi Router</div>
-          <div class="app-watts">Running: 20W — No surge</div>
-        </div>
-        <div class="app-surge"><div class="surge-val">20W</div><div class="surge-label">Surge</div></div>
-      </div>
-
-      <div class="appliance-item" onclick="toggleApp(this)" data-running="60" data-surge="60" data-lra="0">
-        <div class="app-check"><svg width="12" height="10" viewBox="0 0 12 10" fill="none"><path d="M1 5l3.5 3.5L11 1" stroke="#0a0f0d" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        <div class="app-info">
-          <div class="app-name"><span class="emoji">💡</span>LED Lights (10 bulbs)</div>
-          <div class="app-watts">Running: 60W — No surge</div>
-        </div>
-        <div class="app-surge"><div class="surge-val">60W</div><div class="surge-label">Surge</div></div>
-      </div>
-
-      <div class="appliance-item" onclick="toggleApp(this)" data-running="400" data-surge="400" data-lra="0">
-        <div class="app-check"><svg width="12" height="10" viewBox="0 0 12 10" fill="none"><path d="M1 5l3.5 3.5L11 1" stroke="#0a0f0d" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        <div class="app-info">
-          <div class="app-name"><span class="emoji">💻</span>Laptop + Phone Charging</div>
-          <div class="app-watts">Running: 400W — No surge</div>
-        </div>
-        <div class="app-surge"><div class="surge-val">400W</div><div class="surge-label">Surge</div></div>
-      </div>
-
-      <div class="appliance-item" onclick="toggleApp(this)" data-running="350" data-surge="1050" data-lra="8.75">
-        <div class="app-check"><svg width="12" height="10" viewBox="0 0 12 10" fill="none"><path d="M1 5l3.5 3.5L11 1" stroke="#0a0f0d" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        <div class="app-info">
-          <div class="app-name"><span class="emoji">🌀</span>Sump Pump (⅓ HP)</div>
-          <div class="app-watts">Running: 350W — LRA: 8.75A @ 120V</div>
-        </div>
-        <div class="app-surge"><div class="surge-val">1,050W</div><div class="surge-label">Surge</div></div>
-      </div>
-
-      <div class="appliance-item" onclick="toggleApp(this)" data-running="700" data-surge="700" data-lra="0">
-        <div class="app-check"><svg width="12" height="10" viewBox="0 0 12 10" fill="none"><path d="M1 5l3.5 3.5L11 1" stroke="#0a0f0d" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-        <div class="app-info">
-          <div class="app-name"><span class="emoji">🍳</span>Microwave (700W)</div>
-          <div class="app-watts">Running: 700W — No motor surge</div>
-        </div>
-        <div class="app-surge"><div class="surge-val">700W</div><div class="surge-label">Surge</div></div>
-      </div>
-
+<!-- STEP 2 -->
+<div class="step-container" id="step-2">
+  <div class="step-header">
+    <button class="back-btn" onclick="goStep1()">← Back</button>
+    <div class="step-tag">Step 2 of 3</div>
+    <h1 class="step-title">How long could your<br/><span>power be out?</span></h1>
+    <p class="step-subtitle">Pick the worst-case scenario you want to be ready for.</p>
+  </div>
+  <div class="step-body">
+    <div class="duration-display">
+      <div class="duration-num" id="dur-num">24</div>
+      <div class="duration-unit">hours of backup power</div>
     </div>
-
-    <!-- Custom Appliance -->
-    <div style="margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--border);">
-      <div class="card-title" style="font-size:13px; margin-bottom:14px;">Add Custom Appliance</div>
-      <div class="custom-row">
-        <div class="field-group">
-          <label>Name</label>
-          <input type="text" id="custom-name" placeholder="e.g. My Freezer" />
-        </div>
-        <div class="field-group">
-          <label>Running Watts</label>
-          <input type="number" id="custom-running" placeholder="e.g. 150" min="1" />
-        </div>
-        <div class="field-group">
-          <label>Surge Watts</label>
-          <input type="number" id="custom-surge" placeholder="e.g. 900" min="1" />
-        </div>
-        <button class="add-btn" onclick="addCustom()">+ Add</button>
-      </div>
-      <p style="font-size:12px; color:var(--muted); margin-top:8px;">💡 Tip: Find surge watts on your appliance's data plate. Multiply LRA × Voltage.</p>
+    <div class="slider-wrap">
+      <input type="range" id="dur-slider" min="4" max="72" value="24" step="4" oninput="updateSlider(this.value)" />
+      <div class="slider-labels"><span>4 hrs</span><span>24 hrs</span><span>48 hrs</span><span>72 hrs</span></div>
+    </div>
+    <div class="presets">
+      <button class="preset-btn" onclick="setDur(8,this)"><span class="preset-num">8h</span><span class="preset-label">Storm</span></button>
+      <button class="preset-btn active" onclick="setDur(24,this)"><span class="preset-num">24h</span><span class="preset-label">Common</span></button>
+      <button class="preset-btn" onclick="setDur(48,this)"><span class="preset-num">48h</span><span class="preset-label">Major</span></button>
+      <button class="preset-btn" onclick="setDur(72,this)"><span class="preset-num">72h</span><span class="preset-label">Crisis</span></button>
     </div>
   </div>
-
-  <!-- Step 3: Blackout Duration -->
-  <div class="card">
-    <div class="card-title">③ Expected Blackout Duration</div>
-    <div class="runtime-grid">
-      <div class="field-group">
-        <label>Hours of backup needed</label>
-        <input type="number" id="hours-needed" value="24" min="1" max="168" placeholder="24" />
-      </div>
-      <div class="field-group">
-        <label>Compressor duty cycle %</label>
-        <input type="number" id="duty-cycle" value="30" min="10" max="80" placeholder="30" />
-      </div>
-    </div>
-    <p style="font-size:12px; color:var(--muted); margin-top:10px;">💡 A well-stocked chest freezer runs its compressor ~25–35% of the time. Hot weather = higher duty cycle.</p>
+  <div class="step-footer">
+    <button class="cta-btn" onclick="calculate()">Calculate My Results →</button>
   </div>
+</div>
 
-  <!-- Calculate Button -->
-  <button class="calc-btn" onclick="runCalculator()">
-    ⚡ Calculate My Exact Blackout Requirements →
-  </button>
-
-  <!-- Processing -->
-  <div id="processing" class="card" style="text-align:center; padding: 50px;">
-    <div class="proc-ring"></div>
-    <div class="proc-text">Calculating Surge Load...</div>
-    <div class="proc-sub">Computing LRA, runtime, and battery recommendations</div>
+<!-- PROCESSING -->
+<div class="step-container" id="step-proc">
+  <div class="step-body">
+    <div class="proc-wrap">
+      <div class="proc-ring"></div>
+      <div class="proc-title">Calculating your load...</div>
+      <div class="proc-sub">Running surge math and battery sizing</div>
+    </div>
   </div>
+</div>
 
-  <!-- Results -->
-  <div id="results-panel">
-
-    <!-- Summary Numbers -->
-    <div class="result-hero">
-      <div id="verdict-badge" class="verdict-badge verdict-caution">Analyzing...</div>
-      <h2 style="font-family: var(--font-display); font-size: 26px; font-weight: 800; color: #fff; margin-bottom: 8px;">Your Blackout Audit Results</h2>
-      <p id="verdict-text" style="color: var(--muted); font-size: 15px;">—</p>
-      <div class="result-nums">
-        <div class="num-box">
-          <div class="num-val surge-color" id="r-surge">—</div>
-          <div class="num-label">Peak Surge Required</div>
-        </div>
-        <div class="num-box">
-          <div class="num-val run-color" id="r-running">—</div>
-          <div class="num-label">Continuous Running</div>
-        </div>
-        <div class="num-box">
-          <div class="num-val bat-color" id="r-battery">—</div>
-          <div class="num-label">Min Battery Size</div>
-        </div>
+<!-- STEP 3 RESULTS -->
+<div class="step-container" id="step-3">
+  <div class="step-header">
+    <button class="back-btn" onclick="goStep2()">← Recalculate</button>
+    <div class="step-tag">Step 3 of 3 — Your Results</div>
+    <h1 class="step-title">Your Blackout<br/><span>Audit is Ready</span></h1>
+  </div>
+  <div class="step-body">
+    <div class="verdict-box">
+      <div class="verdict-stripe" id="v-stripe"></div>
+      <div class="verdict-content">
+        <div class="verdict-label" id="v-label">—</div>
+        <div class="verdict-title" id="v-title">—</div>
+        <div class="verdict-desc" id="v-desc">—</div>
       </div>
     </div>
-
-    <!-- Appliance Breakdown -->
-    <div class="card" style="margin-bottom:20px;">
-      <div class="card-title">Appliance Breakdown</div>
-      <div style="overflow-x:auto;">
-        <table class="breakdown-table">
-          <thead>
-            <tr>
-              <th>Appliance</th>
-              <th>Running</th>
-              <th>Surge</th>
-              <th>24h Energy</th>
-            </tr>
-          </thead>
-          <tbody id="breakdown-body"></tbody>
-        </table>
-      </div>
+    <div class="stats-row">
+      <div class="stat-box"><div class="stat-val surge" id="r-surge">—</div><div class="stat-label">Peak Surge</div></div>
+      <div class="stat-box"><div class="stat-val run" id="r-run">—</div><div class="stat-label">Running Load</div></div>
+      <div class="stat-box"><div class="stat-val bat" id="r-bat">—</div><div class="stat-label">Min Battery</div></div>
     </div>
-
-    <!-- Battery Recommendations -->
-    <div class="card" style="margin-bottom:20px;">
-      <div class="card-title">Recommended Batteries</div>
-      <div class="rec-grid" id="rec-grid"></div>
+    <div class="breakdown">
+      <div class="breakdown-header">Appliance Breakdown</div>
+      <div id="b-rows"></div>
     </div>
-
-    <!-- Pro Tips -->
-    <div class="card" style="margin-bottom:20px;">
-      <div class="card-title">Survival Tips</div>
-      <div class="tips-list">
-        <div class="tip-item">
-          <div class="tip-icon">🧊</div>
-          <div class="tip-text"><strong>Fill empty freezer space</strong> with frozen water bottles. Thermal mass keeps food frozen 2–3× longer when the compressor isn't running.</div>
-        </div>
-        <div class="tip-item">
-          <div class="tip-icon">🛋️</div>
-          <div class="tip-text"><strong>Blanket your freezer.</strong> Throw heavy moving blankets over the top and sides (not over compressor vents) to add insulation and cut duty cycle.</div>
-        </div>
-        <div class="tip-item">
-          <div class="tip-icon">🪙</div>
-          <div class="tip-text"><strong>Use the coin-in-cup test.</strong> Freeze a cup of water with a coin on top. If you return and the coin is at the bottom, your food thawed and refroze — don't eat it.</div>
-        </div>
-        <div class="tip-item">
-          <div class="tip-icon">⚡</div>
-          <div class="tip-text"><strong>Never daisy-chain extension cords.</strong> The surge from a compressor can overheat undersized cords and start a fire. Use a heavy-duty 12-gauge cord rated for your surge load.</div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Email Capture -->
-    <div class="email-capture">
-      <h3>📋 Save Your Results + Get the Gear List</h3>
-      <p>Get your custom results emailed plus my exact gear list for blackout preparedness.</p>
+    <div class="email-box">
+      <div class="email-icon">📄</div>
+      <div class="email-title">Get the Free PDF Checklist</div>
+      <div class="email-desc">Where should we send your <strong>Free Blackout-Proof Home Checklist PDF?</strong> Ethan will email it to you instantly.</div>
+      <ul class="email-bullets">
+        <li>Printable PDF checklist — ready in 60 seconds</li>
+        <li>The exact steps Ethan uses to prep his own home</li>
+        <li>How to keep food safe for 72+ hours without power</li>
+      </ul>
       <script defer src="https://f.convertkit.com/ckjs/ck.5.js"></script>
-      <form action="https://app.kit.com/forms/9204796/subscriptions" class="seva-form formkit-form" method="post" data-sv-form="9204796" data-uid="b3fe8c40d3" data-format="inline" data-version="5" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:&quot;Success! Now check your email to confirm your subscription.&quot;,&quot;redirect_url&quot;:&quot;&quot;},&quot;powered_by&quot;:{&quot;show&quot;:false}}}" style="background-color: transparent;">
+      <form action="https://app.kit.com/forms/9204796/subscriptions" class="seva-form formkit-form" method="post" data-sv-form="9204796" data-uid="b3fe8c40d3" data-format="inline" data-version="5" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:&quot;Success! Now check your email to confirm your subscription.&quot;,&quot;redirect_url&quot;:&quot;&quot;},&quot;powered_by&quot;:{&quot;show&quot;:false}}}" style="background-color:transparent;">
         <div data-style="minimal">
           <ul class="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul>
           <div data-element="fields" data-stacked="true" class="seva-fields formkit-fields">
-            <div class="formkit-field">
-              <input class="formkit-input" aria-label="First Name" name="fields[first_name]" required placeholder="First Name" type="text" />
-            </div>
-            <div class="formkit-field">
-              <input class="formkit-input" name="email_address" aria-label="Email Address" placeholder="Email Address" required type="email" />
-            </div>
-            <button data-element="submit" class="formkit-submit" style="color:#0a0f0d; background-color:#22c55e; border-radius:8px; font-weight:700;">
-              <span>Send My Results →</span>
-            </button>
+            <div class="formkit-field"><input class="formkit-input" aria-label="First Name" name="fields[first_name]" required placeholder="Your first name" type="text" /></div>
+            <div class="formkit-field"><input class="formkit-input" name="email_address" aria-label="Email Address" placeholder="Your email address" required type="email" /></div>
+            <button data-element="submit" class="formkit-submit"><span>📄 Send Me the Free PDF →</span></button>
           </div>
-          <div class="formkit-guarantee" data-element="guarantee">We won't send you spam. Unsubscribe at any time.</div>
+          <div class="formkit-guarantee" data-element="guarantee">No spam. Unsubscribe any time.</div>
         </div>
       </form>
     </div>
-
-    <button class="reset-btn" onclick="resetCalc()">↩ Start Over / Recalculate</button>
-
   </div>
-
+  <div class="step-footer">
+    <button class="cta-btn" style="background:white;color:var(--green);border:2px solid var(--green);" onclick="restart()">↩ Start Over</button>
+  </div>
 </div>
 
 <script is:inline>
-  let selectedVoltage = 120;
+  let hours = 24;
 
-  function setVoltage(v, btn) {
-    selectedVoltage = v;
-    document.querySelectorAll('.voltage-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
+  function show(id) {
+    document.querySelectorAll('.step-container').forEach(s => s.classList.remove('active'));
+    document.getElementById(id).classList.add('active');
+    window.scrollTo(0,0);
+    const p = {'step-1':33,'step-2':66,'step-proc':90,'step-3':100};
+    document.getElementById('progress-fill').style.width = (p[id]||33)+'%';
   }
 
-  function toggleApp(el) {
+  function toggleCard(el) {
     el.classList.toggle('selected');
+    const n = document.querySelectorAll('.app-card.selected').length;
+    document.getElementById('selected-count').textContent = n ? n+' appliance'+(n>1?'s':'')+' selected' : '';
+    document.getElementById('step1-next').disabled = n === 0;
   }
 
   function addCustom() {
-    const name = document.getElementById('custom-name').value.trim() || 'Custom Appliance';
-    const running = parseInt(document.getElementById('custom-running').value) || 0;
-    const surge = parseInt(document.getElementById('custom-surge').value) || running;
-    if (!running) { alert('Please enter running watts.'); return; }
-
-    const list = document.getElementById('appliance-list');
-    const div = document.createElement('div');
-    div.className = 'appliance-item selected';
-    div.setAttribute('data-running', running);
-    div.setAttribute('data-surge', surge);
-    div.setAttribute('data-lra', '0');
-    div.onclick = function() { toggleApp(this); };
-    div.innerHTML = `
-      <div class="app-check" style="background:var(--green);border-color:var(--green);">
-        <svg width="12" height="10" viewBox="0 0 12 10" fill="none"><path d="M1 5l3.5 3.5L11 1" stroke="#0a0f0d" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-      </div>
-      <div class="app-info">
-        <div class="app-name"><span class="emoji">🔌</span>${name}</div>
-        <div class="app-watts">Running: ${running}W — Custom</div>
-      </div>
-      <div class="app-surge">
-        <div class="surge-val">${surge.toLocaleString()}W</div>
-        <div class="surge-label">Surge</div>
-      </div>`;
-    list.appendChild(div);
-
-    document.getElementById('custom-name').value = '';
-    document.getElementById('custom-running').value = '';
-    document.getElementById('custom-surge').value = '';
+    const name = document.getElementById('c-name').value.trim() || 'Custom Appliance';
+    const run = parseInt(document.getElementById('c-run').value)||0;
+    const surge = parseInt(document.getElementById('c-surge').value)||run;
+    if (!run) { alert('Please enter running watts.'); return; }
+    const d = document.createElement('div');
+    d.className = 'app-card selected';
+    d.setAttribute('data-running', run);
+    d.setAttribute('data-surge', surge);
+    d.setAttribute('data-name', name);
+    d.onclick = function(){ toggleCard(this); };
+    d.innerHTML = `<div class="check"></div><span class="app-emoji">🔌</span><div class="app-label">${name}</div><div class="app-surge-tag">${surge.toLocaleString()}W surge</div>`;
+    document.getElementById('app-grid').appendChild(d);
+    document.getElementById('c-name').value='';
+    document.getElementById('c-run').value='';
+    document.getElementById('c-surge').value='';
+    const n = document.querySelectorAll('.app-card.selected').length;
+    document.getElementById('selected-count').textContent = n+' appliance'+(n>1?'s':'')+' selected';
+    document.getElementById('step1-next').disabled = false;
   }
 
-  function runCalculator() {
-    const selected = document.querySelectorAll('.appliance-item.selected');
-    if (selected.length === 0) {
-      alert('Please select at least one appliance.');
-      return;
-    }
+  function goStep1() { show('step-1'); }
+  function goStep2() { show('step-2'); }
 
-    const hours = parseInt(document.getElementById('hours-needed').value) || 24;
-    const duty = (parseInt(document.getElementById('duty-cycle').value) || 30) / 100;
+  function updateSlider(v) {
+    hours = parseInt(v);
+    document.getElementById('dur-num').textContent = v;
+    document.querySelectorAll('.preset-btn').forEach(b => b.classList.remove('active'));
+  }
 
-    // Hide form, show processing
-    document.getElementById('step-voltage').style.display = 'none';
-    document.querySelectorAll('.card').forEach(c => {
-      if (!c.id || c.id === 'processing') return;
-      c.style.display = 'none';
-    });
-    document.querySelectorAll('.calc-btn').forEach(b => b.style.display = 'none');
-    document.getElementById('processing').style.display = 'block';
+  function setDur(h, btn) {
+    hours = h;
+    document.getElementById('dur-slider').value = h;
+    document.getElementById('dur-num').textContent = h;
+    document.querySelectorAll('.preset-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+  }
 
+  function calculate() {
+    show('step-proc');
     setTimeout(() => {
-      // Collect data
-      let totalRunning = 0;
-      let peakSurge = 0;
-      let applianceData = [];
-
-      selected.forEach(item => {
-        const running = parseInt(item.getAttribute('data-running'));
-        const surge = parseInt(item.getAttribute('data-surge'));
-        const name = item.querySelector('.app-name').innerText;
-        totalRunning += running;
-        if (surge > peakSurge) peakSurge = surge;
-
-        // Energy per 24h (motors have duty cycle, resistive loads run full time)
-        const lra = parseFloat(item.getAttribute('data-lra'));
-        const hasMotor = lra > 0;
-        const activeHours = hasMotor ? hours * duty : hours;
-        const energy = (running * activeHours / 1000).toFixed(2);
-
-        applianceData.push({ name, running, surge, energy });
+      const cards = document.querySelectorAll('.app-card.selected');
+      let totalRun=0, peak=0, items=[];
+      cards.forEach(c => {
+        const run=parseInt(c.getAttribute('data-running'));
+        const surge=parseInt(c.getAttribute('data-surge'));
+        const name=c.getAttribute('data-name');
+        totalRun+=run; if(surge>peak) peak=surge;
+        items.push({name,run,surge});
       });
 
-      // Battery math: total energy needed + 20% buffer + only usable 80% of LiFePO4
-      let totalEnergy = 0;
-      applianceData.forEach(a => totalEnergy += parseFloat(a.energy));
-      const batteryNeeded = Math.ceil((totalEnergy * 1.2) / 0.8 * 1000); // in Wh
+      const energy = totalRun * 0.3 * hours;
+      const batWh = Math.ceil((energy * 1.25) / 0.8);
 
-      // Populate breakdown
-      const tbody = document.getElementById('breakdown-body');
-      tbody.innerHTML = '';
-      applianceData.forEach(a => {
-        const tr = document.createElement('tr');
-        tr.innerHTML = `
-          <td>${a.name}</td>
-          <td class="td-run">${a.running}W</td>
-          <td class="td-surge">${a.surge.toLocaleString()}W</td>
-          <td style="color:#94a3b8">${a.energy} kWh</td>`;
-        tbody.appendChild(tr);
+      // Breakdown
+      const rows = document.getElementById('b-rows');
+      rows.innerHTML = '';
+      items.forEach(i => {
+        const d = document.createElement('div');
+        d.className = 'breakdown-row';
+        d.innerHTML = `<span class="breakdown-name">${i.name}</span><span class="breakdown-run">${i.run}W</span><span class="breakdown-surge">${i.surge.toLocaleString()}W surge</span>`;
+        rows.appendChild(d);
       });
+      const tot = document.createElement('div');
+      tot.className='breakdown-row'; tot.style.fontWeight='700'; tot.style.background='#f8faf9';
+      tot.innerHTML=`<span class="breakdown-name">TOTAL</span><span class="breakdown-run">${totalRun}W</span><span class="breakdown-surge">${peak.toLocaleString()}W peak</span>`;
+      rows.appendChild(tot);
 
-      // Add totals row
-      const totRow = document.createElement('tr');
-      totRow.style.background = 'var(--surface2)';
-      totRow.innerHTML = `
-        <td style="font-weight:700;">TOTAL</td>
-        <td class="td-run" style="font-weight:700;">${totalRunning}W</td>
-        <td class="td-surge" style="font-weight:700;">${peakSurge.toLocaleString()}W</td>
-        <td style="color:#94a3b8;font-weight:700;">${totalEnergy.toFixed(2)} kWh</td>`;
-      tbody.appendChild(totRow);
-
-      // Battery recommendations
-      const batteries = [
-        { name: 'EcoFlow DELTA 2', wh: 1024, surge: 2700, link: 'https://amzn.to/4boW99s', topPick: false },
-        { name: 'EcoFlow DELTA Pro', wh: 3600, surge: 7200, link: 'https://amzn.to/3DELTA', topPick: false },
-        { name: 'Jackery Explorer 1000 v2', wh: 1070, surge: 2000, link: 'https://amzn.to/4rA9JNl', topPick: false },
-        { name: 'Bluetti AC200MAX', wh: 2048, surge: 4800, link: 'https://amzn.to/bluetti', topPick: false },
-        { name: 'Anker SOLIX C800', wh: 768, surge: 1600, link: 'https://amzn.to/anker', topPick: false },
-      ];
-
-      // Filter and rank
-      const suitable = batteries.filter(b => b.surge >= peakSurge && b.wh >= batteryNeeded * 0.7);
-      if (suitable.length > 0) suitable[0].topPick = true;
-      const toShow = suitable.length > 0 ? suitable.slice(0, 3) : batteries.filter(b => b.surge >= peakSurge).slice(0, 3);
-
-      const recGrid = document.getElementById('rec-grid');
-      recGrid.innerHTML = '';
-      toShow.forEach(b => {
-        const canHandleSurge = b.surge >= peakSurge;
-        const canHandleEnergy = b.wh >= batteryNeeded * 0.7;
-        const runtime = ((b.wh * 0.8) / (totalRunning * duty + (totalRunning * (1-duty) * 0.1))).toFixed(1);
-
-        const div = document.createElement('div');
-        div.className = 'rec-card' + (b.topPick ? ' top-pick' : '');
-        div.innerHTML = `
-          ${b.topPick ? '<div class="top-pick-badge">Best Match</div>' : ''}
-          <div class="rec-name">${b.name}</div>
-          <div class="rec-capacity">${b.wh.toLocaleString()} Wh — ${b.surge.toLocaleString()}W surge</div>
-          <div class="rec-stats">
-            <div class="rec-stat">
-              <span class="rec-stat-label">Handles your surge</span>
-              <span class="rec-stat-val ${canHandleSurge ? 'ok' : 'bad'}">${canHandleSurge ? '✓ Yes' : '✗ No'}</span>
-            </div>
-            <div class="rec-stat">
-              <span class="rec-stat-label">Enough capacity</span>
-              <span class="rec-stat-val ${canHandleEnergy ? 'ok' : 'warn'}">${canHandleEnergy ? '✓ Yes' : '⚠ Borderline'}</span>
-            </div>
-            <div class="rec-stat">
-              <span class="rec-stat-label">Est. runtime</span>
-              <span class="rec-stat-val">${runtime}h</span>
-            </div>
-          </div>
-          <a href="${b.link}" target="_blank" rel="noopener" class="rec-link">View on Amazon →</a>`;
-        recGrid.appendChild(div);
-      });
-
-      if (toShow.length === 0) {
-        recGrid.innerHTML = '<p style="color:var(--muted)">No single battery matches your load. Consider a whole-home generator or split your circuits.</p>';
-      }
+      // Stats
+      document.getElementById('r-surge').textContent = peak.toLocaleString()+'W';
+      document.getElementById('r-run').textContent = totalRun.toLocaleString()+'W';
+      document.getElementById('r-bat').textContent = batWh>=1000 ? (batWh/1000).toFixed(1)+' kWh' : batWh+'Wh';
 
       // Verdict
-      const verdictBadge = document.getElementById('verdict-badge');
-      const verdictText = document.getElementById('verdict-text');
-      if (peakSurge <= 1500) {
-        verdictBadge.className = 'verdict-badge verdict-safe';
-        verdictBadge.textContent = '✓ Standard Load';
-        verdictText.textContent = 'Good news — your surge load is manageable. Most 1kWh+ portable batteries will handle this.';
-      } else if (peakSurge <= 3000) {
-        verdictBadge.className = 'verdict-badge verdict-caution';
-        verdictBadge.textContent = '⚠ High Surge Load';
-        verdictText.textContent = 'Your appliances require a high-surge battery. Choose carefully — many budget units will trip.';
-      } else {
-        verdictBadge.className = 'verdict-badge verdict-danger';
-        verdictBadge.textContent = '⛔ Extreme Surge Load';
-        verdictText.textContent = 'This load requires a professional-grade battery or whole-home generator. Standard units will fail.';
-      }
+      let cls, color, title, desc;
+      if (peak<=1500) { cls='verdict-safe'; color='#22c55e'; title='You\'re in good shape ✓'; desc='Your surge load is manageable. Most quality portable batteries will handle this without tripping.'; }
+      else if (peak<=3000) { cls='verdict-caution'; color='#f59e0b'; title='Caution — High Surge Load ⚠'; desc='Your appliances require a high-surge battery. Many budget units will trip on startup. Choose carefully.'; }
+      else { cls='verdict-danger'; color='#ef4444'; title='Danger — Extreme Surge ⛔'; desc='This load requires a professional-grade battery system. Standard portable units will fail instantly.'; }
 
-      // Update display
-      document.getElementById('r-surge').textContent = peakSurge.toLocaleString() + 'W';
-      document.getElementById('r-running').textContent = totalRunning.toLocaleString() + 'W';
-      document.getElementById('r-battery').textContent = (batteryNeeded / 1000).toFixed(1) + ' kWh';
+      document.getElementById('v-stripe').style.background = color;
+      document.getElementById('v-label').className = 'verdict-label '+cls;
+      document.getElementById('v-label').textContent = cls==='verdict-safe'?'Safe Load':cls==='verdict-caution'?'High Surge':'Extreme Load';
+      document.getElementById('v-title').textContent = title;
+      document.getElementById('v-desc').textContent = desc;
 
-      document.getElementById('processing').style.display = 'none';
-      document.getElementById('results-panel').style.display = 'block';
-    }, 1800);
+      show('step-3');
+    }, 2000);
   }
 
-  function resetCalc() {
-    document.getElementById('results-panel').style.display = 'none';
-    document.getElementById('step-voltage').style.display = 'block';
-    document.querySelectorAll('.card').forEach(c => c.style.display = 'block');
-    document.querySelectorAll('.calc-btn').forEach(b => b.style.display = 'block');
-    document.querySelectorAll('.appliance-item').forEach(i => i.classList.remove('selected'));
+  function restart() {
+    document.querySelectorAll('.app-card').forEach(c => c.classList.remove('selected'));
+    document.getElementById('selected-count').textContent = '';
+    document.getElementById('step1-next').disabled = true;
+    document.getElementById('dur-slider').value = 24;
+    hours = 24;
+    document.getElementById('dur-num').textContent = '24';
+    document.querySelectorAll('.preset-btn').forEach((b,i) => b.classList.toggle('active', i===1));
+    show('step-1');
   }
 </script>
 
