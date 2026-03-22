@@ -5,6 +5,8 @@ pubDate: "Mar 20 2026"
 heroImage: "../../assets/ecoflow-delta-3-plus-review.webp"
 ---
 
+<div class="bg-blue-50 border-l-4 border-blue-400 p-4 my-6"><p><strong>Testing Note:</strong> The EcoFlow DELTA 3 Plus is our current 73-day field test unit. All other reviews use verified manufacturer data and owner reports. We publish one 73-day field test per quarter.</p></div>
+
 ## Will the EcoFlow DELTA 3 Plus Run a Chest Freezer During a Blackout?
 
 ⚡ **The Quick Answer:** Yes — the EcoFlow DELTA 3 Plus will run a standard chest freezer during a blackout without breaking a sweat. Its 7,200W surge capacity handles compressor startup easily, and its 1,024Wh base capacity will keep a 7 cu. ft. chest freezer running for 48–72 hours on a single charge. For most households, this is the most capable portable power station at this price point.
@@ -152,7 +154,7 @@ If you've got a chest freezer stocked with food you care about, the math works. 
 
 ---
 
-*— Ethan*
+*— Ethan is a homeowner who began testing backup power systems after losing food during a prolonged power outage. He documents real-world results for households in regions with unreliable grids.*
 
 
 

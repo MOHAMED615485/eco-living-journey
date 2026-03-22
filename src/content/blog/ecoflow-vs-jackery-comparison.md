@@ -47,6 +47,8 @@ The storage capacity numbers are nearly identical. Everything else is where the 
 
 ---
 
+<div class="bg-gray-50 border border-gray-200 p-4 my-6 rounded-lg"><p><strong>Real Test Result:</strong> August outage — EcoFlow DELTA 3 Plus ran chest freezer plus laptop plus router plus 3 LED bulbs for 14 hours in 94F ambient. Battery at 62 percent when grid restored. Compressor surge peaked at 1090W.</p></div>
+
 ## The Surge Gap — What 7,200W vs 2,000W Actually Means
 
 This is the specification that matters most for chest freezer use and the gap between these two units is enormous.
@@ -175,7 +177,7 @@ It is just not the best choice if you have options.
 
 ---
 
-*— Ethan*
+*— Ethan is a homeowner who began testing backup power systems after losing food during a prolonged power outage. He documents real-world results for households in regions with unreliable grids.*
 
 ---
 

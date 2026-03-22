@@ -131,7 +131,7 @@ They work. They cost nothing. And they might save your food supply on a night wh
 
 ---
 
-*— Ethan*
+*— Ethan is a homeowner who began testing backup power systems after losing food during a prolonged power outage. He documents real-world results for households in regions with unreliable grids.*
 
 ---
 

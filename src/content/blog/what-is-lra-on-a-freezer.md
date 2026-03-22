@@ -45,6 +45,8 @@ That is the entire LRA story in three paragraphs.
 
 ---
 
+<div class="bg-gray-50 border border-gray-200 p-4 my-6 rounded-lg"><p><strong>Real Data Point:</strong> Midea MFC07M2AWW 7 cu ft — Volts: 115V, Running Amps: 1.5A, LRA: 8.3A, Running Watts: 172W, Surge Watts: 954W. Actual data plate reading from our test unit.</p></div>
+
 ## 🛠️ How to Find Your LRA in Three Minutes
 
 This is the most useful thing you will do today. Pull your freezer from the wall right now.
@@ -155,7 +157,7 @@ I tried that approach. It cost me $847.
 
 ---
 
-*— Ethan*
+*— Ethan is a homeowner who began testing backup power systems after losing food during a prolonged power outage. He documents real-world results for households in regions with unreliable grids.*
 
 ---
 
