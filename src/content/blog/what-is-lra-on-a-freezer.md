@@ -175,3 +175,4 @@ Not the LRA rating itself — that is a fixed electrical property. But hot ambie
 
 **Can I test my surge without a data plate?**
 Yes. A clamp meter or smart plug with energy monitoring will show you the actual startup spike in real time. Plug in the smart plug, connect the freezer, watch the wattage reading when the compressor cycles on. The peak reading is your real-world surge. This is actually more accurate than the data plate calculation for older units.
+
