@@ -158,3 +158,4 @@ Before the next storm season, run through this checklist once. It takes 20 minut
 - If coin sank: throw it out, do not smell-test, do not risk it ✓
 
 The preparation takes less time than cleaning out a ruined freezer. Do it once. Keep it ready.
+

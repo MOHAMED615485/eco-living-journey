@@ -194,3 +194,4 @@ The more relevant long-term factor is the EcoFlow's expandability. If your needs
 Over a 10-year period, that expandability could be worth far more than the $200 price difference at purchase.
 
 Check your LRA number first. Use the [free calculator](/local-quote/) to confirm either unit meets your specific surge requirements. Then decide based on your actual setup — not marketing claims.
+
