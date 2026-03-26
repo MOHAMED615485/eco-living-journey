@@ -2,7 +2,7 @@
 title: "Why I Ditched Gas Generators: Top 2 Solar Power Stations"
 description: "Discover why portable solar power stations are replacing gas generators."
 pubDate: "Mar 04 2026"
-heroImage: "./solar-generator.webp"
+heroImage: "../../assets/hero-solar.webp"
 ---
 
 <style>
@@ -125,3 +125,4 @@ If EcoFlow is a luxury sports car, the Jackery 2000 Plus is an indestructible of
 
 <h3>Can a portable solar station run a central air conditioner?</h3>
 <p>The short answer? No. The realistic answer? You are asking a golf cart to pull a freight train. A standard 3-ton central AC
+
