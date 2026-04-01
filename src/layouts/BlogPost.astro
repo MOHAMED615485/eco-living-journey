@@ -190,8 +190,9 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
       .date { color: #666; font-size: 0.9rem; }
       hr { border: none; border-top: 1px solid #eee; margin: 1rem 0; }
     </style>
-  </body>
+  <script>document.querySelectorAll(".prose table").forEach(function(t){var w=document.createElement("div");w.style.cssText="overflow-x:auto;-webkit-overflow-scrolling:touch;width:100%;display:block;margin:2rem 0;";t.parentNode.insertBefore(w,t);w.appendChild(t);});</script></body>
 </html>
+
 
 
 
