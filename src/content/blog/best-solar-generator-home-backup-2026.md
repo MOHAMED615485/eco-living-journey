@@ -1,4 +1,4 @@
----
+﻿---
 title: "Best Solar Generator for Home Backup Power (2026 Guide)"
 description: "After 73 days of real blackout testing, Ethan reveals the best solar generators for home backup power in 2026. EcoFlow, Jackery, and Bluetti compared with real numbers."
 pubDate: "Apr 01 2026"
@@ -37,7 +37,7 @@ I wrote a full breakdown on [how to calculate surge watts for your freezer here]
 
 ### 1. EcoFlow DELTA 3 Plus — Best Overall
 
-**Amazon link:** [EcoFlow DELTA 3 Plus](https://www.amazon.com/dp/B0CX6MFBS3?tag=ecolivingjo0d-20)
+**Amazon link:** [EcoFlow DELTA 3 Plus](https://amzn.to/41D10iO)
 
 This is the one I run full-time in my garage.
 
@@ -62,7 +62,7 @@ The app is genuinely useful. I could see real-time watt draw, battery percentage
 
 ### 2. Jackery Explorer 1000 V2 — Best Mid-Range Pick
 
-**Amazon link:** [Jackery Explorer 1000 V2](https://www.amazon.com/dp/B0CG3N7HHF?tag=ecolivingjo0d-20)
+**Amazon link:** [Jackery Explorer 1000 V2](https://amzn.to/47Esd8d)
 
 If the EcoFlow is out of your budget, the Jackery Explorer 1000 V2 is the one I'd recommend next.
 
@@ -86,7 +86,7 @@ The Jackery is also noticeably lighter — 11.8kg vs the EcoFlow's 12.3kg. That 
 
 ### 3. Bluetti AC200L — Best for Whole-Home Backup
 
-**Amazon link:** [Bluetti AC200L](https://www.amazon.com/dp/B0C6ZX8NSG?tag=ecolivingjo0d-20)
+**Amazon link:** [Bluetti AC200L](https://amzn.to/4sFpOCG)
 
 This one is in a different category. The AC200L has a 2,048Wh battery — double the capacity of the other two — and a 2,400W output with 3,600W surge capacity.
 
@@ -152,3 +152,4 @@ I'm a homeowner who spent 73 days testing solar generators and backup power syst
 ---
 
 *Last updated: April 2026*
+
