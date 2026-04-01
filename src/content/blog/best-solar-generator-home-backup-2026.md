@@ -35,8 +35,6 @@ I wrote a full breakdown on [how to calculate surge watts for your freezer here]
 
 ### 1. EcoFlow DELTA 3 Plus - Best Overall
 
-<div class="cta-container"><a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow">Check EcoFlow DELTA 3 Plus on Amazon</a></div>
-
 This is the one I run full-time in my garage.
 
 The DELTA 3 Plus has a 1,024Wh battery and a 1,800W AC output with an X-Boost feature that pushes it to handle appliances up to 2,500W. That X-Boost is what makes it special - it is the reason it can run my 7.2 cubic foot chest freezer without tripping.
@@ -56,11 +54,11 @@ The app is genuinely useful. I could see real-time watt draw, battery percentage
 
 **Best for:** Homeowners who want a single unit that can handle a chest freezer, refrigerator, router, and lights simultaneously during an outage.
 
+<div class="cta-container"><a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow">Check EcoFlow DELTA 3 Plus on Amazon</a></div>
+
 ---
 
 ### 2. Jackery Explorer 1000 V2 - Best Mid-Range Pick
-
-<div class="cta-container"><a href="https://amzn.to/47Esd8d" class="cta-button-amazon" target="_blank" rel="nofollow">Check Jackery Explorer 1000 V2 on Amazon</a></div>
 
 If the EcoFlow is out of your budget, the Jackery Explorer 1000 V2 is the one I would recommend next.
 
@@ -77,11 +75,11 @@ In my testing:
 
 **Best for:** Budget-conscious homeowners with standard LRA freezers who want reliable backup at a lower price point.
 
+<div class="cta-container"><a href="https://amzn.to/47Esd8d" class="cta-button-amazon" target="_blank" rel="nofollow">Check Jackery Explorer 1000 V2 on Amazon</a></div>
+
 ---
 
 ### 3. Bluetti AC200L - Best for Whole-Home Backup
-
-<div class="cta-container"><a href="https://amzn.to/4sFpOCG" class="cta-button-amazon" target="_blank" rel="nofollow">Check Bluetti AC200L on Amazon</a></div>
 
 This one is in a different category. The AC200L has a 2,048Wh battery and a 2,400W output with 3,600W surge capacity.
 
@@ -92,6 +90,8 @@ In my testing, I ran my full setup - chest freezer, upright refrigerator, four L
 - **Solar recharge:** 6-7 hours with two 350W panels
 
 **Best for:** Homeowners who want extended whole-home backup and are willing to invest in a serious system.
+
+<div class="cta-container"><a href="https://amzn.to/4sFpOCG" class="cta-button-amazon" target="_blank" rel="nofollow">Check Bluetti AC200L on Amazon</a></div>
 
 ---
 
