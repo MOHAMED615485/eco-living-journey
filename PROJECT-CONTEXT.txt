@@ -1,0 +1,123 @@
+﻿## PROJECT: Eco Living Journey
+Site: ecoliving-journey.com
+Framework: Astro 5
+Deployment: Cloudflare Pages
+Repo: github.com/MOHAMED615485/eco-living-journey.git
+Local: C:\projects\eco-living-journey
+Shell: PowerShell (username: DELL)
+
+## PERSONA
+Name: Ethan
+Bio: Homeowner who tests backup power systems for 73 days before recommending
+Voice: First-person, field-tested, no-hype, honest
+Credibility hook: I tested this for 73 days so you don't have to
+
+## NICHE
+Topic: Portable solar generators and home backup power
+Target: US homeowners, preppers, RV lifers, remote workers
+Revenue target: 25000/month over 12 months
+
+## AFFILIATES - MONTH 1
+Network: Amazon Associates
+Products to link: EcoFlow Delta 3 Plus, Jackery Explorer 1000 V2, Bluetti AC200L
+Link format: https://www.amazon.com/dp/PRODUCT-ID?tag=ecolivingjo0d-20
+Commission: 3-4% on electronics
+Strategy: Link product name on first mention + dedicated CTA button per article
+Important: Must have Amazon disclaimer on every page with affiliate links
+Amazon disclaimer text: As an Amazon Associate I earn from qualifying purchases.
+
+## AFFILIATES - MONTH 2+ (switch to Awin)
+Network: Awin
+Partners: EcoFlow, Jackery, Bluetti direct programs
+Commission: 5-8% direct brand programs
+Reason for switch: Higher commissions than Amazon on same products
+
+## LIVE ARTICLES (8)
+1. ecoflow-delta-3-plus-review
+2. chest-freezer-blackout-math
+3. what-is-lra-on-a-freezer
+4. ecoflow-vs-jackery-comparison
+5. how-long-food-lasts-without-power
+6. solar-generator
+7. solar-vs-gas
+8. hello (intro post)
+
+## MISSING HIGH-PRIORITY ARTICLES
+1. Best Solar Generator for Home Backup 2026
+2. Jackery Explorer 1000 V2 Review
+3. How Many Watts Does a Chest Freezer Use?
+4. Bluetti AC200L Review
+5. Best Solar Generator for Chest Freezer 2026
+
+## SITE COLORS
+Primary green: #2d6a4f
+Button green: #3d8b6f
+Background cream: #f5f0dc
+Light green accent: #a8d5b5
+
+## TECH STACK FILES
+- src/components/BaseHead.astro (SEO meta, og:image, GA4)
+- src/layouts/BlogPost.astro (article layout, email form, CTA)
+- src/consts.ts (site title and description)
+- public/robots.txt (bot rules)
+- public/social-preview.webp (og fallback image)
+
+## CONTENT RULES
+- Length: 1500-1750 words
+- Title: 55-60 characters, buyer-intent
+- Structure: H2/H3, FAQ at end (3 questions minimum)
+- Always include: author bio block + affiliate disclaimer + 2 internal links
+- Amazon disclaimer on every article
+- Images: WebP only, unique per article
+- No fluff, every paragraph adds value
+
+## SEO RULES
+- Meta title: 55-60 chars
+- Meta description: 145-155 chars
+- Focus keyword in: title, first 100 words, 1 H2, meta description
+- FAQ schema on every article
+
+## SOCIAL STRATEGY
+Facebook: Seeding approach - helpful post first, link 3 days later
+Medium: 800-word version, no affiliate links, canonical to main site
+Pinterest: 3 pins per day per article
+Reddit: r/SolarDIY, r/preppers, r/vandwellers
+
+## TRACKING
+GA4 ID: G-R4DLNKRS96
+GSC: Verified, sitemap submitted
+Email: Kit.com form ID 9163556
+
+## FIXES COMPLETED
+- og:image fixed and working per article
+- GA4 installed
+- 5 duplicate/off-niche articles deleted
+- Site description fixed
+- Hero images fixed
+- CTA buttons green
+- Emoji fixed in email form
+- Facebook og:image per article fixed
+- GSC sitemap resubmitted + manual indexing done
+
+## ISSUES STILL OPEN
+- Amazon Associates tag needed in all articles
+- Canonical tags needed on competing article pairs
+- Ethan persona audit needed across all articles
+- FAQ schema not yet added
+- 5 money articles not yet written
+- Amazon disclaimer needed in BlogPost.astro
+
+## SHORTHAND COMMANDS
+[article: TOPIC] = full 1600-word article Ethan voice with Amazon links
+[fix: ISSUE] = paste code + issue, get full fixed file
+[titles: N] = N buyer-intent titles 55-60 chars
+[outline: TOPIC] = full H2/H3 outline
+[medium: TOPIC] = 800-word Medium version no affiliate links
+[facebook: TOPIC] = seeding post + reply template
+
+## RESPONSE RULES
+- No filler, no great question, lead with answer immediately
+- Never summarize what you just did
+- Code first, explanation after
+- Full file output always, no placeholders
+- PowerShell commands only
