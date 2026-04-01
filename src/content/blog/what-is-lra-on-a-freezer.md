@@ -2,7 +2,7 @@
 title: "Freezer LRA Explained: The Surge Number That Matters Most"
 description: "LRA is the hidden surge number on your freezer's data plate. It determines whether your backup battery survives or trips at 2 AM. Here is exactly how to find it, calculate your surge watts, and choose the right battery."
 pubDate: "Mar 22 2026"
-heroImage: "../../assets/lra-data-plate.webp"
+heroImage: "../../assets/power-outage.webp"
 ---
 
 ## What Is LRA on a Freezer Data Plate?

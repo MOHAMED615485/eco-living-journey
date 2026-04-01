@@ -2,7 +2,7 @@
 title: "EcoFlow DELTA 3 Plus vs Jackery 1000 V2: My 73-Day Test"
 description: "I tested both the EcoFlow DELTA 3 Plus and Jackery Explorer 1000 V2 on my garage chest freezer through two real power outages. Here is the honest comparison of surge capacity, runtime, charging speed, and which one I would actually buy."
 pubDate: "Mar 23 2026"
-heroImage: "../../assets/solar-panels-home.webp"
+heroImage: "../../assets/chest-freezer-stocked.webp"
 ---
 
 ## EcoFlow DELTA 3 Plus vs Jackery 1000 V2 — Which One Wins?
