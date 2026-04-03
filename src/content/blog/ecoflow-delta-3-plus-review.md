@@ -121,7 +121,7 @@ That matches what I found in testing — and then some, once the temperatures an
 
 ---
 
-## Who Should Buy the EcoFlow DELTA 3 Plus
+## 🎯 Who Should Buy the EcoFlow DELTA 3 Plus
 
 **Buy it if:**
 - You have a chest freezer with $500+ of food you cannot afford to lose

@@ -5,7 +5,7 @@ pubDate: "Mar 22 2026"
 heroImage: "../../assets/power-outage.webp"
 ---
 
-## What Is LRA on a Freezer Data Plate?
+## 🔍 What Is LRA on a Freezer Data Plate?
 
 ⚡ **The Quick Answer:** LRA stands for Locked Rotor Amps — the surge of electricity your freezer's compressor needs to start from a dead stop. Multiply your LRA by 120 to get your surge watts. Any backup battery must have a surge capacity above that number or it will trip and shut off the moment your compressor kicks on — usually at 2 AM when you are asleep.
 
