@@ -1,4 +1,4 @@
----
+content = '''---
 title: "Best Solar Generator for Chest Freezer 2026 (Tested)"
 description: "After 73 days testing EcoFlow, Jackery and Bluetti on real chest freezers, Ethan reveals the best solar generator for chest freezer backup in 2026. Real surge data."
 pubDate: "Apr 05 2026"
@@ -169,3 +169,8 @@ No - a quality solar generator produces clean pure sine wave AC power that is sa
 I am a homeowner who lost $847 of food in a single blackout and spent 73 days testing backup power systems to make sure it never happens again. I test everything myself with real appliances and real power meters before recommending it. No sponsored content, no paid partnerships.
 
 *Last updated: April 2026*
+'''
+
+with open('src/content/blog/best-solar-generator-chest-freezer-2026.md', 'w', encoding='utf-8') as f:
+    f.write(content)
+print('done')
