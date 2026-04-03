@@ -2,7 +2,7 @@
 title: "Bluetti AC200L Review: 73 Days Running My Full Home Backup"
 description: "Ethan tested the Bluetti AC200L for 73 days running a chest freezer, refrigerator, lights and router simultaneously. Real watt readings, runtime data and honest verdict."
 pubDate: "Apr 03 2026"
-heroImage: "../../assets/best-solar-generator-2026.webp"
+heroImage: "../../assets/bluetti-ac200l-review.webp"
 ---
 
 The Bluetti AC200L is not a portable power station. It is a home battery system that happens to be portable.

@@ -2,7 +2,7 @@
 title: "How Many Watts Does a Chest Freezer Use? Real Numbers"
 description: "Ethan measured exact watt draw on 4 chest freezers over 73 days. Running watts, startup surge, and what size solar generator you actually need. Real data only."
 pubDate: "Apr 04 2026"
-heroImage: "../../assets/stocked-chest-freezer.webp"
+heroImage: "../../assets/how-many-watts-chest-freezer.webp"
 ---
 
 I have measured the actual watt draw on four different chest freezers over the past 73 days. Not the spec sheet numbers. Not the nameplate ratings. The real numbers from a power meter plugged in between the freezer and the wall.
