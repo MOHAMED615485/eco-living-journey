@@ -2,7 +2,7 @@
 title: "Jackery Explorer 1000 V2 Review: My 73-Day Chest Freezer Test"
 description: "Ethan tested the Jackery Explorer 1000 V2 for 73 days on a real chest freezer. Here are the exact watt readings, surge test results, and honest buying verdict."
 pubDate: "Apr 03 2026"
-heroImage: "../../assets/best-solar-generator-2026.webp"
+heroImage: "../../assets/jackery-1000-v2-review.webp"
 ---
 
 I bought the Jackery Explorer 1000 V2 with my own money in January 2026 and ran it for 73 days alongside the EcoFlow DELTA 3 Plus on my chest freezer, refrigerator, and full home backup setup.
