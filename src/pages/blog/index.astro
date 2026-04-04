@@ -309,7 +309,7 @@ const posts = (await getCollection('blog')).sort(
             {(post.data.heroImage || "") ? (
               <img
                 class="card-image"
-                src={(post.data.heroImage || "")}
+                src={`/blog/${post.slug}/`} style="display:none"
                 alt={post.data.title}
                 loading="lazy"
               />
