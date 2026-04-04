@@ -1,4 +1,31 @@
----
+import os
+import shutil
+
+# Step 1: Copy all hero images to public/images/ so they work as URLs
+os.makedirs('public/images', exist_ok=True)
+
+image_copies = [
+    ('src/assets/ecoflow-delta-3-plus-review.webp', 'public/images/ecoflow-delta-3-plus-review.webp'),
+    ('src/assets/jackery-1000-v2-review.webp', 'public/images/jackery-1000-v2-review.webp'),
+    ('src/assets/bluetti-ac200l-review.webp', 'public/images/bluetti-ac200l-review.webp'),
+    ('src/assets/best-solar-generator-2026.webp', 'public/images/best-solar-generator-2026.webp'),
+    ('src/assets/best-solar-generator-chest-freezer.webp', 'public/images/best-solar-generator-chest-freezer.webp'),
+    ('src/assets/how-many-watts-chest-freezer.webp', 'public/images/how-many-watts-chest-freezer.webp'),
+    ('src/assets/stocked-chest-freezer.webp', 'public/images/stocked-chest-freezer.webp'),
+    ('src/assets/lra-data-plate.webp', 'public/images/lra-data-plate.webp'),
+    ('src/assets/solar-panels-home.webp', 'public/images/solar-panels-home.webp'),
+    ('src/assets/chest-freezer-stocked.webp', 'public/images/chest-freezer-stocked.webp'),
+]
+
+for src, dst in image_copies:
+    if os.path.exists(src):
+        shutil.copy2(src, dst)
+        print('Copied: ' + dst)
+    else:
+        print('Not found: ' + src)
+
+# Step 2: Write clean blog index
+content = '''---
 import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
@@ -152,3 +179,9 @@ const imageMap = {
   </script>
 </body>
 </html>
+'''
+
+with open('src/pages/blog/index.astro', 'w', encoding='utf-8') as f:
+    f.write(content)
+print('Blog index written')
+print('All done')
