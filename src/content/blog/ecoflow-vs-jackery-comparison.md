@@ -33,6 +33,7 @@ The short version: your freezer surges at startup to 5–7 times its running wat
 
 | Feature | EcoFlow DELTA 3 Plus | Jackery Explorer 1000 V2 |
 | :--- | :--- | :--- |
+| Overall Rating | ★★★★★ | ★★★★☆ |
 | Capacity | 1,024Wh | 1,070Wh |
 | Continuous output | 2,400W | 1,500W |
 | Surge capacity | 🟢 7,200W | 🟡 2,000W |

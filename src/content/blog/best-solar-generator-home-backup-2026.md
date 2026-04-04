@@ -102,6 +102,10 @@ In my testing, I ran my full setup - chest freezer, upright refrigerator, four L
 | Battery | 1,024Wh | 1,070Wh | 2,048Wh |
 | AC Output | 1,800W (2,500W boost) | 2,000W | 2,400W |
 | Weight | 12.3kg | 11.8kg | 28kg |
+| Surge Reliability | ★★★★★ | ★★★★☆ | ★★★★★ |
+| Value for Money | ★★★☆☆ | ★★★★★ | ★★★☆☆ |
+| Battery Life | ★★★★★ | ★★★★★ | ★★★★★ |
+| Overall | ★★★★★ | ★★★★☆ | ★★★★☆ |
 | Freezer runtime | 8-9 hours | 8.5 hours | 12+ hours |
 | Fast charge | Yes - 0-80% in 1hr | Slow after 80% | Yes - Solid |
 | App quality | Excellent | Good | Good |

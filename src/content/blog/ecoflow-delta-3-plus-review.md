@@ -51,11 +51,11 @@ Don't want to do the math? I built a [free blackout calculator](/local-quote/) t
 
 ## 📊 How the EcoFlow DELTA 3 Plus Compares (2026 Models)
 
-| Power Station | Capacity | Surge Power | Charge Time (0–80%) | 🟢 Best Feature |
-| :--- | :--- | :--- | :--- | :--- |
-| **EcoFlow DELTA 3 Plus** | 1,024Wh | 🟢 7,200W | 80 min | Fastest charging + highest surge |
-| Jackery Explorer 1000 V2 | 1,070Wh | 🟡 2,000W | ~5 hours | 🟢 Most portable, 30-day cookie |
-| Bluetti Elite 200v2 | 2,073Wh | 🟡 3,900W | ~3 hours | 🟢 Highest capacity for long outages |
+| Power Station | Capacity | Surge Power | Charge Time (0–80%) | 🟢 Best Feature | Rating |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **EcoFlow DELTA 3 Plus** | 1,024Wh | 🟢 7,200W | 80 min | Fastest charging + highest surge | ★★★★★ |
+| Jackery Explorer 1000 V2 | 1,070Wh | 🟡 2,000W | ~5 hours | 🟢 Most portable, 30-day cookie | ★★★★☆ |
+| Bluetti Elite 200v2 | 2,073Wh | 🟡 3,900W | ~3 hours | 🟢 Highest capacity for long outages | ★★★★☆ |
 
 **In reality:** For a single chest freezer, any of these units will handle the running load. The difference is whether they can handle the *surge* when the compressor kicks on. The DELTA 3 Plus wins this category by a wide margin — 7,200W of surge is more than enough for even the largest chest freezer.
 
