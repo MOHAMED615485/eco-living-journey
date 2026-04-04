@@ -120,6 +120,10 @@ If you are running a chest freezer only, the AC200L is overkill. But if you want
 
 | | EcoFlow DELTA 3 Plus | Jackery 1000 V2 | Bluetti AC200L |
 |---|---|---|---|
+| Overall Rating | ★★★★★ | ★★★★☆ | ★★★★★ |
+| Surge Reliability | ★★★★★ | ★★★★☆ | ★★★★★ |
+| Runtime Score | ★★★★☆ | ★★★★☆ | ★★★★★ |
+| Value for Money | ★★★☆☆ | ★★★★★ | ★★★☆☆ |
 | Surge capacity | 2,500W | 4,000W | 3,600W |
 | Freezer-only runtime | 8.9 hours | 8.5 hours | 18.4 hours |
 | Surge failures (73 days) | 0 | 2 | 0 |
