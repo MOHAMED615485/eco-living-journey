@@ -315,7 +315,24 @@ const posts = (await getCollection('blog')).sort(
                 loading="lazy"
               />
             ) : (
-              <div class="card-image-placeholder">⚡</div>
+              {(() => {
+              const imageMap = {
+                'ecoflow-delta-3-plus-review': '/src/assets/ecoflow-delta-3-plus-review.webp',
+                'jackery-explorer-1000-v2-review': '/src/assets/jackery-1000-v2-review.webp',
+                'bluetti-ac200l-review': '/src/assets/bluetti-ac200l-review.webp',
+                'best-solar-generator-home-backup-2026': '/src/assets/best-solar-generator-2026.webp',
+                'best-solar-generator-chest-freezer-2026': '/src/assets/best-solar-generator-chest-freezer.webp',
+                'how-many-watts-chest-freezer': '/src/assets/how-many-watts-chest-freezer.webp',
+                'chest-freezer-blackout-math': '/src/assets/stocked-chest-freezer.webp',
+                'what-is-lra-on-a-freezer': '/src/assets/lra-data-plate.webp',
+                'ecoflow-vs-jackery-comparison': '/src/assets/solar-panels-home.webp',
+                'how-long-food-lasts-without-power': '/src/assets/stocked-chest-freezer.webp',
+              };
+              const imgSrc = imageMap[post.slug];
+              return imgSrc
+                ? <img class="card-image" src={imgSrc} alt={post.data.title} loading="lazy" />
+                : <div class="card-image-placeholder">⚡</div>;
+            })()}
             )}
             <div class="card-body">
               <span class="card-category">{categoryLabel}</span>
