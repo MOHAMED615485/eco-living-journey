@@ -1,23 +1,16 @@
-.grid { margin-top: 2.5rem; }
-.cards {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  gap: 1rem;
-}
-.card {
-  grid-column: span 6;
-  padding: 1rem;
-  border-radius: 1rem;
-  border: 1px solid rgba(0,0,0,.12);
-  text-decoration: none;
-}
-.card h3 { margin: 0 0 .35rem; }
-.card p { margin: 0; opacity: .85; }
+# Update global.css with premium table design + fix star coloring via JS in BlogPost.astro
 
-@media (max-width: 720px) {
-  .card { grid-column: span 12; }
-}
-/* Premium table styling */
+# Step 1: Premium CSS for tables
+css_content = open('src/styles/global.css', encoding='utf-8').read()
+
+old = """/* Gold star ratings in tables */
+table td:last-child {
+  color: #f5a623;
+  font-size: 1.2rem;
+  letter-spacing: 2px;
+}"""
+
+new = """/* Premium table styling */
 .prose table {
   border-collapse: separate !important;
   border-spacing: 0 !important;
@@ -77,4 +70,32 @@ td.star-cell {
   font-size: 1.2rem !important;
   letter-spacing: 3px !important;
   font-weight: 700 !important;
-}
+}"""
+
+css_content = css_content.replace(old, new)
+open('src/styles/global.css', 'w', encoding='utf-8').write(css_content)
+print('CSS updated')
+
+# Step 2: Add JS to BlogPost.astro to mark star cells
+blogpost = open('src/layouts/BlogPost.astro', encoding='utf-8').read()
+
+star_js = """
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('td').forEach(function(td) {
+      if (td.textContent.includes('\u2605') || td.textContent.includes('\u2606')) {
+        td.classList.add('star-cell');
+      }
+    });
+  });
+</script>
+"""
+
+if 'star-cell' not in blogpost:
+    blogpost = blogpost.replace('</body>', star_js + '</body>')
+    open('src/layouts/BlogPost.astro', 'w', encoding='utf-8').write(blogpost)
+    print('JS added to BlogPost.astro')
+else:
+    print('JS already present')
+
+print('All done')
