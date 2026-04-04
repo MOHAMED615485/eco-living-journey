@@ -29,7 +29,7 @@
 }
 
 .prose table thead tr {
-  background: linear-gradient(135deg, #111111 0%, #333333 100%) !important;
+  background: linear-gradient(135deg, #1a3d2b 0%, #2d6a4f 100%) !important;
 }
 
 .prose table thead th {
@@ -77,4 +77,9 @@ td.star-cell {
   font-size: 1.2rem !important;
   letter-spacing: 3px !important;
   font-weight: 700 !important;
+}
+
+/* Force gold on star rows */
+.prose table td {
+  color: #1a1a1a !important;
 }
