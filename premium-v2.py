@@ -1,28 +1,13 @@
-.grid { margin-top: 2.5rem; }
-.cards {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  gap: 1rem;
-}
-.card {
-  grid-column: span 6;
-  padding: 1rem;
-  border-radius: 1rem;
-  border: 1px solid rgba(0,0,0,.12);
-  text-decoration: none;
-}
-.card h3 { margin: 0 0 .35rem; }
-.card p { margin: 0; opacity: .85; }
+c = open('src/styles/global.css', encoding='utf-8').read()
 
-@media (max-width: 720px) {
-  .card { grid-column: span 12; }
-}
+# Remove all previous table CSS we added
+import re
+c = re.sub(r'/\* Premium table styling \*/.*?/\* Gold stars.*?\}', '', c, flags=re.DOTALL)
+c = re.sub(r'/\* Force gold.*?\}', '', c, flags=re.DOTALL)
+c = re.sub(r'/\* Gold star.*?\}', '', c, flags=re.DOTALL)
+c = re.sub(r'/\* Gold stars.*?\}', '', c, flags=re.DOTALL)
 
-
-
-
-
-
+premium = '''
 /* ============================================
    PREMIUM COMPARISON TABLE
    ============================================ */
@@ -105,3 +90,7 @@
   font-weight: 700 !important;
   text-shadow: 0 1px 3px rgba(232,148,10,0.25) !important;
 }
+'''
+
+open('src/styles/global.css', 'w', encoding='utf-8').write(c + premium)
+print('done')
