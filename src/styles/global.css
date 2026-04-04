@@ -18,8 +18,8 @@
   .card { grid-column: span 12; }
 }
 /* Gold star ratings in tables */
-td:has(★), td:has(☆) {
+table td:last-child {
   color: #f5a623;
   font-size: 1.2rem;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
 }
