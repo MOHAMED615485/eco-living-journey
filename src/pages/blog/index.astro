@@ -1,7 +1,7 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
 import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('blog')).sort(
@@ -286,9 +286,9 @@ const posts = (await getCollection('blog')).sort(
     <div class="posts-grid" id="postsGrid">
       {posts.map((post) => {
         const category =
-          post.slug.includes('review') ? 'review' :
-          post.slug.includes('comparison') || post.slug.includes('vs') ? 'comparison' :
-          post.slug.includes('best') || post.slug.includes('calculator') ? 'calculator' : 'guide';
+          (post.slug || "").includes('review') ? 'review' :
+          (post.slug || "").includes('comparison') || (post.slug || "").includes('vs') ? 'comparison' :
+          (post.slug || "").includes('best') || (post.slug || "").includes('calculator') ? 'calculator' : 'guide';
 
         const categoryLabel =
           category === 'review' ? 'Review' :
@@ -306,10 +306,10 @@ const posts = (await getCollection('blog')).sort(
             data-category={category}
             data-title={post.data.title.toLowerCase()}
           >
-            {post.data.heroImage ? (
+            {(post.data.heroImage || "") ? (
               <img
                 class="card-image"
-                src={post.data.heroImage}
+                src={(post.data.heroImage || "")}
                 alt={post.data.title}
                 loading="lazy"
               />
