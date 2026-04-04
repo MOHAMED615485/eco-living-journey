@@ -79,7 +79,12 @@ td.star-cell {
   font-weight: 700 !important;
 }
 
-/* Force gold on star rows */
-.prose table td {
-  color: #1a1a1a !important;
+
+
+/* Gold stars - must come after table td rule */
+.prose table td.star-cell {
+  color: #f5a623 !important;
+  font-size: 1.2rem !important;
+  letter-spacing: 3px !important;
+  font-weight: 700 !important;
 }
