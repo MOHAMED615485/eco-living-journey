@@ -142,4 +142,4 @@ It depends entirely on what you are running. My chest freezer draws 85-110W runn
 
 I am a homeowner who spent 73 days testing solar generators and backup power systems after losing $847 of food in a single blackout. I share real watt readings, real failure moments, and honest buying recommendations - no paid partnerships, no fluff. Everything on this site I have tested myself.
 
-*Last updated: April 2026*
+*Last updated: Apr 2026*

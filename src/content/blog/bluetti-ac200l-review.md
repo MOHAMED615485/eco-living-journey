@@ -201,4 +201,4 @@ Two 350W panels will charge it from zero in about 5-6 hours in direct sun. Four 
 
 I am a homeowner who spent 73 days testing solar generators and backup power systems after losing $847 of food in a single blackout. I share real watt readings, real failure data, and honest buying recommendations. No paid partnerships. No sponsored reviews. Everything on this site I have tested myself.
 
-*Last updated: April 2026*
+*Last updated: Apr 2026*

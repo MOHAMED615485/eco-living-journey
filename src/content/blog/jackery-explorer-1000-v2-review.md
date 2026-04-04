@@ -199,4 +199,4 @@ Two 200W panels will charge it from zero in about 3-4 hours in direct sun. One 2
 
 I am a homeowner who tests solar generators and backup power systems for 73 days before recommending them. I lost $847 of food in a blackout before taking backup power seriously. Now I share real watt readings, real failure data, and honest buying recommendations. Everything on this site I have tested myself.
 
-*Last updated: April 2026*
+*Last updated: Apr 2026*

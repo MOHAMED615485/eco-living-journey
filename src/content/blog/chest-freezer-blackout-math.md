@@ -133,3 +133,6 @@ heroImage: "../../assets/stocked-chest-freezer.webp"
 
 <p>Stay safe out there.</p>
 <p>- Ethan</p>
+
+
+*Last updated: Apr 2026*

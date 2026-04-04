@@ -149,4 +149,4 @@ You need a generator with surge capacity above your freezer's LRA x 120. For mos
 
 I am a homeowner who tests backup power systems with real appliances and real power meters. After losing $847 of food in a blackout I spent 73 days documenting exactly how much power common appliances need and which generators actually deliver it. Everything on this site is based on real measurements, not manufacturer specs.
 
-*Last updated: April 2026*
+*Last updated: Apr 2026*

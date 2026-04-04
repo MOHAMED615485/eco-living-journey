@@ -172,4 +172,4 @@ No - a quality solar generator produces clean pure sine wave AC power that is sa
 
 I am a homeowner who lost $847 of food in a single blackout and spent 73 days testing backup power systems to make sure it never happens again. I test everything myself with real appliances and real power meters before recommending it. No sponsored content, no paid partnerships.
 
-*Last updated: April 2026*
+*Last updated: Apr 2026*

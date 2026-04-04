@@ -159,3 +159,6 @@ Before the next storm season, run through this checklist once. It takes 20 minut
 
 The preparation takes less time than cleaning out a ruined freezer. Do it once. Keep it ready.
 
+
+
+*Last updated: Apr 2026*

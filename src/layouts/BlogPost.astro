@@ -20,6 +20,50 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
   .star-empty { color: #ccc; font-size: 1.1rem; }
   table .star-filled, table .star-empty { font-size: 1rem; }
 </style>
+
+<script is:inline type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": []
+}
+</script>
+<script is:inline>
+document.addEventListener('DOMContentLoaded', function() {
+  var faqs = [];
+  var h2s = document.querySelectorAll('.prose h2');
+  h2s.forEach(function(h2) {
+    if (h2.textContent.includes('FAQ') || h2.textContent.includes('?')) {
+      var next = h2.nextElementSibling;
+      while (next && next.tagName !== 'H2') {
+        if (next.tagName === 'P' && next.textContent.includes('?')) {
+          var parts = next.textContent.split('?');
+          if (parts.length >= 2) {
+            faqs.push({
+              "@type": "Question",
+              "name": parts[0].trim() + '?',
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": parts.slice(1).join('?').trim()
+              }
+            });
+          }
+        }
+        next = next.nextElementSibling;
+      }
+    }
+  });
+  if (faqs.length > 0) {
+    var schema = document.querySelector('script[type="application/ld+json"]');
+    if (schema) {
+      var data = JSON.parse(schema.textContent);
+      data.mainEntity = faqs;
+      schema.textContent = JSON.stringify(data);
+    }
+  }
+});
+</script>
+
 </head>
   <body>
     <Header />
