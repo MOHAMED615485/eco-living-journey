@@ -14,7 +14,13 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
   <head>
     <BaseHead title={title} description={description} image={heroImage?.src} />
     <script defer src="https://f.convertkit.com/ckjs/ck.5.js"></script>
-  </head>
+  
+<style>
+  .star-filled { color: #f5a623; font-size: 1.1rem; }
+  .star-empty { color: #ccc; font-size: 1.1rem; }
+  table .star-filled, table .star-empty { font-size: 1rem; }
+</style>
+</head>
   <body>
     <Header />
     <main>
