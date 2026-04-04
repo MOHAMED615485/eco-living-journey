@@ -1,4 +1,4 @@
----
+content = '''---
 import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
@@ -162,11 +162,11 @@ const images = {
     </div>
 
     <div class="filter-tabs">
-      <button class="filter-tab active" onclick="setFilter('all', this)">All Articles</button>
-      <button class="filter-tab" onclick="setFilter('review', this)">Reviews</button>
-      <button class="filter-tab" onclick="setFilter('guide', this)">Guides</button>
-      <button class="filter-tab" onclick="setFilter('comparison', this)">Comparisons</button>
-      <button class="filter-tab" onclick="setFilter('calculator', this)">Best Picks</button>
+      <button class="filter-tab active" onclick="setFilter(\'all\', this)">All Articles</button>
+      <button class="filter-tab" onclick="setFilter(\'review\', this)">Reviews</button>
+      <button class="filter-tab" onclick="setFilter(\'guide\', this)">Guides</button>
+      <button class="filter-tab" onclick="setFilter(\'comparison\', this)">Comparisons</button>
+      <button class="filter-tab" onclick="setFilter(\'calculator\', this)">Best Picks</button>
       <a href="/contact/" class="filter-tab" style="background:var(--green);color:white;border-color:var(--green);">✉️ Contact Ethan</a>
     </div>
 
@@ -235,3 +235,8 @@ const images = {
   </script>
 </body>
 </html>
+'''
+
+with open('src/pages/blog/index.astro', 'w', encoding='utf-8') as f:
+    f.write(content)
+print('done')
