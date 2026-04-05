@@ -88,12 +88,12 @@ The EcoFlow DELTA 3 Plus delivers 2,500W surge through its X-Boost technology. F
 
 | Feature | Spec | Well Pump Rating |
 |---|---|---|
-| Surge capacity | 2,500W | â˜…â˜…â˜…â˜…â˜… |
-| Running output | 1,800W | â˜…â˜…â˜…â˜…â˜† |
-| Battery capacity | 1,024Wh | â˜…â˜…â˜…â˜†â˜† |
-| Recharge speed | 1hr to 80% | â˜…â˜…â˜…â˜…â˜… |
-| 120V compatibility | Yes | â˜…â˜…â˜…â˜…â˜… |
-| Overall | | â˜…â˜…â˜…â˜…â˜† |
+| Surge capacity | 2,500W | ★★★★★ |
+| Running output | 1,800W | ★★★★☆ |
+| Battery capacity | 1,024Wh | ★★★☆☆ |
+| Recharge speed | 1hr to 80% | ★★★★★ |
+| 120V compatibility | Yes | ★★★★★ |
+| Overall | | ★★★★☆ |
 
 **Best for:** 120V well pumps, LRA under 20A
 
@@ -109,12 +109,12 @@ The Bluetti AC200L delivers 3,600W surge and 2,400W continuous output. For large
 
 | Feature | Spec | Well Pump Rating |
 |---|---|---|
-| Surge capacity | 3,600W | â˜…â˜…â˜…â˜…â˜… |
-| Running output | 2,400W | â˜…â˜…â˜…â˜…â˜… |
-| Battery capacity | 2,048Wh | â˜…â˜…â˜…â˜…â˜… |
-| Recharge speed | 2hrs | â˜…â˜…â˜…â˜…â˜† |
-| 120V compatibility | Yes | â˜…â˜…â˜…â˜…â˜… |
-| Overall | | â˜…â˜…â˜…â˜…â˜… |
+| Surge capacity | 3,600W | ★★★★★ |
+| Running output | 2,400W | ★★★★★ |
+| Battery capacity | 2,048Wh | ★★★★★ |
+| Recharge speed | 2hrs | ★★★★☆ |
+| 120V compatibility | Yes | ★★★★★ |
+| Overall | | ★★★★★ |
 
 **Best for:** Larger 120V pumps, whole-home backup including pump
 
@@ -130,12 +130,12 @@ For 240V submersible pumps over 1/2 HP, a portable power station is often not th
 
 | Feature | Gas Generator | Portable Power Station |
 |---|---|---|
-| 240V support | â˜…â˜…â˜…â˜…â˜… | â˜…â˜…â˜†â˜†â˜† |
-| Surge capacity | â˜…â˜…â˜…â˜…â˜… | â˜…â˜…â˜…â˜†â˜† |
-| Indoor safety | â˜…â˜†â˜†â˜†â˜† | â˜…â˜…â˜…â˜…â˜… |
-| Maintenance | â˜…â˜…â˜†â˜†â˜† | â˜…â˜…â˜…â˜…â˜… |
-| Fuel required | â˜…â˜†â˜†â˜†â˜† | â˜…â˜…â˜…â˜…â˜… |
-| Overall for 240V pump | â˜…â˜…â˜…â˜…â˜† | â˜…â˜…â˜†â˜†â˜† |
+| 240V support | ★★★★★ | ★★☆☆☆ |
+| Surge capacity | ★★★★★ | ★★★☆☆ |
+| Indoor safety | ★☆☆☆☆ | ★★★★★ |
+| Maintenance | ★★☆☆☆ | ★★★★★ |
+| Fuel required | ★☆☆☆☆ | ★★★★★ |
+| Overall for 240V pump | ★★★★☆ | ★★☆☆☆ |
 
 ---
 
