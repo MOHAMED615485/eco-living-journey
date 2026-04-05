@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Best Solar Generator for a Well Pump: Surge Numbers Revealed"
 description: "Well pumps have the highest surge requirements of any common home appliance. Before you buy a solar generator for your well pump, you need these numbers. Most buyers get this wrong."
 pubDate: "Apr 06 2026"
-heroImage: "../../assets/well-pump-solar-generator.webp"
+heroImage: "../../assets/solar-panels-home.webp"
 ---
 
 Most solar generator guides cover chest freezers and refrigerators. Almost none cover well pumps.
@@ -13,13 +13,13 @@ Here is everything you need to know before buying.
 
 ---
 
-## The 30-Second Answer
+## ⚡ The 30-Second Answer
 
 A half-horsepower well pump surges at 2,400 to 3,600 watts at startup. The EcoFlow DELTA 3 Plus handles it reliably on 120V pumps. Most sub-$800 portable power stations trip instantly. Check your pump voltage and LRA before buying anything.
 
 ---
 
-## Why Well Pumps Are Different
+## 💧 Why Well Pumps Are Different
 
 Your well pump uses an electric motor to push water from underground up to your pressure tank. That motor demands its highest current at the instant of startup - before the rotor gets spinning. This is the Locked Rotor Amp (LRA) rating.
 
@@ -33,7 +33,7 @@ Not sure how LRA works? [Read the full LRA explainer here](/blog/what-is-lra-on-
 
 ---
 
-## Well Pump Surge Requirements by Size
+## 📊 Well Pump Surge Requirements by Size
 
 | Pump Size | Running Watts | Typical Surge Watts | Min Generator Surge |
 |---|---|---|---|
@@ -46,7 +46,7 @@ Most residential homes have a half-HP submersible pump. At 2,400W surge, this el
 
 ---
 
-## The 240V Reality Check
+## ⚠️ The 240V Reality Check
 
 This is the most important point that most well pump backup guides skip entirely.
 
@@ -63,7 +63,7 @@ If your pump is 240V, standard portable power stations will not work without add
 
 ---
 
-## How to Find Your Exact Surge Requirement
+## 🔍 How to Find Your Exact Surge Requirement
 
 **Step 1** - Locate your pressure tank in the basement or utility room.
 
@@ -78,9 +78,9 @@ For a 240V pump: LRA 15 x 240 = 3,600W surge
 
 ---
 
-## The Three Realistic Options
+## 🎯 The Three Realistic Options
 
-### Option 1 - EcoFlow DELTA 3 Plus
+### 🟢 Option 1 – EcoFlow DELTA 3 Plus
 
 **Best for:** 120V well pumps up to 1/2 HP
 
@@ -101,7 +101,7 @@ The EcoFlow DELTA 3 Plus delivers 2,500W surge through its X-Boost technology. F
 
 ---
 
-### Option 2 - Bluetti AC200L
+### 🟦 Option 2 – Bluetti AC200L
 
 **Best for:** Higher surge demands, multiple simultaneous appliances
 
@@ -122,7 +122,7 @@ The Bluetti AC200L delivers 3,600W surge and 2,400W continuous output. For large
 
 ---
 
-### Option 3 - Whole-Home Generator
+### ⛽ Option 3 – Whole-Home Generator
 
 **Best for:** 240V submersible pumps over 1/2 HP
 
@@ -139,7 +139,7 @@ For 240V submersible pumps over 1/2 HP, a portable power station is often not th
 
 ---
 
-## My Recommendation
+## 🏆 My Recommendation
 
 **If your well pump is 1/3 to 1/2 HP and runs on 120V:**
 The EcoFlow DELTA 3 Plus handles it with significant headroom. It also protects your chest freezer and refrigerator in the same unit.
@@ -153,7 +153,7 @@ Not sure what your setup requires? [Use the free Solar Generator Sizing Calculat
 
 ---
 
-## FAQ
+## ❓ FAQ
 
 **What size solar generator do I need for a well pump?**
 For a 120V half-HP well pump, you need at least 2,880W surge capacity. The EcoFlow DELTA 3 Plus at 2,500W handles most residential shallow well pumps. For deeper submersible pumps, check your LRA rating on the data plate and multiply by your voltage.
