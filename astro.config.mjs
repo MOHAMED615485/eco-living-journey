@@ -7,6 +7,6 @@ import { defineConfig } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://ecoliving-journey.com',
-        trailingSlash: 'ignore',
+        trailingSlash: 'always',
 	integrations: [mdx(), sitemap()],
 });
