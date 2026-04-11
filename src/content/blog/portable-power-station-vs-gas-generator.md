@@ -5,11 +5,11 @@ pubDate: "Apr 12 2026"
 heroImage: "../../assets/gas-vs-battery.webp"
 ---
 
-This is the comparison that comes up in every prepper forum, homesteading group, and emergency preparedness discussion I have seen.
+I owned a gas generator for three years before I understood why it was the wrong tool for my problem.
 
-Most people frame it as a technical question: which has more power? That framing misses the real question: which one actually protects your home better, more reliably, and at lower total cost over the decade you will own it?
+The night I lost $847 of food, the generator was sitting in my garage with stale fuel and a gunked carburetor. Useless. I stood in front of my warm chest freezer at 2AM and thought — I own a generator. Why am I in this situation?
 
-I ran the full numbers. I also lived through the 2AM experience of both options during real outages. Here is what I found.
+That question led to 73 days of testing portable power stations against real appliances in real outages. Here is the honest answer nobody else gives you.
 
 ---
 
@@ -142,11 +142,11 @@ This safety difference is not a minor footnote. It is a meaningful quality-of-li
 
 ## My Recommendation
 
-For protecting a chest freezer and basic household devices: buy a portable power station. The total cost math, the safety profile, and the practical convenience all point the same direction.
+If your goal is keeping the chest freezer running and your family comfortable during a typical 8 to 24 hour outage — buy a portable power station. I wish I had bought one before the $847 night instead of after it.
 
-For running central AC, large well pumps, or handling very extended multi-day outages without solar: consider a generator as the primary tool, with a portable power station as the supplemental unit for indoor use.
+If you have a 240V well pump or central AC that you absolutely need to run — get a gas generator for those loads and a portable power station for everything else indoors. That combination costs less than a whole-home standby system and covers every realistic scenario.
 
-Many prepared households own both. That combination covers every realistic scenario.
+The generator I bought in 2022 is still in my garage. I use it once a year to make sure it starts. The EcoFlow runs every outage now. That tells you everything.
 
 Not sure what your specific setup requires? [Use the free Solar Generator Sizing Calculator](/solar-calculator/) to find out exactly what you need before buying.
 
