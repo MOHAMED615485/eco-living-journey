@@ -4,8 +4,14 @@ description: "Ethan tested the Jackery Explorer 1000 V2 for 73 days on a real ch
 pubDate: "Apr 03 2026"
 heroImage: "../../assets/jackery-1000-v2-review.webp"
 ---
-
 I bought the Jackery Explorer 1000 V2 with my own money in January 2026 and ran it for 73 days alongside the EcoFlow DELTA 3 Plus on my chest freezer, refrigerator, and full home backup setup.
+
+<div style="margin:24px 0;">
+  <a href="https://amzn.to/47Esd8d" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:14px 32px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;display:inline-block;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+    🛒 Check Jackery Explorer 1000 V2 Price on Amazon →
+  </a>
+</div>
+
 
 This is not a spec sheet review. These are real numbers from real tests.
 

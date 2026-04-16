@@ -1,0 +1,15 @@
+content = '''---
+title: "Contact"
+description: "Get in touch with Eco Living Journey"
+---
+
+<h1>Contact Us</h1>
+
+<p>Have a question about solar generators or home backup power? We'd love to hear from you.</p>
+
+<p>Email us at: <a href="mailto:contact@ecoliving-journey.com">contact@ecoliving-journey.com</a></p>
+
+<p>You can also reach Ethan directly through the <a href="/about">About page</a>.</p>
+'''
+open('src/pages/contact.astro', 'w', encoding='utf-8').write(content)
+print('SUCCESS - contact page created')
