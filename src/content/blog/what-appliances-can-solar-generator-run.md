@@ -65,7 +65,7 @@ This is why reading the running wattage sticker on your fridge and assuming your
 <div style="background:#fff7ed;border:2px solid #f97316;border-radius:12px;padding:24px;margin:32px 0;text-align:center;">
   <p style="font-size:18px;font-weight:700;color:#c2410c;margin:0 0 8px;">⚡ Not Sure Which Generator Fits Your Appliances?</p>
   <p style="color:#374151;margin:0 0 20px;">Use Ethan's free calculator — plug in your appliances and get the exact battery size you need in 60 seconds.</p>
-  <a href="/solar-calculator/" style="background-color:#f97316;color:#ffffff;padding:14px 32px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;display:inline-block;">
+  <a href="/solar-calculator/" style="background-color:#f97316;color:#ffffff;padding:14px 32px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;">
     🧮 Calculate My Battery Size →
   </a>
 </div>
@@ -124,7 +124,7 @@ Any 500–1,000Wh generator works. The EcoFlow DELTA 3 Plus is the sweet spot �
 
 ⭐⭐⭐⭐⭐ 4.7/5 — 1,800+ Amazon reviews
 
-<a href="https://amzn.to/41D10iO" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:12px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;display:inline-block;margin:12px 0;">
+<a href="https://amzn.to/41D10iO" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:12px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;margin:12px 0;">
   🛒 Check EcoFlow DELTA 3 Plus Price on Amazon →
 </a>
 
@@ -134,7 +134,7 @@ You need 1,000Wh minimum and at least 1,500W surge capacity. The Jackery Explore
 
 ⭐⭐⭐⭐⭐ 4.8/5 — 2,400+ Amazon reviews
 
-<a href="https://amzn.to/47Esd8d" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:12px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;display:inline-block;margin:12px 0;">
+<a href="https://amzn.to/47Esd8d" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:12px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;margin:12px 0;">
   🛒 Check Jackery Explorer 1000 V2 Price on Amazon →
 </a>
 
@@ -144,7 +144,7 @@ You need 2,000Wh and 2,500W+ surge capacity minimum. The Bluetti AC200L is the r
 
 ⭐⭐⭐⭐½ 4.6/5 — 900+ Amazon reviews
 
-<a href="https://amzn.to/4sFpOCG" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:12px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;display:inline-block;margin:12px 0;">
+<a href="https://amzn.to/4sFpOCG" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:12px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;margin:12px 0;">
   🛒 Check Bluetti AC200L Price on Amazon →
 </a>
 

@@ -22,7 +22,7 @@ After 73 days testing 11 units (weekend trips to week-long expeditions), I've id
 
 Both handle 3–5 day trips, charge from solar panels, and deliver silent operation. Price range: $699–$899.
 
-<a href="/solar-calculator/" style="background-color:#c2410c;color:#ffffff;padding:1rem 2rem;border-radius:0.5rem;text-decoration:none;display:inline-block;font-weight:600;margin:1.5rem 0;">Calculate Your Camping Power Needs</a>
+<a href="/solar-calculator/" style="background-color:#c2410c;color:#ffffff;padding:1rem 2rem;border-radius:0.5rem;text-decoration:none!important;color:#ffffff!important;display:inline-block;font-weight:600;margin:1.5rem 0;">Calculate Your Camping Power Needs</a>
 
 ## Key Findings from 73-Day Field Test
 
@@ -48,7 +48,7 @@ Not every portable power station works well off-grid. After hauling generators t
 
 **Durability** matters more than spec sheets suggest. I've seen $1,200 units fail from a single muddy trip.
 
-<a href="/solar-calculator/" style="background-color:#c2410c;color:#ffffff;padding:1rem 2rem;border-radius:0.5rem;text-decoration:none;display:inline-block;font-weight:600;margin:1.5rem 0;">Calculate Your Camping Power Needs</a>
+<a href="/solar-calculator/" style="background-color:#c2410c;color:#ffffff;padding:1rem 2rem;border-radius:0.5rem;text-decoration:none!important;color:#ffffff!important;display:inline-block;font-weight:600;margin:1.5rem 0;">Calculate Your Camping Power Needs</a>
 
 ## My Top 2 Solar Generators for Camping (Tested & Ranked)
 
@@ -69,7 +69,7 @@ The EcoFlow DELTA 3 Plus dominates camping power for one reason: **it recharges 
 
 **Real test:** Ran 45L fridge 3 days (85°F heat) + phones + laptop + LED lights. Battery: 18% by day 3, recharged in 5 hours with 400W panel. [Full review](/blog/ecoflow-delta-3-plus-review/).
 
-<a href="https://amzn.to/41D10iO" style="background-color:#c2410c;color:#ffffff;padding:1rem 2rem;border-radius:0.5rem;text-decoration:none;display:inline-block;font-weight:600;margin:1.5rem 0;">Check Current Price on Amazon</a>
+<a href="https://amzn.to/41D10iO" style="background-color:#c2410c;color:#ffffff;padding:1rem 2rem;border-radius:0.5rem;text-decoration:none!important;color:#ffffff!important;display:inline-block;font-weight:600;margin:1.5rem 0;">Check Current Price on Amazon</a>
 
 ### 2. Jackery Explorer 1000 v2 — Best Budget Pick
 
@@ -88,7 +88,7 @@ The Jackery 1000 v2 is the **most reliable camping generator I've tested** — a
 
 **Real test:** Powered Dometic cooler + 3 phones + 60W fan (6hrs nightly) + CPAP for 4 nights. Used 78% capacity over 4 days, recharged in 6 hours. [Detailed review](/blog/jackery-1000-v2-review/).
 
-<a href="https://amzn.to/47Esd8d" style="background-color:#c2410c;color:#ffffff;padding:1rem 2rem;border-radius:0.5rem;text-decoration:none;display:inline-block;font-weight:600;margin:1.5rem 0;">Check Current Price on Amazon</a>
+<a href="https://amzn.to/47Esd8d" style="background-color:#c2410c;color:#ffffff;padding:1rem 2rem;border-radius:0.5rem;text-decoration:none!important;color:#ffffff!important;display:inline-block;font-weight:600;margin:1.5rem 0;">Check Current Price on Amazon</a>
 
 ## Solar Panel Pairing: What You Actually Need
 
@@ -106,7 +106,7 @@ A solar generator solves power, but remote camping demands backup planning. Duri
 
 The difference from a basic first-aid kit? **This is built for real emergencies.** Water purification, mylar blankets, ferro rods — gear that matters 40 miles from help. At $120, it's less than one ER visit. **I keep two of these kits** — one in my truck, one at the cabin. Unlike my solar generator, I hope I never need 80% of what's inside.
 
-<a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvivex.com%2Fproducts%2Flarge-survival-kit&clickref=camping-article-apr18" style="background-color:#c2410c;color:#ffffff;padding:1rem 2rem;border-radius:0.5rem;text-decoration:none;display:inline-block;font-weight:600;margin:1.5rem 0;">View SurviveX Emergency Kit</a>
+<a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvivex.com%2Fproducts%2Flarge-survival-kit&clickref=camping-article-apr18" style="background-color:#c2410c;color:#ffffff;padding:1rem 2rem;border-radius:0.5rem;text-decoration:none!important;color:#ffffff!important;display:inline-block;font-weight:600;margin:1.5rem 0;">View SurviveX Emergency Kit</a>
 
 Combine the SurviveX kit with one of the solar generators above, and you have complete off-grid power and safety from phone charging to true backcountry emergencies.
 

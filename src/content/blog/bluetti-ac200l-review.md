@@ -7,7 +7,7 @@ heroImage: "../../assets/bluetti-ac200l-review.webp"
 The Bluetti AC200L is not a portable power station. It is a home battery system that happens to be portable.
 
 <div style="margin:24px 0;">
-  <a href="https://amzn.to/4sFpOCG" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:14px 32px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;display:inline-block;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+  <a href="https://amzn.to/4sFpOCG" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:14px 32px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
     🛒 Check Bluetti AC200L Price on Amazon →
   </a>
 </div>
