@@ -11,6 +11,14 @@ heroImage: "../../assets/ecoflow-jackery-vs-hero.webp"
 
 ---
 
+
+<div style="text-align:center;margin:32px 0;">
+  <a href="https://amzn.to/41D10iO" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 36px;border-radius:8px;font-weight:700;font-size:17px;text-decoration:none;display:inline-block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
+    🛒 Check EcoFlow DELTA 3 Plus Price on Amazon →
+  </a>
+  <p style="font-size:12px;color:#888;margin-top:8px;">⭐⭐⭐⭐⭐ 4.7/5 — 1,800+ reviews — Free shipping</p>
+</div>
+
 I want to be upfront about how this comparison happened.
 
 Neither unit was sent to me for free. I did not test these for a weekend and write up my impressions. I ran both through my actual home setup — a 7 cu. ft. Midea chest freezer in a Virginia garage — for 73 days each, through summer heat and two real power outages.
@@ -46,9 +54,31 @@ The short version: your freezer surges at startup to 5–7 times its running wat
 
 The storage capacity numbers are nearly identical. Everything else is where the real differences live.
 
+<div style="background:#fff7ed;border:2px solid #f97316;border-radius:12px;padding:24px;margin:40px 0;text-align:center;">
+  <p style="font-size:18px;font-weight:700;color:#c2410c;margin:0 0 6px;">⚡ Ready to Buy? Check Current Prices</p>
+  <p style="color:#555;font-size:14px;margin:0 0 20px;">Prices change daily — Amazon often runs flash sales on both units</p>
+  <div style="display:flex;flex-direction:column;gap:12px;max-width:400px;margin:0 auto;">
+    <a href="https://amzn.to/41D10iO" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;display:block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
+      🛒 EcoFlow DELTA 3 Plus → Check Price
+    </a>
+    <a href="https://amzn.to/47Esd8d" target="_blank" rel="noopener noreferrer" style="background-color:#185FA5;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;display:block;box-shadow:0 4px 12px rgba(24,95,165,0.4);">
+      🛒 Jackery Explorer 1000 V2 → Check Price
+    </a>
+  </div>
+</div>
+
+
 ---
 
 <div class="bg-gray-50 border border-gray-200 p-4 my-6 rounded-lg"><p><strong>Real Test Result:</strong> August outage — EcoFlow DELTA 3 Plus ran chest freezer plus laptop plus router plus 3 LED bulbs for 14 hours in 94F ambient. Battery at 62 percent when grid restored. Compressor surge peaked at 1090W.</p></div>
+
+
+<div style="text-align:center;margin:32px 0;">
+  <a href="https://amzn.to/47Esd8d" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 36px;border-radius:8px;font-weight:700;font-size:17px;text-decoration:none;display:inline-block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
+    🛒 Check Jackery Explorer 1000 V2 Price on Amazon →
+  </a>
+  <p style="font-size:12px;color:#888;margin-top:8px;">⭐⭐⭐⭐⭐ 4.8/5 — 2,400+ reviews — Free shipping</p>
+</div>
 
 ## The Surge Gap — What 7,200W vs 2,000W Actually Means
 
@@ -199,3 +229,23 @@ Check your LRA number first. Use the [free calculator](/local-quote/) to confirm
 
 
 *Last updated: Apr 2026*
+
+<div style="background:#f0fdf4;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:40px 0;text-align:center;">
+  <p style="font-size:20px;font-weight:700;color:#2d6a4f;margin:0 0 6px;">🏆 Ethan's Pick: EcoFlow DELTA 3 Plus</p>
+  <p style="color:#555;font-size:14px;margin:0 0 20px;">Best surge capacity, fastest charging, expandable. Built for real emergencies.</p>
+  <a href="https://amzn.to/41D10iO" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 40px;border-radius:8px;font-weight:700;font-size:18px;text-decoration:none;display:inline-block;box-shadow:0 6px 16px rgba(194,65,12,0.5);">
+    🛒 Get the EcoFlow DELTA 3 Plus on Amazon →
+  </a>
+  <p style="font-size:12px;color:#888;margin-top:8px;">⭐⭐⭐⭐⭐ 4.7/5 — Free shipping — 2 year warranty</p>
+</div>
+
+
+<div style="background:#eff6ff;border:2px solid #185FA5;border-radius:12px;padding:24px;margin:40px 0;text-align:center;">
+  <p style="font-size:20px;font-weight:700;color:#185FA5;margin:0 0 6px;">💰 Budget Pick: Jackery Explorer 1000 V2</p>
+  <p style="color:#555;font-size:14px;margin:0 0 20px;">Lighter, cheaper, 4,000 cycle battery. Perfect if your freezer surge is under 1,500W.</p>
+  <a href="https://amzn.to/47Esd8d" target="_blank" rel="noopener noreferrer" style="background-color:#185FA5;color:#ffffff;padding:16px 40px;border-radius:8px;font-weight:700;font-size:18px;text-decoration:none;display:inline-block;box-shadow:0 6px 16px rgba(24,95,165,0.5);">
+    🛒 Get the Jackery Explorer 1000 V2 on Amazon →
+  </a>
+  <p style="font-size:12px;color:#888;margin-top:8px;">⭐⭐⭐⭐⭐ 4.8/5 — Free shipping — 3 year warranty</p>
+</div>
+
