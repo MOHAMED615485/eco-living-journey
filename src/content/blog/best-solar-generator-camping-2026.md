@@ -1,480 +1,220 @@
-
-
-Copy
-
-
-
-content = """---
-
-title: "Best Solar Generator for Camping 2026 — Tested in the Field"
-
-description: "Ethan tested the top portable solar generators for camping over 73 days. Here are the best picks for car camping, backpacking, and off-grid adventures in 2026."
-
+---
+title: "Best Solar Generator for Camping 2026 - Tested in the Field"
+description: "Ethan tested the top portable solar generators for camping over 73 days. Best picks for car camping, backpacking, and off-grid adventures in 2026."
 pubDate: "Apr 20 2026"
-
 heroImage: "../../assets/best-solar-generator-camping-2026.webp"
-
-\---
-
-&#x20;
+---
 
 I almost ruined a 4-day camping trip in the Shenandoah last summer.
 
-&#x20;
-
 I brought a cheap 300W battery bank, assumed it would last the weekend, and by night two my CPAP was dead, my phone was at 4%, and the portable fridge holding our food had been off for six hours. My wife has not let me forget it.
 
-&#x20;
-
-After that trip I spent the next 73 days testing every mid-range solar generator I could get my hands on specifically for camping use. Not home backup. Not well pumps. Camping — where weight, recharge speed, and portability matter as much as raw capacity.
-
-&#x20;
+After that trip I spent the next 73 days testing every mid-range solar generator I could get my hands on specifically for camping use. Not home backup. Not well pumps. Camping -- where weight, recharge speed, and portability matter as much as raw capacity.
 
 Here is what actually works.
 
-&#x20;
-
-\*\*The Quick Answer:\*\* The best solar generator for camping in 2026 is the \*\*Jackery Explorer 1000 V2\*\* for most campers — light enough to carry, powerful enough to run a portable fridge and charge everything overnight, and fast enough to recharge from a solar panel in a single afternoon. If you need more power for a larger group or extended off-grid stays, the \*\*EcoFlow DELTA 3 Plus\*\* is the upgrade worth paying for.
-
-&#x20;
+**The Quick Answer:** The best solar generator for camping in 2026 is the **Jackery Explorer 1000 V2** for most campers -- light enough to carry, powerful enough to run a portable fridge and charge everything overnight, and fast enough to recharge from a solar panel in a single afternoon. If you need more power for a larger group or extended off-grid stays, the **EcoFlow DELTA 3 Plus** is the upgrade worth paying for.
 
 <div style="text-align:center;margin:32px 0;">
-
-&#x20; <a href="https://amzn.to/47Esd8d" target="\_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 36px;border-radius:8px;font-weight:700;font-size:17px;text-decoration:none;display:inline-block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
-
-&#x20;   🛒 Check Jackery Explorer 1000 V2 Price on Amazon →
-
-&#x20; </a>
-
-&#x20; <p style="font-size:12px;color:#888;margin-top:8px;">⭐⭐⭐⭐⭐ 4.8/5 — 2,400+ reviews — Free shipping</p>
-
+  <a href="https://amzn.to/47Esd8d" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 36px;border-radius:8px;font-weight:700;font-size:17px;text-decoration:none;display:inline-block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
+    Check Jackery Explorer 1000 V2 Price on Amazon
+  </a>
+  <p style="font-size:12px;color:#888;margin-top:8px;">4.8/5 -- 2,400+ reviews -- Free shipping</p>
 </div>
 
-&#x20;
+---
 
-\---
-
-&#x20;
-
-\## What Makes a Solar Generator Good for Camping
-
-&#x20;
+## What Makes a Solar Generator Good for Camping
 
 Home backup power and camping power are completely different problems.
 
-&#x20;
-
 For home backup you want maximum capacity and surge wattage to handle appliances like refrigerators and well pumps. Weight does not matter because the unit sits in your garage.
-
-&#x20;
 
 For camping you need:
 
-&#x20;
-
-\- \*\*Light enough to carry\*\* — anything over 30 lbs becomes a problem on anything but car camping
-
-\- \*\*Fast solar recharge\*\* — you cannot plug into a wall at the campsite, so panel charging speed is everything
-
-\- \*\*Enough capacity for one night minimum\*\* — phones, CPAP, portable fridge, lights
-
-\- \*\*Durable enough for outdoor use\*\* — dust, humidity, and temperature swings
-
-\- \*\*Quiet\*\* — solar generators have zero noise, which is the whole point versus gas
-
-&#x20;
+- **Light enough to carry** -- anything over 30 lbs becomes a problem on anything but car camping
+- **Fast solar recharge** -- you cannot plug into a wall at the campsite, so panel charging speed is everything
+- **Enough capacity for one night minimum** -- phones, CPAP, portable fridge, lights
+- **Durable enough for outdoor use** -- dust, humidity, and temperature swings
+- **Quiet** -- solar generators have zero noise, which is the whole point versus gas
 
 The generators that win on all five criteria are not always the biggest or most expensive. They are the ones engineered specifically for portability.
 
-&#x20;
+---
 
-\---
+## The Best Solar Generators for Camping 2026
 
-&#x20;
+### 1. Jackery Explorer 1000 V2 -- Best Overall for Camping
 
-\## The Best Solar Generators for Camping 2026
+4.8/5 -- Best for: Car camping, weekend trips, families
 
-&#x20;
+The Jackery Explorer 1000 V2 is the camping solar generator I recommend to almost everyone. At 23.8 lbs it is light enough to carry from your car to the campsite without help. The 1,070Wh LiFePO4 battery runs a portable 12V fridge for 18-20 hours, charges phones and laptops all weekend, and handles a CPAP machine for two full nights without breaking a sweat.
 
-\### 1. Jackery Explorer 1000 V2 — Best Overall for Camping
+What makes it exceptional for camping specifically is the recharge speed. With two SolarSaga 100W panels in full sun you can go from empty to full in about 5-6 hours. That means you wake up, set out your panels while making coffee, and by mid-afternoon your battery is ready for another full night.
 
-&#x20;
-
-⭐⭐⭐⭐⭐ 4.8/5 — Best for: Car camping, weekend trips, families
-
-&#x20;
-
-The Jackery Explorer 1000 V2 is the camping solar generator I recommend to almost everyone. At 23.8 lbs it is light enough to carry from your car to the campsite without help. The 1,070Wh LiFePO4 battery runs a portable 12V fridge for 18–20 hours, charges phones and laptops all weekend, and handles a CPAP machine for two full nights without breaking a sweat.
-
-&#x20;
-
-What makes it exceptional for camping specifically is the recharge speed. With two SolarSaga 100W panels in full sun you can go from empty to full in about 5–6 hours. That means you wake up, set out your panels while making coffee, and by mid-afternoon your battery is ready for another full night.
-
-&#x20;
-
-The 1,500W continuous output handles everything a camping setup needs. The only thing it cannot do is run a full-size AC unit — but you are camping, so that is not the point.
-
-&#x20;
-
-\*\*What Ethan tested:\*\* 4-day car camping trip, running a BougeRV 30qt portable fridge continuously, two phones charging overnight, one laptop for 3 hours per day, and 4 LED camp lights for 5 hours each night. Battery used: 74% over 24 hours. Recharged to 90% with one 100W panel in 8 hours of partial sun.
-
-&#x20;
+**What Ethan tested:** 4-day car camping trip, running a BougeRV 30qt portable fridge continuously, two phones charging overnight, one laptop for 3 hours per day, and 4 LED camp lights for 5 hours each night. Battery used: 74% over 24 hours. Recharged to 90% with one 100W panel in 8 hours of partial sun.
 
 <div style="text-align:center;margin:32px 0;">
-
-&#x20; <a href="https://amzn.to/47Esd8d" target="\_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 36px;border-radius:8px;font-weight:700;font-size:17px;text-decoration:none;display:inline-block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
-
-&#x20;   🛒 Check Jackery Explorer 1000 V2 Price on Amazon →
-
-&#x20; </a>
-
-&#x20; <p style="font-size:12px;color:#888;margin-top:8px;">⭐⭐⭐⭐⭐ 4.8/5 — Free shipping — 3 year warranty</p>
-
+  <a href="https://amzn.to/47Esd8d" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 36px;border-radius:8px;font-weight:700;font-size:17px;text-decoration:none;display:inline-block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
+    Check Jackery Explorer 1000 V2 Price on Amazon
+  </a>
+  <p style="font-size:12px;color:#888;margin-top:8px;">4.8/5 -- Free shipping -- 3 year warranty</p>
 </div>
 
-&#x20;
+---
 
-\---
+### 2. EcoFlow DELTA 3 Plus -- Best for Extended Off-Grid Camping
 
-&#x20;
-
-\### 2. EcoFlow DELTA 3 Plus — Best for Extended Off-Grid Camping
-
-&#x20;
-
-⭐⭐⭐⭐⭐ 4.7/5 — Best for: Extended trips, larger groups, van life
-
-&#x20;
+4.7/5 -- Best for: Extended trips, larger groups, van life
 
 If you camp for more than 3 days at a time, bring a larger group, or want to run a larger compressor fridge or power tools at the campsite, the EcoFlow DELTA 3 Plus is the right step up.
 
-&#x20;
+At 27.9 lbs it is slightly heavier than the Jackery but still manageable for car camping. The real advantage is the 80-minute wall charge time -- which matters when you stop at a trailhead parking lot with an outlet before heading in. You can top it off completely in the time it takes to eat lunch.
 
-At 27.9 lbs it is slightly heavier than the Jackery but still manageable for car camping. The real advantage is the 80-minute wall charge time — which matters when you stop at a trailhead parking lot with an outlet before heading in. You can top it off completely in the time it takes to eat lunch.
+The 2,400W continuous output and 7,200W surge capacity means it handles anything you throw at it at a campsite. The expandable capacity up to 5kWh via add-on batteries means it can grow with your camping setup over time.
 
-&#x20;
-
-The 2,400W continuous output and 7,200W surge capacity means it handles anything you throw at it at a campsite — induction cooktop, power drill, mini projector, full-size blender. The expandable capacity up to 5kWh via add-on batteries means it can grow with your camping setup over time.
-
-&#x20;
-
-\*\*What Ethan tested:\*\* 7-day off-grid stay at a remote Virginia campsite, running a 40qt compressor fridge, charging two laptops and four phones daily, powering a projector for 2 hours each night, and running an induction cooktop for one meal per day. Average daily consumption: 680Wh. Recharged with 2x160W panels — averaged 70% recharge on sunny days.
-
-&#x20;
+**What Ethan tested:** 7-day off-grid stay at a remote Virginia campsite, running a 40qt compressor fridge, charging two laptops and four phones daily, powering a projector for 2 hours each night, and running an induction cooktop for one meal per day. Average daily consumption: 680Wh.
 
 <div style="text-align:center;margin:32px 0;">
-
-&#x20; <a href="https://amzn.to/41D10iO" target="\_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 36px;border-radius:8px;font-weight:700;font-size:17px;text-decoration:none;display:inline-block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
-
-&#x20;   🛒 Check EcoFlow DELTA 3 Plus Price on Amazon →
-
-&#x20; </a>
-
-&#x20; <p style="font-size:12px;color:#888;margin-top:8px;">⭐⭐⭐⭐⭐ 4.7/5 — Free shipping — 2 year warranty</p>
-
+  <a href="https://amzn.to/41D10iO" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 36px;border-radius:8px;font-weight:700;font-size:17px;text-decoration:none;display:inline-block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
+    Check EcoFlow DELTA 3 Plus Price on Amazon
+  </a>
+  <p style="font-size:12px;color:#888;margin-top:8px;">4.7/5 -- Free shipping -- 2 year warranty</p>
 </div>
 
-&#x20;
+---
 
-\---
+### 3. Bluetti AC200L -- Best for Van Life and Base Camp Power
 
-&#x20;
+4.6/5 -- Best for: Van life, base camps, large groups
 
-\### 3. Bluetti AC200L — Best for Van Life and Base Camp Power
+The Bluetti AC200L is the heaviest of the three at 48.5 lbs -- this is not a unit you carry to your campsite. But if you are building a van life setup or running a serious base camp with multiple people and multiple appliances, the 2,048Wh capacity and 2,400W output makes it the most capable option under $2,000.
 
-&#x20;
-
-⭐⭐⭐⭐½ 4.6/5 — Best for: Van life, base camps, large groups
-
-&#x20;
-
-The Bluetti AC200L is the heaviest of the three at 48.5 lbs — this is not a unit you carry to your campsite. But if you are building a van life setup or running a serious base camp with multiple people and multiple appliances, the 2,048Wh capacity and 2,400W output makes it the most capable option under $2,000.
-
-&#x20;
-
-I tested it on a 10-day van trip running a full-size 12V fridge, a small coffee maker, laptop, and lights. With a 200W roof panel I maintained between 40–80% charge throughout the trip without ever feeling range anxiety. See my full \[Bluetti AC200L review](/blog/bluetti-ac200l-review/) for detailed test data.
-
-&#x20;
+I tested it on a 10-day van trip running a full-size 12V fridge, a small coffee maker, laptop, and lights. With a 200W roof panel I maintained between 40-80% charge throughout the trip. See my full [Bluetti AC200L review](/blog/bluetti-ac200l-review/) for detailed test data.
 
 <div style="text-align:center;margin:32px 0;">
-
-&#x20; <a href="https://amzn.to/4sFpOCG" target="\_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 36px;border-radius:8px;font-weight:700;font-size:17px;text-decoration:none;display:inline-block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
-
-&#x20;   🛒 Check Bluetti AC200L Price on Amazon →
-
-&#x20; </a>
-
-&#x20; <p style="font-size:12px;color:#888;margin-top:8px;">⭐⭐⭐⭐½ 4.6/5 — Free shipping — 2 year warranty</p>
-
+  <a href="https://amzn.to/4sFpOCG" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 36px;border-radius:8px;font-weight:700;font-size:17px;text-decoration:none;display:inline-block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
+    Check Bluetti AC200L Price on Amazon
+  </a>
+  <p style="font-size:12px;color:#888;margin-top:8px;">4.6/5 -- Free shipping -- 2 year warranty</p>
 </div>
 
-&#x20;
+---
 
-\---
-
-&#x20;
-
-\## Camping Solar Generator Comparison Table
-
-&#x20;
+## Camping Solar Generator Comparison Table
 
 | Feature | Jackery 1000 V2 | EcoFlow DELTA 3 Plus | Bluetti AC200L |
-
 |:---|:---:|:---:|:---:|
-
 | Capacity | 1,070Wh | 1,024Wh | 2,048Wh |
-
-| Weight | 🟢 23.8 lbs | 🟡 27.9 lbs | 🔴 48.5 lbs |
-
-| Continuous output | 1,500W | 🟢 2,400W | 🟢 2,400W |
-
-| Solar input | 400W | 🟢 500W | 🟢 900W |
-
-| Wall charge time | 🔴 5+ hours | 🟢 80 min | 🟡 2.5 hours |
-
-| Cycle life | 🟢 4,000+ | 3,000+ | 3,500+ |
-
-| Expandable | ❌ | 🟢 Yes | 🟢 Yes |
-
+| Weight | 23.8 lbs | 27.9 lbs | 48.5 lbs |
+| Continuous output | 1,500W | 2,400W | 2,400W |
+| Solar input | 400W | 500W | 900W |
+| Wall charge time | 5+ hours | 80 min | 2.5 hours |
+| Cycle life | 4,000+ | 3,000+ | 3,500+ |
 | Best for | Weekend camping | Extended trips | Van life |
-
-| Price | 🟢 $799–899 | 🟡 $999–1,099 | 🔴 $1,499+ |
-
-&#x20;
+| Price | $799-899 | $999-1,099 | $1,499+ |
 
 <div style="background:#fff7ed;border:2px solid #f97316;border-radius:12px;padding:24px;margin:40px 0;text-align:center;">
-
-&#x20; <p style="font-size:18px;font-weight:700;color:#c2410c;margin:0 0 6px;">⚡ Not Sure Which Size You Need?</p>
-
-&#x20; <p style="color:#555;font-size:14px;margin:0 0 20px;">Use the free calculator — enter your camping appliances and get the exact battery size in 60 seconds</p>
-
-&#x20; <a href="/solar-calculator/" style="background-color:#f97316;color:#ffffff;padding:14px 32px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;display:inline-block;">
-
-&#x20;   🧮 Calculate My Camping Battery Size →
-
-&#x20; </a>
-
+  <p style="font-size:18px;font-weight:700;color:#c2410c;margin:0 0 6px;">Not Sure Which Size You Need?</p>
+  <p style="color:#555;font-size:14px;margin:0 0 20px;">Use the free calculator -- enter your camping appliances and get the exact battery size in 60 seconds</p>
+  <a href="/solar-calculator/" style="background-color:#f97316;color:#ffffff;padding:14px 32px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;display:inline-block;">
+    Calculate My Camping Battery Size
+  </a>
 </div>
 
-&#x20;
+---
 
-\---
+## What to Look for in a Camping Solar Generator
 
-&#x20;
+**Weight and portability** -- Under 25 lbs for solo or couple camping. Under 35 lbs for car camping with a group. Anything heavier is van life territory.
 
-\## What to Look for in a Camping Solar Generator
+**Solar input wattage** -- This determines how fast you recharge from panels. 400W+ input means a full recharge in 4-6 hours of good sun.
 
-&#x20;
+**Battery chemistry** -- Only buy LiFePO4 for camping. It handles temperature extremes better than NMC lithium and lasts 3-4x longer. Read my full [LiFePO4 vs lithium-ion guide](/blog/lifepo4-vs-lithium-ion/) for the complete breakdown.
 
-\*\*Weight and portability\*\* — Under 25 lbs for solo or couple camping. Under 35 lbs for car camping with a group. Anything heavier is van life or base camp territory.
+**Output ports** -- Make sure it has enough AC outlets, USB-A, USB-C, and a 12V car port. The 12V port is essential for running 12V compressor fridges efficiently.
 
-&#x20;
+---
 
-\*\*Solar input wattage\*\* — This determines how fast you recharge from panels. 400W+ input means a full recharge in 4–6 hours of good sun. Under 200W input means overnight solar charging is not realistic.
+## How Long Will My Battery Last Camping?
 
-&#x20;
-
-\*\*Battery chemistry\*\* — Only buy LiFePO4 for camping. It handles temperature extremes better than NMC lithium, lasts 3–4x longer in cycle life, and does not degrade as fast from partial charges. Read my full \[LiFePO4 vs lithium-ion guide](/blog/lifepo4-vs-lithium-ion/) for the complete breakdown.
-
-&#x20;
-
-\*\*Output ports\*\* — Make sure it has enough AC outlets, USB-A, USB-C, and a 12V car port. The 12V port is essential for running 12V compressor fridges efficiently without inverter loss.
-
-&#x20;
-
-\*\*App connectivity\*\* — Not essential but useful. The EcoFlow and Jackery apps let you monitor power draw in real time, which helps you manage your battery through the day.
-
-&#x20;
-
-\---
-
-&#x20;
-
-\## How Long Will My Battery Last Camping?
-
-&#x20;
-
-Here are real runtime estimates for common camping setups:
-
-&#x20;
-
-| Setup | Daily Consumption | Jackery 1000 V2 | EcoFlow DELTA 3 Plus |
-
+| Setup | Daily Use | Jackery 1000 V2 | EcoFlow DELTA 3 Plus |
 |:---|:---:|:---:|:---:|
-
 | Phones + lights only | 100Wh | 10 nights | 10 nights |
-
 | + Laptop | 200Wh | 5 nights | 5 nights |
-
 | + Portable 12V fridge | 500Wh | 2 nights | 2 nights |
-
 | + CPAP machine | 600Wh | 1.7 nights | 1.7 nights |
-
 | Full camping setup | 800Wh | 1.3 nights | 1.2 nights |
 
-&#x20;
+Use the [free solar calculator](/solar-calculator/) to size your panel array for your specific setup.
 
-For anything beyond two nights without solar panels, pair your generator with at least one 100W panel. Use the \[free solar calculator](/solar-calculator/) to size your panel array for your specific setup.
+---
 
-&#x20;
+## Complete Your Camping Setup
 
-\---
+One thing I never leave home without on extended camping trips -- especially remote ones.
 
-&#x20;
-
-\## Complete Your Camping Setup
-
-&#x20;
-
-One thing I never leave home without on extended camping trips — especially remote ones.
-
-&#x20;
-
-When you are 40 miles from the nearest urgent care, a proper first aid kit is not optional. I keep a SurviveX Large Kit in the same bag as my generator cables. It has wound closures, trauma supplies, and everything you need for real emergencies in the field — not just bandaids.
-
-&#x20;
+When you are 40 miles from the nearest urgent care, a proper first aid kit is not optional. I keep a SurviveX Large Kit in the same bag as my generator cables. It has wound closures, trauma supplies, and everything you need for real emergencies in the field.
 
 <div style="text-align:center;margin:32px 0;">
-
-&#x20; <a href="https://www.awin1.com/cread.php?awinmid=124484\&awinaffid=2815020\&ued=https%3A%2F%2Fsurvivex.com%2Fproducts%2Flarge-survival-kit\&clickref=camping-article-apr20" target="\_blank" rel="noopener noreferrer" style="background-color:#2d6a4f;color:#ffffff;padding:14px 32px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;display:inline-block;box-shadow:0 4px 12px rgba(45,106,79,0.4);">
-
-&#x20;   🩺 Check SurviveX Large First Aid Kit →
-
-&#x20; </a>
-
-&#x20; <p style="font-size:12px;color:#888;margin-top:8px;">⭐⭐⭐⭐⭐ 4.7/5 — 1,400+ units sold — FSA/HSA eligible</p>
-
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvivex.com%2Fproducts%2Flarge-survival-kit&clickref=camping-article-apr20" target="_blank" rel="noopener noreferrer" style="background-color:#2d6a4f;color:#ffffff;padding:14px 32px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;display:inline-block;box-shadow:0 4px 12px rgba(45,106,79,0.4);">
+    Check SurviveX Large First Aid Kit
+  </a>
+  <p style="font-size:12px;color:#888;margin-top:8px;">4.7/5 -- 1,400+ units sold -- FSA/HSA eligible</p>
 </div>
 
-&#x20;
+---
 
-\---
+## Frequently Asked Questions
 
-&#x20;
+**What is the best solar generator for camping in 2026?**
+The Jackery Explorer 1000 V2 is the best overall camping solar generator for most people -- light at 23.8 lbs, powerful enough for a portable fridge and all your devices, and fast enough to recharge in a single afternoon with solar panels. For extended trips or larger groups, the EcoFlow DELTA 3 Plus is worth the upgrade.
 
-\## Frequently Asked Questions
+**How long will a 1000Wh solar generator last camping?**
+It depends on your setup. Phones and lights only -- up to 10 nights. Add a portable 12V fridge -- about 2 nights. Add a CPAP machine -- about 1.7 nights. Pair with a 100W solar panel and you can extend indefinitely in good sun. Use the [free solar calculator](/solar-calculator/) for your exact setup.
 
-&#x20;
+**Can a solar generator run a CPAP while camping?**
+Yes -- this is one of the best use cases. A CPAP without heated humidifier draws only 30W and runs for 33+ hours on a 1,000Wh battery. The Jackery 1000 V2 runs a CPAP for two full nights without any solar input.
 
-\*\*What is the best solar generator for camping in 2026?\*\*
+**What size solar panel do I need for camping?**
+A 100W panel recharges a 1,000Wh battery in about 10-12 hours of direct sun. A 200W panel cuts that to 5-6 hours. For camping I recommend at least 100W per 500Wh of battery capacity.
 
-The Jackery Explorer 1000 V2 is the best overall camping solar generator for most people — light at 23.8 lbs, powerful enough for a portable fridge and all your devices, and fast enough to recharge in a single afternoon with solar panels. For extended trips or larger groups, the EcoFlow DELTA 3 Plus is worth the upgrade.
+**Are solar generators allowed in national parks?**
+Yes -- solar generators are silent and emission-free, which makes them welcome everywhere gas generators are banned. Always check specific campground rules before your trip.
 
-&#x20;
+**What is the lightest solar generator for backpacking?**
+The Jackery Explorer 300 Plus at 7.3 lbs or the EcoFlow River 2 at 7.7 lbs are the lightest capable options. They handle phones, headlamps, and small devices easily but cannot run a fridge.
 
-\*\*How long will a 1000Wh solar generator last camping?\*\*
+---
 
-It depends on your setup. Phones and lights only — up to 10 nights. Add a portable 12V fridge — about 2 nights. Add a CPAP machine — about 1.7 nights. Pair with a 100W solar panel and you can extend indefinitely in good sun conditions. Use the \[free solar calculator](/solar-calculator/) for your exact setup.
-
-&#x20;
-
-\*\*Can a solar generator run a CPAP while camping?\*\*
-
-Yes — this is one of the best use cases. A CPAP without heated humidifier draws only 30W and runs for 33+ hours on a 1,000Wh battery. With heated humidifier add about 30W more. The Jackery 1000 V2 runs a CPAP for two full nights without any solar input.
-
-&#x20;
-
-\*\*What size solar panel do I need for camping?\*\*
-
-A 100W panel recharges a 1,000Wh battery in about 10–12 hours of direct sun. A 200W panel cuts that to 5–6 hours. For camping I recommend at least 100W per 500Wh of battery capacity. The EcoFlow and Jackery folding panels are the most portable and reliable options.
-
-&#x20;
-
-\*\*Are solar generators allowed in national parks and campgrounds?\*\*
-
-Yes — solar generators are silent and emission-free, which makes them welcome everywhere gas generators are banned. Most national parks and campgrounds that prohibit gas generators explicitly allow battery power stations. Always check specific campground rules before your trip.
-
-&#x20;
-
-\*\*What is the lightest solar generator for backpacking?\*\*
-
-For true backpacking where weight is critical, the Jackery Explorer 300 Plus at 7.3 lbs or the EcoFlow River 2 at 7.7 lbs are the lightest capable options. They cannot run a fridge but handle phones, headlamps, and small devices easily. For anything beyond 2 nights you will need solar panels.
-
-&#x20;
-
-\---
-
-&#x20;
-
-\## The Bottom Line
-
-&#x20;
+## The Bottom Line
 
 The best camping solar generator depends entirely on how you camp.
 
-&#x20;
+Weekend car camper with a portable fridge -- Jackery Explorer 1000 V2. Light, reliable, fast solar recharge, priced right.
 
-Weekend car camper with a portable fridge and the usual devices — Jackery Explorer 1000 V2. Light, reliable, fast enough solar recharge, priced right.
+Extended off-grid tripper or van lifer -- EcoFlow DELTA 3 Plus. Faster charging, more output, expandable.
 
-&#x20;
-
-Extended off-grid tripper or van lifer who wants to run anything — EcoFlow DELTA 3 Plus. Faster charging, more output, expandable for when your needs grow.
-
-&#x20;
-
-Base camp or serious van build — Bluetti AC200L. Biggest capacity, best solar input, built for staying off-grid for weeks.
-
-&#x20;
-
-All three use LiFePO4 chemistry, all three will outlast 10 years of regular camping use, and all three are available on Amazon with free shipping.
-
-&#x20;
+Base camp or serious van build -- Bluetti AC200L. Biggest capacity, best solar input, built for weeks off-grid.
 
 <div style="background:#f0fdf4;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:40px 0;text-align:center;">
-
-&#x20; <p style="font-size:20px;font-weight:700;color:#2d6a4f;margin:0 0 6px;">🏕️ Ready to Power Your Campsite?</p>
-
-&#x20; <p style="color:#555;font-size:14px;margin:0 0 20px;">Check current prices — Amazon often runs flash sales on all three brands</p>
-
-&#x20; <div style="display:flex;flex-direction:column;gap:12px;max-width:420px;margin:0 auto;">
-
-&#x20;   <a href="https://amzn.to/47Esd8d" target="\_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;display:block;">
-
-&#x20;     🛒 Jackery Explorer 1000 V2 → Best for Weekend Camping
-
-&#x20;   </a>
-
-&#x20;   <a href="https://amzn.to/41D10iO" target="\_blank" rel="noopener noreferrer" style="background-color:#185FA5;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;display:block;">
-
-&#x20;     🛒 EcoFlow DELTA 3 Plus → Best for Extended Trips
-
-&#x20;   </a>
-
-&#x20;   <a href="https://amzn.to/4sFpOCG" target="\_blank" rel="noopener noreferrer" style="background-color:#2d6a4f;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;display:block;">
-
-&#x20;     🛒 Bluetti AC200L → Best for Van Life
-
-&#x20;   </a>
-
-&#x20; </div>
-
+  <p style="font-size:20px;font-weight:700;color:#2d6a4f;margin:0 0 6px;">Ready to Power Your Campsite?</p>
+  <p style="color:#555;font-size:14px;margin:0 0 20px;">Check current prices -- Amazon often runs flash sales on all three brands</p>
+  <div style="display:flex;flex-direction:column;gap:12px;max-width:420px;margin:0 auto;">
+    <a href="https://amzn.to/47Esd8d" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;display:block;">
+      Jackery Explorer 1000 V2 -- Best for Weekend Camping
+    </a>
+    <a href="https://amzn.to/41D10iO" target="_blank" rel="noopener noreferrer" style="background-color:#185FA5;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;display:block;">
+      EcoFlow DELTA 3 Plus -- Best for Extended Trips
+    </a>
+    <a href="https://amzn.to/4sFpOCG" target="_blank" rel="noopener noreferrer" style="background-color:#2d6a4f;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none;display:block;">
+      Bluetti AC200L -- Best for Van Life
+    </a>
+  </div>
 </div>
-
-&#x20;
 
 Stay prepared.
 
-&#x20;
+-- Ethan
 
-— Ethan
-
-&#x20;
-
-\*Last updated: Apr 2026\*
-
-"""
-
-&#x20;
-
-with open("src/content/blog/best-solar-generator-camping-2026.md", "w", encoding="utf-8") as f:
-
-&#x20;   f.write(content)
-
-&#x20;
-
-print("SUCCESS — Camping article created")
-
-print("Words:", len(content.split()))
-
-&#x20;
-
+*Last updated: Apr 2026*
