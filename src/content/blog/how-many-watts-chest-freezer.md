@@ -117,7 +117,7 @@ A freezer in direct sunlight will draw significantly more power than one in shad
 
 ## 🛒 Which Generator Do I Recommend?
 
-Based on 73 days of real testing on multiple freezers:
+Based on extended real-world testing on multiple freezers:
 
 **For a single chest freezer:** The [EcoFlow DELTA 3 Plus](https://amzn.to/41D10iO) is the most reliable choice. The X-Boost surge handling has never failed on any freezer I have tested regardless of LRA rating.
 

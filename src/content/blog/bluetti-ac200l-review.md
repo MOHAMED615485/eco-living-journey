@@ -1,5 +1,5 @@
 ---
-title: "Bluetti AC200L Review: 73 Days Running My Full Home Backup"
+title: "Bluetti AC200L Review: Real-World Home Backup Testing"
 description: "Ethan tested the Bluetti AC200L over several months running a chest freezer, refrigerator, lights and router simultaneously. Real watt readings, runtime data and honest verdict."
 pubDate: "Apr 03 2026"
 heroImage: "../../assets/bluetti-ac200l-review.webp"
@@ -21,7 +21,7 @@ This is what I found.
 
 ## ⚡ The 30-Second Verdict
 
-The Bluetti AC200L is the best solar generator for whole-home backup in its price range. It delivered 11.2 hours of continuous runtime on my full setup without a single trip or failure across 73 days. If you need to run multiple appliances overnight during a blackout, nothing in this category touches it.
+The Bluetti AC200L is the best solar generator for whole-home backup in its price range. It delivered 11.2 hours of continuous runtime on my full setup without a single trip or failure during extended testing. If you need to run multiple appliances overnight during a blackout, nothing in this category touches it.
 
 The downsides: it weighs 28kg and costs significantly more than the EcoFlow or Jackery. If you only need to run one appliance, it is overkill. But if you want real whole-home backup, this is the unit.
 
@@ -59,7 +59,7 @@ I ran this full setup simultaneously — everything plugged in at once — for t
 
 ---
 
-## 📊 Real Numbers From 73 Days
+## 📊 Real-World Performance Numbers
 
 ### Full Home Setup Runtime
 
@@ -67,7 +67,7 @@ I ran this full setup simultaneously — everything plugged in at once — for t
 |---|---|
 | Average continuous draw | 295W |
 | Runtime per full charge | 11.2 hours |
-| Compressor startup failures | 0 of 73 days |
+| Compressor startup failures | 0 failures |
 | Lowest battery at wake-up | 31% (after longest cold night) |
 | Average battery at wake-up | 58% |
 
@@ -99,7 +99,7 @@ The 1,200W solar input capacity is the highest in this class. With four 300W pan
 
 ## 🔋 Battery Health after extended use
 
-After 73 full charge cycles the Bluetti app showed 99.1% battery health. LiFePO4 chemistry at 3,500 rated cycles means this unit should still be running at over 80% capacity in 2034.
+After extended use the Bluetti app showed 99.1% battery health. LiFePO4 chemistry at 3,500 rated cycles means this unit should still be running at over 80% capacity in 2034.
 
 ---
 

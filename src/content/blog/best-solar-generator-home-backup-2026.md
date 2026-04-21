@@ -9,7 +9,7 @@ I lost $847 of food in a single blackout before I got serious about backup power
 
 That was January 2024. The grid went down at 2AM during an ice storm. By morning, my chest freezer had tripped twice and everything inside was ruined. I did not have the right generator. I had a cheap one I picked up at a hardware store that could not handle the surge my freezer needed to start.
 
-That mistake sent me on a 73-day mission to find the best solar generator for home backup - one that could actually handle real appliances, not just phone chargers and laptops.
+That mistake sent me on a months-long search to find the best solar generator for home backup - one that could actually handle real appliances, not just phone chargers and laptops.
 
 I tested three units: the EcoFlow DELTA 3 Plus, the Jackery Explorer 1000 V2, and the Bluetti AC200L. I ran them on my chest freezer, my refrigerator, my router, and my lights. I tracked watt readings every day. I deliberately killed the power at 2AM to see what would fail.
 

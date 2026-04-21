@@ -1,5 +1,5 @@
 ---
-title: "Jackery Explorer 1000 V2 Review: My 73-Day Chest Freezer Test"
+title: "Jackery Explorer 1000 V2 Review: Long-Term Chest Freezer Test"
 description: "Ethan tested the Jackery Explorer 1000 V2 over several months on a real chest freezer. Here are the exact watt readings, surge test results, and honest buying verdict."
 pubDate: "Apr 03 2026"
 heroImage: "../../assets/jackery-1000-v2-review.webp"
@@ -60,7 +60,7 @@ Here is what I found.
 
 ---
 
-## 📊 Real Numbers From 73 Days
+## 📊 Real-World Performance Numbers
 
 ### Chest Freezer Performance
 
@@ -104,7 +104,7 @@ The solar recharge speed is genuinely impressive. On a clear day in February I w
 
 ## 🔋 Battery Health after extended use
 
-After 73 full charge cycles the Jackery app showed 98.4% battery health remaining. LiFePO4 chemistry is noticeably more durable than the NMC batteries in older units. This thing will still be running well in 5 years.
+After extended use the Jackery app showed 98.4% battery health remaining. LiFePO4 chemistry is noticeably more durable than the NMC batteries in older units. This thing will still be running well in 5 years.
 
 ---
 
@@ -156,7 +156,7 @@ The app shows cycle count and battery health percentage. after extended use mine
 1.7 hours to 80% vs 1 hour on the EcoFlow. In a real outage where the grid comes back briefly, the EcoFlow refills faster.
 
 **2. Surge reliability at extreme cold**
-2 failures in 73 days is a low failure rate but it happened. Both were in extreme cold. If you live in a very cold climate, size up to be safe.
+2 failures over several months is a low failure rate but it happened. Both were in extreme cold. If you live in a very cold climate, size up to be safe.
 
 **3. Solar port placement**
 The solar input port is on the back of the unit which makes cable management awkward when positioning panels.

@@ -25,7 +25,7 @@ Neither unit was sent to me for free. I did not test these for a weekend and wri
 
 That is the only way to know if a battery is actually reliable. Anyone who tells you after a few days of testing is guessing.
 
-Here is what 73 days of real use taught me about each unit.
+Here is what months of real use taught me about each unit.
 
 ---
 
@@ -116,7 +116,7 @@ Most of us do not keep our backup batteries at 100% all the time. We check them 
 
 ---
 
-## 73 Days of Real Outage Testing
+## Real Outage Testing Results
 
 **Summer outage — 14 hours, 94°F garage:**
 I ran the chest freezer, Sarah's work laptop and monitor, Wi-Fi router, and three LED bulbs simultaneously. Total continuous load: approximately 340W. Compressor surge peaked at 1,090W on the hottest part of the afternoon.

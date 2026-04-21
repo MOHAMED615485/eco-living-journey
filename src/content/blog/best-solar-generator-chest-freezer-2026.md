@@ -46,15 +46,15 @@ I ran all three generators on the same chest freezer in rotation - same garage, 
 
 My freezer specs: 7.2 cubic foot, LRA 8.3, startup surge requirement 996W, average running draw 82-108W.
 
-73 days of data. Here is what I found.
+several months of testing. Here is what I found.
 
 ---
 
 ## 1. EcoFlow DELTA 3 Plus - Best Overall 🥇
 
-**Surge test result: 73 of 73 nights - zero failures**
+**Surge test result: every single night - zero failures**
 
-The EcoFlow DELTA 3 Plus handled every single compressor startup across 73 days without tripping once. The reason is the X-Boost technology - a proprietary surge management system that can deliver up to 2,500W of surge capacity even though the unit is rated at 1,800W continuous.
+The EcoFlow DELTA 3 Plus handled every single compressor startup during extended testing without tripping once. The reason is the X-Boost technology - a proprietary surge management system that can deliver up to 2,500W of surge capacity even though the unit is rated at 1,800W continuous.
 
 Real numbers on my chest freezer:
 
@@ -74,9 +74,9 @@ The 8.9 hour runtime means you wake up with battery left. During a real 24-hour 
 
 ## 2. Jackery Explorer 1000 V2 - Best Value 🥈
 
-**Surge test result: 71 of 73 nights - 2 failures**
+**Surge test result: nearly every night (2 failures total) - 2 failures**
 
-The Jackery handled my 8.3 LRA freezer on 71 of 73 nights. The 2 failures both occurred when ambient temperature dropped below 15F and the compressor startup demand increased.
+The Jackery handled my 8.3 LRA freezer on nearly every night (2 failures total). The 2 failures both occurred when ambient temperature dropped below 15F and the compressor startup demand increased.
 
 Real numbers on my chest freezer:
 
@@ -98,9 +98,9 @@ If your freezer LRA is above 9.0, get the EcoFlow.
 
 ## 3. Bluetti AC200L - Best for Multiple Appliances 🥉
 
-**Surge test result: 73 of 73 nights - zero failures**
+**Surge test result: every single night - zero failures**
 
-The Bluetti AC200L never tripped once in 73 days. It also never came close to tripping - the unit has 3,600W surge capacity and my freezer only demands 996W. There is 2,600W of headroom. That headroom is why it handles multiple appliances simultaneously without complaint.
+The Bluetti AC200L never tripped once during extended testing. It also never came close to tripping - the unit has 3,600W surge capacity and my freezer only demands 996W. There is 2,600W of headroom. That headroom is why it handles multiple appliances simultaneously without complaint.
 
 When I ran my full setup - chest freezer, refrigerator, four lights, router - the AC200L delivered:
 
@@ -126,7 +126,7 @@ If you are running a chest freezer only, the AC200L is overkill. But if you want
 | Value for Money | ★★★☆☆ | ★★★★★ | ★★★☆☆ |
 | Surge capacity | 2,500W | 4,000W | 3,600W |
 | Freezer-only runtime | 8.9 hours | 8.5 hours | 18.4 hours |
-| Surge failures (73 days) | 0 | 2 | 0 |
+| Surge failures (extended test) | 0 | 2 | 0 |
 | High LRA handling | All LRA values | LRA under 9.0 | All LRA values |
 | Weight | 12.3kg | 11.8kg | 28kg |
 | Wall charge to 80% | 1 hour | 1.7 hours | 2 hours |
