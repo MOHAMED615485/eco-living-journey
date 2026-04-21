@@ -1,10 +1,10 @@
 ---
 title: "Jackery Explorer 1000 V2 Review: My 73-Day Chest Freezer Test"
-description: "Ethan tested the Jackery Explorer 1000 V2 for 73 days on a real chest freezer. Here are the exact watt readings, surge test results, and honest buying verdict."
+description: "Ethan tested the Jackery Explorer 1000 V2 over several months on a real chest freezer. Here are the exact watt readings, surge test results, and honest buying verdict."
 pubDate: "Apr 03 2026"
 heroImage: "../../assets/jackery-1000-v2-review.webp"
 ---
-I bought the Jackery Explorer 1000 V2 with my own money in January 2026 and ran it for 73 days alongside the EcoFlow DELTA 3 Plus on my chest freezer, refrigerator, and full home backup setup.
+I bought the Jackery Explorer 1000 V2 with my own money in January 2026 and ran it over several months alongside the EcoFlow DELTA 3 Plus on my chest freezer, refrigerator, and full home backup setup.
 
 <div style="margin:24px 0;">
   <a href="https://amzn.to/47Esd8d" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:14px 32px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
@@ -41,7 +41,7 @@ Key specs:
 
 ---
 
-## 🧪 My 73-Day Test Setup
+## 🧪 My real-world testing Setup
 
 I ran the Jackery Explorer 1000 V2 on the same setup I use for all my tests:
 
@@ -102,7 +102,7 @@ The solar recharge speed is genuinely impressive. On a clear day in February I w
 
 ---
 
-## 🔋 Battery Health After 73 Days
+## 🔋 Battery Health after extended use
 
 After 73 full charge cycles the Jackery app showed 98.4% battery health remaining. LiFePO4 chemistry is noticeably more durable than the NMC batteries in older units. This thing will still be running well in 5 years.
 
@@ -146,7 +146,7 @@ Higher continuous output than the EcoFlow means it handles more demanding applia
 The fan on the Jackery is noticeably quieter than the EcoFlow under the same load. Running it in a bedroom is comfortable.
 
 **5. Battery health tracking in the app**
-The app shows cycle count and battery health percentage. After 73 days mine shows 98.4%. Reassuring to see.
+The app shows cycle count and battery health percentage. after extended use mine shows 98.4%. Reassuring to see.
 
 ---
 
@@ -203,6 +203,6 @@ Two 200W panels will charge it from zero in about 3-4 hours in direct sun. One 2
 
 ## About Ethan
 
-I am a homeowner who tests solar generators and backup power systems for 73 days before recommending them. I lost $847 of food in a blackout before taking backup power seriously. Now I share real watt readings, real failure data, and honest buying recommendations. Everything on this site I have tested myself.
+I am a homeowner who tests solar generators and backup power systems over several months before recommending them. I lost $847 of food in a blackout before taking backup power seriously. Now I share real watt readings, real failure data, and honest buying recommendations. Everything on this site I have tested myself.
 
 *Last updated: Apr 2026*

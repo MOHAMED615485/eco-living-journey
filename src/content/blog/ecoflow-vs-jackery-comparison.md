@@ -1,5 +1,5 @@
 ---
-title: "EcoFlow DELTA 3 Plus vs Jackery 1000 V2: My 73-Day Test"
+title: "EcoFlow DELTA 3 Plus vs Jackery 1000 V2: My real-world testing"
 description: "I tested both the EcoFlow DELTA 3 Plus and Jackery Explorer 1000 V2 on my garage chest freezer through two real power outages. Here is the honest comparison of surge capacity, runtime, charging speed, and which one I would actually buy."
 pubDate: "Mar 23 2026"
 heroImage: "../../assets/ecoflow-jackery-vs-hero.webp"
@@ -21,7 +21,7 @@ heroImage: "../../assets/ecoflow-jackery-vs-hero.webp"
 
 I want to be upfront about how this comparison happened.
 
-Neither unit was sent to me for free. I did not test these for a weekend and write up my impressions. I ran both through my actual home setup — a 7 cu. ft. Midea chest freezer in a Virginia garage — for 73 days each, through summer heat and two real power outages.
+Neither unit was sent to me for free. I did not test these for a weekend and write up my impressions. I ran both through my actual home setup — a 7 cu. ft. Midea chest freezer in a Virginia garage — over several months each, through summer heat and two real power outages.
 
 That is the only way to know if a battery is actually reliable. Anyone who tells you after a few days of testing is guessing.
 

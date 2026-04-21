@@ -1,6 +1,6 @@
 ---
 title: "Best Solar Generator for Home Backup Power (2026 Guide)"
-description: "After 73 days of real blackout testing, Ethan reveals the best solar generators for home backup power in 2026. EcoFlow, Jackery, and Bluetti compared with real numbers."
+description: "after extended use of real blackout testing, Ethan reveals the best solar generators for home backup power in 2026. EcoFlow, Jackery, and Bluetti compared with real numbers."
 pubDate: "Apr 01 2026"
 heroImage: "../../assets/best-solar-generator-2026.webp"
 ---
@@ -39,7 +39,7 @@ This is the one I run full-time in my garage.
 
 The DELTA 3 Plus has a 1,024Wh battery and a 1,800W AC output with an X-Boost feature that pushes it to handle appliances up to 2,500W. That X-Boost is what makes it special - it is the reason it can run my 7.2 cubic foot chest freezer without tripping.
 
-In my 73-day test, here is what I recorded:
+In my real-world testing, here is what I recorded:
 
 - ⚡ **Running watts on my chest freezer:** 85-110W depending on ambient temperature
 - ✅ **Startup surge:** handled every time without tripping
@@ -140,6 +140,6 @@ It depends entirely on what you are running. My chest freezer draws 85-110W runn
 
 ## 👋 About Ethan
 
-I am a homeowner who spent 73 days testing solar generators and backup power systems after losing $847 of food in a single blackout. I share real watt readings, real failure moments, and honest buying recommendations - no paid partnerships, no fluff. Everything on this site I have tested myself.
+I am a homeowner who spent real-world testing solar generators and backup power systems after losing $847 of food in a single blackout. I share real watt readings, real failure moments, and honest buying recommendations - no paid partnerships, no fluff. Everything on this site I have tested myself.
 
 *Last updated: Apr 2026*

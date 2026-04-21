@@ -1,6 +1,6 @@
 ---
 title: "Bluetti AC200L Review: 73 Days Running My Full Home Backup"
-description: "Ethan tested the Bluetti AC200L for 73 days running a chest freezer, refrigerator, lights and router simultaneously. Real watt readings, runtime data and honest verdict."
+description: "Ethan tested the Bluetti AC200L over several months running a chest freezer, refrigerator, lights and router simultaneously. Real watt readings, runtime data and honest verdict."
 pubDate: "Apr 03 2026"
 heroImage: "../../assets/bluetti-ac200l-review.webp"
 ---
@@ -13,7 +13,7 @@ The Bluetti AC200L is not a portable power station. It is a home battery system 
 </div>
 
 
-I bought it with my own money in January 2026 and ran it for 73 days as the primary backup power source for my full essential home setup — chest freezer, upright refrigerator, four LED lights, Wi-Fi router, and phone charging simultaneously.
+I bought it with my own money in January 2026 and ran it over several months as the primary backup power source for my full essential home setup — chest freezer, upright refrigerator, four LED lights, Wi-Fi router, and phone charging simultaneously.
 
 This is what I found.
 
@@ -44,7 +44,7 @@ Key specs:
 
 ---
 
-## 🧪 My 73-Day Test Setup
+## 🧪 My real-world testing Setup
 
 I ran the AC200L harder than any other unit I have tested because it was built for hard use. My test setup:
 
@@ -55,7 +55,7 @@ I ran the AC200L harder than any other unit I have tested because it was built f
 - **Phone charging:** 20W
 - **Total continuous draw:** 280-320W depending on compressor cycles
 
-I ran this full setup simultaneously — everything plugged in at once — for the entire 73-day test period.
+I ran this full setup simultaneously — everything plugged in at once — for the entire real-world testing period.
 
 ---
 
@@ -97,7 +97,7 @@ The 1,200W solar input capacity is the highest in this class. With four 300W pan
 
 ---
 
-## 🔋 Battery Health After 73 Days
+## 🔋 Battery Health after extended use
 
 After 73 full charge cycles the Bluetti app showed 99.1% battery health. LiFePO4 chemistry at 3,500 rated cycles means this unit should still be running at over 80% capacity in 2034.
 
@@ -141,7 +141,7 @@ I covered the full comparison in detail here: [EcoFlow vs Jackery — which hand
 You can add Bluetti B230 or B300 expansion batteries to push total capacity to 8,192Wh. No other unit in this class offers this. If you ever want to grow your system, the infrastructure is already there.
 
 **3. Zero surge failures in 73 days**
-Not once. Running two compressor appliances simultaneously for 73 days and zero trips. That track record matters.
+Not once. Running two compressor appliances simultaneously over several months and zero trips. That track record matters.
 
 **4. 1,200W solar input**
 The fastest solar recharge in this class. With the right panel setup you can run indefinitely on solar without ever touching the grid.
@@ -205,6 +205,6 @@ Two 350W panels will charge it from zero in about 5-6 hours in direct sun. Four 
 
 ## About Ethan
 
-I am a homeowner who spent 73 days testing solar generators and backup power systems after losing $847 of food in a single blackout. I share real watt readings, real failure data, and honest buying recommendations. No paid partnerships. No sponsored reviews. Everything on this site I have tested myself.
+I am a homeowner who spent real-world testing solar generators and backup power systems after losing $847 of food in a single blackout. I share real watt readings, real failure data, and honest buying recommendations. No paid partnerships. No sponsored reviews. Everything on this site I have tested myself.
 
 *Last updated: Apr 2026*

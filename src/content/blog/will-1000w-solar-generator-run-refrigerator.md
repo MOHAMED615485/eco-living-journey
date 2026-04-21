@@ -1,13 +1,13 @@
 ---
 title: "Will a 1000W Solar Generator Run a Refrigerator? (Ethan's Real Test)"
-description: "Can a 1000W solar generator actually power your fridge? Ethan tested three models for 73 days. Here's the honest answer — including what most guides get wrong."
+description: "Can a 1000W solar generator actually power your fridge? Ethan tested three models over several months. Here's the honest answer — including what most guides get wrong."
 pubDate: "Apr 14 2026"
 heroImage: "../../assets/will-1000w-solar-generator-run-refrigerator.webp"
 ---
 
 If you've been Googling whether a 1000W solar generator can run a refrigerator, you've probably found a lot of vague answers that don't actually help you decide.
 
-I'm Ethan. I've spent 73 days testing portable solar generators at home — including running them on real appliances, not just reading spec sheets. Here's the honest answer, and it's more nuanced than a simple yes or no.
+I'm Ethan. I've spent real-world testing portable solar generators at home — including running them on real appliances, not just reading spec sheets. Here's the honest answer, and it's more nuanced than a simple yes or no.
 
 ---
 
@@ -140,7 +140,7 @@ The fridge is your baseload. Everything else has to fit under your remaining con
 
 ## What I Wish Someone Had Told Me Before I Started Testing
 
-After 73 days of running solar generators on real appliances at home, here's what took me time to learn:
+after extended use of running solar generators on real appliances at home, here's what took me time to learn:
 
 **1. The temperature of your fridge matters.** A fridge in a hot garage uses 2–3× the electricity of the same fridge in a 70°F kitchen. If your outage happens in July and your fridge is in a garage, cut my runtime estimates in half.
 
@@ -182,4 +182,4 @@ Possibly, but not simultaneously during startups. If both compressors surge at t
 
 ---
 
-*Ethan has tested 14 solar generators over 73 days of real-world use. No manufacturer paid for placement in this article. Amazon links use affiliate tag ecolivingjo0d-20.*
+*Ethan has tested 14 solar generators over time of real-world use. No manufacturer paid for placement in this article. Amazon links use affiliate tag ecolivingjo0d-20.*

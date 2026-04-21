@@ -1,6 +1,6 @@
 ---
 title: "Best Solar Generator for Camping 2026 - Tested in the Field"
-description: "Ethan tested the top portable solar generators for camping over 73 days. Best picks for car camping, backpacking, and off-grid adventures in 2026."
+description: "Ethan tested the top portable solar generators for camping over time. Best picks for car camping, backpacking, and off-grid adventures in 2026."
 pubDate: "Apr 20 2026"
 heroImage: "../../assets/best-solar-generator-camping-2026.webp"
 ---
@@ -9,7 +9,7 @@ I almost ruined a 4-day camping trip in the Shenandoah last summer.
 
 I brought a cheap 300W battery bank, assumed it would last the weekend, and by night two my CPAP was dead, my phone was at 4%, and the portable fridge holding our food had been off for six hours. My wife has not let me forget it.
 
-After that trip I spent the next 73 days testing every mid-range solar generator I could get my hands on specifically for camping use. Not home backup. Not well pumps. Camping -- where weight, recharge speed, and portability matter as much as raw capacity.
+After that trip I spent the next real-world testing every mid-range solar generator I could get my hands on specifically for camping use. Not home backup. Not well pumps. Camping -- where weight, recharge speed, and portability matter as much as raw capacity.
 
 Here is what actually works.
 
