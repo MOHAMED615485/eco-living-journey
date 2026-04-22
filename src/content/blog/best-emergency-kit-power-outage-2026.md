@@ -10,17 +10,17 @@ heroImage: "../../assets/best-emergency-kit-power-outage.webp"
 
 That's the moment every emergency kit either earns its price tag — or exposes a $40 waste of shelf space.
 
-I've been testing backup power and emergency preparedness gear since my neighborhood lost power for 6 days straight during a winter storm. Since then, I've put together, torn apart, and rebuilt emergency kits from scratch — including products from [SurviveX](https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvivex.com%2Fproducts%2Flarge-survival-kit&clickref=emergency-kit-article), one of the few brands that actually field-tests their gear before shipping it.
+I've been testing backup power and emergency preparedness gear since my neighborhood lost power for 6 days straight during a winter storm. Since then, I've put together, torn apart, and rebuilt emergency kits from scratch — including products from [SurviveX](https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits), one of the few brands that actually field-tests their gear before shipping it.
 
 Here's what I found.
 
 ---
 
-<div style="background: #2d6a4f; color: white; border-radius: 12px; padding: 20px 24px; margin: 28px 0;">
-  <p style="margin: 0 0 8px; font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; opacity: 0.85;">⚡ TOP PICK</p>
-  <p style="margin: 0 0 4px; font-size: 18px; font-weight: 700;">SurviveX 72-Hour Emergency Kit</p>
-  <p style="margin: 0 0 16px; font-size: 13px; opacity: 0.9;">Best all-in-one kit for families — built for 72+ hour outages, not just camping weekends</p>
-  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvivex.com%2Fproducts%2Flarge-survival-kit&clickref=emergency-kit-article" target="_blank" rel="noopener sponsored" style="display: inline-block; background: white; color: #2d6a4f; font-weight: 700; font-size: 14px; padding: 12px 24px; border-radius: 8px; text-decoration: none;">Check Price on SurviveX →</a>
+<div style="background: #2d6a4f; color: white; border-radius: 12px; padding: 24px 28px; margin: 28px 0; border: none;">
+  <p style="margin: 0 0 10px; font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #74c69d;">⚡ TOP PICK</p>
+  <p style="margin: 0 0 6px; font-size: 20px; font-weight: 800; color: white; line-height: 1.3;">SurviveX 72-Hour Emergency Kit</p>
+  <p style="margin: 0 0 20px; font-size: 14px; color: rgba(255,255,255,0.9); line-height: 1.6;">Best all-in-one kit for families — built for 72+ hour outages, not just camping weekends</p>
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" target="_blank" rel="noopener sponsored" style="display: inline-block; background: #ffffff; color: #1a1a1a; font-weight: 800; font-size: 15px; padding: 14px 28px; border-radius: 8px; text-decoration: none; letter-spacing: 0.3px;">Check Price on SurviveX →</a>
 </div>
 
 ---
@@ -68,10 +68,10 @@ What immediately stood out was the organization system. Every category — power
 
 **The honest drawback:** The price is higher than Amazon specials. You're paying for quality control and tested gear, not a product photo.
 
-<div style="background: #f5f0dc; border-left: 4px solid #2d6a4f; border-radius: 0 10px 10px 0; padding: 16px 20px; margin: 20px 0;">
-  <p style="margin: 0 0 4px; font-size: 13px; font-weight: 700; color: #2d6a4f;">SurviveX 72-Hour Family Kit</p>
-  <p style="margin: 0 0 12px; font-size: 12px; color: #555;">Covers 2 adults + 2 kids for 72 hours • Waterproof pack • 20% off with affiliate discount</p>
-  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvivex.com%2Fproducts%2Flarge-survival-kit&clickref=emergency-kit-article" target="_blank" rel="noopener sponsored" style="display: inline-block; background: #2d6a4f; color: white; font-weight: 700; font-size: 13px; padding: 10px 20px; border-radius: 8px; text-decoration: none;">See Current Price →</a>
+<div style="background: white; border: 2px solid #2d6a4f; border-radius: 10px; padding: 20px 24px; margin: 20px 0; box-shadow: 0 2px 8px rgba(45,106,79,0.1);">
+  <p style="margin: 0 0 6px; font-size: 15px; font-weight: 800; color: #1a1a1a;">SurviveX 72-Hour Family Kit</p>
+  <p style="margin: 0 0 16px; font-size: 13px; color: #444; line-height: 1.5;">Covers 2 adults + 2 kids for 72 hours • Waterproof pack • 20% off with affiliate discount</p>
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" target="_blank" rel="noopener sponsored" style="display: inline-block; background: #2d6a4f; color: white; font-weight: 700; font-size: 14px; padding: 12px 24px; border-radius: 8px; text-decoration: none;">See Current Price →</a>
 </div>
 
 ---
@@ -82,10 +82,10 @@ If you live alone or in an apartment, the full family kit is overkill. The Solo 
 
 The weight is the selling point — 8.4 lbs fully loaded, which matters if you need to evacuate on foot. It doesn't cut corners on the items that matter: the flashlight, the radio, and the first aid kit are identical quality to the larger kit.
 
-<div style="background: #f5f0dc; border-left: 4px solid #2d6a4f; border-radius: 0 10px 10px 0; padding: 16px 20px; margin: 20px 0;">
-  <p style="margin: 0 0 4px; font-size: 13px; font-weight: 700; color: #2d6a4f;">SurviveX Solo Kit</p>
-  <p style="margin: 0 0 12px; font-size: 12px; color: #555;">72-hour single person coverage • 8.4 lbs • Apartment-sized</p>
-  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvivex.com%2Fproducts%2Flarge-survival-kit&clickref=emergency-kit-article" target="_blank" rel="noopener sponsored" style="display: inline-block; background: #2d6a4f; color: white; font-weight: 700; font-size: 13px; padding: 10px 20px; border-radius: 8px; text-decoration: none;">See Current Price →</a>
+<div style="background: white; border: 2px solid #2d6a4f; border-radius: 10px; padding: 20px 24px; margin: 20px 0; box-shadow: 0 2px 8px rgba(45,106,79,0.1);">
+  <p style="margin: 0 0 6px; font-size: 15px; font-weight: 800; color: #1a1a1a;">SurviveX Solo Kit</p>
+  <p style="margin: 0 0 16px; font-size: 13px; color: #444; line-height: 1.5;">72-hour single person coverage • 8.4 lbs • Apartment-sized</p>
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" target="_blank" rel="noopener sponsored" style="display: inline-block; background: #2d6a4f; color: white; font-weight: 700; font-size: 14px; padding: 12px 24px; border-radius: 8px; text-decoration: none;">See Current Price →</a>
 </div>
 
 ---
@@ -128,10 +128,10 @@ The difference between a $40 Amazon kit and a properly tested emergency kit isn'
 
 The SurviveX kits are the ones I'd hand to a family member who asked what to buy. Not because they pay me to say that — the 20% commission is irrelevant if the gear doesn't hold up — but because they're the ones I've actually tested under real conditions.
 
-<div style="background: #2d6a4f; color: white; border-radius: 12px; padding: 20px 24px; margin: 28px 0;">
-  <p style="margin: 0 0 8px; font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; opacity: 0.85;">Ready to get prepared?</p>
-  <p style="margin: 0 0 16px; font-size: 15px;">The SurviveX 72-Hour Kit is what I recommend to every homeowner who asks where to start.</p>
-  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvivex.com%2Fproducts%2Flarge-survival-kit&clickref=emergency-kit-article" target="_blank" rel="noopener sponsored" style="display: inline-block; background: white; color: #2d6a4f; font-weight: 700; font-size: 14px; padding: 12px 24px; border-radius: 8px; text-decoration: none;">Check Price on SurviveX →</a>
+<div style="background: #2d6a4f; color: white; border-radius: 12px; padding: 24px 28px; margin: 28px 0;">
+  <p style="margin: 0 0 10px; font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #74c69d;">Ready to get prepared?</p>
+  <p style="margin: 0 0 20px; font-size: 16px; color: white; line-height: 1.6; font-weight: 500;">The SurviveX 72-Hour Kit is what I recommend to every homeowner who asks where to start.</p>
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" target="_blank" rel="noopener sponsored" style="display: inline-block; background: white; color: #1a1a1a; font-weight: 800; font-size: 15px; padding: 14px 28px; border-radius: 8px; text-decoration: none;">Check Price on SurviveX →</a>
 </div>
 
 ---
