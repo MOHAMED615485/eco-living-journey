@@ -1,0 +1,659 @@
+---
+// PowerAdvisorChat.astro
+// Real AI chat widget powered by Claude
+// Readers can ask any solar/backup power question
+// Widget captures leads and recommends products with affiliate links
+---
+
+<div id="pac-root"></div>
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap');
+
+  #pac-root * {
+    box-sizing: border-box;
+    font-family: 'DM Sans', sans-serif;
+  }
+
+  /* ── Bubble ── */
+  #pac-bubble {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    width: 60px;
+    height: 60px;
+    background: linear-gradient(135deg, #2d6a4f, #52b788);
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2147483647;
+    box-shadow: 0 4px 24px rgba(45,106,79,0.45);
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  #pac-bubble:hover {
+    transform: scale(1.08);
+    box-shadow: 0 6px 32px rgba(45,106,79,0.6);
+  }
+  #pac-bubble svg { pointer-events: none; }
+
+  /* Notification dot */
+  #pac-dot {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    width: 14px;
+    height: 14px;
+    background: #f59e0b;
+    border-radius: 50%;
+    border: 2px solid white;
+    animation: pacPulse 2s infinite;
+  }
+  @keyframes pacPulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.2); }
+  }
+
+  /* ── Window ── */
+  #pac-window {
+    position: fixed;
+    bottom: 96px;
+    right: 24px;
+    width: 380px;
+    max-width: calc(100vw - 32px);
+    height: 560px;
+    max-height: calc(100vh - 120px);
+    background: #fafaf8;
+    border-radius: 20px;
+    box-shadow: 0 8px 48px rgba(0,0,0,0.18), 0 2px 8px rgba(0,0,0,0.08);
+    z-index: 2147483646;
+    display: none;
+    flex-direction: column;
+    overflow: hidden;
+    animation: pacSlideUp 0.3s cubic-bezier(0.34,1.56,0.64,1);
+  }
+  @keyframes pacSlideUp {
+    from { transform: translateY(20px) scale(0.95); opacity: 0; }
+    to { transform: translateY(0) scale(1); opacity: 1; }
+  }
+
+  /* ── Header ── */
+  #pac-header {
+    background: linear-gradient(135deg, #2d6a4f 0%, #40916c 100%);
+    padding: 16px 18px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-shrink: 0;
+  }
+  #pac-avatar {
+    width: 38px;
+    height: 38px;
+    background: rgba(255,255,255,0.2);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+  }
+  #pac-header-text { flex: 1; }
+  #pac-header-name {
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    line-height: 1.2;
+  }
+  #pac-header-status {
+    font-size: 11px;
+    color: rgba(255,255,255,0.8);
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+  #pac-status-dot {
+    width: 6px;
+    height: 6px;
+    background: #74c69d;
+    border-radius: 50%;
+  }
+  #pac-close {
+    background: rgba(255,255,255,0.15);
+    border: none;
+    color: white;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    transition: background 0.15s;
+    flex-shrink: 0;
+  }
+  #pac-close:hover { background: rgba(255,255,255,0.3); }
+
+  /* ── Messages ── */
+  #pac-messages {
+    flex: 1;
+    overflow-y: auto;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    scroll-behavior: smooth;
+  }
+  #pac-messages::-webkit-scrollbar { width: 4px; }
+  #pac-messages::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 2px; }
+
+  .pac-msg {
+    display: flex;
+    gap: 8px;
+    align-items: flex-end;
+    animation: pacFadeIn 0.25s ease;
+  }
+  @keyframes pacFadeIn {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .pac-msg.user { flex-direction: row-reverse; }
+
+  .pac-msg-avatar {
+    width: 28px;
+    height: 28px;
+    background: linear-gradient(135deg, #2d6a4f, #52b788);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    flex-shrink: 0;
+  }
+
+  .pac-bubble-text {
+    max-width: 78%;
+    padding: 10px 14px;
+    border-radius: 16px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: #1a1a1a;
+  }
+  .pac-msg.bot .pac-bubble-text {
+    background: white;
+    border-radius: 4px 16px 16px 16px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+  }
+  .pac-msg.user .pac-bubble-text {
+    background: linear-gradient(135deg, #2d6a4f, #40916c);
+    color: white;
+    border-radius: 16px 4px 16px 16px;
+  }
+
+  /* Product card inside message */
+  .pac-product-card {
+    background: #f0faf4;
+    border: 1px solid #b7e4c7;
+    border-radius: 10px;
+    padding: 12px;
+    margin-top: 8px;
+    font-size: 12.5px;
+  }
+  .pac-product-card strong { color: #2d6a4f; display: block; margin-bottom: 4px; }
+  .pac-product-card a {
+    display: inline-block;
+    margin-top: 8px;
+    background: #2d6a4f;
+    color: white !important;
+    text-decoration: none !important;
+    padding: 7px 14px;
+    border-radius: 7px;
+    font-size: 12px;
+    font-weight: 600;
+  }
+
+  /* Typing indicator */
+  #pac-typing {
+    display: none;
+    gap: 8px;
+    align-items: flex-end;
+  }
+  .pac-typing-dots {
+    background: white;
+    border-radius: 4px 16px 16px 16px;
+    padding: 12px 16px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    display: flex;
+    gap: 4px;
+    align-items: center;
+  }
+  .pac-typing-dots span {
+    width: 6px;
+    height: 6px;
+    background: #9ca3af;
+    border-radius: 50%;
+    animation: pacBounce 1.2s infinite;
+  }
+  .pac-typing-dots span:nth-child(2) { animation-delay: 0.2s; }
+  .pac-typing-dots span:nth-child(3) { animation-delay: 0.4s; }
+  @keyframes pacBounce {
+    0%, 60%, 100% { transform: translateY(0); }
+    30% { transform: translateY(-6px); }
+  }
+
+  /* Email capture */
+  #pac-email-bar {
+    display: none;
+    padding: 12px 16px;
+    background: #f0faf4;
+    border-top: 1px solid #d1fae5;
+    gap: 8px;
+    flex-shrink: 0;
+  }
+  #pac-email-bar input {
+    flex: 1;
+    padding: 9px 12px;
+    border: 1.5px solid #b7e4c7;
+    border-radius: 8px;
+    font-size: 13px;
+    font-family: inherit;
+    background: white;
+    outline: none;
+  }
+  #pac-email-bar input:focus { border-color: #2d6a4f; }
+  #pac-email-submit {
+    background: #2d6a4f;
+    color: white;
+    border: none;
+    padding: 9px 14px;
+    border-radius: 8px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+    font-family: inherit;
+  }
+
+  /* ── Input ── */
+  #pac-input-area {
+    padding: 12px 16px;
+    border-top: 1px solid #e5e7eb;
+    display: flex;
+    gap: 8px;
+    align-items: flex-end;
+    background: white;
+    flex-shrink: 0;
+  }
+  #pac-input {
+    flex: 1;
+    border: 1.5px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 10px 14px;
+    font-size: 13.5px;
+    font-family: inherit;
+    resize: none;
+    outline: none;
+    max-height: 90px;
+    line-height: 1.5;
+    background: #fafaf8;
+    transition: border 0.15s;
+  }
+  #pac-input:focus { border-color: #2d6a4f; background: white; }
+  #pac-input::placeholder { color: #9ca3af; }
+  #pac-send {
+    width: 38px;
+    height: 38px;
+    background: linear-gradient(135deg, #2d6a4f, #40916c);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    transition: transform 0.15s, opacity 0.15s;
+  }
+  #pac-send:hover { transform: scale(1.05); }
+  #pac-send:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+
+  /* Suggested questions */
+  #pac-suggestions {
+    padding: 0 16px 12px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    flex-shrink: 0;
+  }
+  .pac-suggestion {
+    background: white;
+    border: 1.5px solid #d1fae5;
+    color: #2d6a4f;
+    font-size: 11.5px;
+    font-weight: 500;
+    padding: 5px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.15s;
+    font-family: inherit;
+  }
+  .pac-suggestion:hover {
+    background: #2d6a4f;
+    color: white;
+    border-color: #2d6a4f;
+  }
+
+  @media (max-width: 440px) {
+    #pac-window {
+      bottom: 0;
+      right: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      max-height: 100%;
+      border-radius: 0;
+    }
+    #pac-bubble { bottom: 16px; right: 16px; }
+  }
+</style>
+
+<script>
+(function() {
+
+  // ─── CONFIG ───────────────────────────────────────────
+  var PRODUCTS = {
+    jackery: {
+      name: 'Jackery Explorer 1000 V2',
+      desc: '1,070Wh · 2,000W · Best value under $800',
+      link: 'https://amzn.to/47Esd8d'
+    },
+    ecoflow: {
+      name: 'EcoFlow DELTA 3 Plus',
+      desc: '1,024Wh · 1,800W · Charges in 1 hour',
+      link: 'https://amzn.to/41D10iO'
+    },
+    bluetti: {
+      name: 'Bluetti AC200L',
+      desc: '2,048Wh · 2,400W · Best for long outages',
+      link: 'https://amzn.to/4sFpOCG'
+    }
+  };
+
+  var SYSTEM_PROMPT = 'You are Ethan, a home backup power expert at Eco Living Journey (ecoliving-journey.com). You have personally tested solar generators for months in real home settings. You help homeowners choose the right backup power solution for their needs.\n\nYour personality: direct, knowledgeable, honest — you tell people what NOT to buy as readily as what to buy. You write in short punchy sentences. No fluff.\n\nProducts you recommend (only recommend when directly relevant):\n- Jackery Explorer 1000 V2: Best under $800, 1,070Wh, great for fridge-only backup\n- EcoFlow DELTA 3 Plus: Best mid-range, 1,024Wh, charges in 1 hour, handles surge well\n- Bluetti AC200L: Best for heavy use, 2,048Wh, runs fridge + freezer + devices for 12+ hours\n\nRules:\n1. Keep replies under 120 words\n2. Be specific with watt numbers when asked\n3. Only mention a product when it genuinely fits the question\n4. Never make up specs — stick to what you know\n5. After 2-3 exchanges, naturally ask if they want a personalized recommendation guide emailed to them\n6. Sound human, not like a chatbot\n7. If asked about something outside solar/backup power, politely redirect back to your expertise';
+
+  var messageHistory = [];
+  var emailCaptured = localStorage.getItem('pac_email') || '';
+  var exchangeCount = 0;
+  var isOpen = false;
+  var isLoading = false;
+
+  var SUGGESTIONS = [
+    'Will 1000W run my fridge?',
+    'Best generator under $800?',
+    'How long do outages last?',
+    'EcoFlow vs Jackery?'
+  ];
+
+  // ─── BUILD DOM ─────────────────────────────────────────
+  var root = document.getElementById('pac-root');
+  root.innerHTML = `
+    <button id="pac-bubble" onclick="pacToggle()" aria-label="Chat with Power Advisor">
+      <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+      </svg>
+      <div id="pac-dot"></div>
+    </button>
+
+    <div id="pac-window">
+      <div id="pac-header">
+        <div id="pac-avatar">⚡</div>
+        <div id="pac-header-text">
+          <div id="pac-header-name">Ethan · Power Advisor</div>
+          <div id="pac-header-status">
+            <div id="pac-status-dot"></div>
+            Ask me anything about backup power
+          </div>
+        </div>
+        <button id="pac-close" onclick="pacToggle()">✕</button>
+      </div>
+
+      <div id="pac-messages">
+        <div class="pac-msg bot">
+          <div class="pac-msg-avatar">⚡</div>
+          <div class="pac-bubble-text">Hey! I'm Ethan. I've tested solar generators for home backup power for months.<br><br>Ask me anything — what size you need, whether your fridge will run, which brand is worth it. I'll give you a straight answer.</div>
+        </div>
+      </div>
+
+      <div id="pac-typing" class="pac-msg bot">
+        <div class="pac-msg-avatar">⚡</div>
+        <div class="pac-typing-dots">
+          <span></span><span></span><span></span>
+        </div>
+      </div>
+
+      <div id="pac-suggestions"></div>
+
+      <div id="pac-email-bar">
+        <input type="email" id="pac-email-input" placeholder="your@email.com" />
+        <button id="pac-email-submit" onclick="pacSubmitEmail()">Send Guide</button>
+      </div>
+
+      <div id="pac-input-area">
+        <textarea id="pac-input" placeholder="Ask about solar generators, backup power..." rows="1"></textarea>
+        <button id="pac-send" onclick="pacSend()">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="22" y1="2" x2="11" y2="13"/>
+            <polygon points="22 2 15 22 11 13 2 9 22 2"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+  `;
+
+  // Render suggestion chips
+  var suggBox = document.getElementById('pac-suggestions');
+  SUGGESTIONS.forEach(function(s) {
+    var btn = document.createElement('button');
+    btn.className = 'pac-suggestion';
+    btn.textContent = s;
+    btn.onclick = function() {
+      document.getElementById('pac-input').value = s;
+      suggBox.style.display = 'none';
+      pacSend();
+    };
+    suggBox.appendChild(btn);
+  });
+
+  // Auto-resize textarea
+  var textarea = document.getElementById('pac-input');
+  textarea.addEventListener('input', function() {
+    this.style.height = 'auto';
+    this.style.height = Math.min(this.scrollHeight, 90) + 'px';
+  });
+  textarea.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      e.preventDefault();
+      pacSend();
+    }
+  });
+
+  // ─── TOGGLE ────────────────────────────────────────────
+  window.pacToggle = function() {
+    var win = document.getElementById('pac-window');
+    var dot = document.getElementById('pac-dot');
+    isOpen = !isOpen;
+    win.style.display = isOpen ? 'flex' : 'none';
+    if (isOpen) {
+      dot.style.display = 'none';
+      setTimeout(function() {
+        document.getElementById('pac-input').focus();
+      }, 300);
+    }
+  };
+
+  // Show after delay
+  setTimeout(function() {
+    if (!localStorage.getItem('pac_opened')) {
+      document.getElementById('pac-dot').style.animation = 'pacPulse 2s infinite';
+    }
+  }, 15000);
+
+  // ─── SEND MESSAGE ──────────────────────────────────────
+  window.pacSend = function() {
+    if (isLoading) return;
+    var input = document.getElementById('pac-input');
+    var text = input.value.trim();
+    if (!text) return;
+
+    input.value = '';
+    input.style.height = 'auto';
+    document.getElementById('pac-suggestions').style.display = 'none';
+
+    addMessage('user', text);
+    messageHistory.push({ role: 'user', content: text });
+    exchangeCount++;
+
+    getAIResponse();
+  };
+
+  function addMessage(role, content, productKey) {
+    var msgs = document.getElementById('pac-messages');
+    var typing = document.getElementById('pac-typing');
+
+    var div = document.createElement('div');
+    div.className = 'pac-msg ' + role;
+
+    var html = '';
+    if (role === 'bot') {
+      html += '<div class="pac-msg-avatar">⚡</div>';
+    }
+
+    html += '<div class="pac-bubble-text">' + content;
+
+    // Add product card if recommended
+    if (productKey && PRODUCTS[productKey]) {
+      var p = PRODUCTS[productKey];
+      html += '<div class="pac-product-card">';
+      html += '<strong>✅ ' + p.name + '</strong>';
+      html += '<span>' + p.desc + '</span>';
+      html += '<a href="' + p.link + '" target="_blank" rel="noopener sponsored">View on Amazon →</a>';
+      html += '</div>';
+    }
+
+    html += '</div>';
+    div.innerHTML = html;
+    msgs.insertBefore(div, typing);
+    msgs.scrollTop = msgs.scrollHeight;
+  }
+
+  function showTyping(show) {
+    var typing = document.getElementById('pac-typing');
+    var send = document.getElementById('pac-send');
+    typing.style.display = show ? 'flex' : 'none';
+    send.disabled = show;
+    isLoading = show;
+    if (show) {
+      var msgs = document.getElementById('pac-messages');
+      msgs.scrollTop = msgs.scrollHeight;
+    }
+  }
+
+  // ─── AI RESPONSE ───────────────────────────────────────
+  function getAIResponse() {
+    showTyping(true);
+
+    // Build messages for API
+    var messages = messageHistory.slice(-8); // keep last 8 for context
+
+    fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'anthropic-dangerous-direct-browser-access': 'true'
+      },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 300,
+        system: SYSTEM_PROMPT,
+        messages: messages
+      })
+    })
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      showTyping(false);
+
+      var reply = '';
+      if (data.content && data.content[0]) {
+        reply = data.content[0].text;
+      } else {
+        reply = 'Sorry, I had a connection issue. Try asking again!';
+      }
+
+      // Detect which product to recommend
+      var productKey = detectProduct(reply);
+
+      // Format reply (convert **bold** to <strong>)
+      var formatted = reply
+        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+        .replace(/\n/g, '<br>');
+
+      messageHistory.push({ role: 'assistant', content: reply });
+      addMessage('bot', formatted, productKey);
+
+      // Offer email capture after 2 exchanges
+      if (exchangeCount >= 2 && !emailCaptured) {
+        setTimeout(function() {
+          addMessage('bot', 'Want me to send you a personalized buying guide based on your needs? Drop your email below 👇');
+          document.getElementById('pac-email-bar').style.display = 'flex';
+        }, 800);
+      }
+    })
+    .catch(function(err) {
+      showTyping(false);
+      addMessage('bot', 'Connection issue — try again in a moment!');
+      console.log('API error:', err);
+    });
+  }
+
+  function detectProduct(text) {
+    var t = text.toLowerCase();
+    if (t.includes('bluetti') || t.includes('ac200')) return 'bluetti';
+    if (t.includes('ecoflow') || t.includes('delta 3')) return 'ecoflow';
+    if (t.includes('jackery') || t.includes('1000 v2')) return 'jackery';
+    return null;
+  }
+
+  // ─── EMAIL CAPTURE ─────────────────────────────────────
+  window.pacSubmitEmail = function() {
+    var emailInput = document.getElementById('pac-email-input');
+    var email = emailInput.value.trim();
+    if (!email || email.indexOf('@') < 0) {
+      emailInput.style.borderColor = '#ef4444';
+      return;
+    }
+
+    // Send to Kit
+    fetch('https://api.kit.com/v4/forms/9163556/subscribe', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        email_address: email,
+        fields: {
+          source: 'chat_widget',
+          page: window.location.pathname
+        }
+      })
+    }).catch(function(e) { console.log('Kit:', e); });
+
+    // Save locally
+    localStorage.setItem('pac_email', email);
+    emailCaptured = email;
+
+    // Hide bar, show confirmation
+    document.getElementById('pac-email-bar').style.display = 'none';
+    addMessage('bot', 'Perfect! Guide is on its way to ' + email + ' 📬<br><br>Anything else I can help you figure out?');
+  };
+
+})();
+</script>
