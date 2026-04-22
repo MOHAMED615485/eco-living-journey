@@ -1,0 +1,325 @@
+---
+// PremiumLeadWidget.astro
+---
+
+<div id="premium-widget" class="widget-container">
+  <button id="widget-minimized-btn" class="widget-minimized-btn" title="Open Power Advisor">
+    <div class="minimized-icon">⚡</div>
+    <div class="minimized-label">Power<br>Advisor</div>
+  </button>
+
+  <div id="widget-main" class="widget-main">
+    <div class="widget-header">
+      <div class="header-top">
+        <div class="brand-section">
+          <div class="brand-icon">⚡</div>
+          <div class="brand-text">
+            <h2>Power Advisor</h2>
+            <p class="tagline">Find Your Perfect Solar Generator</p>
+          </div>
+        </div>
+        <button class="minimize-btn" id="minimize-btn" title="Minimize">
+          <svg width="20" height="20" viewBox="0 0 20 20">
+            <path d="M2 10h16" stroke="white" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </button>
+      </div>
+      <p class="header-subtitle">Personalized recommendations in 60 seconds</p>
+    </div>
+
+    <div class="trust-badges">
+      <div class="badge"><span class="badge-icon">✓</span><span class="badge-text">Expert Tested</span></div>
+      <div class="badge"><span class="badge-icon">⭐</span><span class="badge-text">5/5 Reviews</span></div>
+      <div class="badge"><span class="badge-icon">🔒</span><span class="badge-text">Privacy Safe</span></div>
+    </div>
+
+    <div class="widget-content" id="widget-content">
+      <div class="quiz-section" id="quiz-section">
+        <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+        <p class="progress-text"><span id="current-q">1</span>/3</p>
+        <div class="question-area" id="question-area"></div>
+      </div>
+
+      <div class="lead-form-section hidden" id="lead-form-section">
+        <div class="form-header"><h3>Get Your Free Buying Guide</h3><p>Expert recommendations for your specific needs</p></div>
+        <div class="product-card" id="product-card"></div>
+        <form class="lead-form" id="lead-form">
+          <div class="form-group">
+            <label for="name">Full Name *</label>
+            <input type="text" id="name" name="name" placeholder="Enter your name" required>
+            <span class="error-message" id="name-error"></span>
+          </div>
+          <div class="form-group">
+            <label for="email">Email Address *</label>
+            <input type="email" id="email" name="email" placeholder="your@email.com" required>
+            <span class="error-message" id="email-error"></span>
+          </div>
+          <div class="form-info"><p>✓ We will send your personalized guide</p><p>✓ No spam, unsubscribe anytime</p></div>
+          <button type="submit" class="submit-btn">Get Free Guide</button>
+        </form>
+      </div>
+
+      <div class="success-section hidden" id="success-section">
+        <div class="success-icon">✓</div>
+        <h3>Check Your Email!</h3>
+        <p>Your personalized buying guide is on the way.</p>
+        <p class="success-subtext">We recommend: <span id="success-product"></span></p>
+        <button class="close-btn" id="success-close">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  :root { --primary-green: #2d6a4f; --accent-green: #3d8b6f; --light-bg: #f5f0dc; --text-dark: #1a1a1a; --text-light: #666; --border-color: #e0e0e0; --success-color: #10b981; }
+  .widget-container { --widget-z: 9999; }
+  .widget-minimized-btn { position: fixed; bottom: 20px; right: 20px; width: 80px; height: 80px; background: linear-gradient(135deg, var(--primary-green) 0%, var(--accent-green) 100%); border: none; border-radius: 50%; color: white; cursor: pointer; display: none; flex-direction: column; align-items: center; justify-content: center; gap: 4px; z-index: 9999; box-shadow: 0 4px 20px rgba(45, 106, 79, 0.4); transition: all 0.3s ease; font-weight: 600; font-size: 10px; }
+  .widget-minimized-btn:hover { transform: scale(1.1); }
+  .widget-minimized-btn.visible { display: flex; }
+  .minimized-icon { font-size: 28px; }
+  .minimized-label { line-height: 1.2; text-align: center; }
+  .widget-main { position: fixed; bottom: 20px; right: 20px; width: 420px; max-width: calc(100vw - 40px); background: white; border-radius: 16px; box-shadow: 0 10px 40px rgba(0,0,0,0.15); display: flex; flex-direction: column; max-height: 90vh; z-index: 9999; animation: slideUp 0.4s ease; overflow: hidden; }
+  .widget-main.minimized { display: none; }
+  .widget-header { background: linear-gradient(135deg, var(--primary-green) 0%, var(--accent-green) 100%); color: white; padding: 20px; border-radius: 16px 16px 0 0; }
+  .header-top { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px; }
+  .brand-section { display: flex; gap: 12px; align-items: flex-start; }
+  .brand-icon { font-size: 32px; }
+  .brand-text h2 { margin: 0; font-size: 20px; font-weight: 700; }
+  .tagline { margin: 4px 0 0 0; font-size: 12px; opacity: 0.95; }
+  .minimize-btn { background: rgba(255,255,255,0.2); border: none; color: white; width: 32px; height: 32px; border-radius: 50%; cursor: pointer; display: flex; align-items: center; justify-content: center; }
+  .header-subtitle { margin: 0; font-size: 13px; opacity: 0.9; font-weight: 500; }
+  .trust-badges { display: flex; gap: 12px; padding: 12px 20px; background: #f9f9f9; border-bottom: 1px solid var(--border-color); flex-wrap: wrap; }
+  .badge { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--text-dark); font-weight: 600; }
+  .widget-content { padding: 24px; overflow-y: auto; flex: 1; }
+  .progress-bar { height: 4px; background: #e0e0e0; border-radius: 2px; margin-bottom: 12px; }
+  .progress-fill { height: 100%; background: linear-gradient(90deg, var(--primary-green), var(--accent-green)); width: 33%; }
+  .progress-text { font-size: 12px; color: var(--text-light); margin: 0 0 16px 0; text-align: right; }
+  .question-title { font-size: 16px; font-weight: 600; color: var(--text-dark); margin-bottom: 16px; }
+  .question-options { display: flex; flex-direction: column; gap: 10px; }
+  .option-btn { background: white; border: 2px solid var(--border-color); color: var(--text-dark); padding: 14px 16px; border-radius: 10px; cursor: pointer; font-size: 14px; font-weight: 500; }
+  .option-btn:hover { border-color: var(--primary-green); background: #f0f7f3; }
+  .option-btn.selected { background: var(--primary-green); color: white; }
+  .lead-form-section.hidden, .success-section.hidden, .quiz-section.hidden { display: none; }
+  .form-header { margin-bottom: 20px; text-align: center; }
+  .form-header h3 { margin: 0 0 8px 0; font-size: 18px; font-weight: 700; color: var(--text-dark); }
+  .form-header p { margin: 0; font-size: 13px; color: var(--text-light); }
+  .product-card { background: var(--light-bg); padding: 16px; border-radius: 12px; margin-bottom: 20px; border-left: 4px solid var(--primary-green); }
+  .product-card h4 { margin: 0 0 8px 0; font-size: 14px; font-weight: 700; color: var(--primary-green); }
+  .product-specs { font-size: 12px; color: var(--text-dark); line-height: 1.6; }
+  .product-price { font-size: 16px; font-weight: 700; color: var(--primary-green); margin-top: 8px; }
+  .lead-form { display: flex; flex-direction: column; gap: 16px; }
+  .form-group { display: flex; flex-direction: column; gap: 6px; }
+  .form-group label { font-size: 13px; font-weight: 600; color: var(--text-dark); }
+  .form-group input { padding: 12px; border: 2px solid var(--border-color); border-radius: 8px; font-size: 14px; font-family: inherit; }
+  .form-group input:focus { outline: none; border-color: var(--primary-green); box-shadow: 0 0 0 3px rgba(45, 106, 79, 0.1); }
+  .error-message { font-size: 12px; color: #dc2626; display: none; }
+  .error-message.show { display: block; }
+  .form-info { background: #f0f7f3; padding: 12px; border-radius: 8px; font-size: 12px; }
+  .form-info p { margin: 4px 0; }
+  .submit-btn { background: linear-gradient(135deg, var(--primary-green) 0%, var(--accent-green) 100%); color: white; border: none; padding: 14px; border-radius: 8px; font-weight: 700; cursor: pointer; }
+  .submit-btn:hover { transform: translateY(-2px); }
+  .success-section { text-align: center; padding: 20px 0; }
+  .success-icon { width: 60px; height: 60px; background: var(--success-color); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 32px; margin: 0 auto 16px; }
+  .success-section h3 { margin: 0 0 8px 0; font-size: 18px; font-weight: 700; }
+  .success-section p { margin: 4px 0; font-size: 14px; color: var(--text-light); }
+  .success-subtext { font-weight: 600; color: var(--primary-green); margin-top: 12px; }
+  .close-btn { background: var(--primary-green); color: white; border: none; padding: 12px 32px; border-radius: 8px; font-weight: 600; cursor: pointer; margin-top: 16px; }
+  @keyframes slideUp { from { transform: translateY(100px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+  @media (max-width: 480px) { .widget-main { bottom: 0; right: 0; left: 0; width: 100%; max-height: 100vh; border-radius: 0; } .widget-minimized-btn { display: none; } }
+</style>
+
+<script>
+  const CONFIG = {showDelay: 30000, kitFormId: "9163556", storageKey: "premiumWidgetSeen", minimizedKey: "premiumWidgetMinimized"};
+  const PRODUCTS = {jackery: {name: "Jackery Explorer 1000 V2", capacity: "1,070Wh", output: "2,000W", runtime: "8-10 hours", price: "~$700"}, ecoflow: {name: "EcoFlow DELTA 3 Plus", capacity: "1,024Wh", output: "1,800W (3,000W boost)", runtime: "8-9 hours", price: "~$800"}, bluetti: {name: "Bluetti AC200L", capacity: "2,048
+$widgetContent = @'
+---
+// PremiumLeadWidget.astro
+---
+
+<div id="premium-widget" class="widget-container">
+  <button id="widget-minimized-btn" class="widget-minimized-btn" title="Open Power Advisor">
+    <div class="minimized-icon">⚡</div>
+    <div class="minimized-label">Power<br>Advisor</div>
+  </button>
+
+  <div id="widget-main" class="widget-main">
+    <div class="widget-header">
+      <div class="header-top">
+        <div class="brand-section">
+          <div class="brand-icon">⚡</div>
+          <div class="brand-text">
+            <h2>Power Advisor</h2>
+            <p class="tagline">Find Your Perfect Solar Generator</p>
+          </div>
+        </div>
+        <button class="minimize-btn" id="minimize-btn" title="Minimize">
+          <svg width="20" height="20" viewBox="0 0 20 20">
+            <path d="M2 10h16" stroke="white" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </button>
+      </div>
+      <p class="header-subtitle">Personalized recommendations in 60 seconds</p>
+    </div>
+
+    <div class="trust-badges">
+      <div class="badge"><span class="badge-icon">✓</span><span class="badge-text">Expert Tested</span></div>
+      <div class="badge"><span class="badge-icon">⭐</span><span class="badge-text">5/5 Reviews</span></div>
+      <div class="badge"><span class="badge-icon">🔒</span><span class="badge-text">Privacy Safe</span></div>
+    </div>
+
+    <div class="widget-content" id="widget-content">
+      <div class="quiz-section" id="quiz-section">
+        <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+        <p class="progress-text"><span id="current-q">1</span>/3</p>
+        <div class="question-area" id="question-area"></div>
+      </div>
+
+      <div class="lead-form-section hidden" id="lead-form-section">
+        <div class="form-header"><h3>Get Your Free Buying Guide</h3><p>Expert recommendations for your specific needs</p></div>
+        <div class="product-card" id="product-card"></div>
+        <form class="lead-form" id="lead-form">
+          <div class="form-group">
+            <label for="name">Full Name *</label>
+            <input type="text" id="name" name="name" placeholder="Enter your name" required>
+            <span class="error-message" id="name-error"></span>
+          </div>
+          <div class="form-group">
+            <label for="email">Email Address *</label>
+            <input type="email" id="email" name="email" placeholder="your@email.com" required>
+            <span class="error-message" id="email-error"></span>
+          </div>
+          <div class="form-info"><p>✓ We will send your personalized guide</p><p>✓ No spam, unsubscribe anytime</p></div>
+          <button type="submit" class="submit-btn">Get Free Guide</button>
+        </form>
+      </div>
+
+      <div class="success-section hidden" id="success-section">
+        <div class="success-icon">✓</div>
+        <h3>Check Your Email!</h3>
+        <p>Your personalized buying guide is on the way.</p>
+        <p class="success-subtext">We recommend: <span id="success-product"></span></p>
+        <button class="close-btn" id="success-close">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  :root { --primary-green: #2d6a4f; --accent-green: #3d8b6f; --light-bg: #f5f0dc; --text-dark: #1a1a1a; --text-light: #666; --border-color: #e0e0e0; --success-color: #10b981; }
+  .widget-container { --widget-z: 9999; }
+  .widget-minimized-btn { position: fixed; bottom: 20px; right: 20px; width: 80px; height: 80px; background: linear-gradient(135deg, var(--primary-green) 0%, var(--accent-green) 100%); border: none; border-radius: 50%; color: white; cursor: pointer; display: none; flex-direction: column; align-items: center; justify-content: center; gap: 4px; z-index: 9999; box-shadow: 0 4px 20px rgba(45, 106, 79, 0.4); transition: all 0.3s ease; font-weight: 600; font-size: 10px; }
+  .widget-minimized-btn:hover { transform: scale(1.1); }
+  .widget-minimized-btn.visible { display: flex; }
+  .minimized-icon { font-size: 28px; }
+  .minimized-label { line-height: 1.2; text-align: center; }
+  .widget-main { position: fixed; bottom: 20px; right: 20px; width: 420px; max-width: calc(100vw - 40px); background: white; border-radius: 16px; box-shadow: 0 10px 40px rgba(0,0,0,0.15); display: flex; flex-direction: column; max-height: 90vh; z-index: 9999; animation: slideUp 0.4s ease; overflow: hidden; }
+  .widget-main.minimized { display: none; }
+  .widget-header { background: linear-gradient(135deg, var(--primary-green) 0%, var(--accent-green) 100%); color: white; padding: 20px; border-radius: 16px 16px 0 0; }
+  .header-top { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px; }
+  .brand-section { display: flex; gap: 12px; align-items: flex-start; }
+  .brand-icon { font-size: 32px; }
+  .brand-text h2 { margin: 0; font-size: 20px; font-weight: 700; }
+  .tagline { margin: 4px 0 0 0; font-size: 12px; opacity: 0.95; }
+  .minimize-btn { background: rgba(255,255,255,0.2); border: none; color: white; width: 32px; height: 32px; border-radius: 50%; cursor: pointer; display: flex; align-items: center; justify-content: center; }
+  .header-subtitle { margin: 0; font-size: 13px; opacity: 0.9; font-weight: 500; }
+  .trust-badges { display: flex; gap: 12px; padding: 12px 20px; background: #f9f9f9; border-bottom: 1px solid var(--border-color); flex-wrap: wrap; }
+  .badge { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--text-dark); font-weight: 600; }
+  .widget-content { padding: 24px; overflow-y: auto; flex: 1; }
+  .progress-bar { height: 4px; background: #e0e0e0; border-radius: 2px; margin-bottom: 12px; }
+  .progress-fill { height: 100%; background: linear-gradient(90deg, var(--primary-green), var(--accent-green)); width: 33%; }
+  .progress-text { font-size: 12px; color: var(--text-light); margin: 0 0 16px 0; text-align: right; }
+  .question-title { font-size: 16px; font-weight: 600; color: var(--text-dark); margin-bottom: 16px; }
+  .question-options { display: flex; flex-direction: column; gap: 10px; }
+  .option-btn { background: white; border: 2px solid var(--border-color); color: var(--text-dark); padding: 14px 16px; border-radius: 10px; cursor: pointer; font-size: 14px; font-weight: 500; }
+  .option-btn:hover { border-color: var(--primary-green); background: #f0f7f3; }
+  .option-btn.selected { background: var(--primary-green); color: white; }
+  .lead-form-section.hidden, .success-section.hidden, .quiz-section.hidden { display: none; }
+  .form-header { margin-bottom: 20px; text-align: center; }
+  .form-header h3 { margin: 0 0 8px 0; font-size: 18px; font-weight: 700; color: var(--text-dark); }
+  .form-header p { margin: 0; font-size: 13px; color: var(--text-light); }
+  .product-card { background: var(--light-bg); padding: 16px; border-radius: 12px; margin-bottom: 20px; border-left: 4px solid var(--primary-green); }
+  .product-card h4 { margin: 0 0 8px 0; font-size: 14px; font-weight: 700; color: var(--primary-green); }
+  .product-specs { font-size: 12px; color: var(--text-dark); line-height: 1.6; }
+  .product-price { font-size: 16px; font-weight: 700; color: var(--primary-green); margin-top: 8px; }
+  .lead-form { display: flex; flex-direction: column; gap: 16px; }
+  .form-group { display: flex; flex-direction: column; gap: 6px; }
+  .form-group label { font-size: 13px; font-weight: 600; color: var(--text-dark); }
+  .form-group input { padding: 12px; border: 2px solid var(--border-color); border-radius: 8px; font-size: 14px; font-family: inherit; }
+  .form-group input:focus { outline: none; border-color: var(--primary-green); box-shadow: 0 0 0 3px rgba(45, 106, 79, 0.1); }
+  .error-message { font-size: 12px; color: #dc2626; display: none; }
+  .error-message.show { display: block; }
+  .form-info { background: #f0f7f3; padding: 12px; border-radius: 8px; font-size: 12px; }
+  .form-info p { margin: 4px 0; }
+  .submit-btn { background: linear-gradient(135deg, var(--primary-green) 0%, var(--accent-green) 100%); color: white; border: none; padding: 14px; border-radius: 8px; font-weight: 700; cursor: pointer; }
+  .submit-btn:hover { transform: translateY(-2px); }
+  .success-section { text-align: center; padding: 20px 0; }
+  .success-icon { width: 60px; height: 60px; background: var(--success-color); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 32px; margin: 0 auto 16px; }
+  .success-section h3 { margin: 0 0 8px 0; font-size: 18px; font-weight: 700; }
+  .success-section p { margin: 4px 0; font-size: 14px; color: var(--text-light); }
+  .success-subtext { font-weight: 600; color: var(--primary-green); margin-top: 12px; }
+  .close-btn { background: var(--primary-green); color: white; border: none; padding: 12px 32px; border-radius: 8px; font-weight: 600; cursor: pointer; margin-top: 16px; }
+  @keyframes slideUp { from { transform: translateY(100px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+  @media (max-width: 480px) { .widget-main { bottom: 0; right: 0; left: 0; width: 100%; max-height: 100vh; border-radius: 0; } .widget-minimized-btn { display: none; } }
+</style>
+
+<script>
+  const CONFIG = {showDelay: 30000, kitFormId: "9163556", storageKey: "premiumWidgetSeen", minimizedKey: "premiumWidgetMinimized"};
+  const PRODUCTS = {jackery: {name: "Jackery Explorer 1000 V2", capacity: "1,070Wh", output: "2,000W", runtime: "8-10 hours", price: "~$700"}, ecoflow: {name: "EcoFlow DELTA 3 Plus", capacity: "1,024Wh", output: "1,800W (3,000W boost)", runtime: "8-9 hours", price: "~$800"}, bluetti: {name: "Bluetti AC200L", capacity: "2,048Wh", output: "2,400W", runtime: "12+ hours", price: "~$1,400"}};
+  const QUESTIONS = [{id: "power-need", title: "What do you need to power?", options: [{text: "🥶 Just my fridge", value: "fridge"}, {text: "❄️ Fridge + Chest Freezer", value: "both"}, {text: "🏠 Essential appliances", value: "multiple"}]}, {id: "outage-duration", title: "How long are power outages typically?", options: [{text: "⚡ Few hours (under 12 hours)", value: "short"}, {text: "🕐 1-2 days", value: "medium"}, {text: "⏰ 2+ days", value: "long"}]}, {id: "budget", title: "What is your budget?", options: [{text: "💰 Under $800", value: "low"}, {text: "💵 $800-1,200", value: "medium"}, {text: "💸 $1,200+", value: "high"}]}];
+  let currentQuestion = 0, userData = {}, recommendedProduct = null, articleSource = document.title;
+  let widget, widgetMain, minimizedBtn, minimizeBtn, questionArea, leadFormSection, successSection, leadForm, nameInput, emailInput;
+  function init() {
+    widget = document.getElementById("premium-widget");
+    widgetMain = document.getElementById("widget-main");
+    minimizedBtn = document.getElementById("widget-minimized-btn");
+    minimizeBtn = document.getElementById("minimize-btn");
+    questionArea = document.getElementById("question-area");
+    leadFormSection = document.getElementById("lead-form-section");
+    successSection = document.getElementById("success-section");
+    leadForm = document.getElementById("lead-form");
+    nameInput = document.getElementById("name");
+    emailInput = document.getElementById("email");
+    const h1 = document.querySelector("h1");
+    if (h1) articleSource = h1.textContent.trim();
+    const seen = localStorage.getItem(CONFIG.storageKey);
+    if (seen) return;
+    const isMinimized = localStorage.getItem(CONFIG.minimizedKey);
+    if (isMinimized) { minimizeWidget(); return; }
+    setTimeout(showWidget, CONFIG.showDelay);
+    minimizeBtn.addEventListener("click", minimizeWidget);
+    minimizedBtn.addEventListener("click", restoreWidget);
+    leadForm.addEventListener("submit", handleFormSubmit);
+    document.getElementById("success-close").addEventListener("click", closeWidget);
+  }
+  function showWidget() { widgetMain.style.display = "flex"; localStorage.setItem(CONFIG.storageKey, "true"); startQuiz(); }
+  function minimizeWidget() { widgetMain.classList.add("minimized"); minimizedBtn.classList.add("visible"); localStorage.setItem(CONFIG.minimizedKey, "true"); }
+  function restoreWidget() { widgetMain.classList.remove("minimized"); minimizedBtn.classList.remove("visible"); localStorage.removeItem(CONFIG.minimizedKey); }
+  function closeWidget() { widget.style.display = "none"; }
+  function startQuiz() { currentQuestion = 0; userData = {}; renderQuestion(); }
+  function renderQuestion() {
+    if (currentQuestion >= QUESTIONS.length) { showLeadForm(); return; }
+    const q = QUESTIONS[currentQuestion];
+    const progress = ((currentQuestion + 1) / QUESTIONS.length) * 100;
+    document.getElementById("progress-fill").style.width = progress + "%";
+    document.getElementById("current-q").textContent = currentQuestion + 1;
+    let html = "<div class=\"question-title\">" + q.title + "</div><div class=\"question-options\">";
+    for (let opt of q.options) html += "<button class=\"option-btn\" data-value=\"" + opt.value + "\">" + opt.text + "</button>";
+    html += "</div>";
+    questionArea.innerHTML = html;
+    document.querySelectorAll(".option-btn").forEach(btn => {
+      btn.addEventListener("click", () => { userData[q.id] = btn.dataset.value; currentQuestion++; setTimeout(renderQuestion, 300); });
+    });
+  }
+  function showLeadForm() { recommendedProduct = getRecommendation(); document.getElementById("quiz-section").classList.add("hidden"); leadFormSection.classList.remove("hidden"); renderProductCard(); }
+  function renderProductCard() {
+    const p = recommendedProduct;
+    document.getElementById("product-card").innerHTML = "<h4>✅ " + p.name + "</h4><div class=\"product-specs\"><strong>Capacity:</strong> " + p.capacity + "<br><strong>Output:</strong> " + p.output + "<br><strong>Runtime:</strong> " + p.runtime + "</div><div class=\"product-price\">" + p.price + "</div>";
+  }
+  function getRecommendation() { if (userData["power-need"] === "multiple" || userData["outage-duration"] === "long") return PRODUCTS.bluetti; else if (userData["budget"] === "low" || userData["budget"] === "medium") return PRODUCTS.jackery; else return PRODUCTS.ecoflow; }
+  function handleFormSubmit(e) { e.preventDefault(); const name = nameInput.value.trim(); const email = emailInput.value.trim(); if (!name) { showError("name-error", "Please enter your name"); return; } if (!email) { showError("email-error", "Please enter your email"); return; } document.getElementById("name-error").textContent = ""; document.getElementById("email-error").textContent = ""; submitToKit(name, email); showSuccess(name); }
+  function showError(id, msg) { const el = document.getElementById(id); el.textContent = msg; el.classList.add("show"); }
+  function submitToKit(name, email) { fetch("https://api.kit.com/v4/forms/" + CONFIG.kitFormId + "/subscribe", { method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify({email_address: email, fields: {first_name: name, source_article: articleSource}}) }).catch(err => console.log("Kit:", err)); trackLocally(name, email); }
+  function trackLocally(name, email) { const lead = {name, email, article: articleSource, product: recommendedProduct.name, timestamp: new Date().toISOString()}; let leads = JSON.parse(localStorage.getItem("premiumWidgetLeads") || "[]"); leads.push(lead); localStorage.setItem("premiumWidgetLeads", JSON.stringify(leads)); console.log("Lead:", lead); }
+  function showSuccess(name) { leadFormSection.classList.add("hidden"); successSection.classList.remove("hidden"); document.getElementById("success-product").textContent = recommendedProduct.name; setTimeout(() => {closeWidget();}, 5000); }
+  if (document.readyState === "loading") { document.addEventListener("DOMContentLoaded", init); } else { init(); }
+</script>
