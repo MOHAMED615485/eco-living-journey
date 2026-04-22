@@ -9,4 +9,5 @@ export default defineConfig({
 	site: 'https://ecoliving-journey.com',
         trailingSlash: 'always',
 	integrations: [mdx(), sitemap()],
+	markdown: { allowDangerousHtml: true },
 });
