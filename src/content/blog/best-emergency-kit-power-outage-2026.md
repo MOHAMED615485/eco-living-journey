@@ -20,7 +20,7 @@ Here's what I found.
   <p style="margin: 0 0 10px; font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #74c69d;">⚡ TOP PICK</p>
   <p style="margin: 0 0 6px; font-size: 20px; font-weight: 800; color: white; line-height: 1.3;">SurviveX 72-Hour Emergency Kit</p>
   <p style="margin: 0 0 20px; font-size: 14px; color: rgba(255,255,255,0.9); line-height: 1.6;">Best all-in-one kit for families — built for 72+ hour outages, not just camping weekends</p>
-  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" target="_blank" rel="noopener sponsored" style="display: inline-block; background: #ffffff; color: #1a1a1a; font-weight: 800; font-size: 15px; padding: 14px 28px; border-radius: 8px; text-decoration: none; letter-spacing: 0.3px;">Check Price on SurviveX →</a>
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" target="_blank" rel="noopener sponsored" style="display: inline-block; background: #ffffff; color: #1a1a1a !important; font-weight: 800; font-size: 15px; padding: 14px 28px; border-radius: 8px; text-decoration: none !important;">Check Price on SurviveX →</a>
 </div>
 
 ---
@@ -71,7 +71,7 @@ What immediately stood out was the organization system. Every category — power
 <div style="background: white; border: 2px solid #2d6a4f; border-radius: 10px; padding: 20px 24px; margin: 20px 0; box-shadow: 0 2px 8px rgba(45,106,79,0.1);">
   <p style="margin: 0 0 6px; font-size: 15px; font-weight: 800; color: #1a1a1a;">SurviveX 72-Hour Family Kit</p>
   <p style="margin: 0 0 16px; font-size: 13px; color: #444; line-height: 1.5;">Covers 2 adults + 2 kids for 72 hours • Waterproof pack • 20% off with affiliate discount</p>
-  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" target="_blank" rel="noopener sponsored" style="display: inline-block; background: #2d6a4f; color: white; font-weight: 700; font-size: 14px; padding: 12px 24px; border-radius: 8px; text-decoration: none;">See Current Price →</a>
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" target="_blank" rel="noopener sponsored" style="display: inline-block; background: #2d6a4f; color: #ffffff !important; font-weight: 800; font-size: 14px; padding: 12px 24px; border-radius: 8px; text-decoration: none !important; opacity: 1;">See Current Price →</a>
 </div>
 
 ---
@@ -85,7 +85,7 @@ The weight is the selling point — 8.4 lbs fully loaded, which matters if you n
 <div style="background: white; border: 2px solid #2d6a4f; border-radius: 10px; padding: 20px 24px; margin: 20px 0; box-shadow: 0 2px 8px rgba(45,106,79,0.1);">
   <p style="margin: 0 0 6px; font-size: 15px; font-weight: 800; color: #1a1a1a;">SurviveX Solo Kit</p>
   <p style="margin: 0 0 16px; font-size: 13px; color: #444; line-height: 1.5;">72-hour single person coverage • 8.4 lbs • Apartment-sized</p>
-  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" target="_blank" rel="noopener sponsored" style="display: inline-block; background: #2d6a4f; color: white; font-weight: 700; font-size: 14px; padding: 12px 24px; border-radius: 8px; text-decoration: none;">See Current Price →</a>
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" target="_blank" rel="noopener sponsored" style="display: inline-block; background: #2d6a4f; color: #ffffff !important; font-weight: 800; font-size: 14px; padding: 12px 24px; border-radius: 8px; text-decoration: none !important; opacity: 1;">See Current Price →</a>
 </div>
 
 ---
@@ -131,7 +131,7 @@ The SurviveX kits are the ones I'd hand to a family member who asked what to buy
 <div style="background: #2d6a4f; color: white; border-radius: 12px; padding: 24px 28px; margin: 28px 0;">
   <p style="margin: 0 0 10px; font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; color: #74c69d;">Ready to get prepared?</p>
   <p style="margin: 0 0 20px; font-size: 16px; color: white; line-height: 1.6; font-weight: 500;">The SurviveX 72-Hour Kit is what I recommend to every homeowner who asks where to start.</p>
-  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" target="_blank" rel="noopener sponsored" style="display: inline-block; background: white; color: #1a1a1a; font-weight: 800; font-size: 15px; padding: 14px 28px; border-radius: 8px; text-decoration: none;">Check Price on SurviveX →</a>
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" target="_blank" rel="noopener sponsored" style="display: inline-block; background: #ffffff; color: #1a1a1a !important; font-weight: 800; font-size: 15px; padding: 14px 28px; border-radius: 8px; text-decoration: none !important;">Check Price on SurviveX →</a>
 </div>
 
 ---
