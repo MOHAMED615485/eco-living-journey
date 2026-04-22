@@ -7,7 +7,6 @@ heroImage:
   alt: "Best emergency kit for power outages laid out on a table"
 ---
 
-import { Image } from 'astro:assets';
 
 **The power just went out. Your fridge is warming. Your phone is at 12%. You have no flashlight, no water, and no plan.**
 
