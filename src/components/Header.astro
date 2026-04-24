@@ -17,6 +17,9 @@ import { SITE_TITLE } from '../consts';
 			<HeaderLink href="/about">About</HeaderLink>
 			<HeaderLink href="/contact">Contact</HeaderLink>
 		</div>
+		<button class="hamburger" onclick="toggleMenu()" aria-label="Toggle navigation menu">
+			<span></span><span></span><span></span>
+		</button>
 	</nav>
 </header>
 
@@ -54,4 +57,52 @@ import { SITE_TITLE } from '../consts';
 	.internal-links {
 		display: flex;
 	}
+
+	@media (max-width: 720px) {
+		.internal-links {
+			display: none;
+			flex-direction: column;
+			position: absolute;
+			top: 60px;
+			left: 0;
+			right: 0;
+			background: white;
+			box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+			padding: 1rem;
+			z-index: 1000;
+		}
+		.internal-links.open {
+			display: flex;
+		}
+		.hamburger {
+			display: flex;
+			flex-direction: column;
+			gap: 5px;
+			cursor: pointer;
+			background: none;
+			border: none;
+			padding: 8px;
+			border-radius: 6px;
+		}
+		.hamburger span {
+			display: block;
+			width: 24px;
+			height: 2px;
+			background: #333;
+			border-radius: 2px;
+			transition: all 0.3s;
+		}
+		nav {
+			position: relative;
+		}
+		h2 a { font-size: 0.9rem; }
+	}
+	@media (min-width: 721px) {
+		.hamburger { display: none; }
+	}
 </style>
+<script is:inline>
+  function toggleMenu() {
+    document.querySelector('.internal-links').classList.toggle('open');
+  }
+</script>

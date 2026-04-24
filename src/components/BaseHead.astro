@@ -6,10 +6,11 @@ interface Props {
   title: string;
   description: string;
   image?: string;
+  type?: string;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-const { title, description, image = '/social-preview.webp' } = Astro.props;
+const { title, description, image = '/social-preview.webp', type = 'website' } = Astro.props;
 ---
 
 <meta charset="utf-8" />
@@ -30,7 +31,7 @@ const { title, description, image = '/social-preview.webp' } = Astro.props;
 <meta name="title" content={title} />
 <meta name="description" content={description} />
 
-<meta property="og:type" content="website" />
+<meta property="og:type" content={type} />
 <meta property="og:url" content={Astro.url.toString()} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
@@ -61,7 +62,6 @@ const { title, description, image = '/social-preview.webp' } = Astro.props;
 <link rel="dns-prefetch" href="https://app.grow.me" />
 <link rel="dns-prefetch" href="https://scripts.clarity.ms" />
 <link rel="dns-prefetch" href="https://www.clarity.ms" />
-<link rel="dns-prefetch" href="https://faves.grow.me" />
 
 <!-- GA4 deferred to not block render -->
 <script>

@@ -2,7 +2,8 @@
 title: "Best Solar Generator for Camping 2026: Field-Tested"
 description: "After real-world testing solar generators in the backcountry, I've found the 3 models that actually deliver reliable power for weekend trips and remote camping adventures."
 pubDate: 2026-04-18
-heroImage: "../../assets/images/best-solar-camping-hero.jpg"
+robots: noindex
+heroImage: "../../assets/best-solar-generator-camping-2026.webp"
 category: "Solar Generators"
 tags: ["camping", "portable power", "solar generators", "outdoor gear"]
 ---
