@@ -59,6 +59,14 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
+  {heroImage && (
+    <link
+      rel="preload"
+      as="image"
+      href={heroImage.src}
+      fetchpriority="high"
+    />
+  )}
 </head>
   <body>
     <Header />
@@ -74,6 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
               fetchpriority="high"
               loading="eager"
               decoding="async"
+              style="aspect-ratio: auto; max-width: 100%; height: auto;"
             />
           )}
         </div>
