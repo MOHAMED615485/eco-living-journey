@@ -1,3 +1,9 @@
+/* Performance optimizations */
+@font-face {
+  font-family: 'DM Sans';
+  font-display: swap;
+}
+
 .grid { margin-top: 2.5rem; }
 .cards {
   display: grid;
