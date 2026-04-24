@@ -3,7 +3,7 @@ robots: noindex
 title: "Solar Water Heaters vs. Gas: The Ultimate Utility Bill Cutter"
 description: "I did the honest math on how much heating water actually costs. Here is why switching to a solar water heater can save you thousands."
 pubDate: "2026-03-04"
-heroImage: "../../assets/solar-heater.webp"
+heroImage: "../../assets/power-outage.webp"
 ---
 
 <style>
@@ -49,7 +49,7 @@ Your normal water heater is basically a giant kettle that runs all day and night
   <li><strong>Prices always go up:</strong> Gas and electricity get more expensive every single year. You are trapped renting energy.</li>
 </ul>
 
-![Solar vs Gas Comparison Chart](./solar-infographic.jpg)
+![Solar vs Gas Comparison Chart](../../assets/solar-panels-home.webp)
 
 <h2>☀️ How Solar Water Heaters Actually Work</h2>
 A solar water heater uses simple panels on your roof to collect heat directly from the sun. That free heat warms up your water before it goes into your house. 

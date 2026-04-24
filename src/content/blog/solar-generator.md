@@ -99,7 +99,7 @@ If you are looking for "Level 1" resilience to confidently survive a 12-to-24-ho
 
 <h3>1. 🧠 The "Smart Tech" Choice: EcoFlow DELTA Pro 3</h3>
 
-![EcoFlow Delta Pro 3 Solar Power Station](./eco1.png)
+![EcoFlow Delta Pro 3 Solar Power Station](../../assets/ecoflow-delta-3-plus-review.webp)
 
 The EcoFlow Delta Pro 3 is the undisputed heavyweight champion of the portable market. It is designed for the homeowner who refuses to compromise on capacity. With a peak output pushing past 4,000W, it won't just run your fridge—it can easily handle the 3,000W surge of a well pump without tripping the breakers. If you realize 4kWh isn't enough, you can daisy-chain extra smart batteries to push the system up to a staggering 12kWh of total storage.
 
@@ -107,7 +107,7 @@ The EcoFlow Delta Pro 3 is the undisputed heavyweight champion of the portable m
 
 <h3>2. 🛻 The "Rugged Reliability" Choice: Jackery 2000 Plus</h3>
 
-![Jackery Explorer 2000 Plus Power Station](./jack1.png)
+![Jackery Explorer 2000 Plus Power Station](../../assets/jackery-1000-v2-review.webp)
 
 If EcoFlow is a luxury sports car, the Jackery 2000 Plus is an indestructible off-road truck. Jackery has moved to advanced LiFePO4 battery chemistry, meaning you can drain and recharge this unit thousands of times over a decade without degrading the battery health. It is built for the user who wants zero software headaches and features built-in wheels and ergonomic handles making it incredibly easy to roll around when the lights go out.
 
