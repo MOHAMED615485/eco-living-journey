@@ -225,3 +225,34 @@
 article {
   padding: 0 16px !important;
 }
+
+/* ── Critical Performance CSS ───────────────────── */
+img {
+  content-visibility: auto;
+}
+
+/* Lazy load below-fold sections */
+.prose > *:nth-child(n+10) {
+  content-visibility: auto;
+  contain-intrinsic-size: 0 200px;
+}
+
+/* Prevent layout shift on images */
+img[width][height] {
+  height: auto;
+  max-width: 100%;
+}
+
+/* Mobile table performance */
+@media (max-width: 768px) {
+  main table {
+    font-size: 0.85rem !important;
+  }
+  main th, main td {
+    padding: 10px 8px !important;
+  }
+  .title h1 {
+    font-size: 1.8rem !important;
+  }
+}
+/* ─────────────────────────────────────────────── */
