@@ -96,6 +96,14 @@ The goal is food that requires no refrigeration, minimal water, and ideally no c
 
 Manual can opener. Every single preparedness guide mentions it and every single outage produces someone with 40 cans of soup and no way to open them. Buy three. Put one in the kitchen, one in your go bag, one in your car.
 
+If you want a ready-built emergency kit that covers food, first aid, water purification, and communication in one package, the SurviveX Large Survival Kit is the most complete option I have found at the price point.
+
+<div class="cta-container">
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvivex.com%2Fcollections%2Ffirst-aid-kits&clickref=prep-home-article" style="background-color:#2d6a4f;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+    &#128274; See the SurviveX Emergency Kit &rarr;
+  </a>
+</div>
+
 ---
 
 ## Step 3 — Light and Communication
