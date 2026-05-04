@@ -17,6 +17,21 @@ Here is exactly what I found.
 
 ---
 
+
+<div style="background:#f9f9f9;border-radius:8px;padding:14px 18px;margin:1.5rem 0;">
+<strong>Who this guide helps:</strong><br/>
+🏠 <strong>Homeowners</strong> prepping for power outages &nbsp;|&nbsp;
+🚐 <strong>RV owners</strong> needing off-grid power &nbsp;|&nbsp;
+👪 <strong>Parents</strong> keeping families safe &nbsp;|&nbsp;
+🌱 <strong>Homesteaders</strong> building grid independence &nbsp;|&nbsp;
+🌀 <strong>Florida residents</strong> prepping for hurricane season
+</div>
+
+
+<div style="background:#fff3cd;border-left:4px solid #c2410c;padding:14px 18px;border-radius:0 8px 8px 0;margin:1rem 0;">
+<strong>🌀 Florida + Gulf Coast residents:</strong> Hurricane season means 3-7 day outages. Size your backup for the worst case. EcoFlow DELTA 3 Plus recharges in under 2 hours from solar — fastest option for hurricane prep.
+</div>
+
 ## ⚡ Why Most Backup Generators Fail When You Need Them Most
 
 Before I get to the winners, let me tell you the mistake almost everyone makes.
