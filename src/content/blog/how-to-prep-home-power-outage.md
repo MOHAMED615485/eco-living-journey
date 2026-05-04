@@ -24,6 +24,19 @@ That was the last time I prepped reactively. This guide is everything I put in p
 
 ---
 
+
+<div style="background:#f9f9f9;border-radius:8px;padding:14px 18px;margin:1.5rem 0;">
+<strong>Who this guide helps:</strong><br/>
+🏠 <strong>Homeowners</strong> prepping for power outages &nbsp;|&nbsp;
+🚐 <strong>RV owners</strong> needing off-grid power &nbsp;|&nbsp;
+👪 <strong>Parents</strong> keeping families safe &nbsp;|&nbsp;
+🌱 <strong>Homesteaders</strong> building grid independence &nbsp;|&nbsp;
+🌀 <strong>Florida residents</strong> prepping for hurricane season
+</div>
+
+<div style="background:#fff3cd;border-left:4px solid #c2410c;padding:14px 18px;border-radius:0 8px 8px 0;margin:1rem 0;">
+<strong>🌀 Florida + Gulf Coast residents:</strong> Hurricane season means 3-7 day outages not 3-hour ones. Size your backup power for the worst case in your region. The EcoFlow DELTA 3 Plus recharges in under 2 hours from solar — fastest option for multi-day hurricane prep.
+</div>
 ## The Power Outage Prep Checklist
 
 Most guides give you a generic list. This one is organized by how urgent each item is — what you need before the storm, what you set up the day of, and what protects you during a multi-day outage.
