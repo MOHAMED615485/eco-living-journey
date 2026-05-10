@@ -35,3 +35,8 @@ Allow: /
 
 User-agent: ChatGPT-User
 Allow: /
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Facebot
+Allow: /
