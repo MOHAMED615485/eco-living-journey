@@ -45,6 +45,15 @@ If your generator cannot deliver that surge, the unit trips. In a real blackout,
 
 I wrote a full breakdown on [how to calculate surge watts for your freezer here](/blog/what-is-lra-on-a-freezer/). Read that first if you are not sure what your freezer needs. It could save you from buying the wrong unit.
 
+<div style="background:#fff3cd;border:1.5px solid #f5a623;border-radius:12px;padding:16px 20px;margin:1.5rem 0;display:flex;align-items:flex-start;gap:12px;">
+<span style="font-size:1.4rem;">⚡</span>
+<div>
+<strong style="color:#92400e;font-size:0.95rem;">Still confused about surge vs running watts?</strong><br/>
+<span style="font-size:0.88rem;color:#444;">This single number determines whether your generator trips at 2AM or keeps running. I tested all three brands specifically on this.</span><br/>
+<a href="/blog/surge-vs-running-watts/" style="color:#92400e;font-weight:700;font-size:0.88rem;text-decoration:underline;">→ Surge Watts vs Running Watts: What Every Homeowner Must Know</a>
+</div>
+</div>
+
 ---
 
 ## 🏆 The 3 Best Solar Generators for Home Backup in 2026
@@ -129,6 +138,15 @@ In my testing, I ran my full setup - chest freezer, upright refrigerator, four L
 
 ---
 
+<div style="background:#f0fdf4;border:1.5px solid #2d6a4f;border-radius:12px;padding:16px 20px;margin:1.5rem 0;display:flex;align-items:flex-start;gap:12px;">
+<span style="font-size:1.4rem;">🧊</span>
+<div>
+<strong style="color:#2d6a4f;font-size:0.95rem;">Running this specifically for a chest freezer?</strong><br/>
+<span style="font-size:0.88rem;color:#444;">I ran a separate 73-day test specifically on chest freezers — different results than general home backup testing. Real surge data, real failures, real numbers.</span><br/>
+<a href="/blog/best-solar-generator-chest-freezer-2026/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;">→ Best Solar Generator for Chest Freezer (Dedicated Test)</a>
+</div>
+</div>
+
 ## 🎯 Which One Should You Buy?
 
 **Buy the EcoFlow DELTA 3 Plus if:** You want the most reliable all-round performer for a single freezer or refrigerator and you value fast recharging when the grid comes back.
@@ -137,9 +155,17 @@ In my testing, I ran my full setup - chest freezer, upright refrigerator, four L
 
 **Buy the Bluetti AC200L if:** You want to run multiple appliances for 10+ hours and you are building a serious backup power system.
 
-If you are not sure which appliances you need to cover, read my guide on [how a solar generator handles a chest freezer](/blog/chest-freezer-blackout-math/).
+If you are not sure which appliances you need to cover, read my guide on [how a solar generator handles a chest freezer](/blog/how-long-food-lasts-without-power/).
 
 ---
+
+<div style="background:#f0fdf4;border:1.5px solid #2d6a4f;border-radius:12px;padding:16px 20px;margin:1.5rem 0;">
+<strong style="color:#2d6a4f;font-size:0.95rem;">📚 Keep Reading — Related Guides:</strong><br/><br/>
+<a href="/blog/how-long-food-lasts-without-power/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ How Long Does a Freezer Last Without Power? (Real Numbers)</a>
+<a href="/blog/how-to-prep-home-power-outage/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ How to Prep Your Home for a Power Outage (Complete Guide)</a>
+<a href="/blog/portable-power-station-vs-gas-generator/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ Solar Generator vs Gas Generator: Honest Comparison</a>
+<a href="/blog/best-solar-generator-under-1000/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;">→ Best Solar Generator Under $1000 — Tested and Ranked</a>
+</div>
 
 ## ❓ FAQ
 
