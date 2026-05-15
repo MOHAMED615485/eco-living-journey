@@ -4,6 +4,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import PowerAdvisorChat from '../components/PowerAdvisorChat.astro';
+import EmailPopup from '../components/EmailPopup.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
@@ -249,6 +250,7 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 </script>
 <PowerAdvisorChat />
+<EmailPopup />
 
 <!-- Mediavine Grow - loaded after page content for better performance -->
 <script is:inline data-grow-initializer="">!(function(){window.addEventListener('load',function(){window.growMe||((window.growMe=function(e){window.growMe._.push(e);}),(window.growMe._=[]));var e=document.createElement("script");(e.type="text/javascript"),(e.src="https://faves.grow.me/main.js"),(e.defer=!0),e.setAttribute("data-grow-faves-site-id","U2l0ZTo1ZmZlMDAzMS1jMTliLTRkNDktOWVlYy1jYTA1YWRmNjAyNTU=");var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t);});})();</script>
