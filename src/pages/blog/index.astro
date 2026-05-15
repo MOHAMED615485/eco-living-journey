@@ -4,6 +4,7 @@ import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import { getCollection } from 'astro:content';
 import FormattedDate from '../../components/FormattedDate.astro';
+import EmailPopup from '../../components/EmailPopup.astro';
 
 const allPosts = (await getCollection('blog')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -181,5 +182,6 @@ const sortedCategories = Object.keys(grouped).sort((a, b) => {
         }
       });
     </script>
+  <EmailPopup />
   </body>
 </html>
