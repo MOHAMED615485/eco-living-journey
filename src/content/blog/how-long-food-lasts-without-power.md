@@ -119,9 +119,18 @@ For freezers older than 15 years, subtract 20&ndash;30% from all timeline estima
 Dense solid foods &mdash; whole cuts of meat, solid vegetable blocks &mdash; hold cold far longer than loose items like shrimp bags or ice cream cartons. Pack high-value emergency foods toward the outside walls where heat enters first and less critical items in the center where it stays coldest longest.
 
 <div class="cta-container">
-  <a href="/blog/best-solar-generator-chest-freezer/" style="background-color:#2d6a4f;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="/blog/best-solar-generator-chest-freezer-2026/" style="background-color:#2d6a4f;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#128269; Best Solar Generator for Chest Freezers &rarr;
   </a>
+</div>
+
+<div style="background:#fff3cd;border:1.5px solid #f5a623;border-radius:12px;padding:16px 20px;margin:1.5rem 0;display:flex;align-items:flex-start;gap:12px;">
+<span style="font-size:1.4rem;">&#9889;</span>
+<div>
+<strong style="color:#92400e;font-size:0.95rem;">Before you buy any solar generator — read this first</strong><br/>
+<span style="font-size:0.88rem;color:#444;">Most people buy the wrong size because they only look at running watts. The startup surge is what actually trips the generator. One number changes everything.</span><br/>
+<a href="/blog/surge-vs-running-watts/" style="color:#92400e;font-weight:700;font-size:0.88rem;text-decoration:underline;">→ Surge Watts vs Running Watts: What Every Homeowner Must Know</a>
+</div>
 </div>
 
 ---
@@ -187,6 +196,13 @@ Run through this once before storm season. It takes 20 minutes and costs almost 
 </div>
 
 ---
+
+<div style="background:#f0fdf4;border:1.5px solid #2d6a4f;border-radius:12px;padding:16px 20px;margin:1.5rem 0;">
+<strong style="color:#2d6a4f;font-size:0.95rem;">&#128218; Keep Reading — You Might Also Need:</strong><br/><br/>
+<a href="/blog/how-to-prep-home-power-outage/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ How to Prep Your Home for a Power Outage (Complete Guide)</a>
+<a href="/blog/best-solar-generator-home-backup-2026/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ Best Solar Generators for Home Backup Power (2026)</a>
+<a href="/blog/portable-power-station-vs-gas-generator/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;">→ Solar Generator vs Gas Generator: Which One Actually Wins?</a>
+</div>
 
 ## Frequently Asked Questions
 
