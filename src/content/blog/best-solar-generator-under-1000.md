@@ -4,6 +4,7 @@ description: "After testing EcoFlow, Jackery, and Bluetti under $1000, Ethan rev
 pubDate: "Apr 24 2026"
 updatedDate: "Apr 24 2026"
 heroImage: "../../assets/best-solar-generator-under-1000.webp"
+category: "Best Solar Generators"
 ---
 
 The $1000 price point is where solar generators get serious.

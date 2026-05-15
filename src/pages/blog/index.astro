@@ -9,28 +9,27 @@ const allPosts = (await getCollection('blog')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 ).filter((post: any) => post.data.title && post.data.heroImage);
 
-const categories = {
-  "Solar Generator Reviews": {
-    slugs: ["ecoflow-delta-3-plus-review","jackery-explorer-1000-v2-review","bluetti-ac200l-review","ecoflow-vs-jackery-comparison","ecoflow-vs-bluetti"],
-    coverSlug: "ecoflow-vs-jackery-comparison",
-    desc: "Hands-on 73-day tests of EcoFlow, Jackery & Bluetti"
-  },
-  "Best Solar Generators": {
-    slugs: ["best-solar-generator-home-backup-2026","best-solar-generator-under-1000","best-solar-generator-chest-freezer-2026","best-solar-generator-well-pump","best-solar-generator-cpap-machine","best-solar-camping-2026","best-solar-generator-camping-2026"],
-    coverSlug: "best-solar-generator-home-backup-2026",
-    desc: "Top picks for home, RV, camping & medical use"
-  },
-  "Power Outage Prep": {
-    slugs: ["how-to-prep-home-power-outage","how-long-do-power-outages-last","how-long-food-lasts-without-power","best-emergency-kit-power-outage-2026","chest-freezer-blackout-math"],
-    coverSlug: "how-to-prep-home-power-outage",
-    desc: "Keep your family safe when the grid goes down"
-  },
-  "Solar Generator Guides": {
-    slugs: ["surge-vs-running-watts","what-appliances-can-solar-generator-run","will-1000w-solar-generator-run-refrigerator","can-solar-generator-power-window-ac","how-long-does-solar-generator-last","store-solar-generator-winter","lifepo4-vs-lithium-ion","portable-power-station-vs-gas-generator","how-many-watts-chest-freezer","what-is-lra-on-a-freezer"],
-    coverSlug: "surge-vs-running-watts",
-    desc: "Wattage, battery chemistry, sizing & real-world math"
-  },
+const categoryMeta: Record<string, { desc: string; order: number }> = {
+  "Solar Generator Reviews": { desc: "Hands-on 73-day tests of EcoFlow, Jackery & Bluetti", order: 1 },
+  "Best Solar Generators": { desc: "Top picks for home, RV, camping & medical use", order: 2 },
+  "Power Outage Prep": { desc: "Keep your family safe when the grid goes down", order: 3 },
+  "Solar Generator Guides": { desc: "Wattage, battery chemistry, sizing & real-world math", order: 4 },
 };
+
+// Auto-group by category frontmatter
+const grouped: Record<string, any[]> = {};
+for (const post of allPosts) {
+  const cat = (post.data as any).category || "Solar Generator Guides";
+  if (!grouped[cat]) grouped[cat] = [];
+  grouped[cat].push(post);
+}
+
+// Sort categories by defined order
+const sortedCategories = Object.keys(grouped).sort((a, b) => {
+  const orderA = categoryMeta[a]?.order ?? 99;
+  const orderB = categoryMeta[b]?.order ?? 99;
+  return orderA - orderB;
+});
 ---
 
 <!doctype html>
@@ -40,7 +39,7 @@ const categories = {
     <script is:inline data-grow-initializer="">!(function(){window.addEventListener('load',function(){window.growMe||((window.growMe=function(e){window.growMe._.push(e);}),(window.growMe._=[]));var e=document.createElement("script");(e.type="text/javascript"),(e.src="https://faves.grow.me/main.js"),(e.defer=!0),e.setAttribute("data-grow-faves-site-id","U2l0ZTo1ZmZlMDAzMS1jMTliLTRkNDktOWVlYy1jYTA1YWRmNjAyNTU=");var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t);});})();</script>
     <style is:inline>
       .cat-grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 1.25rem; }
-      .cat-body { display: none; margin-top: 0; padding: 1.25rem 1.5rem 1.5rem; background: #f9f6ee; border-top: 1px solid #e8e0cc; }
+      .cat-body { display: none; padding: 1.25rem 1.5rem 1.5rem; background: #f9f6ee; border-top: 1px solid #e8e0cc; }
       .cat-body.open { display: block; }
       .blog-card { background:#fff; border-radius:12px; overflow:hidden; box-shadow:0 2px 8px rgba(45,106,79,0.07); text-decoration:none; display:block; transition:transform 0.2s,box-shadow 0.2s; }
       .blog-card:hover { transform:translateY(-3px); box-shadow:0 8px 24px rgba(45,106,79,0.15); }
@@ -56,12 +55,12 @@ const categories = {
       .cat-chevron.open { transform:rotate(180deg); }
       @media(max-width:768px){
         .cat-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important;}
-        .cat-row-img{width:110px;min-width:110px;height:100%;min-height:90px;}
+        .cat-row-img{width:110px;min-width:110px;}
         .cat-row-title{font-size:0.9rem;}
       }
       @media(max-width:480px){
         .cat-grid{grid-template-columns:1fr!important;}
-        .cat-row-img{width:90px;min-width:90px;height:100%;min-height:80px;}
+        .cat-row-img{width:90px;min-width:90px;}
       }
     </style>
   </head>
@@ -91,12 +90,10 @@ const categories = {
       </div>
 
       <div id="categoriesWrap">
-        {Object.entries(categories).map(([catName, catData], idx) => {
-          const catPosts = catData.slugs
-            .map(slug => allPosts.find((p: any) => (p.slug || p.id) === slug))
-            .filter(Boolean);
-          if (catPosts.length === 0) return null;
-          const coverPost = allPosts.find((p: any) => (p.slug || p.id) === catData.coverSlug) || catPosts[0];
+        {sortedCategories.map((catName, idx) => {
+          const catPosts = grouped[catName] || [];
+          const meta = categoryMeta[catName] || { desc: "Browse all articles", order: 99 };
+          const coverPost = catPosts[0];
           const coverImg = coverPost ? (coverPost.data.heroImage?.src || coverPost.data.heroImage) : '';
           return (
             <div class="cat-section" style="margin-bottom:0.75rem;">
@@ -105,7 +102,7 @@ const categories = {
                 <div class="cat-row-body">
                   <div class="cat-row-info">
                     <p class="cat-row-title">{catName}</p>
-                    <p class="cat-row-desc">{catData.desc}</p>
+                    <p class="cat-row-desc">{meta.desc}</p>
                     <span class="cat-row-count">{catPosts.length} articles</span>
                   </div>
                   <span class="cat-chevron" id={"chev-" + idx}>&#9660;</span>
@@ -154,7 +151,6 @@ const categories = {
       var searchGrid = document.getElementById('searchGrid');
       var searchCount = document.getElementById('searchCount');
       var noResults = document.getElementById('noResults');
-      var catSections = document.querySelectorAll('.cat-section');
       var categoriesWrap = document.getElementById('categoriesWrap');
       var allCards = document.querySelectorAll('.blog-card');
 

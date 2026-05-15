@@ -3,6 +3,7 @@ title: "Will a 1000W Solar Generator Run a Refrigerator? (Ethan's Real Test)"
 description: "Can a 1000W solar generator actually power your fridge? Ethan tested three models over several months. Here's the honest answer — including what most guides get wrong."
 pubDate: "Apr 14 2026"
 heroImage: "../../assets/will-1000w-solar-generator-run-refrigerator.webp"
+category: "Solar Generator Guides"
 ---
 
 If you've been Googling whether a 1000W solar generator can run a refrigerator, you've probably found a lot of vague answers that don't actually help you decide.

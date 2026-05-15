@@ -4,6 +4,7 @@ description: "A step-by-step checklist to prep your home for a power outage befo
 pubDate: "Apr 26 2026"
 updatedDate: "Apr 26 2026"
 heroImage: "../../assets/how-to-prep-home-power-outage.webp"
+category: "Power Outage Prep"
 ---
 
 The night before Hurricane Ida hit, I was driving to three different stores trying to find flashlight batteries.

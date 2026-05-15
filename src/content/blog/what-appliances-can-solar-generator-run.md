@@ -3,6 +3,7 @@ title: "What Appliances Can a Solar Generator Run? (Complete Wattage Guide)"
 description: "From fridges to CPAP machines, here's exactly what a solar generator can and can't power — with real wattage numbers for every common home appliance."
 pubDate: "Apr 16 2026"
 heroImage: "../../assets/what-appliances-solar-generator.webp"
+category: "Solar Generator Guides"
 ---
 
 I got a message last month from a reader named Marcus.

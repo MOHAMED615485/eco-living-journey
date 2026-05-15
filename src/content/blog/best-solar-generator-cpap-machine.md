@@ -4,6 +4,7 @@ description: "The best solar generator for CPAP machines runs 8-12 hours per cha
 pubDate: "May 02 2026"
 updatedDate: "May 02 2026"
 heroImage: "../../assets/best-solar-generator-cpap-machine.webp"
+category: "Best Solar Generators"
 ---
 
 A CPAP machine is not optional equipment.

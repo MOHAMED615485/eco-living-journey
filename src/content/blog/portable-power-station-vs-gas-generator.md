@@ -3,6 +3,7 @@ title: "Portable Power Station vs Gas Generator: The True Cost Math"
 description: "Gas generator vs portable power station for home backup — which is actually cheaper over 10 years? I ran the full cost comparison including fuel, maintenance, noise, and safety. The answer surprised me."
 pubDate: "Apr 12 2026"
 heroImage: "../../assets/gas-vs-battery.webp"
+category: "Solar Generator Guides"
 ---
 
 I owned a gas generator for three years before I understood why it was the wrong tool for my problem.

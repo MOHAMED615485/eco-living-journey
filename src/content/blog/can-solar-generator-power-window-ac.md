@@ -4,6 +4,7 @@ description: "A solar generator can power a window AC unit for 2-4 hours per cha
 pubDate: "May 04 2026"
 updatedDate: "May 04 2026"
 heroImage: "../../assets/can-solar-generator-power-window-ac.webp"
+category: "Solar Generator Guides"
 ---
 
 Last July I ran my 5,000 BTU window AC unit on a solar generator for 11 days straight during a heat wave that knocked out grid power across our neighborhood.

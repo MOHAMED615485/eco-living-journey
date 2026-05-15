@@ -4,6 +4,7 @@ description: "A quality solar generator lasts 10-15 years. LiFePO4 batteries han
 pubDate: "May 10 2026"
 updatedDate: "May 10 2026"
 heroImage: "../../assets/how-long-does-solar-generator-last.webp"
+category: "Solar Generator Guides"
 ---
 
 The most honest answer I can give you is this: the solar generator itself will outlast the battery by a decade.

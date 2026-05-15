@@ -3,6 +3,7 @@ title: "EcoFlow DELTA 3 Plus Review: I Ran It on My Chest Freezer for 6 Months (
 description: "After losing $800 worth of frozen meat in a power outage, I spent months testing the EcoFlow DELTA 3 Plus on my garage chest freezer. Here's my honest, no-fluff review — the good, the bad, and the number most reviewers never mention."
 pubDate: "Mar 20 2026"
 heroImage: "../../assets/ecoflow-delta-3-plus-review.webp"
+category: "Solar Generator Reviews"
 ---
 <div class="bg-blue-50 border-l-4 border-blue-400 p-4 my-6"><p><strong>Testing Note:</strong> The EcoFlow DELTA 3 Plus is our current real-world testing unit. All other reviews use verified manufacturer data and owner reports. We publish one real-world testing per quarter.</p></div>
 

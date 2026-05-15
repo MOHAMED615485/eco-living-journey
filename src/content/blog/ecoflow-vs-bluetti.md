@@ -4,6 +4,7 @@ description: "EcoFlow wins on recharge speed and app features. Bluetti wins on c
 pubDate: "May 12 2026"
 updatedDate: "May 12 2026"
 heroImage: "../../assets/ecoflow-vs-bluetti.webp"
+category: "Solar Generator Reviews"
 ---
 
 I have run both brands through the same real-world tests: chest freezer runtime, recharge speed from solar panels, performance during summer heat waves, and reliability across 11 actual power outages.

@@ -4,6 +4,7 @@ description: "Full chest freezer: 48 hours safe. Half-full: 24 hours. Upright fr
 pubDate: "Mar 24 2026"
 updatedDate: "Apr 23 2026"
 heroImage: "../../assets/freezer-without-power.webp"
+category: "Power Outage Prep"
 ---
 
 The summer I lost $340 worth of meat taught me something no prepper blog ever explained clearly.

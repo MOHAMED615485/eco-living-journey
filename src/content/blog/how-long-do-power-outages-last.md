@@ -4,6 +4,7 @@ description: "Most power outages last under 2 hours. But severe weather outages 
 pubDate: "Apr 30 2026"
 updatedDate: "Apr 30 2026"
 heroImage: "../../assets/how-long-do-power-outages-last.webp"
+category: "Power Outage Prep"
 ---
 
 The first thing everyone wants to know when the lights go out is how long it will last.

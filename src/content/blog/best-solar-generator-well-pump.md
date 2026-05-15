@@ -3,6 +3,7 @@ title: "Best Solar Generator for a Well Pump: Surge Numbers Revealed"
 description: "Well pumps have the highest surge requirements of any common home appliance. Before you buy a solar generator for your well pump, you need these numbers. Most buyers get this wrong."
 pubDate: "Apr 06 2026"
 heroImage: "../../assets/well-pump-solar-generator.webp"
+category: "Best Solar Generators"
 ---
 
 Most solar generator guides cover chest freezers and refrigerators. Almost none cover well pumps.

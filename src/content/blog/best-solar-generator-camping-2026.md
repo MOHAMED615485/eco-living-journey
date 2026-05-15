@@ -3,6 +3,7 @@ title: "Best Solar Generator for Camping 2026 - Tested in the Field"
 description: "Ethan tested the top portable solar generators for camping over time. Best picks for car camping, backpacking, and off-grid adventures in 2026."
 pubDate: "Apr 20 2026"
 heroImage: "../../assets/best-solar-generator-camping-2026.webp"
+category: "Best Solar Generators"
 ---
 
 I almost ruined a 4-day camping trip in the Shenandoah last summer.

@@ -4,6 +4,7 @@ description: "Confused by surge watts vs running watts? Learn the critical diffe
 pubDate: 2026-05-15
 updatedDate: 2026-05-15
 heroImage: "/src/assets/surge-vs-running-watts.webp"
+category: "Solar Generator Guides"
 ---
 
 If you've ever plugged in a refrigerator and watched your solar generator immediately shut off — even though it was "big enough" on paper — surge watts is exactly why.

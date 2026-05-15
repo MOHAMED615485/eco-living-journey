@@ -4,6 +4,7 @@ description: "Store your solar generator at 30-80% charge in a dry space above 3
 pubDate: "May 08 2026"
 updatedDate: "May 08 2026"
 heroImage: "../../assets/store-solar-generator-winter.webp"
+category: "Solar Generator Guides"
 ---
 
 The winter I ignored my solar generator cost me 15% of its battery capacity permanently.
