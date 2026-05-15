@@ -10,41 +10,26 @@ const allPosts = (await getCollection('blog')).sort(
 ).filter((post: any) => post.data.title && post.data.heroImage);
 
 const categories = {
-  "Solar Generator Reviews": [
-    "ecoflow-delta-3-plus-review",
-    "jackery-explorer-1000-v2-review",
-    "bluetti-ac200l-review",
-    "ecoflow-vs-jackery-comparison",
-    "ecoflow-vs-bluetti",
-  ],
-  "Best Solar Generators": [
-    "best-solar-generator-home-backup-2026",
-    "best-solar-generator-under-1000",
-    "best-solar-generator-chest-freezer-2026",
-    "best-solar-generator-well-pump",
-    "best-solar-generator-cpap-machine",
-    "best-solar-camping-2026",
-    "best-solar-generator-camping-2026",
-  ],
-  "Power Outage Prep": [
-    "how-to-prep-home-power-outage",
-    "how-long-do-power-outages-last",
-    "how-long-food-lasts-without-power",
-    "best-emergency-kit-power-outage-2026",
-    "chest-freezer-blackout-math",
-  ],
-  "Solar Generator Guides": [
-    "surge-vs-running-watts",
-    "what-appliances-can-solar-generator-run",
-    "will-1000w-solar-generator-run-refrigerator",
-    "can-solar-generator-power-window-ac",
-    "how-long-does-solar-generator-last",
-    "store-solar-generator-winter",
-    "lifepo4-vs-lithium-ion",
-    "portable-power-station-vs-gas-generator",
-    "how-many-watts-chest-freezer",
-    "what-is-lra-on-a-freezer",
-  ],
+  "Solar Generator Reviews": {
+    slugs: ["ecoflow-delta-3-plus-review","jackery-explorer-1000-v2-review","bluetti-ac200l-review","ecoflow-vs-jackery-comparison","ecoflow-vs-bluetti"],
+    coverSlug: "ecoflow-vs-jackery-comparison",
+    desc: "Hands-on 73-day tests of EcoFlow, Jackery & Bluetti"
+  },
+  "Best Solar Generators": {
+    slugs: ["best-solar-generator-home-backup-2026","best-solar-generator-under-1000","best-solar-generator-chest-freezer-2026","best-solar-generator-well-pump","best-solar-generator-cpap-machine","best-solar-camping-2026","best-solar-generator-camping-2026"],
+    coverSlug: "best-solar-generator-home-backup-2026",
+    desc: "Top picks for home, RV, camping & medical use"
+  },
+  "Power Outage Prep": {
+    slugs: ["how-to-prep-home-power-outage","how-long-do-power-outages-last","how-long-food-lasts-without-power","best-emergency-kit-power-outage-2026","chest-freezer-blackout-math"],
+    coverSlug: "how-to-prep-home-power-outage",
+    desc: "Keep your family safe when the grid goes down"
+  },
+  "Solar Generator Guides": {
+    slugs: ["surge-vs-running-watts","what-appliances-can-solar-generator-run","will-1000w-solar-generator-run-refrigerator","can-solar-generator-power-window-ac","how-long-does-solar-generator-last","store-solar-generator-winter","lifepo4-vs-lithium-ion","portable-power-station-vs-gas-generator","how-many-watts-chest-freezer","what-is-lra-on-a-freezer"],
+    coverSlug: "surge-vs-running-watts",
+    desc: "Wattage, battery chemistry, sizing & real-world math"
+  },
 };
 ---
 
@@ -54,26 +39,35 @@ const categories = {
     <BaseHead title={"Blog — Eco Living Journey"} description={"Real-world solar generator tests, home backup power guides, and emergency prep by Ethan Reynolds — 73-day field tester."} />
     <script is:inline data-grow-initializer="">!(function(){window.addEventListener('load',function(){window.growMe||((window.growMe=function(e){window.growMe._.push(e);}),(window.growMe._=[]));var e=document.createElement("script");(e.type="text/javascript"),(e.src="https://faves.grow.me/main.js"),(e.defer=!0),e.setAttribute("data-grow-faves-site-id","U2l0ZTo1ZmZlMDAzMS1jMTliLTRkNDktOWVlYy1jYTA1YWRmNjAyNTU=");var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t);});})();</script>
     <style is:inline>
-      .cat-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.25rem; }
-      .cat-body { display: none; margin-top: 1.25rem; }
+      .cat-grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 1.25rem; }
+      .cat-body { display: none; margin-top: 0; padding: 1.25rem 1.5rem 1.5rem; background: #f9f6ee; border-top: 1px solid #e8e0cc; }
       .cat-body.open { display: block; }
-      .blog-card:hover { transform: translateY(-4px) !important; box-shadow: 0 8px 28px rgba(45,106,79,0.18) !important; }
-      .cat-header { cursor: pointer; user-select: none; }
-      .cat-header:hover { opacity: 0.85; }
-      .chevron { transition: transform 0.25s ease; display: inline-block; }
-      .chevron.open { transform: rotate(180deg); }
-      @media (max-width: 768px) {
-        .cat-grid { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; }
+      .blog-card { background:#fff; border-radius:12px; overflow:hidden; box-shadow:0 2px 8px rgba(45,106,79,0.07); text-decoration:none; display:block; transition:transform 0.2s,box-shadow 0.2s; }
+      .blog-card:hover { transform:translateY(-3px); box-shadow:0 8px 24px rgba(45,106,79,0.15); }
+      .cat-row { display:flex; align-items:stretch; background:#fff; border-radius:16px; overflow:hidden; box-shadow:0 3px 14px rgba(45,106,79,0.09); margin-bottom:1rem; cursor:pointer; transition:box-shadow 0.2s; border-left:5px solid #2d6a4f; }
+      .cat-row:hover { box-shadow:0 6px 24px rgba(45,106,79,0.16); }
+      .cat-row-img { width:160px; min-width:160px; height:110px; object-fit:cover; display:block; }
+      .cat-row-body { flex:1; padding:1rem 1.2rem; display:flex; align-items:center; justify-content:space-between; }
+      .cat-row-info { flex:1; }
+      .cat-row-title { font-size:1.05rem; font-weight:800; color:#2d6a4f; margin:0 0 0.3rem; text-transform:uppercase; letter-spacing:0.04em; font-family:Georgia,serif; }
+      .cat-row-desc { font-size:0.82rem; color:#718096; margin:0 0 0.4rem; font-family:Georgia,serif; }
+      .cat-row-count { display:inline-block; background:#2d6a4f; color:#fff; font-size:0.7rem; font-weight:700; padding:2px 10px; border-radius:50px; }
+      .cat-chevron { color:#2d6a4f; font-size:1.3rem; padding-left:1rem; transition:transform 0.25s; flex-shrink:0; }
+      .cat-chevron.open { transform:rotate(180deg); }
+      @media(max-width:768px){
+        .cat-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important;}
+        .cat-row-img{width:110px;min-width:110px;height:90px;}
+        .cat-row-title{font-size:0.9rem;}
       }
-      @media (max-width: 480px) {
-        .cat-grid { grid-template-columns: 1fr !important; }
+      @media(max-width:480px){
+        .cat-grid{grid-template-columns:1fr!important;}
+        .cat-row-img{width:90px;min-width:90px;height:80px;}
       }
     </style>
   </head>
   <body style="margin:0;padding:0;background:#f5f0dc;font-family:Georgia,serif;">
     <Header />
 
-    <!-- Hero + Search -->
     <div style="background:#2d6a4f;padding:2.5rem 1rem 2rem;text-align:center;">
       <h1 style="color:#fff;font-size:2rem;font-weight:800;margin:0 0 0.4rem;font-family:Georgia,serif;">Solar Generator & Power Outage Guides</h1>
       <p style="color:rgba(255,255,255,0.75);font-size:0.95rem;margin:0 0 1.5rem;">73-day real-world tests by Ethan Reynolds — no sponsored fluff, just honest results</p>
@@ -84,12 +78,10 @@ const categories = {
       </div>
     </div>
 
-    <div style="max-width:1100px;margin:0 auto;padding:2.5rem 1.5rem 4rem;">
+    <div style="max-width:900px;margin:0 auto;padding:2.5rem 1.5rem 4rem;">
 
-      <!-- No results -->
       <div id="noResults" style="display:none;text-align:center;padding:3rem;color:#718096;font-size:1.1rem;">No articles found. Try a different search term.</div>
 
-      <!-- Search results -->
       <div id="searchResultsSection" style="display:none;margin-bottom:3rem;">
         <div style="display:flex;align-items:center;gap:1rem;margin-bottom:1.5rem;padding-bottom:0.75rem;border-bottom:2px solid #3d8b6f;">
           <h2 style="font-size:1.05rem;font-weight:800;color:#3d8b6f;margin:0;text-transform:uppercase;letter-spacing:0.06em;">Search Results</h2>
@@ -98,56 +90,57 @@ const categories = {
         <div id="searchGrid" class="cat-grid"></div>
       </div>
 
-      <!-- Category accordion sections -->
-      {Object.entries(categories).map(([catName, slugs], idx) => {
-        const catPosts = slugs
-          .map(slug => allPosts.find((p: any) => (p.slug || p.id) === slug))
-          .filter(Boolean);
-        if (catPosts.length === 0) return null;
-        return (
-          <div class="cat-section" style="margin-bottom:1rem;background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 2px 10px rgba(45,106,79,0.07);">
-            <div class="cat-header" data-idx={idx} style="display:flex;align-items:center;justify-content:space-between;padding:1.1rem 1.4rem;border-left:4px solid #2d6a4f;">
-              <div style="display:flex;align-items:center;gap:0.75rem;">
-                <h2 style="font-size:1rem;font-weight:800;color:#2d6a4f;margin:0;text-transform:uppercase;letter-spacing:0.06em;">{catName}</h2>
-                <span style="background:#2d6a4f;color:#fff;font-size:0.7rem;font-weight:700;padding:2px 9px;border-radius:50px;">{catPosts.length} articles</span>
+      <div id="categoriesWrap">
+        {Object.entries(categories).map(([catName, catData], idx) => {
+          const catPosts = catData.slugs
+            .map(slug => allPosts.find((p: any) => (p.slug || p.id) === slug))
+            .filter(Boolean);
+          if (catPosts.length === 0) return null;
+          const coverPost = allPosts.find((p: any) => (p.slug || p.id) === catData.coverSlug) || catPosts[0];
+          const coverImg = coverPost ? (coverPost.data.heroImage?.src || coverPost.data.heroImage) : '';
+          return (
+            <div class="cat-section" style="margin-bottom:0.75rem;">
+              <div class="cat-row" data-idx={idx}>
+                <img class="cat-row-img" src={coverImg} alt={catName} loading="lazy" />
+                <div class="cat-row-body">
+                  <div class="cat-row-info">
+                    <p class="cat-row-title">{catName}</p>
+                    <p class="cat-row-desc">{catData.desc}</p>
+                    <span class="cat-row-count">{catPosts.length} articles</span>
+                  </div>
+                  <span class="cat-chevron" id={"chev-" + idx}>&#9660;</span>
+                </div>
               </div>
-              <span class="chevron" id={"chev-" + idx} style="color:#2d6a4f;font-size:1.2rem;">&#9660;</span>
-            </div>
-            <div class="cat-body" id={"body-" + idx} style="padding:0 1.4rem 1.4rem;">
-              <div class="cat-grid">
-                {catPosts.map((post: any) => (
-                  <a
-                    class="blog-card"
-                    href={"/blog/" + (post.slug || post.id) + "/"}
-                    data-title={(post.data.title || "").toLowerCase()}
-                    data-cat={catName.toLowerCase()}
-                    style="background:#f9f9f9;border-radius:12px;overflow:hidden;box-shadow:0 2px 8px rgba(45,106,79,0.07);text-decoration:none;display:block;transition:transform 0.2s,box-shadow 0.2s;"
-                  >
-                    <img
-                      src={post.data.heroImage?.src || post.data.heroImage}
-                      alt={post.data.title}
-                      loading="lazy"
-                      style="width:100%;height:140px;object-fit:cover;display:block;"
-                    />
-                    <div style="padding:0.75rem 0.85rem 0.85rem;">
-                      <p style="font-size:0.85rem;font-weight:700;color:#1a202c;line-height:1.4;margin:0 0 0.35rem;font-family:Georgia,serif;">{post.data.title}</p>
-                      <p style="font-size:0.72rem;color:#718096;margin:0;font-family:Georgia,serif;"><FormattedDate date={post.data.pubDate} /></p>
-                    </div>
-                  </a>
-                ))}
+              <div class="cat-body" id={"body-" + idx}>
+                <div class="cat-grid">
+                  {catPosts.map((post: any) => (
+                    <a
+                      class="blog-card"
+                      href={"/blog/" + (post.slug || post.id) + "/"}
+                      data-title={(post.data.title || "").toLowerCase()}
+                      data-cat={catName.toLowerCase()}
+                    >
+                      <img src={post.data.heroImage?.src || post.data.heroImage} alt={post.data.title} loading="lazy"
+                        style="width:100%;height:130px;object-fit:cover;display:block;" />
+                      <div style="padding:0.75rem 0.85rem 0.9rem;">
+                        <p style="font-size:0.83rem;font-weight:700;color:#1a202c;line-height:1.4;margin:0 0 0.3rem;font-family:Georgia,serif;">{post.data.title}</p>
+                        <p style="font-size:0.71rem;color:#718096;margin:0;font-family:Georgia,serif;"><FormattedDate date={post.data.pubDate} /></p>
+                      </div>
+                    </a>
+                  ))}
+                </div>
               </div>
             </div>
-          </div>
-        );
-      })}
+          );
+        })}
+      </div>
     </div>
 
     <Footer />
 
     <script is:inline>
-      // Accordion toggle
-      document.querySelectorAll('.cat-header').forEach(function(header) {
-        header.addEventListener('click', function() {
+      document.querySelectorAll('.cat-row').forEach(function(row) {
+        row.addEventListener('click', function() {
           var idx = this.getAttribute('data-idx');
           var body = document.getElementById('body-' + idx);
           var chev = document.getElementById('chev-' + idx);
@@ -156,13 +149,13 @@ const categories = {
         });
       });
 
-      // Search
       var searchInput = document.getElementById('searchInput');
       var searchResultsSection = document.getElementById('searchResultsSection');
       var searchGrid = document.getElementById('searchGrid');
       var searchCount = document.getElementById('searchCount');
       var noResults = document.getElementById('noResults');
       var catSections = document.querySelectorAll('.cat-section');
+      var categoriesWrap = document.getElementById('categoriesWrap');
       var allCards = document.querySelectorAll('.blog-card');
 
       searchInput.addEventListener('input', function() {
@@ -170,10 +163,10 @@ const categories = {
         if (q === '') {
           searchResultsSection.style.display = 'none';
           noResults.style.display = 'none';
-          catSections.forEach(function(s) { s.style.display = ''; });
+          categoriesWrap.style.display = '';
           return;
         }
-        catSections.forEach(function(s) { s.style.display = 'none'; });
+        categoriesWrap.style.display = 'none';
         var matched = [];
         allCards.forEach(function(card) {
           var t = card.getAttribute('data-title') || '';
