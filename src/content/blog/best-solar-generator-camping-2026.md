@@ -94,7 +94,7 @@ The Bluetti AC200L is the heaviest of the three at 48.5 lbs -- this is not a uni
 I tested it on a 10-day van trip running a full-size 12V fridge, a small coffee maker, laptop, and lights. With a 200W roof panel I maintained between 40-80% charge throughout the trip. See my full [Bluetti AC200L review](/blog/bluetti-ac200l-review/) for detailed test data.
 
 <div style="text-align:center;margin:32px 0;">
-  <a href="https://amzn.to/4sFpOCG" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 36px;border-radius:8px;font-weight:700;font-size:17px;text-decoration:none!important;color:#ffffff!important;display:inline-block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
+  <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 36px;border-radius:8px;font-weight:700;font-size:17px;text-decoration:none!important;color:#ffffff!important;display:inline-block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
     Check Bluetti AC200L Price on Amazon
   </a>
   <p style="font-size:12px;color:#888;margin-top:8px;">4.6/5 -- Free shipping -- 2 year warranty</p>
@@ -121,6 +121,7 @@ I tested it on a 10-day van trip running a full-size 12V fridge, a small coffee 
   <a href="/solar-calculator/" style="background-color:#f97316;color:#ffffff;padding:14px 32px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;">
     Calculate My Camping Battery Size
   </a>
+<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
 </div>
 
 ---
@@ -208,7 +209,7 @@ Base camp or serious van build -- Bluetti AC200L. Biggest capacity, best solar i
     <a href="https://amzn.to/41D10iO" target="_blank" rel="noopener noreferrer" style="background-color:#185FA5;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:block;">
       EcoFlow DELTA 3 Plus -- Best for Extended Trips
     </a>
-    <a href="https://amzn.to/4sFpOCG" target="_blank" rel="noopener noreferrer" style="background-color:#2d6a4f;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:block;">
+    <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" target="_blank" rel="noopener noreferrer" style="background-color:#2d6a4f;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:block;">
       Bluetti AC200L -- Best for Van Life
     </a>
   </div>

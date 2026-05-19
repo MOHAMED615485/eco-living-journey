@@ -103,6 +103,7 @@ The app shows real-time watt draw and estimated runtime on your phone. During a 
 
 <div class="cta-container">
 <a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow">Check EcoFlow DELTA 3 Plus on Amazon</a>
+<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
 </div>
 
 ---
@@ -124,6 +125,7 @@ The Jackery app is solid but less detailed than EcoFlow's. Recharge from wall is
 
 <div class="cta-container">
 <a href="https://amzn.to/47Esd8d" class="cta-button-amazon" target="_blank" rel="nofollow">Check Jackery Explorer 1000 V2 on Amazon</a>
+<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
 </div>
 
 ---
@@ -141,7 +143,8 @@ At 28kg it is not something you carry between rooms casually. But the 2,048Wh ca
 **Best for:** Larger apartments, medical device users, or anyone who needs 24+ hours of backup without recharging.
 
 <div class="cta-container">
-<a href="https://amzn.to/4sFpOCG" class="cta-button-amazon" target="_blank" rel="nofollow">Check Bluetti AC200L on Amazon</a>
+<a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="nofollow">Check Bluetti AC200L on Amazon</a>
+<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
 </div>
 
 ---
@@ -205,6 +208,7 @@ A solar generator handles your power. But a complete apartment outage plan also 
 <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" class="cta-button" target="_blank" rel="nofollow noopener" style="background:#3d8b6f;">
 Build Your Apartment Emergency Kit with SurviveX →
 </a>
+<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
 </div>
 
 ---
@@ -214,6 +218,7 @@ Build Your Apartment Emergency Kit with SurviveX →
 <a href="/blog/best-solar-generator-home-backup-2026/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ Best Solar Generators for Home Backup Power (2026)</a>
 <a href="/blog/best-solar-generator-under-1000/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ Best Solar Generator Under $1000 — Tested and Ranked</a>
 <a href="/blog/how-to-prep-home-power-outage/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;">→ How to Prep Your Home for a Power Outage</a>
+<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
 </div>
 
 ---

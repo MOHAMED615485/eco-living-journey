@@ -8,7 +8,7 @@ category: "Solar Generator Reviews"
 The Bluetti AC200L is not a portable power station. It is a home battery system that happens to be portable.
 
 <div style="margin:24px 0;">
-  <a href="https://amzn.to/4sFpOCG" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:14px 32px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+  <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:14px 32px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
     🛒 Check Bluetti AC200L Price on Amazon →
   </a>
 </div>
@@ -41,7 +41,7 @@ Key specs:
 - **Wall Charge:** 0 to 80% in approximately 2 hours
 - **Expandable:** Yes — supports external battery packs up to 8,192Wh total
 
-<div class="cta-container"><a href="https://amzn.to/4sFpOCG" class="cta-button-amazon" target="_blank" rel="nofollow">🛒 Check Bluetti AC200L on Amazon →</a></div>
+<div class="cta-container"><a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="nofollow">🛒 Check Bluetti AC200L on Amazon →</a></div>
 
 ---
 
@@ -184,7 +184,7 @@ This is a substantial unit. It needs dedicated space. It does not tuck under a d
 
 Not sure if this handles your specific appliance load? [Use the free Solar Generator Sizing Calculator](/solar-calculator/) and enter your exact watts and LRA numbers. It will tell you instantly.
 
-<div class="cta-container"><a href="https://amzn.to/4sFpOCG" class="cta-button-amazon" target="_blank" rel="nofollow">🛒 Check Bluetti AC200L on Amazon →</a></div>
+<div class="cta-container"><a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="nofollow">🛒 Check Bluetti AC200L on Amazon →</a></div>
 
 ---
 

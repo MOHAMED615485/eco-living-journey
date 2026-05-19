@@ -69,6 +69,7 @@ This is why reading the running wattage sticker on your fridge and assuming your
   <a href="/solar-calculator/" style="background-color:#f97316;color:#ffffff;padding:14px 32px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;">
     🧮 Calculate My Battery Size →
   </a>
+<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
 </div>
 
 ---
@@ -145,7 +146,7 @@ You need 2,000Wh and 2,500W+ surge capacity minimum. The Bluetti AC200L is the r
 
 ⭐⭐⭐⭐½ 4.6/5 — 900+ Amazon reviews
 
-<a href="https://amzn.to/4sFpOCG" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:12px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;margin:12px 0;">
+<a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:12px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;margin:12px 0;">
   🛒 Check Bluetti AC200L Price on Amazon →
 </a>
 

@@ -21,6 +21,7 @@ I spent months running the top contenders on my garage chest freezer, refrigerat
   <a href="https://amzn.to/47Esd8d" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; See the Jackery 1000 V2 on Amazon &rarr;
   </a>
+<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
 </div>
 
 ---
@@ -66,6 +67,7 @@ The LCD display is harder to read in direct sunlight. The carrying handle feels 
   <a href="https://amzn.to/47Esd8d" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; Check Jackery 1000 V2 Price on Amazon &rarr;
   </a>
+<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
 </div>
 
 ---
@@ -93,6 +95,7 @@ The 1,800W inverter trips on chest freezers with high LRA surge ratings. Heavier
   <a href="https://amzn.to/41D10iO" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; Check EcoFlow DELTA 3 Plus Price on Amazon &rarr;
   </a>
+<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
 </div>
 
 ---
@@ -112,9 +115,10 @@ What it is: the best option under $300 for camping, CPAP machines, and short out
 | Chest freezer | **Not recommended** |
 
 <div class="cta-container">
-  <a href="https://amzn.to/4sFpOCG" style="background-color:#2d6a4f;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" style="background-color:#2d6a4f;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#128269; See the Full Bluetti AC200L Review &rarr;
   </a>
+<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
 </div>
 
 ---
@@ -143,6 +147,7 @@ For outages longer than one day, solar recharge speed is the deciding factor. A 
   <a href="https://amzn.to/47Esd8d" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; Jackery 1000 V2 — Best Under $1000 &rarr;
   </a>
+<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
 </div>
 
 ---
@@ -181,6 +186,7 @@ For a deeper head-to-head breakdown with real chest freezer surge data, see the 
   <a href="https://amzn.to/41D10iO" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; EcoFlow DELTA 3 Plus on Amazon &rarr;
   </a>
+<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
 </div>
 
 ---

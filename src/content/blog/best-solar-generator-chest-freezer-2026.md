@@ -20,7 +20,7 @@ Here is what the data showed.
 
 - **Best Overall:** [EcoFlow DELTA 3 Plus](https://amzn.to/41D10iO) - most reliable surge handling, fastest recharge
 - **Best Value:** [Jackery Explorer 1000 V2](https://amzn.to/47Esd8d) - excellent for LRA under 9.0, costs less
-- **Best for Multiple Appliances:** [Bluetti AC200L](https://amzn.to/4sFpOCG) - double the capacity, runs everything
+- **Best for Multiple Appliances:** [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) - double the capacity, runs everything
 
 ---
 
@@ -124,7 +124,7 @@ If you are running a chest freezer only, the AC200L is overkill. But if you want
 
 **Best for:** Homeowners who want to run multiple appliances simultaneously for extended outages.
 
-<div class="cta-container"><a href="https://amzn.to/4sFpOCG" class="cta-button-amazon" target="_blank" rel="nofollow">Check Bluetti AC200L on Amazon</a></div>
+<div class="cta-container"><a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="nofollow">Check Bluetti AC200L on Amazon</a></div>
 
 ---
 

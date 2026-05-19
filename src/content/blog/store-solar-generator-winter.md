@@ -21,6 +21,7 @@ LiFePO4 batteries are remarkably resilient. But they have two specific failure m
   <a href="https://amzn.to/47Esd8d" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; Jackery Explorer 1000 V2 — Best LiFePO4 Storage &rarr;
   </a>
+<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
 </div>
 
 ---
@@ -159,9 +160,10 @@ On a sunny winter day the panels push current into a cold battery. If the BMS te
 - Winter storage verdict: Requires more attention but handles long storage well
 
 <div class="cta-container">
-  <a href="https://amzn.to/4sFpOCG" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; Bluetti AC200L — Best for Long-Term Storage &rarr;
   </a>
+<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
 </div>
 
 ---
@@ -195,6 +197,7 @@ For complete information on what to run during outage season see the [home backu
   <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits&clickref=store-solar-winter" style="background-color:#2d6a4f;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#128274; SurviveX Emergency Kit — Stay Ready Year Round &rarr;
   </a>
+<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
 </div>
 
 ---
