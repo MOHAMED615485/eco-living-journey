@@ -121,7 +121,7 @@ I tested it on a 10-day van trip running a full-size 12V fridge, a small coffee 
   <a href="/solar-calculator/" style="background-color:#f97316;color:#ffffff;padding:14px 32px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;">
     Calculate My Camping Battery Size
   </a>
-<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
+
 </div>
 
 ---

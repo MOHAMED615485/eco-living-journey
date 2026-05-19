@@ -120,7 +120,7 @@ The 2,048Wh capacity and 4,800W surge handling mean you never worry about the un
 <div class="cta-container">
 <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — Bluetti AC200L →</a>
 </div>
-<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
+
 
 ---
 

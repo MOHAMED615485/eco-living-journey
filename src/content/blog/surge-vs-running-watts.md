@@ -126,7 +126,7 @@ Check EcoFlow DELTA 3 Plus Price on Amazon →
 <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="nofollow noopener">
 Check Bluetti AC200L Price on Amazon →
 </a>
-<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
+
 </div>
 
 ---
@@ -161,7 +161,7 @@ A solar generator keeps the power on — but a complete outage plan covers medic
 <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" class="cta-button" target="_blank" rel="nofollow noopener" style="background:#3d8b6f;">
 Build Your Emergency Kit with SurviveX →
 </a>
-<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
+
 </div>
 
 ---
@@ -178,7 +178,7 @@ If you're still not sure which solar generator is right for your home, I broke d
 <a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow noopener">
 See My Top Pick on Amazon →
 </a>
-<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
+
 </div>
 
 ---

@@ -194,8 +194,8 @@ After 73 days of real-world testing — including deliberately pushing units to 
 
 <div class="cta-container">
 <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — Bluetti AC200L →</a>
-<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
-<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
+
+
 </div>
 
 ---
@@ -208,7 +208,7 @@ A solar generator keeps your power on. But a complete outage plan also covers fi
 <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" class="cta-button" target="_blank" rel="nofollow noopener" style="background:#3d8b6f;">
 Build Your Emergency Kit with SurviveX →
 </a>
-<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
+
 </div>
 
 ---
@@ -218,7 +218,7 @@ Build Your Emergency Kit with SurviveX →
 <a href="/blog/surge-vs-running-watts/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ Surge Watts vs Running Watts: What Every Homeowner Must Know</a>
 <a href="/blog/what-appliances-can-solar-generator-run/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ What Appliances Can a Solar Generator Actually Run?</a>
 <a href="/blog/best-solar-generator-home-backup-2026/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;">→ Best Solar Generator for Home Backup Power (2026)</a>
-<p style="text-align:center;font-size:0.82rem;color:#2d6a4f;font-weight:700;margin-top:6px;">Use code <strong>Mohamed10</strong> for 10% off your Bluetti order</p>
+
 </div>
 
 ---
