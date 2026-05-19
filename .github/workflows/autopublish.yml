@@ -1,0 +1,34 @@
+name: Daily Auto-Publish
+
+on:
+  schedule:
+    - cron: '0 5 * * *'  # 6AM Algeria time (UTC+1)
+  workflow_dispatch:  # Manual trigger for testing
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Run publish script
+        env:
+          INDEXNOW_KEY: '576c8a15fb864a5db799a6407203923a'
+        run: python scripts/autopublish.py
+
+      - name: Commit and push if articles published
+        run: |
+          git config --global user.email "ethan@ecoliving-journey.com"
+          git config --global user.name "Eco Living Journey Autopublish"
+          git add .
+          git diff --staged --quiet || git commit -m "Auto-publish $(date +'%b %d %Y') scheduled articles"
+          git push
