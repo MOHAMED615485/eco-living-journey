@@ -11,17 +11,16 @@ permissions:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        env:
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
-        env:
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
       - name: Run publish script
         env:
@@ -33,5 +32,10 @@ jobs:
           git config --global user.email "ethan@ecoliving-journey.com"
           git config --global user.name "Eco Living Journey Autopublish"
           git add .
-          git diff --staged --quiet || git commit -m "Auto-publish $(date +'%b %d %Y') scheduled articles"
-          git push
+          if git diff --staged --quiet; then
+            echo "No articles to publish today."
+          else
+            git commit -m "Auto-publish $(date +'%b %d %Y') scheduled articles"
+            git pull --rebase origin main
+            git push origin main
+          fi
