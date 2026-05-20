@@ -183,6 +183,18 @@ If you own a Jackery or EcoFlow and want to run roof AC — install a soft start
 
 ---
 
+
+<div style="background:#f0fdf4;border:1.5px solid #2d6a4f;border-radius:12px;padding:16px 20px;margin:2rem 0;">
+<strong style="color:#2d6a4f;font-size:0.95rem;">&#127957; Complete Your Camp Setup with Traverseon</strong><br/>
+<span style="font-size:0.85rem;color:#444;display:block;margin:8px 0;">The same campers who trust solar generators for power trust Traverseon for shelter. Use code <strong>Mohamed10</strong> for 10% off.</span>
+<div style="display:flex;flex-direction:column;gap:8px;margin-top:10px;">
+<a href="https://www.awin1.com/cread.php?awinmid=124816&awinaffid=2815020&ued=https%3A%2F%2Ftraverseon.com%2Fproducts%2Fultralight-bivy-trekking-pole-tent" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;" target="_blank" rel="nofollow">→ Ultralight 1P Bivy Trekking Pole Tent — 1kg StormLock Design</a>
+<a href="https://www.awin1.com/cread.php?awinmid=124816&awinaffid=2815020&ued=https%3A%2F%2Ftraverseon.com%2Fproducts%2Ftraverseon-tunnel-duo-tent%3F_pos%3D1%26_sid%3Df04017b44%26_ss%3Dr%26variant%3D48628891648233" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;" target="_blank" rel="nofollow">→ AeroDuo 2P Ultralight Tunnel Tent — 1.58kg Compact Shelter</a>
+<a href="https://www.awin1.com/cread.php?awinmid=124816&awinaffid=2815020&ued=https%3A%2F%2Ftraverseon.com%2Fproducts%2Fgoose-down-winter-sleeping-bag-traverseon%3F_pos%3D1%26_sid%3D99a5a910b%26_ss%3Dr" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;" target="_blank" rel="nofollow">→ Down Mummy Sleeping Bag -13°C Extreme Cold Weather</a>
+</div>
+<p style="font-size:0.78rem;color:#2d6a4f;font-weight:700;margin:8px 0 0;">Use code <strong>Mohamed10</strong> at checkout for 10% off all Traverseon products</p>
+</div>
+
 ## Don't Hit the Road Without an Emergency Kit
 
 A solar generator keeps your RV powered. A complete road emergency plan also covers first aid, medication storage, and 72-hour supplies for breakdowns in remote areas.
