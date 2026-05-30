@@ -3,7 +3,7 @@ title: "Jackery vs Goal Zero: Which Solar Generator Wins in 2026?"
 description: "Jackery vs Goal Zero — I tested both brands on real appliances for 73 days. Here's the honest comparison on surge handling, battery life, charging speed, and value."
 pubDate: 2026-05-28
 updatedDate: 2026-05-28
-heroImage: "/src/assets/jackery-vs-goal-zero.webp"
+heroImage: "../../assets/jackery-1000-v2-review.webp"
 category: "Solar Generator Reviews"
 ---
 

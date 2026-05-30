@@ -3,7 +3,7 @@ title: "72-Hour Power Outage Survival Guide (Room-by-Room Checklist)"
 description: "A complete 72-hour power outage survival guide covering power, food, water, medical, communication, and safety — with a room-by-room checklist you can print and keep."
 pubDate: 2026-05-26
 updatedDate: 2026-05-28
-heroImage: "/src/assets/72-hour-power-outage-survival-guide.webp"
+heroImage: "../../assets/power-outage.webp"
 category: "Power Outage Prep"
 ---
 
