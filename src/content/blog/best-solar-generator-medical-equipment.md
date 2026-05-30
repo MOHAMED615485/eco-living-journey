@@ -3,7 +3,7 @@ title: "Best Solar Generator for Medical Equipment 2026 (CPAP, Oxygen, Insulin)"
 description: "The best solar generator for CPAP machines, oxygen concentrators, insulin storage, and nebulizers in 2026. Real runtime data and safe operation guide for medical device users."
 pubDate: 2026-05-28
 updatedDate: 2026-05-28
-heroImage: "../../assets/best-solar-generator-2026.webp"
+heroImage: "../../assets/best-solar-generator-medical-equipment.webp"
 category: "Best Solar Generators"
 ---
 
