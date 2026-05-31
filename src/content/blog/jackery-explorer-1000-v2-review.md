@@ -4,6 +4,7 @@ description: "Ethan tested the Jackery Explorer 1000 V2 over several months on a
 pubDate: "Apr 03 2026"
 heroImage: "../../assets/jackery-1000-v2-review.webp"
 faqSchema: true
+category: "Solar Generator Reviews"
 ---
 I bought the Jackery Explorer 1000 V2 with my own money in January 2026 and ran it over several months alongside the EcoFlow DELTA 3 Plus on my chest freezer, refrigerator, and full home backup setup.
 

@@ -3,6 +3,7 @@ title: "LiFePO4 vs Lithium Ion Battery: Which One Lasts Longer?"
 description: "LiFePO4 and lithium-ion batteries look similar on spec sheets but perform very differently over time. Here is the honest comparison for home backup power — which chemistry protects your food supply better over 10 years."
 pubDate: "Apr 09 2026"
 heroImage: "../../assets/lifepo4-vs-lithium-comparison.webp"
+category: "Solar Generator Reviews"
 ---
 
 Every portable power station sold today uses one of two lithium battery chemistries. The spec sheets rarely explain the difference clearly. The marketing rarely mentions it at all.

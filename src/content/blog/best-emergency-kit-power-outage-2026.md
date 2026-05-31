@@ -3,6 +3,7 @@ title: "Best Emergency Kit for Power Outages 2026 (Tested & Ranked)"
 description: "We tested the top emergency kits for blackouts. Ranked by what actually keeps your family safe when the grid goes down for 72+ hours."
 pubDate: 2026-05-04
 heroImage: "../../assets/best-emergency-kit-power-outage.webp"
+category: "Emergency Preparedness"
 ---
 
 

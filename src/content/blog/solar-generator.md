@@ -3,6 +3,7 @@ title: "Why I Ditched Gas Generators: Top 2 Solar Power Stations"
 description: "Discover why portable solar power stations are replacing gas generators."
 pubDate: "Mar 04 2026"
 heroImage: "./solar-generator.webp"
+category: "Solar Generator Guides"
 ---
 
 <style>

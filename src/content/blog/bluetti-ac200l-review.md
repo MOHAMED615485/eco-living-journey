@@ -4,6 +4,7 @@ description: "Ethan tested the Bluetti AC200L over several months running a ches
 pubDate: "Apr 03 2026"
 heroImage: "../../assets/bluetti-ac200l-review.webp"
 faqSchema: true
+category: "Solar Generator Reviews"
 ---
 The Bluetti AC200L is not a portable power station. It is a home battery system that happens to be portable.
 

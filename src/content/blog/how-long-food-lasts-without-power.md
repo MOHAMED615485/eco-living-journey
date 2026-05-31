@@ -3,6 +3,7 @@ title: "Power Outage Food Safety: How Long Does a Freezer Last?"
 description: "A full chest freezer keeps food safe for up to 48 hours without power — but only under specific conditions. Here are the real numbers, the science behind them, and free tricks that add 20 hours to your food safety window."
 pubDate: "Mar 24 2026"
 heroImage: "../../assets/chest-freezer-stocked.webp"
+category: "Power Outage Guides"
 ---
 
 ## How Long Will a Freezer Keep Food Safe Without Power?
