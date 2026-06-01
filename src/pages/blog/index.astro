@@ -56,9 +56,19 @@ const categories = [
 			.category-tabs {
 				display: flex;
 				flex-wrap: wrap;
-				gap: 0.6rem;
+				gap: 0.5rem;
 				justify-content: center;
-				margin-bottom: 2.5rem;
+				margin-bottom: 2rem;
+				padding: 0 0.5rem;
+			}
+			@media (max-width: 720px) {
+				.category-tabs {
+					gap: 0.4rem;
+				}
+				.cat-btn {
+					padding: 0.4rem 0.9rem;
+					font-size: 0.8rem;
+				}
 			}
 
 			.cat-btn {
