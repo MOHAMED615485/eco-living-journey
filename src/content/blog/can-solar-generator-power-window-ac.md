@@ -1,4 +1,3 @@
-\
 ---
 title: "Can a Solar Generator Power a Window AC Unit? (2026 Test)"
 description: "A solar generator can power a window AC unit for 2-4 hours per charge. Real test results on 5,000 BTU and 8,000 BTU units with runtime math and which generator to buy."
