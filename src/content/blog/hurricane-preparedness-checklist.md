@@ -8,7 +8,6 @@ faqSchema: true
 tags: ["hurricane preparedness", "emergency checklist", "storm prep", "power outage", "solar generator"]
 ---
 
-import { Image } from 'astro:assets';
 import heroImage from '../../assets/hurricane-preparedness-checklist-hero.jpg';
 
 <div class="quick-answer">
