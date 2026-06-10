@@ -8,7 +8,6 @@ faqSchema: true
 tags: ["hurricane preparedness", "emergency checklist", "storm prep", "power outage", "solar generator"]
 ---
 
-import heroImage from '../../assets/hurricane-preparedness-checklist-hero.jpg';
 
 <div class="quick-answer">
 **Quick Answer:** A complete hurricane preparedness checklist covers seven categories: water (1 gallon per person per day for 7 days), food (7-day non-perishable supply), power backup (solar generator or battery bank), documents (copies in waterproof bag), medications (30-day supply), communication (battery radio + out-of-state contact), and evacuation plan. Start 72 hours before landfall — not the morning of.
