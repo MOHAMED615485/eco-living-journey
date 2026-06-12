@@ -12,6 +12,8 @@ tags: ["hurricane preparation", "storm survival", "emergency power", "solar gene
 **Quick Answer:** Start hurricane preparation in May — not when a storm is named. The 7-day timeline: Day 7 buy supplies, Day 5 fill prescriptions and fuel, Day 3 board windows and charge all devices, Day 1 execute evacuation plan or shelter in place. The single biggest mistake people make is waiting until 48 hours before landfall when stores are already empty.
 </div>
 
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have personally tested.</em></p>
+
 The second time a hurricane threatened my area, I was ready.
 
 I had 14 gallons of water per person. My [EcoFlow DELTA 2](https://amzn.to/41D10iO) was fully charged with a 220W panel ready to deploy. My documents were in a waterproof bag by the door. My tank was full. I had enough food for 14 days that required zero refrigeration.
@@ -24,7 +26,7 @@ This guide gives you the exact preparation timeline and checklist I use — buil
 
 ---
 
-## The Hurricane Preparation Timeline
+## ⏰ The Hurricane Preparation Timeline
 
 ### 30 Days Before Hurricane Season (May 1)
 
@@ -88,7 +90,7 @@ Do not wait for a mandatory evacuation order if you're in Zone A or a mobile hom
 
 ---
 
-## Power Backup — The Preparation Most People Get Wrong
+## ⚡ Power Backup — The Preparation Most People Get Wrong
 
 The standard advice is "get a generator." That advice is incomplete.
 
@@ -112,6 +114,15 @@ A 1,000Wh+ solar generator is not optional if you depend on powered medical equi
 
 👉 **[Full solar generator sizing guide and recommendations →](/best-solar-generators-2025/)**
 
+
+### 🏆 Quick Comparison: Solar Generators for Hurricane Prep
+
+| Model | Capacity | Output | Rating | Best For |
+|---|---|---|---|---|
+| [EcoFlow DELTA 2](https://amzn.to/41D10iO) | 1,024Wh | 1,800W | ★★★★★ (5.0) | Refrigerator + medical devices |
+| [Jackery Explorer 1000 v2](https://amzn.to/47Esd8d) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | Budget-friendly all-rounder |
+| [Bluetti AC200L](https://amzn.to/4sFpOCG) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | Whole-household backup |
+
 ### My tested setup for hurricane season:
 - **EcoFlow DELTA 2** (1,024Wh) — runs the refrigerator during the day
 - **220W portable solar panel** — recharges the DELTA 2 in 5–6 hours of sun
@@ -123,7 +134,7 @@ Total investment: ~$900. Compared to $340 of groceries I lost the first time —
 
 ---
 
-## Evacuation: How to Decide
+## 🚗 Evacuation: How to Decide
 
 The decision to evacuate or shelter in place is the most important decision you'll make during a hurricane. Here's the framework I use:
 
@@ -144,7 +155,7 @@ The decision to evacuate or shelter in place is the most important decision you'
 
 ---
 
-## What to Do When the Storm Hits
+## 🌪️ What to Do When the Storm Hits
 
 Once the storm arrives, your job is simple: stay inside and stay safe.
 
@@ -156,7 +167,7 @@ Once the storm arrives, your job is simple: stay inside and stay safe.
 
 ---
 
-## After the Storm: The First 24 Hours
+## 🛠️ After the Storm: The First 24 Hours
 
 The storm has passed. Now the real work begins.
 
@@ -179,7 +190,7 @@ For a detailed breakdown of which foods survive a power outage and which don't, 
 
 ---
 
-## Florida Hurricane Preparation: Special Considerations
+## 🍊 Florida Hurricane Preparation: Special Considerations
 
 <div class="callout callout-warning">
 **Florida Residents:** Florida has the longest hurricane season exposure of any state and the most complex evacuation logistics. Key Florida-specific rules: know your county's evacuation zone map (not the state map — county maps are more precise), register for special needs shelters in May if you have medical equipment needs, and never rely on a single fuel source. Many Florida gas stations lose power during storms — find the stations in your area with backup generators before hurricane season starts.
@@ -187,7 +198,7 @@ For a detailed breakdown of which foods survive a power outage and which don't, 
 
 ---
 
-## Hurricane Preparation on a Budget
+## 💰 Hurricane Preparation on a Budget
 
 Full hurricane preparation doesn't require spending $1,000 at once. Here's how to build your kit over 8 weeks on $25/week:
 
@@ -203,13 +214,19 @@ Total: $200 over 8 weeks. A complete basic hurricane kit built before the season
 
 ---
 
-## The SurviveX Hurricane Kit — Pre-Built Option
+## 🎒 The SurviveX Hurricane Kit — Pre-Built Option
 
-If you want everything done for you, the [SurviveX 72-Hour Emergency Kit](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020) covers the essential supplies in one pre-assembled package. It won't replace a solar generator for power backup, but it handles food, water purification, first aid, and communication gear.
+If you want everything done for you, the SurviveX 72-Hour Emergency Kit covers the essential supplies in one pre-assembled package. It won't replace a solar generator for power backup, but it handles food, water purification, first aid, and communication gear.
+
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
+  <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">🎒 SurviveX 72-Hour Emergency Kit</p>
+  <p style="margin:0 0 12px;font-size:0.95rem;">Pre-assembled food, water purification, first aid, and communication gear — the supply side of your hurricane kit, done for you.</p>
+  <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Check SurviveX Kit →</a>
+</div>
 
 ---
 
-## Frequently Asked Questions
+## ❓ Frequently Asked Questions
 
 ### When should I start preparing for hurricane season?
 

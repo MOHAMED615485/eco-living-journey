@@ -13,6 +13,8 @@ tags: ["hurricane preparedness", "emergency checklist", "storm prep", "power out
 **Quick Answer:** A complete hurricane preparedness checklist covers seven categories: water (1 gallon per person per day for 7 days), food (7-day non-perishable supply), power backup (solar generator or battery bank), documents (copies in waterproof bag), medications (30-day supply), communication (battery radio + out-of-state contact), and evacuation plan. Start 72 hours before landfall — not the morning of.
 </div>
 
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have personally tested.</em></p>
+
 I learned about hurricane prep the hard way.
 
 In 2022, a Category 2 made landfall 40 miles from my house in Florida. I had flashlights, a few cans of soup, and the vague confidence of someone who had "been through storms before." Power went out at 11pm. It came back 9 days later.
@@ -25,7 +27,7 @@ Since then I've spent 73 days field-testing emergency power equipment and buildi
 
 ---
 
-## The Complete Hurricane Preparedness Checklist
+## 📋 The Complete Hurricane Preparedness Checklist
 
 *Print this. Put it in your hurricane kit. Go through it every June.*
 
@@ -84,6 +86,15 @@ This is where most hurricane prep fails. A box of candles and a flashlight is no
 - [ ] Know your devices' watt draw before the storm (use a Kill A Watt meter)
 
 I tested a [EcoFlow DELTA 2](https://amzn.to/41D10iO) through a 9-day simulated outage. With a 220W panel, I could keep a 18 cu ft refrigerator running through the day and recharge overnight. No fuel, no fumes, no noise. If you have medications that require refrigeration or run a CPAP, a solar generator is not optional — it's medical equipment.
+
+
+### 🏆 Quick Comparison: Solar Generators for Hurricane Prep
+
+| Model | Capacity | Output | Rating | Best For |
+|---|---|---|---|---|
+| [EcoFlow DELTA 2](https://amzn.to/41D10iO) | 1,024Wh | 1,800W | ★★★★★ (5.0) | Refrigerator + medical devices |
+| [Jackery Explorer 1000 v2](https://amzn.to/47Esd8d) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | Budget-friendly all-rounder |
+| [Bluetti AC200L](https://amzn.to/4sFpOCG) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | Whole-household backup |
 
 👉 **[See my full solar generator recommendations →](/best-solar-generators-2025/)**
 
@@ -180,7 +191,7 @@ If you have 20 minutes to leave, this bag goes with you.
 
 ---
 
-## Florida-Specific Hurricane Prep Callout
+## 🍊 Florida-Specific Hurricane Prep Callout
 
 <div class="callout callout-warning">
 **Florida Residents:** If you're in Zone A or Zone B and a Category 3+ is forecast within 72 hours of your county — leave. Do not shelter in place in a flood zone during a major hurricane. The storm surge risk in Zone A during a Cat 4 is not survivable in most structures. The checklist above is for sheltering in place during Category 1–2 storms or for residents in inland/elevated zones. Know your zone: floridadisaster.org/know-your-zone
@@ -188,7 +199,7 @@ If you have 20 minutes to leave, this bag goes with you.
 
 ---
 
-## What to Do After the Storm
+## 🛠️ What to Do After the Storm
 
 The checklist doesn't end at landfall.
 
@@ -206,21 +217,21 @@ The checklist doesn't end at landfall.
 
 ---
 
-## Downloadable Hurricane Prep Resources
+## 📥 Downloadable Hurricane Prep Resources
 
 The [72-Hour Power Outage Survival Kit](/blog/72-hour-power-outage-survival-guide/) I built covers the power outage scenario in detail, including exactly how to size a solar generator for your specific appliances.
 
 If you want a done-for-you kit with a printable checklist, appliance watt calculator, and a 7-day meal plan that requires zero refrigeration, the **72-Hour Power Outage Survival Kit** has all of it.
 
-<div class="gumroad-cta">
-  <p>🔋 <strong>72-Hour Power Outage Survival Kit — $27</strong></p>
-  <p>Printable checklist + solar generator sizing guide + 7-day no-fridge meal plan. Built for the storms that last longer than 3 days.</p>
-  <a href="https://mohamedcanepie.gumroad.com/l/lngbnm" class="btn-primary">Get the Kit — $27 →</a>
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
+  <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">🔋 72-Hour Power Outage Survival Kit — $27</p>
+  <p style="margin:0 0 12px;font-size:0.95rem;">Printable checklist + solar generator sizing guide + 7-day no-fridge meal plan. Built for the storms that last longer than 3 days.</p>
+  <a href="https://mohamedcanepie.gumroad.com/l/lngbnm" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Kit — $27 →</a>
 </div>
 
 ---
 
-## Frequently Asked Questions
+## ❓ Frequently Asked Questions
 
 ### How far in advance should I prepare for a hurricane?
 
