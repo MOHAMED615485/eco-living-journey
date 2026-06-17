@@ -1,0 +1,37 @@
+{
+  "site_name": "Eco Living Journey",
+  "site_url": "https://ecoliving-journey.com",
+  "description": "Solar generator and home backup power buyer's guide, written by a 73-day field tester with real-world appliance testing data.",
+  "author": {
+    "name": "Ethan Reynolds",
+    "contact": "ethan@ecoliving-journey.com",
+    "role": "Independent product tester, no paid partnerships"
+  },
+  "content_focus": [
+    "Portable solar generator reviews",
+    "Home backup power guides",
+    "Hurricane and emergency preparedness",
+    "Appliance wattage and surge calculations",
+    "Power outage food safety"
+  ],
+  "ai_usage_permissions": {
+    "citation": "allowed",
+    "training": "see robots.txt for crawler-specific rules",
+    "summarization": "allowed with attribution"
+  },
+  "key_resources": [
+    {
+      "title": "Best Solar Generator 2026",
+      "url": "https://ecoliving-journey.com/blog/best-solar-generator-2026/"
+    },
+    {
+      "title": "Hurricane Preparedness Checklist",
+      "url": "https://ecoliving-journey.com/blog/hurricane-preparedness-checklist/"
+    },
+    {
+      "title": "Solar Generator Sizing Calculator",
+      "url": "https://ecoliving-journey.com/solar-calculator/"
+    }
+  ],
+  "last_updated": "2026-06-17"
+}

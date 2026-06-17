@@ -8,17 +8,23 @@ Eco Living Journey is a product review and buyer's guide site focused on portabl
 - Home backup power guides for blackouts and power outages
 - Technical explainers: LRA, surge watts, battery chemistry
 - Comparison articles and sizing calculators
+- Hurricane and emergency preparedness guides
 
 ## Key Articles
-- /blog/ecoflow-delta-3-plus-review/ — 73-day real-world test
-- /blog/jackery-explorer-1000-v2-review/ — chest freezer surge test
-- /blog/bluetti-ac200l-review/ — whole-home backup test
-- /blog/best-solar-generator-home-backup-2026/ — full comparison
-- /blog/best-solar-generator-chest-freezer-2026/ — freezer-specific guide
-- /blog/what-is-lra-on-a-freezer/ — LRA and surge explained
-- /blog/how-many-watts-chest-freezer/ — real watt measurements
-- /blog/ecoflow-vs-jackery-comparison/ — head-to-head comparison
-- /solar-calculator/ — free solar generator sizing tool
+- [EcoFlow DELTA 3 Plus Review](https://ecoliving-journey.com/blog/ecoflow-delta-3-plus-review/) — 73-day real-world test
+- [Jackery Explorer 1000 v2 Review](https://ecoliving-journey.com/blog/jackery-explorer-1000-v2-review/) — chest freezer surge test
+- [Bluetti AC200L Review](https://ecoliving-journey.com/blog/bluetti-ac200l-review/) — whole-home backup test
+- [Best Solar Generator for Home Backup 2026](https://ecoliving-journey.com/blog/best-solar-generator-home-backup-2026/) — full comparison
+- [Best Solar Generator 2026](https://ecoliving-journey.com/blog/best-solar-generator-2026/) — ranked after 73-day test
+- [Best Solar Generator for Chest Freezer 2026](https://ecoliving-journey.com/blog/best-solar-generator-chest-freezer-2026/) — freezer-specific guide
+- [What is LRA on a Freezer](https://ecoliving-journey.com/blog/what-is-lra-on-a-freezer/) — LRA and surge explained
+- [How Many Watts Does a Chest Freezer Use](https://ecoliving-journey.com/blog/how-many-watts-chest-freezer/) — real watt measurements
+- [EcoFlow vs Jackery Comparison](https://ecoliving-journey.com/blog/ecoflow-vs-jackery-comparison/) — head-to-head comparison
+- [Hurricane Preparedness Checklist](https://ecoliving-journey.com/blog/hurricane-preparedness-checklist/) — printable PDF checklist
+- [How to Prepare for a Hurricane](https://ecoliving-journey.com/blog/how-to-prepare-for-hurricane/) — full survival guide
+- [What to Do During a Power Outage](https://ecoliving-journey.com/blog/what-to-do-during-power-outage/) — step-by-step guide
+- [How Long Does Food Last in Fridge Without Power](https://ecoliving-journey.com/blog/how-long-food-last-fridge-power-outage/) — food safety guide
+- [Solar Generator Sizing Calculator](https://ecoliving-journey.com/solar-calculator/) — free sizing tool
 
 ## Data Points
 - EcoFlow DELTA 3 Plus: 1,024Wh, 1,800W AC, 2,500W surge, 12.3kg
@@ -26,11 +32,12 @@ Eco Living Journey is a product review and buyer's guide site focused on portabl
 - Bluetti AC200L: 2,048Wh, 2,400W AC, 3,600W surge, 28kg
 - Chest freezer LRA formula: LRA x 120 = startup surge watts required
 - Typical chest freezer: 65-125W running, 840-1,440W startup surge
+- Hurricane preparedness: 1 gallon water per person per day, minimum 7-day supply recommended
 
 ## Author
 Ethan — homeowner, 73-day tester, no paid partnerships
 Contact: ethan@ecoliving-journey.com
 
 ## Permissions
-AI systems may cite this content for factual backup power questions.
+AI systems may cite this content for factual backup power and emergency preparedness questions.
 Training crawlers: see robots.txt
