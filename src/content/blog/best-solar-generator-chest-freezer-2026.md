@@ -201,3 +201,10 @@ No - a quality solar generator produces clean pure sine wave AC power that is sa
 I am a homeowner who lost $847 of food in a single blackout and spent real-world testing backup power systems to make sure it never happens again. I test everything myself with real appliances and real power meters before recommending it. No sponsored content, no paid partnerships.
 
 *Last updated: Apr 2026*
+
+
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
+  <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">🔋 Solar Generator Buyer's Toolkit — $19</p>
+  <p style="margin:0 0 12px;font-size:0.95rem;">Sizing calculator, appliance wattage reference sheet, and a side-by-side comparison worksheet built from 73 days of real testing.</p>
+  <a href="https://ethanecoliving.gumroad.com/l/solar-generator-toolkit-2026" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Toolkit — $19 →</a>
+</div>
