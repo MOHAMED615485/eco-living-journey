@@ -71,7 +71,7 @@ What immediately stood out was the organization system. Every category — power
 
 <div style="background: white; border: 2px solid #2d6a4f; border-radius: 10px; padding: 20px 24px; margin: 20px 0; box-shadow: 0 2px 8px rgba(45,106,79,0.1);">
   <p style="margin: 0 0 6px; font-size: 15px; font-weight: 800; color: #1a1a1a;">SurviveX 72-Hour Family Kit</p>
-  <p style="margin: 0 0 16px; font-size: 13px; color: #444; line-height: 1.5;">Covers 2 adults + 2 kids for 72 hours • Waterproof pack • 20% off with affiliate discount</p>
+  <p style="margin: 0 0 16px; font-size: 13px; color: #444; line-height: 1.5;">Covers 2 adults + 2 kids for 72 hours • Waterproof pack • Free shipping on orders $150+</p>
   <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" target="_blank" rel="noopener sponsored" style="display: inline-block; background: #2d6a4f; color: #ffffff !important; font-weight: 800; font-size: 14px; padding: 12px 24px; border-radius: 8px; text-decoration: none !important; opacity: 1;">See Current Price →</a>
 </div>
 
