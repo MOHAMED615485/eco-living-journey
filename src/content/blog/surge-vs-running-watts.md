@@ -61,7 +61,7 @@ If your solar generator's surge capacity is lower than the appliance's surge req
 Most solar generator ads lead with the running watt number. A "2000W solar generator" means it can handle 2000W continuously — but its surge capacity might only be 4000W. A large refrigerator plus a window AC starting simultaneously could demand 5000W surge. Result: instant shutdown.
 </div>
 
-I tested this exact scenario with the EcoFlow DELTA 3 Plus during my 73-day field test. The DELTA 3 Plus has a 3600W surge capacity — which is why it handled my refrigerator, chest freezer, and a box fan starting simultaneously without flinching. A cheaper 1000W unit I tested earlier couldn't handle just the refrigerator startup alone.
+I tested this [exact scenario](/blog/ecoflow-delta-3-plus-review/) with the EcoFlow DELTA 3 Plus during my 73-day field test. The DELTA 3 Plus has a 3600W surge capacity — which is why it handled my refrigerator, chest freezer, and a box fan starting simultaneously without flinching. A cheaper 1000W unit I tested earlier couldn't handle just the refrigerator startup alone.
 
 The difference wasn't the price. It was the surge rating.
 
