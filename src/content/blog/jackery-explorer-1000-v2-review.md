@@ -13,7 +13,7 @@ I bought the Jackery Explorer 1000 V2 with my own money in January 2026 and ran 
 
 This is not a spec-sheet review. These are real numbers from real tests, including the two nights it failed.
 
-> **⚡ Quick Answer:** The Jackery Explorer 1000 V2 is an excellent mid-range solar generator that handles most home backup reliably — **if your chest freezer's LRA is under 9.0**. It ran my freezer successfully 71 of 73 nights, holds 98.4% battery health after months of use, and recharges from solar in ~3 hours. Above 9.0 LRA, or if you need the fastest recharge, the EcoFlow DELTA 3 Plus is the safer pick. **[Check current price on Amazon →](https://amzn.to/47Esd8d)**
+> **⚡ Quick Answer:** The Jackery Explorer 1000 V2 is an excellent mid-range solar generator that handles most home backup reliably — **if your chest freezer's LRA is under 9.0**. It ran my freezer successfully 71 of 73 nights, holds 98.4% battery health after months of use, and recharges from solar in ~3 hours. Above 9.0 LRA, or if you need the fastest recharge, the EcoFlow DELTA 3 Plus is the safer pick. **[Check current price on Amazon →](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2)**
 
 ---
 
@@ -151,7 +151,7 @@ The **LiFePO4 chemistry** (3,000 cycles) means real longevity. The **2,000W cont
 
 Not sure of your LRA? [Use the free Solar Generator Sizing Calculator](/solar-calculator/) to find exactly what you need before buying.
 
-**[🛒 Check Jackery Explorer 1000 V2 price on Amazon →](https://amzn.to/47Esd8d)**
+**[🛒 Check Jackery Explorer 1000 V2 price on Amazon →](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2)**
 
 ---
 

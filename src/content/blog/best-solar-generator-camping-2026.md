@@ -17,7 +17,7 @@ Here is what actually works.
 **The Quick Answer:** The best solar generator for camping in 2026 is the **Jackery Explorer 1000 V2** for most campers -- light enough to carry, powerful enough to run a portable fridge and charge everything overnight, and fast enough to recharge from a solar panel in a single afternoon. If you need more power for a larger group or extended off-grid stays, the **EcoFlow DELTA 3 Plus** is the upgrade worth paying for.
 
 <div style="text-align:center;margin:32px 0;">
-  <a href="https://amzn.to/47Esd8d" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 36px;border-radius:8px;font-weight:700;font-size:17px;text-decoration:none!important;color:#ffffff!important;display:inline-block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
+  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 36px;border-radius:8px;font-weight:700;font-size:17px;text-decoration:none!important;color:#ffffff!important;display:inline-block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
     Check Jackery Explorer 1000 V2 Price on Amazon
   </a>
   <p style="font-size:12px;color:#888;margin-top:8px;">4.8/5 -- 2,400+ reviews -- Free shipping</p>
@@ -56,7 +56,7 @@ What makes it exceptional for camping specifically is the recharge speed. With t
 **What Ethan tested:** 4-day car camping trip, running a BougeRV 30qt portable fridge continuously, two phones charging overnight, one laptop for 3 hours per day, and 4 LED camp lights for 5 hours each night. Battery used: 74% over 24 hours. Recharged to 90% with one 100W panel in 8 hours of partial sun.
 
 <div style="text-align:center;margin:32px 0;">
-  <a href="https://amzn.to/47Esd8d" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 36px;border-radius:8px;font-weight:700;font-size:17px;text-decoration:none!important;color:#ffffff!important;display:inline-block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
+  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 36px;border-radius:8px;font-weight:700;font-size:17px;text-decoration:none!important;color:#ffffff!important;display:inline-block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
     Check Jackery Explorer 1000 V2 Price on Amazon
   </a>
   <p style="font-size:12px;color:#888;margin-top:8px;">4.8/5 -- Free shipping -- 3 year warranty</p>
@@ -215,7 +215,7 @@ Base camp or serious van build -- Bluetti AC200L. Biggest capacity, best solar i
   <p style="font-size:20px;font-weight:700;color:#2d6a4f;margin:0 0 6px;">Ready to Power Your Campsite?</p>
   <p style="color:#555;font-size:14px;margin:0 0 20px;">Check current prices -- Amazon often runs flash sales on all three brands</p>
   <div style="display:flex;flex-direction:column;gap:12px;max-width:420px;margin:0 auto;">
-    <a href="https://amzn.to/47Esd8d" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:block;">
+    <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:block;">
       Jackery Explorer 1000 V2 -- Best for Weekend Camping
     </a>
     <a href="https://amzn.to/41D10iO" target="_blank" rel="noopener noreferrer" style="background-color:#185FA5;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:block;">

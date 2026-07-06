@@ -24,7 +24,7 @@ So I bought four of the most popular models with my own money and ran them throu
 |---|---|---|---|---|---|
 | [EcoFlow DELTA 2](https://amzn.to/41D10iO) | 1,024Wh | 1,800W | ★★★★★ (5.0) | $600–700 | Best overall, fridge + medical devices |
 | [Bluetti AC200L](https://amzn.to/4sFpOCG) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | $1,400–1,600 | Whole-household, extended outages |
-| [Jackery Explorer 1000 v2](https://amzn.to/47Esd8d) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | $500–600 | Best budget pick |
+| [Jackery Explorer 1000 v2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | $500–600 | Best budget pick |
 | EcoFlow DELTA 3 Plus | 1,024Wh (expandable) | 1,800W | ★★★★☆ (4.5) | $700–850 | Expandable capacity needs |
 
 ---
@@ -71,7 +71,7 @@ Jackery's newest generation closed the gap with EcoFlow significantly. At roughl
 
 **Why it wins this category:** if budget is the deciding factor and you don't need the absolute highest output, this is the smartest dollar-for-dollar buy on the list right now.
 
-👉 **[Check current price on Amazon →](https://amzn.to/47Esd8d)**
+👉 **[Check current price on Amazon →](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2)**
 
 ---
 

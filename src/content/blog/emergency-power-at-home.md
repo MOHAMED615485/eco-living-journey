@@ -70,7 +70,7 @@ A 20,000mAh power bank charges a smartphone 4–5 times. That's it. Power banks 
 |---|---|---|---|---|---|
 | [EcoFlow DELTA 2](https://amzn.to/41D10iO) | 1,024Wh | 1,800W | ★★★★★ (5.0) | $600–700 | Fridge + medical + devices |
 | [Bluetti AC200L](https://amzn.to/4sFpOCG) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | $1,400–1,600 | Whole-household coverage |
-| [Jackery Explorer 1000 v2](https://amzn.to/47Esd8d) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | $500–600 | Budget all-rounder |
+| [Jackery Explorer 1000 v2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | $500–600 | Budget all-rounder |
 
 ### Type 2: Portable Solar Generators (Power Stations)
 **Best for:** Refrigerator, medical devices, device charging, fans and lighting
@@ -284,3 +284,11 @@ You can run a solar generator (battery-based power station) in an apartment — 
 ---
 
 *Ethan Reynolds tested all power equipment in this guide using a Kill A Watt meter during real and simulated power outages. All equipment was purchased with his own money. Last updated June 2026.*
+
+
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
+  <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">🎒 SurviveX 72-Hour Emergency Kit</p>
+  <p style="margin:0 0 6px;font-size:0.95rem;">Pre-assembled food, water purification, first aid, and communication gear — field-tested for real outages, not just camping weekends.</p>
+  <p style="margin:0 0 12px;font-size:0.88rem;color:#3d8b6f;">📦 Free shipping on orders $150+ · 10% off your first order when you sign up</p>
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Check SurviveX Kit →</a>
+</div>

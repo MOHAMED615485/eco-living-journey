@@ -181,7 +181,7 @@ After 73 days of real-world testing — including deliberately pushing units to 
 **Jackery Explorer 1000 V2** — Clean shutdown on overload with clear error display. Recovery is fast — unplug, reset, running again in under 30 seconds. Handles startup surges up to 2,000W. Best for users with predictable, moderate loads.
 
 <div class="cta-container">
-<a href="https://amzn.to/47Esd8d" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — Jackery Explorer 1000 V2 →</a>
+<a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — Jackery Explorer 1000 V2 →</a>
 </div>
 
 **EcoFlow DELTA 3 Plus** — The X-Boost technology actively manages surge loads rather than just tripping on them. It can run appliances rated up to 2,200W through intelligent power management. Fewer trips, smoother operation under variable loads. Best for mixed loads including window AC.

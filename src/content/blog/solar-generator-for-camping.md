@@ -111,7 +111,7 @@ At 23.8 lbs it's the lightest 1,000Wh unit I tested. The carry handle is genuine
 
 For weekend campers running phone charging, lights, a fan, and a CPAP — the Jackery 1000 v2 is perfect and costs less than the DELTA 2.
 
-**→ [Check current price on Amazon](https://amzn.to/47Esd8d)**
+**→ [Check current price on Amazon](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2)**
 
 ---
 
@@ -268,7 +268,7 @@ For true backpacking where weight is critical, the Jackery Explorer 500 (13.3 lb
 |---|---|---|
 | Best overall | EcoFlow DELTA 2 | [Amazon](https://amzn.to/41D10iO) |
 | RV / base camp | Bluetti AC200L | [Bluetti](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) |
-| Weekend campers | Jackery Explorer 1000 v2 | [Amazon](https://amzn.to/47Esd8d) |
+| Weekend campers | Jackery Explorer 1000 v2 | [Amazon](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) |
 | Cold weather | EcoFlow DELTA 3 Plus | [Amazon](https://amzn.to/41D10iO) |
 
 ---

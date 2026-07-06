@@ -115,7 +115,7 @@ The Jackery handles every standard RV load except roof AC startup surge. For RVe
 **Best for:** Weekend campers, budget-conscious RVers, anyone not running roof AC off solar.
 
 <div class="cta-container">
-<a href="https://amzn.to/47Esd8d" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — Jackery Explorer 1000 V2 →</a>
+<a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — Jackery Explorer 1000 V2 →</a>
 </div>
 
 ---

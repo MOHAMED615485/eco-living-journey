@@ -136,7 +136,7 @@ You need 1,000Wh minimum and at least 1,500W surge capacity. The Jackery Explore
 
 ⭐⭐⭐⭐⭐ 4.8/5 — 2,400+ Amazon reviews
 
-<a href="https://amzn.to/47Esd8d" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:12px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;margin:12px 0;">
+<a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:12px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;margin:12px 0;">
   🛒 Check Jackery Explorer 1000 V2 Price on Amazon →
 </a>
 

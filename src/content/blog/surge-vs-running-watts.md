@@ -107,7 +107,7 @@ After 73 days of real-world testing, here's how the three top brands compare on 
 **Jackery Explorer 1000 V2** — 2000W running, 4000W surge. Handles refrigerators and chest freezers with ease. Struggles with window AC units above 5,000 BTU. Best for apartments, RVs, and light home backup.
 
 <div class="cta-container">
-<a href="https://amzn.to/47Esd8d" class="cta-button-amazon" target="_blank" rel="nofollow noopener">
+<a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" class="cta-button-amazon" target="_blank" rel="nofollow noopener">
 Check Jackery 1000 V2 Price on Amazon →
 </a>
 </div>

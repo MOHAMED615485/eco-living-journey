@@ -89,7 +89,7 @@ The Jackery 1000 v2 is the **most reliable camping generator I've tested** — a
 
 **Real test:** Powered Dometic cooler + 3 phones + 60W fan (6hrs nightly) + CPAP for 4 nights. Used 78% capacity over 4 days, recharged in 6 hours. [Detailed review](/blog/jackery-1000-v2-review/).
 
-<a href="https://amzn.to/47Esd8d" style="background-color:#c2410c;color:#ffffff;padding:1rem 2rem;border-radius:0.5rem;text-decoration:none!important;color:#ffffff!important;display:inline-block;font-weight:600;margin:1.5rem 0;">Check Current Price on Amazon</a>
+<a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff;padding:1rem 2rem;border-radius:0.5rem;text-decoration:none!important;color:#ffffff!important;display:inline-block;font-weight:600;margin:1.5rem 0;">Check Current Price on Amazon</a>
 
 ## Solar Panel Pairing: What You Actually Need
 

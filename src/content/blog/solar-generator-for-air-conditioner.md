@@ -45,7 +45,7 @@ Air conditioners are the most power-hungry appliances most people own. Before bu
 |---|---|---|---|---|
 | [EcoFlow DELTA 2 Max](https://amzn.to/41D10iO) | 2,048Wh | 2,400W | ★★★★★ (5.0) | 5,000 BTU window AC |
 | [Bluetti AC200L](https://amzn.to/4sFpOCG) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | Portable AC, extended runtime |
-| [Jackery Explorer 1000 v2](https://amzn.to/47Esd8d) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | Fans + small loads only, not AC |
+| [Jackery Explorer 1000 v2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | Fans + small loads only, not AC |
 
 ## 📏 What Size Solar Generator for AC?
 

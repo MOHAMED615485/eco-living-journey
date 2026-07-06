@@ -18,7 +18,7 @@ I tested four of the most common CPAP setups against three solar generators to f
 </div>
 
 <div class="cta-container">
-  <a href="https://amzn.to/47Esd8d" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; See the Jackery 1000 V2 on Amazon &rarr;
   </a>
 </div>
@@ -100,7 +100,7 @@ The 2,000W inverter means if you need to run other appliances alongside your CPA
 The LCD is hard to read in the dark. The DC output ports are limited to 12V — if your CPAP requires a different voltage check compatibility before buying.
 
 <div class="cta-container">
-  <a href="https://amzn.to/47Esd8d" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; Check Jackery 1000 V2 Price on Amazon &rarr;
   </a>
 </div>

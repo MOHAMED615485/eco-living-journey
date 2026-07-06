@@ -18,7 +18,7 @@ That was the last time I prepped reactively. This guide is everything I put in p
 </div>
 
 <div class="cta-container">
-  <a href="https://amzn.to/47Esd8d" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; Best Solar Generator for Home Backup &rarr;
   </a>
 </div>
@@ -149,7 +149,7 @@ A 20,000mAh power bank ($30-50) charges your phone 4-6 times and powers a small 
 
 ### What a solar generator covers
 
-A 1,000Wh solar generator like the [Jackery Explorer 1000 V2](https://amzn.to/47Esd8d) runs your chest freezer for 14+ hours, charges all devices, and powers a CPAP machine through the night. Paired with a 200W solar panel it recharges during the day and runs indefinitely.
+A 1,000Wh solar generator like the [Jackery Explorer 1000 V2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) runs your chest freezer for 14+ hours, charges all devices, and powers a CPAP machine through the night. Paired with a 200W solar panel it recharges during the day and runs indefinitely.
 
 This is the right tool for outages over 12 hours or for households with medical equipment, chest freezers full of food, or family members who cannot tolerate heat.
 
@@ -158,7 +158,7 @@ This is the right tool for outages over 12 hours or for households with medical 
 Central air conditioning (3,000-5,000W) and electric water heaters (4,500W) cannot run on a portable solar generator. For these you need a whole-home generator or you need a plan to manage without them.
 
 <div class="cta-container">
-  <a href="https://amzn.to/47Esd8d" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; See the Jackery 1000 V2 on Amazon &rarr;
   </a>
 </div>
@@ -229,7 +229,7 @@ I keep a running list of what I used during each outage and restock within a wee
 For families with specific needs — medical equipment, infants, elderly family members, or chest freezers full of food — a solar generator is the single upgrade that changes the experience the most. The [best solar generators for home backup](/blog/best-solar-generator-home-backup-2026/) guide covers the options at every budget.
 
 <div class="cta-container">
-  <a href="https://amzn.to/47Esd8d" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; See the Jackery 1000 V2 — Best Home Backup &rarr;
   </a>
 </div>

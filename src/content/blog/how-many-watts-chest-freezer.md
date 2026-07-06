@@ -122,7 +122,7 @@ Based on extended real-world testing on multiple freezers:
 
 **For a single chest freezer:** The [EcoFlow DELTA 3 Plus](https://amzn.to/41D10iO) is the most reliable choice. The X-Boost surge handling has never failed on any freezer I have tested regardless of LRA rating.
 
-**For budget:** The [Jackery Explorer 1000 V2](https://amzn.to/47Esd8d) handles any chest freezer with LRA under 9.0 reliably. Check your LRA first.
+**For budget:** The [Jackery Explorer 1000 V2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) handles any chest freezer with LRA under 9.0 reliably. Check your LRA first.
 
 **For whole-home backup:** The [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) ran my chest freezer plus refrigerator plus lights plus router for 11.2 hours on one charge. Nothing in this price range matches that runtime on a full load.
 

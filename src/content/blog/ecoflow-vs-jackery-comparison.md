@@ -72,7 +72,7 @@ The storage capacity numbers are nearly identical. Everything else is where the 
     <a href="https://amzn.to/41D10iO" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
       🛒 EcoFlow DELTA 3 Plus → Check Price
     </a>
-    <a href="https://amzn.to/47Esd8d" target="_blank" rel="noopener noreferrer" style="background-color:#185FA5;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:block;box-shadow:0 4px 12px rgba(24,95,165,0.4);">
+    <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="noopener noreferrer" style="background-color:#185FA5;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:block;box-shadow:0 4px 12px rgba(24,95,165,0.4);">
       🛒 Jackery Explorer 1000 V2 → Check Price
     </a>
   </div>
@@ -85,7 +85,7 @@ The storage capacity numbers are nearly identical. Everything else is where the 
 
 
 <div style="text-align:center;margin:32px 0;">
-  <a href="https://amzn.to/47Esd8d" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 36px;border-radius:8px;font-weight:700;font-size:17px;text-decoration:none!important;color:#ffffff!important;display:inline-block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
+  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:16px 36px;border-radius:8px;font-weight:700;font-size:17px;text-decoration:none!important;color:#ffffff!important;display:inline-block;box-shadow:0 4px 12px rgba(194,65,12,0.4);">
     🛒 Check Jackery Explorer 1000 V2 Price on Amazon →
   </a>
   <p style="font-size:12px;color:#888;margin-top:8px;">⭐⭐⭐⭐⭐ 4.8/5 — 2,400+ reviews — Free shipping</p>
@@ -254,7 +254,7 @@ Check your LRA number first. Use the [free calculator](/local-quote/) to confirm
 <div style="background:#eff6ff;border:2px solid #185FA5;border-radius:12px;padding:24px;margin:40px 0;text-align:center;">
   <p style="font-size:20px;font-weight:700;color:#185FA5;margin:0 0 6px;">💰 Budget Pick: Jackery Explorer 1000 V2</p>
   <p style="color:#555;font-size:14px;margin:0 0 20px;">Lighter, cheaper, 4,000 cycle battery. Perfect if your freezer surge is under 1,500W.</p>
-  <a href="https://amzn.to/47Esd8d" target="_blank" rel="noopener noreferrer" style="background-color:#185FA5;color:#ffffff;padding:16px 40px;border-radius:8px;font-weight:700;font-size:18px;text-decoration:none!important;color:#ffffff!important;display:inline-block;box-shadow:0 6px 16px rgba(24,95,165,0.5);">
+  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="noopener noreferrer" style="background-color:#185FA5;color:#ffffff;padding:16px 40px;border-radius:8px;font-weight:700;font-size:18px;text-decoration:none!important;color:#ffffff!important;display:inline-block;box-shadow:0 6px 16px rgba(24,95,165,0.5);">
     🛒 Get the Jackery Explorer 1000 V2 on Amazon →
   </a>
   <p style="font-size:12px;color:#888;margin-top:8px;">⭐⭐⭐⭐⭐ 4.8/5 — Free shipping — 3 year warranty</p>

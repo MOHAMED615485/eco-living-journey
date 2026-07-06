@@ -65,7 +65,7 @@ A window AC does not run continuously. It cycles on and off to maintain temperat
 That is the real runtime. Not the theoretical maximum on the spec sheet.
 
 <div class="cta-container">
-  <a href="https://amzn.to/47Esd8d" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; Jackery 1000 V2 — Handles 5,000 BTU Window AC &rarr;
   </a>
 </div>
@@ -104,7 +104,7 @@ The Jackery 1000 V2 could not handle the 12,000 BTU unit. The surge exceeded its
 
 ### For homeowners — 5,000 or 8,000 BTU during outages
 
-The [Jackery Explorer 1000 V2](https://amzn.to/47Esd8d) handles 5,000 BTU units indefinitely with solar panels connected. For 8,000 BTU units it gives you 3–4 hours of daytime cooling per charge cycle. For most outage situations that covers the critical afternoon heat window.
+The [Jackery Explorer 1000 V2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) handles 5,000 BTU units indefinitely with solar panels connected. For 8,000 BTU units it gives you 3–4 hours of daytime cooling per charge cycle. For most outage situations that covers the critical afternoon heat window.
 
 **Best for:** 1–3 day outages, keeping one bedroom cool, families with children
 

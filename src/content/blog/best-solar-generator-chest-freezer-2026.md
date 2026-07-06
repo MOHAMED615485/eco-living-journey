@@ -19,7 +19,7 @@ Here is what the data showed.
 ## 🏆 Best Solar Generator for Chest Freezer - Quick Picks
 
 - **Best Overall:** [EcoFlow DELTA 3 Plus](https://amzn.to/41D10iO) - most reliable surge handling, fastest recharge
-- **Best Value:** [Jackery Explorer 1000 V2](https://amzn.to/47Esd8d) - excellent for LRA under 9.0, costs less
+- **Best Value:** [Jackery Explorer 1000 V2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) - excellent for LRA under 9.0, costs less
 - **Best for Multiple Appliances:** [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) - double the capacity, runs everything
 
 ---
@@ -104,7 +104,7 @@ If your freezer LRA is above 9.0, get the EcoFlow.
 
 **Best for:** Budget-conscious buyers with modern chest freezers (LRA under 9.0) in moderate climates.
 
-<div class="cta-container"><a href="https://amzn.to/47Esd8d" class="cta-button-amazon" target="_blank" rel="nofollow">Check Jackery Explorer 1000 V2 on Amazon</a></div>
+<div class="cta-container"><a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" class="cta-button-amazon" target="_blank" rel="nofollow">Check Jackery Explorer 1000 V2 on Amazon</a></div>
 
 ---
 

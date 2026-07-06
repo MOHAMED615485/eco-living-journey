@@ -20,7 +20,7 @@ This guide gives you the actual numbers for every freezer type, the variables th
 </div>
 
 <div class="cta-container">
-  <a href="https://amzn.to/47Esd8d" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; Stop the Clock &mdash; Best Solar Generator Under $800 &rarr;
   </a>
 </div>
@@ -78,7 +78,7 @@ A refrigerator keeps food safe for **4 hours** with the door kept closed. This i
 Hard cheeses, butter, whole fruits, and vegetables last longer but should still be inspected carefully before eating.
 
 <div class="cta-container">
-  <a href="https://amzn.to/47Esd8d" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; Jackery Explorer 1000 V2 &mdash; Keep Your Fridge Running &rarr;
   </a>
 </div>
@@ -155,12 +155,12 @@ The blankets-and-frozen-jugs strategy buys significant time. But it has real lim
 
 A 72-hour outage during a heat wave. Rolling blackouts hitting multiple times per week. A grid failure lasting several days after a major storm. In those scenarios, backup power is the only solution that eliminates the countdown entirely.
 
-The [Jackery Explorer 1000 V2](https://amzn.to/47Esd8d) provides 1,070Wh of LiFePO4 power and runs a standard chest freezer for 14+ hours per charge. The [EcoFlow DELTA 3 Plus](https://amzn.to/41D10iO) recharges from solar panels in under 2 hours, making it the smarter choice for multi-day outages. Both units run a chest freezer indefinitely when paired with a 200W solar panel.
+The [Jackery Explorer 1000 V2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) provides 1,070Wh of LiFePO4 power and runs a standard chest freezer for 14+ hours per charge. The [EcoFlow DELTA 3 Plus](https://amzn.to/41D10iO) recharges from solar panels in under 2 hours, making it the smarter choice for multi-day outages. Both units run a chest freezer indefinitely when paired with a 200W solar panel.
 
 For a full comparison of which unit fits your specific setup, see the [best solar generators for home backup power](/blog/best-solar-generator-home-backup-2026/) guide.
 
 <div class="cta-container">
-  <a href="https://amzn.to/47Esd8d" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; See the Jackery Explorer 1000 V2 on Amazon &rarr;
   </a>
 </div>
