@@ -111,7 +111,7 @@ At 23.8 lbs it's the lightest 1,000Wh unit I tested. The carry handle is genuine
 
 For weekend campers running phone charging, lights, a fan, and a CPAP — the Jackery 1000 v2 is perfect and costs less than the DELTA 2.
 
-**→ [Check current price on Amazon](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2)**
+<a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="display:inline-block;background:#2d6a4f;color:#fff;padding:12px 26px;border-radius:50px;font-weight:800;text-decoration:none;margin:1rem 0;font-size:1.02rem;">🛒 Check today’s price at Jackery →</a>
 
 ---
 

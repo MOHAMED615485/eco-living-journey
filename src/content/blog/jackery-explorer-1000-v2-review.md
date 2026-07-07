@@ -151,7 +151,7 @@ The **LiFePO4 chemistry** (3,000 cycles) means real longevity. The **2,000W cont
 
 Not sure of your LRA? [Use the free Solar Generator Sizing Calculator](/solar-calculator/) to find exactly what you need before buying.
 
-**[🛒 Check Jackery Explorer 1000 V2 price on Amazon →](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2)**
+<a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="display:inline-block;background:#2d6a4f;color:#fff;padding:12px 26px;border-radius:50px;font-weight:800;text-decoration:none;margin:1rem 0;font-size:1.02rem;">🛒 Check today’s price at Jackery →</a>
 
 ---
 
