@@ -232,7 +232,7 @@ If you or someone in your group has a medical condition, **a solar generator is 
 - [Best Solar Generator for CPAP Machine](/blog/best-solar-generator-cpap-machine/)
 - [Best Solar Generator for RV](/blog/best-solar-generator-rv/)
 - [Surge vs Running Watts Explained](/blog/surge-vs-running-watts/)
-- [How Long Does Food Last Without Power](/blog/how-long-food-lasts-without-power/)
+- [How Long Does Food Last Without Power](/blog/how-long-food-last-fridge-power-outage/)
 - [Best Solar Generator Under $1,000](/blog/best-solar-generator-under-1000/)
 
 ---

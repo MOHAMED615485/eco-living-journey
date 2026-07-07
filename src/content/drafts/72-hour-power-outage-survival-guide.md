@@ -204,7 +204,7 @@ Build Your 72-Hour Emergency Kit with SurviveX →
 <div style="background:#f0fdf4;border:1.5px solid #2d6a4f;border-radius:12px;padding:16px 20px;margin:1.5rem 0;">
 <strong style="color:#2d6a4f;font-size:0.95rem;">&#128218; Keep Reading:</strong><br/><br/>
 <a href="/blog/how-to-prep-home-power-outage/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ How to Prep Your Home for a Power Outage (Complete Guide)</a>
-<a href="/blog/how-long-food-lasts-without-power/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ How Long Does a Freezer Last Without Power?</a>
+<a href="/blog/how-long-food-last-fridge-power-outage/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ How Long Does a Freezer Last Without Power?</a>
 <a href="/blog/best-emergency-kit-power-outage-2026/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;">→ Best Emergency Kit for Power Outages 2026</a>
 </div>
 

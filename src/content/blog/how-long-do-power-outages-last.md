@@ -85,7 +85,7 @@ Four hours is the threshold that changes everything about power outage preparedn
 
 **4 to 12 hours:** Your refrigerator crosses the 4-hour food safety threshold. You need a plan for perishables. A 1,000Wh solar generator keeps your fridge running and all devices charged with capacity to spare.
 
-**12 to 48 hours:** Your freezer approaches its safety limit depending on how full it is. A full chest freezer stays safe for 48 hours. A half-full chest freezer hits the danger zone at 24 hours. You need either a solar generator or a plan to move food. See the full guide on [how long a freezer lasts without power](/blog/how-long-food-lasts-without-power/) for exact timelines.
+**12 to 48 hours:** Your freezer approaches its safety limit depending on how full it is. A full chest freezer stays safe for 48 hours. A half-full chest freezer hits the danger zone at 24 hours. You need either a solar generator or a plan to move food. See the full guide on [how long a freezer lasts without power](/blog/how-long-food-last-fridge-power-outage/) for exact timelines.
 
 **48 hours and beyond:** This is a major emergency scenario. Food loss is almost certain without backup power. Water pressure may fail if municipal pumps lose power. Medical equipment becomes a critical concern. This is when a solar generator paired with solar panels becomes essential rather than convenient.
 

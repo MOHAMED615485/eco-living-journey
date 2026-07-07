@@ -73,7 +73,7 @@ Do not store water in milk jugs — the plastic degrades and leaches into the wa
 
 Fill every empty space in your freezer with water-filled containers and freeze them solid. This serves double duty: it extends your freezer food safety window from 24 hours to 48+ hours during an outage, and gives you water as it slowly thaws. A full chest freezer keeps food safe for 48 hours without power. A half-full freezer only lasts 24 hours.
 
-For the full breakdown on freezer food safety during outages see the [how long does a freezer last without power](/blog/how-long-food-lasts-without-power/) guide.
+For the full breakdown on freezer food safety during outages see the [how long does a freezer last without power](/blog/how-long-food-last-fridge-power-outage/) guide.
 
 <div class="cta-container">
   <a href="https://amzn.to/41D10iO" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">

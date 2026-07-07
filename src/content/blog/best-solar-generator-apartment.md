@@ -194,7 +194,7 @@ All three units charge from a 12V car outlet (cigarette lighter) or via DC input
 <div>
 <strong style="color:#2d6a4f;font-size:0.95rem;">How long will your fridge actually last without any power?</strong><br/>
 <span style="font-size:0.88rem;color:#444;">Before your generator arrives, know your real safety window. A full fridge and a half-full one have completely different timelines.</span><br/>
-<a href="/blog/how-long-food-lasts-without-power/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;">→ How Long Does a Freezer Last Without Power? (Real Numbers)</a>
+<a href="/blog/how-long-food-last-fridge-power-outage/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;">→ How Long Does a Freezer Last Without Power? (Real Numbers)</a>
 </div>
 </div>
 

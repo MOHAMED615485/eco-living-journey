@@ -155,13 +155,13 @@ In my testing, I ran my full setup - chest freezer, upright refrigerator, four L
 
 **Buy the Bluetti AC200L if:** You want to run multiple appliances for 10+ hours and you are building a serious backup power system.
 
-If you are not sure which appliances you need to cover, read my guide on [how a solar generator handles a chest freezer](/blog/how-long-food-lasts-without-power/).
+If you are not sure which appliances you need to cover, read my guide on [how a solar generator handles a chest freezer](/blog/how-long-food-last-fridge-power-outage/).
 
 ---
 
 <div style="background:#f0fdf4;border:1.5px solid #2d6a4f;border-radius:12px;padding:16px 20px;margin:1.5rem 0;">
 <strong style="color:#2d6a4f;font-size:0.95rem;">📚 Keep Reading — Related Guides:</strong><br/><br/>
-<a href="/blog/how-long-food-lasts-without-power/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ How Long Does a Freezer Last Without Power? (Real Numbers)</a>
+<a href="/blog/how-long-food-last-fridge-power-outage/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ How Long Does a Freezer Last Without Power? (Real Numbers)</a>
 <a href="/blog/how-to-prep-home-power-outage/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ How to Prep Your Home for a Power Outage (Complete Guide)</a>
 <a href="/blog/portable-power-station-vs-gas-generator/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ Solar Generator vs Gas Generator: Honest Comparison</a>
 <a href="/blog/best-solar-generator-under-1000/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;">→ Best Solar Generator Under $1000 — Tested and Ranked</a>
