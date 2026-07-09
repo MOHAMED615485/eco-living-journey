@@ -9,12 +9,12 @@ import FormattedDate from '../components/FormattedDate.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, robots } = Astro.props;
 ---
 
 <html lang="en">
   <head>
-    <BaseHead title={title} description={description} image={heroImage?.src} type="article" />
+    <BaseHead title={title} description={description} image={heroImage?.src} type="article"  robots={robots} />
   
 <style>
   .star-filled { color: #f5a623; font-size: 1.1rem; }

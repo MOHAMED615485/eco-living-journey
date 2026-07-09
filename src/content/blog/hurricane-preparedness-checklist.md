@@ -219,7 +219,7 @@ The checklist doesn't end at landfall.
 
 ## 📥 Downloadable Hurricane Prep Resources
 
-The [72-Hour Power Outage Survival Kit](/blog/72-hour-power-outage-survival-guide/) I built covers the power outage scenario in detail, including exactly how to size a solar generator for your specific appliances.
+The [72-Hour Power Outage Survival Kit](/blog/what-to-do-during-power-outage/) I built covers the power outage scenario in detail, including exactly how to size a solar generator for your specific appliances.
 
 If you want a done-for-you kit with a printable checklist, appliance watt calculator, and a 7-day meal plan that requires zero refrigeration, the **72-Hour Power Outage Survival Kit** has all of it.
 

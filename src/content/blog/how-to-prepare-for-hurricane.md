@@ -186,7 +186,7 @@ The storm has passed. Now the real work begins.
 - Full freezer: 48 hours. Half-full freezer: 24 hours
 - When in doubt, throw it out
 
-For a detailed breakdown of which foods survive a power outage and which don't, see [how long does food last in the fridge without power](/blog/power-outage-food-safety/).
+For a detailed breakdown of which foods survive a power outage and which don't, see [how long does food last in the fridge without power](/blog/how-long-food-last-fridge-power-outage/).
 
 ---
 

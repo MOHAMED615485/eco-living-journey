@@ -96,7 +96,7 @@ These appliances work with a solar generator but require you to check the surge 
 
 **Chest freezer** — Runs on only 150W but surges to 800W on startup. You need a generator with at least 1,500W surge capacity. Read my full breakdown of [chest freezer surge math here](/blog/chest-freezer-blackout-math/).
 
-**Full-size refrigerator** — 150W running but surges to 1,200W or more depending on age and model. Check the LRA rating on the data plate inside your fridge door. My guide on [how many watts a chest freezer uses](/blog/how-many-watts-does-a-chest-freezer-use/) explains how to find this number.
+**Full-size refrigerator** — 150W running but surges to 1,200W or more depending on age and model. Check the LRA rating on the data plate inside your fridge door. My guide on [how many watts a chest freezer uses](/blog/how-many-watts-chest-freezer/) explains how to find this number.
 
 **Window air conditioner** — A small 5,000 BTU window unit runs on 500W but surges to 1,500W. A 2,000W surge-rated generator handles it. Central AC is off the table for any portable solar generator.
 

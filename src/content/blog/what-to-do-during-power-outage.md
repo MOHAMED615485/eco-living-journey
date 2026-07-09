@@ -111,7 +111,7 @@ Transfer the most perishable items (meat, dairy, leftovers) to a cooler with ice
 Run the refrigerator on backup power. At 150W average draw, a 1,000Wh battery runs it for 6–7 hours. With solar recharging during the day, you can keep the refrigerator running indefinitely.
 
 ### Option C: No ice, no backup power
-After 4 hours, move non-perishable items out and mentally write off the perishables. Eat what you can now. For a detailed breakdown of which foods survive and for how long, see [how long does food last in the fridge without power](/blog/power-outage-food-safety/).
+After 4 hours, move non-perishable items out and mentally write off the perishables. Eat what you can now. For a detailed breakdown of which foods survive and for how long, see [how long does food last in the fridge without power](/blog/how-long-food-last-fridge-power-outage/).
 
 ---
 
@@ -238,7 +238,7 @@ The first thing is to locate your flashlights and confirm the scope of the outag
 
 ### How long does food last in the fridge during a power outage?
 
-A closed refrigerator keeps food safe for 4 hours. A full freezer maintains safe temperature for 48 hours; a half-full freezer for 24 hours. The key is keeping the door closed. After 4 hours without power, move the most perishable items to a cooler with ice or begin consuming them. See the [full food safety guide](/blog/power-outage-food-safety/) for a complete breakdown by food type.
+A closed refrigerator keeps food safe for 4 hours. A full freezer maintains safe temperature for 48 hours; a half-full freezer for 24 hours. The key is keeping the door closed. After 4 hours without power, move the most perishable items to a cooler with ice or begin consuming them. See the [full food safety guide](/blog/how-long-food-last-fridge-power-outage/) for a complete breakdown by food type.
 
 ### Is it safe to use a gas stove during a power outage?
 
