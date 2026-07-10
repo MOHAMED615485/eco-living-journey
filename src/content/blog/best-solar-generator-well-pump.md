@@ -119,7 +119,7 @@ The Bluetti AC200L delivers 3,600W surge and 2,400W continuous output. For large
 
 **Best for:** Larger 120V pumps, whole-home backup including pump
 
-<div class="cta-container"><a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="nofollow">Check Bluetti AC200L on Amazon</a></div>
+<div class="cta-container"><a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="nofollow">Check Bluetti AC200L at Bluetti</a></div>
 
 ---
 

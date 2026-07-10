@@ -124,7 +124,7 @@ The Jackery app is solid but less detailed than EcoFlow's. Recharge from wall is
 **Best for:** Budget-conscious apartment dwellers with a mini fridge, devices, and lights — no window AC needed.
 
 <div class="cta-container">
-<a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" class="cta-button-amazon" target="_blank" rel="nofollow">Check Jackery Explorer 1000 V2 on Amazon</a>
+<a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" class="cta-button-amazon" target="_blank" rel="nofollow">Check Jackery Explorer 1000 V2 at Jackery</a>
 
 </div>
 
@@ -143,7 +143,7 @@ At 28kg it is not something you carry between rooms casually. But the 2,048Wh ca
 **Best for:** Larger apartments, medical device users, or anyone who needs 24+ hours of backup without recharging.
 
 <div class="cta-container">
-<a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="nofollow">Check Bluetti AC200L on Amazon</a>
+<a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="nofollow">Check Bluetti AC200L at Bluetti</a>
 
 </div>
 

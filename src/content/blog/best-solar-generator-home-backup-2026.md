@@ -100,7 +100,7 @@ In my testing:
 
 **Best for:** Budget-conscious homeowners with standard LRA freezers who want reliable backup at a lower price point.
 
-<div class="cta-container"><a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" class="cta-button-amazon" target="_blank" rel="nofollow">Check Jackery Explorer 1000 V2 on Amazon</a></div>
+<div class="cta-container"><a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" class="cta-button-amazon" target="_blank" rel="nofollow">Check Jackery Explorer 1000 V2 at Jackery</a></div>
 
 ---
 
@@ -116,7 +116,7 @@ In my testing, I ran my full setup - chest freezer, upright refrigerator, four L
 
 **Best for:** Homeowners who want extended whole-home backup and are willing to invest in a serious system.
 
-<div class="cta-container"><a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="nofollow">Check Bluetti AC200L on Amazon</a></div>
+<div class="cta-container"><a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="nofollow">Check Bluetti AC200L at Bluetti</a></div>
 
 ---
 
