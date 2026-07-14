@@ -2,7 +2,7 @@
 title: "Best Solar Generator for CPAP Machine (2026): Tested"
 description: "The best solar generator for CPAP machines runs 8-12 hours per charge without DC adapter losses. Real runtime tests on ResMed and Philips CPAP machines with honest verdicts."
 pubDate: "May 02 2026"
-updatedDate: "May 02 2026"
+updatedDate: "Jul 12 2026"
 heroImage: "../../assets/best-solar-generator-cpap-machine.webp"
 category: "Best Solar Generators"
 ---
@@ -14,12 +14,12 @@ For the 30 million Americans who use one every night, losing power means choosin
 I tested four of the most common CPAP setups against three solar generators to find what actually works through the night, across multiple nights, without requiring a power outlet.
 
 <div style="background:#f0fdf4;border-left:4px solid #2d6a4f;padding:16px 20px;border-radius:8px;margin-bottom:1.5rem;">
-<strong>&#9889; Quick Answer:</strong> The <strong>Jackery Explorer 1000 V2</strong> is the best solar generator for most CPAP users — runs a standard CPAP for 2-3 nights per charge, recharges in 2 hours from solar, and the LiFePO4 battery handles nightly cycling for years. Use the <strong>12V DC adapter</strong> instead of the AC inverter to extend runtime by 30-40%.
+<strong>&#9889; Quick Answer:</strong> The best <strong>solar generator for CPAP</strong> use is the <strong>Jackery Explorer 1000 V2</strong> for most people — runs a standard CPAP for 2-3 nights per charge, recharges in 2 hours from solar, and the LiFePO4 battery handles nightly cycling for years. Use the <strong>12V DC adapter</strong> instead of the AC inverter to extend runtime by 30-40%.
 </div>
 
 <div class="cta-container">
   <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
-    &#9889; See the Jackery 1000 V2 on Amazon &rarr;
+    &#9889; See the Jackery 1000 V2 at Jackery &rarr;
   </a>
 </div>
 
@@ -39,6 +39,16 @@ I tested four of the most common CPAP setups against three solar generators to f
 | **Rating** | ★★★★★ | ★★★★★ | ★★★★☆ |
 
 ---
+
+## Solar Generator for CPAP: What Actually Matters
+
+If you're shopping for a solar generator for CPAP use, three things decide whether it works through the night:
+
+- **Battery capacity (watt-hours):** A CPAP pulls 30-60W with the humidifier on. You need at least 500Wh to clear a full night with margin - 1,000Wh+ gives you 2-3 nights per charge.
+- **DC output:** Running your CPAP off the 12V DC port instead of the AC inverter cuts conversion losses and extends runtime 30-40%. This single choice matters more than brand.
+- **LiFePO4 battery:** You'll cycle this nightly, so you want a lithium iron phosphate battery rated for thousands of cycles - not a cheaper chemistry that degrades in a year.
+
+Get those three right and any of the units below will keep your CPAP running through an outage. Get them wrong and even an expensive generator dies before morning.
 
 ## How Much Power Does a CPAP Machine Use?
 
@@ -101,7 +111,7 @@ The LCD is hard to read in the dark. The DC output ports are limited to 12V — 
 
 <div class="cta-container">
   <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
-    &#9889; Check Jackery 1000 V2 Price on Amazon &rarr;
+    &#9889; Check Jackery 1000 V2 Price at Jackery &rarr;
   </a>
 </div>
 
