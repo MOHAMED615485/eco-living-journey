@@ -130,7 +130,7 @@ A solar generator helps here too — it can boil water on an electric kettle or 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
   <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">🧰 72-Hour Power Outage Survival Kit — $27</p>
   <p style="margin:0 0 12px;font-size:0.95rem;">The complete printable checklist for the first 72 hours — water, power, food, and medical — built from real outages, not generic templates.</p>
-  <a href="https://ethanecoliving.gumroad.com/l/lngbnm" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Kit — $27 →</a>
+  <a href="https://ethanecoliving.gumroad.com/l/72-hour-power-outage-survival-kit" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Kit — $27 →</a>
 </div>
 
 <div style="background:#f0f7f4;border:1px solid #2d6a4f;padding:16px;margin:24px 0;border-radius:4px;">

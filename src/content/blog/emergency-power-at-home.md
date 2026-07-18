@@ -239,7 +239,7 @@ This is the primary reason I recommend solar generators for apartment and condo 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
   <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">🔋 72-Hour Power Outage Survival Kit — $27</p>
   <p style="margin:0 0 12px;font-size:0.95rem;">Includes a solar generator sizing calculator, appliance watt reference sheet, and complete backup power checklist.</p>
-  <a href="https://mohamedcanepie.gumroad.com/l/lngbnm" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Kit — $27 →</a>
+  <a href="https://ethanecoliving.gumroad.com/l/72-hour-power-outage-survival-kit" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Kit — $27 →</a>
 </div>
 
 ---
