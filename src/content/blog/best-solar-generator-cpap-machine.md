@@ -2,14 +2,18 @@
 title: "Best Solar Generator for CPAP Machine (2026): Tested"
 description: "The best solar generator for CPAP machines runs 8-12 hours per charge without DC adapter losses. Real runtime tests on ResMed and Philips CPAP machines with honest verdicts."
 pubDate: "May 02 2026"
-updatedDate: "Jul 12 2026"
+updatedDate: "Jul 18 2026"
 heroImage: "../../assets/best-solar-generator-cpap-machine.webp"
 category: "Best Solar Generators"
+faqSchema: true
 ---
 
 A CPAP machine is not optional equipment.
 
 For the 30 million Americans who use one every night, losing power means choosing between bad sleep and health consequences that compound over time. A solar generator is not a luxury for CPAP users — it is medical infrastructure.
+
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have personally tested.</em></p>
+
 
 I tested four of the most common CPAP setups against three solar generators to find what actually works through the night, across multiple nights, without requiring a power outlet.
 
@@ -168,6 +172,15 @@ A 12V DC to DC cable for your specific CPAP model eliminates the middle conversi
 That is almost an entire extra night of CPAP use from the same charge, for the cost of a $20-30 DC cable.
 
 ---
+
+
+Choosing the right generator for a CPAP comes down to watt-hours, DC output, and battery chemistry - get one wrong and it dies before morning. If you'd rather not guess, my **Solar Generator Buyer's Toolkit** walks you through the exact numbers for your setup before you spend a cent.
+
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
+  <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">&#9889; Solar Generator Buyer's Toolkit - $19</p>
+  <p style="margin:0 0 12px;font-size:0.95rem;">The exact watt-hour math, DC-vs-AC runtime guide, and a sizing calculator so you buy the right generator for your CPAP the first time.</p>
+  <a href="https://ethanecoliving.gumroad.com/l/solar-generator-toolkit-2026" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Toolkit - $19 &rarr;</a>
+</div>
 
 ## Emergency Kit for CPAP Users
 
