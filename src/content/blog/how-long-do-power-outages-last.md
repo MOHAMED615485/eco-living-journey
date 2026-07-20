@@ -2,14 +2,18 @@
 title: "How Long Do Power Outages Last? (Real Data by Cause)"
 description: "Most power outages last under 2 hours. But severe weather outages average 8 hours and major storms can last days. Real duration data by cause, season, and region."
 pubDate: "Apr 30 2026"
-updatedDate: "Apr 30 2026"
+updatedDate: "Jul 18 2026"
 heroImage: "../../assets/how-long-do-power-outages-last.webp"
 category: "Power Outage Prep"
+faqSchema: true
 ---
 
 The first thing everyone wants to know when the lights go out is how long it will last.
 
 The answer depends entirely on what caused it. A squirrel hitting a transformer is back in 45 minutes. A hurricane is three to seven days. An ice storm is somewhere in between, and almost always longer than the utility company initially tells you.
+
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have personally tested.</em></p>
+
 
 I have been through 11 outages since 2019. The average duration was 6.2 hours. The longest was 61 hours after a major storm. The shortest was 22 minutes. Here is what the real data says about how long you should expect to wait.
 
@@ -153,6 +157,15 @@ The last category — your individual connection — is where you can wait hours
 </div>
 
 ---
+
+
+Knowing an outage could last days is one thing - being ready for it is another. My **72-Hour Power Outage Survival Kit** is the printable, room-by-room plan I built after my own multi-day outage, so your family isn't caught scrambling.
+
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
+  <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">&#128267; 72-Hour Power Outage Survival Kit - $27</p>
+  <p style="margin:0 0 12px;font-size:0.95rem;">Printable room-by-room checklist + solar generator sizing guide + 7-day no-fridge meal plan. Built for the outages that last longer than a day.</p>
+  <a href="https://ethanecoliving.gumroad.com/l/72-hour-power-outage-survival-kit" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Kit - $27 &rarr;</a>
+</div>
 
 ## Emergency Kit for Extended Outages
 
