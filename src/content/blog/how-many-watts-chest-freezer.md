@@ -2,13 +2,18 @@
 title: "How Many Watts Does a Chest Freezer Use? Real Numbers"
 description: "Ethan measured exact watt draw on 4 chest freezers over time. Running watts, startup surge, and what size solar generator you actually need. Real data only."
 pubDate: "Apr 04 2026"
+updatedDate: "Jul 18 2026"
 heroImage: "../../assets/how-many-watts-chest-freezer.webp"
 category: "Solar Generator Guides"
+faqSchema: true
 ---
 
 I have measured the actual watt draw on four different chest freezers over the past 73 days. Not the spec sheet numbers. Not the nameplate ratings. The real numbers from a power meter plugged in between the freezer and the wall.
 
 Here is everything I found.
+
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have personally tested.</em></p>
+
 
 ---
 
@@ -115,6 +120,15 @@ Every time you open the freezer lid, cold air escapes and warm air enters. The c
 A freezer in direct sunlight will draw significantly more power than one in shade. If possible, move your freezer to a cool, shaded location before a major outage.
 
 ---
+
+
+Sizing a generator to your freezer's real surge is where most people get it wrong - too small and it trips, too big and you overpaid. My **Solar Generator Buyer's Toolkit** does the watt math for you.
+
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
+  <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">&#9889; Solar Generator Buyer's Toolkit - $19</p>
+  <p style="margin:0 0 12px;font-size:0.95rem;">The exact surge + running watt math and a sizing calculator so your generator actually starts your freezer - the first time.</p>
+  <a href="https://ethanecoliving.gumroad.com/l/solar-generator-toolkit-2026" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Toolkit - $19 &rarr;</a>
+</div>
 
 ## 🛒 Which Generator Do I Recommend?
 
