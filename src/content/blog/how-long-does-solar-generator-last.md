@@ -2,12 +2,16 @@
 title: "How Long Does a Solar Generator Last? (Real Answer)"
 description: "A quality solar generator lasts 10-15 years. LiFePO4 batteries handle 3,000-6,000 cycles before hitting 80% capacity. Real lifespan data for Jackery, EcoFlow, and Bluetti."
 pubDate: "May 10 2026"
-updatedDate: "May 10 2026"
+updatedDate: "Jul 18 2026"
 heroImage: "../../assets/how-long-does-solar-generator-last.webp"
 category: "Solar Generator Guides"
+faqSchema: true
 ---
 
 The most honest answer I can give you is this: the solar generator itself will outlast the battery by a decade.
+
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have personally tested.</em></p>
+
 
 The electronics, the inverter, the charge controller, the ports — these components last 15-20 years with normal use. What actually limits your solar generator’s lifespan is the battery inside it. And the battery’s lifespan depends almost entirely on what chemistry it uses and how you treat it.
 
@@ -171,6 +175,15 @@ Calendar aging for LiFePO4: approximately 15-20 years before significant capacit
 </div>
 
 ---
+
+
+A solar generator that lasts 10-15 years is only worth it if you buy the right one for your needs. My **Solar Generator Buyer's Toolkit** helps you match capacity and chemistry to your actual use, so you're not replacing it - or regretting it - in two years.
+
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
+  <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">&#9889; Solar Generator Buyer's Toolkit - $19</p>
+  <p style="margin:0 0 12px;font-size:0.95rem;">The sizing math, battery-chemistry guide, and a calculator so you buy a generator that lasts - and fits what you actually need.</p>
+  <a href="https://ethanecoliving.gumroad.com/l/solar-generator-toolkit-2026" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Toolkit - $19 &rarr;</a>
+</div>
 
 ## Is a Solar Generator Worth the Investment?
 
