@@ -2,12 +2,16 @@
 title: "Can a Solar Generator Power a Window AC Unit? (2026 Test)"
 description: "A solar generator can power a window AC unit for 2-4 hours per charge. Real test results on 5,000 BTU and 8,000 BTU units with runtime math and which generator to buy."
 pubDate: "May 04 2026"
-updatedDate: "May 04 2026"
+updatedDate: "Jul 18 2026"
 heroImage: "../../assets/can-solar-generator-power-window-ac.webp"
 category: "Solar Generator Guides"
+faqSchema: true
 ---
 
 Last July I ran my 5,000 BTU window AC unit on a solar generator for 11 days straight during a heat wave that knocked out grid power across our neighborhood.
+
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have personally tested.</em></p>
+
 
 It worked. But only because I understood two things most people get wrong: surge watts and duty cycle. Get those wrong and you either buy a generator that trips every time the compressor kicks on, or you overspend on capacity you don't need.
 
@@ -143,6 +147,15 @@ The same setup works for homestead buildings, workshops, and barns. A 5,000 BTU 
 </div>
 
 ---
+
+
+Running a window AC off solar is all about matching surge watts, running watts, and battery capacity to your exact unit - get it wrong and it trips or dies in an hour. My **Solar Generator Buyer's Toolkit** does that math for you.
+
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
+  <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">&#9889; Solar Generator Buyer's Toolkit - $19</p>
+  <p style="margin:0 0 12px;font-size:0.95rem;">The exact AC wattage math, runtime calculator, and sizing guide so your generator actually keeps your room cool through an outage.</p>
+  <a href="https://ethanecoliving.gumroad.com/l/solar-generator-toolkit-2026" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Toolkit - $19 &rarr;</a>
+</div>
 
 ## The Inverter Rule You Cannot Skip
 
