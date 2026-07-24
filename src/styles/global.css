@@ -337,3 +337,29 @@ header nav .internal-links a:hover::after { transform: scaleX(1); }
     padding: 16px 20px !important;
   }
 }
+/* ── Button color refinement: Amazon vs official-site ── */
+/* Amazon: bright amber-gold, smooth */
+.prose a[href*='amazon.com'] {
+  background: linear-gradient(135deg, #ffb547, #ff9800) !important;
+  border-bottom: 3px solid #c77700 !important;
+  box-shadow: 0 4px 14px rgba(255,152,0,0.4) !important;
+}
+.prose a[href*='amazon.com']:hover {
+  box-shadow: 0 10px 28px rgba(255,152,0,0.55) !important;
+}
+
+/* Official-site (Awin) buttons: smoother coral-orange */
+.prose a[href*='awin1.com'] {
+  background: linear-gradient(135deg, #ff8a5c, #f2691f) !important;
+  border-bottom: 3px solid #c24f12 !important;
+  box-shadow: 0 4px 14px rgba(242,105,31,0.38) !important;
+}
+.prose a[href*='awin1.com']:hover {
+  box-shadow: 0 10px 28px rgba(242,105,31,0.55) !important;
+}
+
+/* Soften the pulse slightly for a smoother premium feel */
+@keyframes cta-pulse {
+  0%, 100% { box-shadow: 0 4px 14px rgba(240,140,50,0.35); }
+  50% { box-shadow: 0 4px 22px rgba(240,140,50,0.6); }
+}
