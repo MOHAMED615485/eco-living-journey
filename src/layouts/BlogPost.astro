@@ -5,6 +5,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import PowerAdvisorChat from '../components/PowerAdvisorChat.astro';
 import EmailPopup from '../components/EmailPopup.astro';
+import PremiumLeadWidget from '../components/PremiumLeadWidget.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
@@ -262,7 +263,8 @@ document.addEventListener('DOMContentLoaded', function() {
       document.body.appendChild(s);
     });
   </script>
-</body>
+		<PremiumLeadWidget />
+	</body>
 </html>
 
 

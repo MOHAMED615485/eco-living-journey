@@ -346,7 +346,7 @@
   }
 </style>
 
-<script>
+<script is:inline>
   var pwData = {};
   var pwProduct = null;
   var pwArticle = document.title;
@@ -522,6 +522,8 @@
     localStorage.setItem('pwDone', '1');
   }
 
+  window.pwAnswer = pwAnswer;
+  window.pwMinimize = pwMinimize;
   function pwMinimize() {
     document.getElementById('pw-main').style.display = 'none';
     var bubble = document.getElementById('pw-bubble');
