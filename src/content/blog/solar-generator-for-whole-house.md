@@ -199,36 +199,10 @@ Step 1: List every appliance you need during an outage with its running wattage.
 
 
 <!-- end-read-cta -->
-<style>
-.cta-premium-btn {
-  display: inline-block;
-  background: linear-gradient(135deg, #f39c12, #e67e22);
-  color: #ffffff !important;
-  padding: 16px 36px;
-  border-radius: 10px;
-  font-weight: bold;
-  font-size: 1.1em;
-  text-decoration: none;
-  box-shadow: 0 4px 14px rgba(230,126,34,0.45);
-  border-bottom: 3px solid #b35c0f;
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
-  animation: cta-pulse 2.5s ease-in-out infinite;
-}
-.cta-premium-btn:hover {
-  transform: scale(1.07) translateY(-2px);
-  box-shadow: 0 10px 28px rgba(230,126,34,0.6);
-  animation: none;
-}
-@keyframes cta-pulse {
-  0%, 100% { box-shadow: 0 4px 14px rgba(230,126,34,0.45); }
-  50% { box-shadow: 0 4px 24px rgba(230,126,34,0.75); }
-}
-</style>
-
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
 <h3 style="color:#2d6a4f;margin-top:0;">🧰 Made it this far? You're serious about getting this right.</h3>
 <p>Sizing a whole-house system is where most people overspend by $1,000+ or under-buy and regret it. I put every worksheet, wattage table, and sizing formula from my 73 days of testing into one toolkit so you can skip the guesswork.</p>
 <p><strong>Solar Generator Buyer's Toolkit — $19</strong> — sizing calculator, model comparison sheets, and the exact checklist I use before recommending any unit.</p>
-<a href="https://ethanecoliving.gumroad.com/l/solar-generator-toolkit-2026" class="cta-premium-btn">Get the Buyer's Toolkit →</a>
+<a href="https://ethanecoliving.gumroad.com/l/solar-generator-toolkit-2026" >Get the Buyer's Toolkit →</a>
 <p style="font-size:0.85em;color:#555;margin-bottom:0;margin-top:12px;">Instant download. If it doesn't save you at least the $19 on your purchase, email me at ethan@ecoliving-journey.com.</p>
 </div>
