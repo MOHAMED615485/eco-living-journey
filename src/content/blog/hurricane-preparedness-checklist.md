@@ -268,3 +268,13 @@ Keep $300–$500 in small bills ($20s and smaller) in your kit. ATMs lose power 
 ---
 
 *Ethan Reynolds has spent 73 days field-testing solar generators and emergency power systems. He bought all equipment reviewed on this site with his own money. Last updated June 2026.*
+
+
+<!-- end-read-cta -->
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
+<h3 style="color:#2d6a4f;margin-top:0;">🌀 Don't close this tab and forget it.</h3>
+<p>Reading a checklist feels like preparing. Printing one and putting it on the fridge actually is. I turned everything on this page — plus the food, water, power, and medication worksheets — into a kit you can print tonight before the next storm has a name.</p>
+<p><strong>72-Hour Power Outage Survival Kit — $27</strong> — printable checklists, family emergency plan templates, and hour-by-hour outage protocols.</p>
+<a href="https://ethanecoliving.gumroad.com/l/72-hour-power-outage-survival-kit" style="display:inline-block;background:#2d6a4f;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;">Get the 72-Hour Kit →</a>
+<p style="font-size:0.85em;color:#555;margin-bottom:0;margin-top:12px;">Instant download. Storm season is June–November — the best time to prepare was yesterday.</p>
+</div>

@@ -196,3 +196,13 @@ Step 1: List every appliance you need during an outage with its running wattage.
 ---
 
 *All watt measurements were taken with a Kill A Watt meter on real appliances. Ethan Reynolds tested solar generator systems over 73 days including a 9-day simulated whole-home outage scenario. Equipment purchased with his own money. Last updated June 2026.*
+
+
+<!-- end-read-cta -->
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
+<h3 style="color:#2d6a4f;margin-top:0;">🧰 Made it this far? You're serious about getting this right.</h3>
+<p>Sizing a whole-house system is where most people overspend by $1,000+ or under-buy and regret it. I put every worksheet, wattage table, and sizing formula from my 73 days of testing into one toolkit so you can skip the guesswork.</p>
+<p><strong>Solar Generator Buyer's Toolkit — $19</strong> — sizing calculator, model comparison sheets, and the exact checklist I use before recommending any unit.</p>
+<a href="https://ethanecoliving.gumroad.com/l/solar-generator-toolkit-2026" style="display:inline-block;background:#2d6a4f;color:#ffffff;padding:14px 28px;border-radius:8px;font-weight:bold;text-decoration:none;">Get the Buyer's Toolkit →</a>
+<p style="font-size:0.85em;color:#555;margin-bottom:0;margin-top:12px;">Instant download. If it doesn't save you at least the $19 on your purchase, email me at ethan@ecoliving-journey.com.</p>
+</div>
