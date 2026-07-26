@@ -28,7 +28,7 @@
     <!-- Trust bar -->
     <div id="pw-trust">
       <span>✓ Expert Tested</span>
-      <span>⭐ 5/5 Reviews</span>
+      <span>⚡ 73-Day Field Test</span>
       <span>🔒 Private</span>
     </div>
 
@@ -59,7 +59,7 @@
         <!-- Buy now CTA -->
         <div id="pw-buy-box" style="display:none">
           <a id="pw-buy-link" href="#" target="_blank" rel="noopener sponsored" class="pw-cta-btn">
-            View Best Price on Amazon →
+            Check today's price →
           </a>
           <p style="font-size:11px;color:#888;margin:8px 0 0;text-align:center">Opens in new tab • Affiliate link</p>
           <button class="pw-secondary-btn" onclick="pwShowIntent()">← Back</button>
@@ -354,6 +354,7 @@
 
   var PRODUCTS = {
     jackery: {
+      img: '/products/jackery-1000v2.webp',
       name: 'Jackery Explorer 1000 V2',
       specs: '1,070Wh • 2,000W output • 8-10hr runtime',
       price: '~$700',
@@ -361,6 +362,7 @@
       article: '/blog/jackery-explorer-1000-v2-review/'
     },
     ecoflow: {
+      img: '/products/ecoflow-delta3plus.webp',
       name: 'EcoFlow DELTA 3 Plus',
       specs: '1,024Wh • 1,800W output • Fast charge in 1hr',
       price: '~$800',
@@ -368,45 +370,37 @@
       article: '/blog/ecoflow-delta-3-plus-review/'
     },
     bluetti: {
+      img: '/products/bluetti-ac200l.webp',
       name: 'Bluetti AC200L',
       specs: '2,048Wh • 2,400W output • 12+ hr runtime',
       price: '~$1,400',
-      amazon: 'https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200p-l',
+      amazon: 'https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l',
       article: '/blog/bluetti-ac200l-review/'
     }
   };
 
   var QUESTIONS = [
-    {
-      id: 'need',
-      title: 'What do you need to power?',
-      hint: 'This helps us match you to the right capacity generator.',
-      options: [
-        { text: '🥶 Fridge only — keep food safe', value: 'fridge' },
-        { text: '❄️ Fridge + chest freezer', value: 'both' },
-        { text: '🏠 Multiple appliances (lights, devices, CPAP...)', value: 'multiple' }
-      ]
-    },
-    {
-      id: 'duration',
-      title: 'How long do outages last in your area?',
-      hint: 'Longer outages need bigger batteries. Be honest — it matters!',
-      options: [
-        { text: '⚡ A few hours — back up same day', value: 'short' },
-        { text: '🕐 1-2 days — common storms', value: 'medium' },
-        { text: '⏰ 2+ days — rural or severe weather area', value: 'long' }
-      ]
-    },
-    {
-      id: 'budget',
-      title: "What's your budget range?",
-      hint: 'We only recommend generators we\'ve personally tested.',
-      options: [
-        { text: '💰 Under $800 — value focused', value: 'low' },
-        { text: '💵 $800–$1,200 — best performance', value: 'mid' },
-        { text: '💸 $1,200+ — maximum capacity', value: 'high' }
-      ]
-    }
+    { title: 'What is the most important thing to keep running?', hint: 'Pick what you would protect first in an outage.', id: 'need', options: [
+      { text: '🏥 Medical device (CPAP, oxygen...)', value: 'medical' },
+      { text: '🥺 Fridge or chest freezer', value: 'fridge' },
+      { text: '📱 Phones, wifi, and lights', value: 'basics' },
+      { text: '🏠 Several of these at once', value: 'multiple' }
+    ]},
+    { title: 'Longest outage you are planning for?', hint: 'Think about the worst storm your area gets.', id: 'duration', options: [
+      { text: '⚡ A few hours', value: 'short' },
+      { text: '🕐 1-2 days', value: 'medium' },
+      { text: '⏰ 2+ days', value: 'long' }
+    ]},
+    { title: 'Anything here matter to you?', hint: 'Optional - helps me fine-tune the pick.', id: 'factor', options: [
+      { text: '🎒 Light enough to carry easily', value: 'light' },
+      { text: '🔌 Fastest possible recharge', value: 'fast' },
+      { text: '🤷 No special needs', value: 'none' }
+    ]},
+    { title: 'Budget comfort zone?', hint: 'Honest answer gets an honest recommendation.', id: 'budget', options: [
+      { text: '💰 Keep it minimal', value: 'low' },
+      { text: '💵 $700-$1,200', value: 'mid' },
+      { text: '💸 Whatever does the job right', value: 'high' }
+    ]}
   ];
 
   var currentQ = 0;
@@ -414,17 +408,41 @@
   function pwGetRecommendation() {
     var need = pwData['need'];
     var duration = pwData['duration'];
+    var factor = pwData['factor'];
     var budget = pwData['budget'];
 
-    if (need === 'multiple' || duration === 'long' || budget === 'high') {
-      return { product: PRODUCTS.bluetti, why: 'Your needs require maximum capacity. The Bluetti AC200L handles heavy loads and long outages with ease.' };
-    } else if (budget === 'low' || duration === 'short') {
-      return { product: PRODUCTS.jackery, why: 'For your use case, the Jackery 1000 V2 is the best value — reliable, quiet, and easy to use.' };
-    } else {
-      return { product: PRODUCTS.ecoflow, why: 'The EcoFlow DELTA 3 Plus charges the fastest (1hr!) and handles surge loads better than anything in its class.' };
+    // Honest floor: basics + short outage = don't overspend
+    if (need === 'basics' && duration === 'short') {
+      return { floor: true, why: 'Honest answer: you do not need a $700+ unit. For phones, wifi and lights through a few hours, a small 300Wh-class power station (~$250) covers you with room to spare. My buying guide below shows exactly what to look for - and what not to overpay for.' };
     }
-  }
 
+    // Medical: surge-safe reliability first, never budget-first
+    if (need === 'medical') {
+      if (duration === 'long') {
+        return { product: PRODUCTS.bluetti, why: 'For medical equipment through 2+ day outages, capacity is safety. The AC200L is the unit I trust for multi-day medical backup - and my full review covers the exact runtimes I measured.' };
+      }
+      return { product: PRODUCTS.ecoflow, why: 'For CPAP and medical gear, surge handling and recharge speed matter most. The DELTA 3 Plus recharges in ~1 hour - if power flickers back briefly, you are full again fast. This is the setup I recommend in my medical backup guide.' };
+    }
+
+    // Fridge/freezer: Jackery proven 71/73 nights, unless long outages
+    if (need === 'fridge') {
+      if (duration === 'long') {
+        return { product: PRODUCTS.bluetti, why: 'A fridge through 2+ days needs serious watt-hours. The AC200L has the capacity to go the distance without rationing.' };
+      }
+      return { product: PRODUCTS.jackery, why: 'This is the exact unit that ran my chest freezer 71 of 73 nights in testing. For fridge duty under 2 days, it is the best value I have measured.' };
+    }
+
+    // Multiple appliances
+    if (need === 'multiple' || duration === 'long') {
+      return { product: PRODUCTS.bluetti, why: 'Running several loads at once is where smaller units tap out. The AC200Ls 2,048Wh and 2,400W output give you real headroom - my review shows the exact loads I ran together.' };
+    }
+
+    // Factor tiebreakers
+    if (factor === 'fast') {
+      return { product: PRODUCTS.ecoflow, why: 'You wanted fast recharge - the DELTA 3 Plus is the speed champion: ~1 hour from empty. Nothing else I tested comes close.' };
+    }
+    return { product: PRODUCTS.jackery, why: 'Light, quiet, and proven - it held 98.4% battery health after months of my testing. For most homes this is the smart default.' };
+  }
   function pwRenderQuestion() {
     if (currentQ >= QUESTIONS.length) {
       pwShowResult();
@@ -455,19 +473,31 @@
 
   function pwShowResult() {
     var rec = pwGetRecommendation();
-    pwProduct = rec.product;
-
     document.getElementById('pw-step-quiz').style.display = 'none';
     document.getElementById('pw-step-result').style.display = 'block';
-
+    if (rec.floor) {
+      pwProduct = { name: 'Small power station (300Wh class)', amazon: '', article: '/blog/best-solar-generator-under-1000/' };
+      document.getElementById('pw-recommendation-box').innerHTML =
+        '<h4>💡 My honest take</h4>' +
+        '<p>' + rec.why + '</p>';
+      var buyBtn = document.getElementById('pw-buy-link');
+      if (buyBtn) buyBtn.style.display = 'none';
+      var artBtn = document.getElementById('pw-article-link');
+      if (artBtn) { artBtn.href = pwProduct.article; artBtn.textContent = '📖 Show me what to look for (free guide)'; }
+      return;
+    }
+    pwProduct = rec.product;
+    var imgHtml = pwProduct.img ? '<img src="' + pwProduct.img + '" alt="' + pwProduct.name + '" style="display:block;margin:0 auto 10px;max-width:200px;width:100%;height:auto;border-radius:10px;box-shadow:0 4px 14px rgba(0,0,0,0.12);">' : '';
     document.getElementById('pw-recommendation-box').innerHTML =
+      imgHtml +
       '<h4>✅ Our pick for you: ' + pwProduct.name + '</h4>' +
       '<p>' + pwProduct.specs + ' &nbsp;·&nbsp; <strong>' + pwProduct.price + '</strong></p>' +
-      '<p class="pw-rec-why">' + rec.why + '</p>';
-
-    pwShowIntent();
+      '<p>' + rec.why + '</p>';
+    var buyBtn2 = document.getElementById('pw-buy-link');
+    if (buyBtn2) { buyBtn2.style.display = ''; buyBtn2.href = pwProduct.amazon; }
+    var artBtn2 = document.getElementById('pw-article-link');
+    if (artBtn2) artBtn2.href = pwProduct.article;
   }
-
   function pwShowIntent() {
     document.getElementById('pw-intent-box').style.display = 'block';
     document.getElementById('pw-buy-box').style.display = 'none';
