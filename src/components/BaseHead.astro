@@ -15,6 +15,11 @@ const { title, description, image = '/social-preview.webp', type = 'website', ro
 ---
 
 <meta charset="utf-8" />
+<script is:inline>
+if (location.hostname.endsWith('.pages.dev')) {
+  location.replace('https://ecoliving-journey.com' + location.pathname + location.search);
+}
+</script>
 {robots && <meta name="robots" content={robots} />}
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <link rel="icon" type="image/x-icon" href="/favicon.ico" />
