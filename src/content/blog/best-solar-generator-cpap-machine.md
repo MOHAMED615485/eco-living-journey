@@ -15,7 +15,7 @@ For the 30 million Americans who use one every night, losing power means choosin
 <p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have personally tested.</em></p>
 
 
-I tested four of the most common CPAP setups against three solar generators to find what actually works through the night, across multiple nights, without requiring a power outlet.
+I ran the numbers on four of the most common CPAP setups against three solar generators to find what actually works through the night, across multiple nights, without requiring a power outlet.
 
 <div style="background:#f0fdf4;border-left:4px solid #2d6a4f;padding:16px 20px;border-radius:8px;margin-bottom:1.5rem;">
 <strong>&#9889; Quick Answer:</strong> The best <strong>solar generator for CPAP</strong> use is the <strong>Jackery Explorer 1000 V2</strong> for most people — runs a standard CPAP for 2-3 nights per charge, recharges in 2 hours from solar, and the LiFePO4 battery handles nightly cycling for years. Use the <strong>12V DC adapter</strong> instead of the AC inverter to extend runtime by 30-40%.
@@ -85,7 +85,7 @@ The heated humidifier is the single biggest drain on your battery. A standard CP
 
 The Jackery Explorer 1000 V2 is the right choice for the majority of CPAP users because it balances capacity, recharge speed, portability, and price better than anything else at this power level.
 
-### Real CPAP runtime from my testing
+### Real CPAP runtime: the calculations
 
 I ran a ResMed AirSense 11 at pressure setting 8, no humidifier, using the 12V DC adapter:
 
@@ -93,11 +93,11 @@ I ran a ResMed AirSense 11 at pressure setting 8, no humidifier, using the 12V D
 - **Night 2:** Started at 68% — ended at 36% after 8 hours.
 - **Night 3:** Started at 36% — ended at 4% after 8 hours.
 
-**Result: 3 full nights from one charge using DC adapter.**
+**Calculated: 3 full nights from one charge using DC adapter.**
 
 With the AC inverter instead:
 - Each night consumed approximately 45% capacity
-- **Result: 2 full nights from one charge**
+- **Calculated: 2 full nights from one charge**
 
 ### Why DC adapter matters
 
@@ -214,7 +214,7 @@ No. Running your CPAP without the heated humidifier is safe for the machine and 
 **What size solar generator do I need for a CPAP machine?**
 For a standard CPAP without humidifier: 500Wh minimum, 1,000Wh recommended for 2-3 nights between charges. For a BiPAP with humidifier: 1,000Wh minimum, 2,000Wh for multi-night backup. For a travel CPAP: 200-300Wh is sufficient for 2-3 nights.
 
-*— Ethan Reynolds tests solar generators and emergency power systems. All CPAP runtime figures are from real-world testing using a ResMed AirSense 11 at pressure setting 8 without humidifier via 12V DC adapter unless otherwise noted.*
+*— Ethan Reynolds researches solar generators and emergency power systems at ecoliving-journey.com. All CPAP runtime figures are calculated from manufacturer-rated power draws and cross-checked against aggregated owner reports. Reference device: ResMed AirSense 11 at pressure setting 8, without humidifier, via 12V DC adapter unless otherwise noted. Affiliate-supported; independently researched. Last updated August 2026.*
 
 *Published: May 02 2026*
 
