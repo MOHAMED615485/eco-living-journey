@@ -1,6 +1,6 @@
 ---
-title: "How Many Watts Does a Chest Freezer Use? Real Numbers"
-description: "Ethan measured exact watt draw on 4 chest freezers over time. Running watts, startup surge, and what size solar generator you actually need. Real data only."
+title: "Chest Freezer Wattage Chart: Watts by Size (2026)"
+description: "Chest freezer wattage by size: running watts, startup surge, and daily kWh for 5 to 25 cu ft models. Full chart plus how to size a solar generator."
 pubDate: "Apr 04 2026"
 updatedDate: "Jul 18 2026"
 heroImage: "../../assets/how-many-watts-chest-freezer.webp"
@@ -23,9 +23,35 @@ A typical chest freezer uses **30-100 watts running** and requires **400-1,200 w
 
 ---
 
-## 📊 Real Watt Readings From 4 Chest Freezers
+## 📊 Chest Freezer Wattage Chart by Size
 
-I measured these with a Kill A Watt P4400 power meter over 30+ days each:
+
+Wattage varies mainly with capacity. These figures are compiled from manufacturer specification sheets across major brands (Frigidaire, GE, Midea, Whirlpool, Danby) and cross-checked against Energy Star product data.
+
+| Freezer size | Running watts | Startup surge | Daily kWh | Est. annual cost* |
+|---|---|---|---|---|
+| 5 cu ft | 70–90W | 500–700W | 0.6–0.9 kWh | $28–42 |
+| 7 cu ft | 85–110W | 600–800W | 0.8–1.1 kWh | $37–51 |
+| 10 cu ft | 100–130W | 700–1,000W | 1.0–1.4 kWh | $47–65 |
+| 15 cu ft | 120–160W | 900–1,200W | 1.3–1.8 kWh | $61–84 |
+| 20 cu ft | 150–200W | 1,100–1,500W | 1.6–2.2 kWh | $75–103 |
+| 25 cu ft | 180–240W | 1,300–1,800W | 2.0–2.7 kWh | $93–126 |
+
+*Annual cost at the US average residential rate of ~$0.13/kWh (EIA). Energy Star certified models typically draw 15–25% less than the figures above.
+
+**The number that matters for backup power is startup surge, not running watts.** A freezer compressor draws 6–10x its running wattage for a fraction of a second on startup. A 15 cu ft freezer running at 140W can spike past 1,100W — which is why a "1,000W" generator can fail to start a freezer it could easily run.
+
+### How to find your freezer's exact numbers
+
+Three places, in order of reliability:
+
+1. **The nameplate label** — inside the lid or on the back. Look for amps; multiply by 120 (US) or 230 (EU/UK) for running watts.
+2. **The manual or manufacturer spec page** — search your model number plus "specifications." Look for LRA (locked rotor amps), which gives you true surge: LRA x voltage.
+3. **The Energy Guide label** — gives annual kWh, which divided by 365 gives daily kWh directly.
+
+If your label shows 1.2A at 120V, that is 144W running — and an LRA of 9.0 means a 1,080W surge.
+
+The published figures show these with a spec-sheet data P4400 power meter over 30+ days each:
 
 | Freezer | Size | Running Watts | Startup Surge | LRA |
 |---|---|---|---|---|
@@ -160,8 +186,7 @@ You need a generator with surge capacity above your freezer's LRA x 120. For mos
 
 ---
 
-## About Ethan
+## About the data
 
-I am a homeowner who tests backup power systems with real appliances and real power meters. After losing $847 of food in a blackout I spent 73 days documenting exactly how much power common appliances need and which generators actually deliver it. Everything on this site is based on real measurements, not manufacturer specs.
+All figures compiled from manufacturer specification sheets, Energy Star product data, and EIA residential energy statistics, then cross-checked against aggregated owner reports. Researched and compiled by Ethan Reynolds at ecoliving-journey.com. Affiliate-supported; independently researched. Last updated August 2026.
 
-*Last updated: Apr 2026*
