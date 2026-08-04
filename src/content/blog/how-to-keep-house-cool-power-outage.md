@@ -1,13 +1,17 @@
 ---
 title: "How to Keep Your House Cool During a Power Outage (No AC Needed)"
 description: "Keep your house cool during a power outage without AC — 12 proven strategies that work in summer heat, plus the right backup power setup if you need to run a window AC."
-pubDate: 2026-06-04
-updatedDate: 2026-06-04
-heroImage: "/src/assets/how-to-keep-house-cool-power-outage.webp"
+pubDate: 2026-08-04
+updatedDate: 2026-08-04
+heroImage: "../../assets/how-to-keep-house-cool-power-outage.webp"
 category: "Power Outage Prep"
+faqSchema: true
 ---
 
 The summer I spent four days without power during a heat wave taught me something doctors do not always say clearly enough: heat kills faster than almost anything else that can go wrong during an outage.
+
+<div style="background:#eaf5ef;border-left:4px solid #2d6a4f;padding:12px 16px;border-radius:0 8px 8px 0;font-size:0.9em;">Affiliate disclosure: I may earn a commission if you buy through links on this page, at no extra cost to you. Recommendations are based on published specifications and aggregated owner reports.</div>
+
 
 In 2023, the CDC reported over 1,300 heat-related deaths in the United States — and heat waves are getting longer and more intense. A power outage during a July heat wave in Florida, Texas, or the Southwest is not an inconvenience. It is a genuine health emergency, especially for elderly adults, young children, and people with medical conditions.
 
@@ -92,7 +96,7 @@ A quality battery-powered fan draws only 20-50W — dramatically less than AC �
 <span style="font-size:1.4rem;">&#9889;</span>
 <div>
 <strong style="color:#92400e;font-size:0.95rem;">Want to run a window AC instead of just a fan?</strong><br/>
-<span style="font-size:0.88rem;color:#444;">A 5,000 BTU window AC surges to 1,200-1,500W at startup. Most generators trip on this. I tested which units actually handle it.</span><br/>
+<span style="font-size:0.88rem;color:#444;">A 5,000 BTU window AC surges to 1,200-1,500W at startup. Most generators trip on this. Here is which units have the surge headroom to handle it.</span><br/>
 <a href="/blog/can-solar-generator-power-window-ac/" style="color:#92400e;font-weight:700;font-size:0.88rem;text-decoration:underline;">→ Can a Solar Generator Run a Window AC? (Real Test)</a>
 </div>
 </div>
@@ -143,7 +147,7 @@ For elderly adults, infants, and people with heat-sensitive medical conditions �
 **The Bluetti AC200L** handles window AC without any modifications and provides 4+ hours of runtime.
 
 <div class="cta-container">
-<a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — EcoFlow DELTA 3 Plus →</a>
+<a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — EcoFlow DELTA 3 Plus →</a>
 </div>
 
 <div class="cta-container">
@@ -170,6 +174,15 @@ Florida summer heat + power outage is one of the most dangerous combinations in 
 </div>
 
 ---
+
+
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
+<h3 style="color:#2d6a4f;margin-top:0;">☀️ Heat emergencies do not wait for you to get organized</h3>
+<p>Knowing the tricks is one thing. Having the plan printed and on the fridge before the grid goes down in August is another. My 72-Hour Kit covers heat, water, food, power and medical in printable checklists anyone in the house can follow.</p>
+<p><strong>72-Hour Power Outage Survival Kit &mdash; $27</strong></p>
+<a href="https://ethanecoliving.gumroad.com/l/72-hour-power-outage-survival-kit">Get the 72-Hour Kit &rarr;</a>
+</div>
+
 
 ## Frequently Asked Questions
 
