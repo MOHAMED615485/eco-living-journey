@@ -1,9 +1,9 @@
 ---
 title: "Best Solar Generator for Medical Equipment 2026 (CPAP, Oxygen, Insulin)"
-description: "The best solar generator for CPAP machines, oxygen concentrators, insulin storage, and nebulizers in 2026. Real runtime data and safe operation guide for medical device users."
+description: "Solar generators for CPAP, oxygen concentrators, insulin storage and nebulizers: power draw by device, runtime math, and pure sine wave requirements."
 pubDate: 2026-07-21
 updatedDate: 2026-07-21
-heroImage: "/src/assets/best-solar-generator-medical-equipment.webp"
+heroImage: "../../assets/best-solar-generator-medical-equipment.webp"
 category: "Best Solar Generators"
 faqSchema: true
 ---
@@ -100,7 +100,7 @@ The EcoFlow DELTA 3 Plus is my top recommendation for most medical device users.
 - Lightweight at 12.3kg — portable between rooms and for travel
 
 <div class="cta-container">
-<a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — EcoFlow DELTA 3 Plus →</a>
+<a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — EcoFlow DELTA 3 Plus →</a>
 </div>
 
 ---
@@ -116,7 +116,7 @@ For CPAP-only users on a budget, the Jackery Explorer 1000 V2 delivers everythin
 **Limitation:** Slower wall recharge at 1.7 hours vs EcoFlow's 58 minutes. For users who experience rolling outages where grid power returns briefly, that recharge speed difference matters.
 
 <div class="cta-container">
-<a href="https://amzn.to/47Esd8d" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — Jackery Explorer 1000 V2 →</a>
+<a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — Jackery Explorer 1000 V2 →</a>
 </div>
 
 ---
@@ -197,6 +197,10 @@ Build Your Medical Emergency Kit with SurviveX →
 </div>
 
 ---
+
+
+
+*Device power figures are compiled from manufacturer specification sheets and cross-checked against aggregated owner reports. This article is not medical advice — confirm backup power requirements for your specific device with your equipment supplier or clinician.*
 
 ## Frequently Asked Questions
 
