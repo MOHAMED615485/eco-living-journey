@@ -1,6 +1,6 @@
 ---
 title: "Solar Generator for Whole House: What Size Do You Need?"
-description: "Can a solar generator power a whole house? Real watt measurements, what's actually possible, and what size you need for whole house backup in 2026."
+description: "Can a solar generator power a whole house? The real wattage math, what is actually possible, and what size you need for whole house backup in 2026."
 pubDate: 2026-06-25
 heroImage: ../../assets/solar-generator-for-whole-house-hero.webp
 category: "Solar Generators"
@@ -9,7 +9,7 @@ tags: ["solar generator for whole house", "whole house backup power", "solar gen
 ---
 
 <div class="quick-answer">
-**Quick Answer:** A single portable solar generator cannot power an entire house. A typical US home uses 30–50 kWh per day — that's 30,000–50,000 Wh. The largest portable solar generators hold 2,000–5,000 Wh. You need either a whole-home battery system (Tesla Powerwall, $10,000+) or a strategic partial-home approach: run your critical loads only (refrigerator + lights + CPAP + devices) from a 2,000–3,000 Wh portable solar generator. That's what 73 days of testing taught me.
+**Quick Answer:** A single portable solar generator cannot power an entire house. A typical US home uses 30–50 kWh per day — that's 30,000–50,000 Wh. The largest portable solar generators hold 2,000–5,000 Wh. You need either a whole-home battery system (Tesla Powerwall, $10,000+) or a strategic partial-home approach: run your critical loads only (refrigerator + lights + CPAP + devices) from a 2,000–3,000 Wh portable solar generator. That is what the math actually supports.
 </div>
 
 <p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have personally tested.</em></p>
@@ -18,13 +18,13 @@ Every week someone asks me: "Can I run my whole house on a solar generator?"
 
 The honest answer is: probably not — but you can run everything that actually matters, and that's more useful than the marketing answer most articles give you.
 
-I spent 73 days testing exactly what's possible, measuring every circuit in my home with a Kill A Watt meter, and running actual solar generators through simulated whole-home scenarios. Here's the real math, not the spec sheet version.
+I worked through exactly what is possible using published appliance draws, EIA household consumption data, and the rated output of every major portable unit on the market. Here's the real math, not the spec sheet version.
 
 ## 🏠 What "Whole House" Actually Uses
 
-Before buying anything, you need to know your home's actual power consumption. Here's what I measured in my 1,800 sq ft Florida home:
+Before buying anything, you need to know your home's actual power consumption. Here is a typical 1,800 sq ft US home, using EIA averages and manufacturer-rated draws:
 
-### Daily energy breakdown (real measurements):
+### Daily energy breakdown (typical US household):
 
 | Load | Running Watts | Hours/Day | Daily Wh |
 |---|---|---|---|
@@ -62,15 +62,15 @@ The smarter question isn't "can I run my whole house" — it's "what do I actual
 
 **Running these critical loads:** 600W × 24 hours = 14,400Wh/day. A 2,000Wh solar generator with 400W of solar panels runs these loads in a cycle — 3 hours of AC power, 2 hours of solar recharging — giving you nearly continuous coverage of what actually matters.
 
-This is the approach I used during my 9-day simulated outage. I didn't run my AC, water heater, or dryer. I ran everything that mattered, and I was comfortable.
+This is the approach that holds up in a multi-day outage. You do not run the AC, water heater, or dryer. You run everything that matters, and it is enough.
 
 ## 🏆 Best Solar Generators for Whole House Critical Loads
 
 | Model | Capacity | Output | Rating | Price | Best For |
 |---|---|---|---|---|---|
-| [EcoFlow DELTA Pro](https://amzn.to/41D10iO) | 3,600Wh | 3,600W | ★★★★★ (5.0) | $2,200–2,800 | Best critical loads coverage |
-| [Bluetti AC200L](https://amzn.to/4sFpOCG) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | $1,400–1,600 | Best value for critical loads |
-| [EcoFlow DELTA 2 Max](https://amzn.to/41D10iO) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | $1,200–1,500 | Fastest recharging |
+| [EcoFlow DELTA Pro](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) | 3,600Wh | 3,600W | ★★★★★ (5.0) | $2,200–2,800 | Best critical loads coverage |
+| [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | $1,400–1,600 | Best value for critical loads |
+| [EcoFlow DELTA 2 Max](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | $1,200–1,500 | Fastest recharging |
 
 ## 📏 Sizing Guide by Home Size and Goal
 
@@ -134,9 +134,9 @@ If you're investing in a serious backup system, solar panels determine how long 
 - Typical residential solar install: 6–10kW, $15,000–25,000 before incentives
 - Federal solar tax credit: 30% — brings that to $10,500–17,500 net
 
-## 🏡 My Honest Recommendation for a Florida Homeowner
+## 🏡 My Honest Recommendation for a Hurricane-Belt Homeowner
 
-After 73 days of testing, here's what I'd actually tell a neighbor:
+After running the numbers across every unit in this class, here is what I would actually tell a neighbour:
 
 **Buy a Bluetti AC200L ($1,400) + two 200W solar panels ($300) = $1,700 total.**
 
@@ -148,7 +148,7 @@ For full guidance on sizing your specific setup, see the [Solar Generator Sizing
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
   <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">🔋 Solar Generator Buyer's Toolkit — $19</p>
-  <p style="margin:0 0 12px;font-size:0.95rem;">Includes a whole-house critical loads worksheet, appliance watt reference, and a sizing calculator built from 73 days of real testing. Know your numbers before you spend $1,500+.</p>
+  <p style="margin:0 0 12px;font-size:0.95rem;">Includes a whole-house critical loads worksheet, appliance watt reference, and a sizing calculator built from manufacturer specs and owner-reported performance. Know your numbers before you spend $1,500+.</p>
   <a href="https://ethanecoliving.gumroad.com/l/solar-generator-toolkit-2026" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Toolkit — $19 →</a>
 </div>
 
@@ -195,13 +195,13 @@ Step 1: List every appliance you need during an outage with its running wattage.
 
 ---
 
-*All watt measurements were taken with a Kill A Watt meter on real appliances. Ethan Reynolds tested solar generator systems over 73 days including a 9-day simulated whole-home outage scenario. Equipment purchased with his own money. Last updated June 2026.*
+*All wattage figures are compiled from manufacturer specification sheets, Energy Star product data, and EIA residential energy statistics, then cross-checked against aggregated owner reports. Researched and compiled by Ethan Reynolds at ecoliving-journey.com. Affiliate-supported; independently researched. Last updated August 2026.*
 
 
 <!-- end-read-cta -->
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
 <h3 style="color:#2d6a4f;margin-top:0;">🧰 Made it this far? You're serious about getting this right.</h3>
-<p>Sizing a whole-house system is where most people overspend by $1,000+ or under-buy and regret it. I put every worksheet, wattage table, and sizing formula from my 73 days of testing into one toolkit so you can skip the guesswork.</p>
+<p>Sizing a whole-house system is where most people overspend by $1,000+ or under-buy and regret it. I put every worksheet, wattage table, and sizing formula from months of spec research and owner reports into one toolkit so you can skip the guesswork.</p>
 <p><strong>Solar Generator Buyer's Toolkit — $19</strong> — sizing calculator, model comparison sheets, and the exact checklist I use before recommending any unit.</p>
 <a href="https://ethanecoliving.gumroad.com/l/solar-generator-toolkit-2026" >Get the Buyer's Toolkit →</a>
 <p style="font-size:0.85em;color:#555;margin-bottom:0;margin-top:12px;">Instant download. If it doesn't save you at least the $19 on your purchase, email me at ethan@ecoliving-journey.com.</p>
