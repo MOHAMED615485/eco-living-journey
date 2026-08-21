@@ -76,7 +76,7 @@ The Bluetti runs nearly twice as long because it has twice the capacity. For out
 
 ### Solar recharge speed
 
-This is where EcoFlow wins decisively. I tested both units with identical 400W solar panel setups:
+This is where EcoFlow wins decisively. Compared with identical 400W solar panel setups:
 
 | Unit | Time to full from 0% | Time to 80% |
 |:--|:--|:--|

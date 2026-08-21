@@ -1,6 +1,6 @@
 ---
 title: "Emergency Water Storage: How Much You Really Need"
-description: "How much water to store per person, how to store it safely, and how long it lasts. A field-tested emergency water plan for outages, hurricanes, and disasters."
+description: "How much water to store per person, how to store it safely, and how long it lasts. A practical emergency water plan for outages, hurricanes, and disasters."
 pubDate: "Jul 07 2026"
 heroImage: "../../assets/emergency-water-storage.webp"
 category: "Emergency Preparedness"

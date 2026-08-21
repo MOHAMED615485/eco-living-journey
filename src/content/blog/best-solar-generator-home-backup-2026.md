@@ -49,7 +49,7 @@ I wrote a full breakdown on [how to calculate surge watts for your freezer here]
 <span style="font-size:1.4rem;">⚡</span>
 <div>
 <strong style="color:#92400e;font-size:0.95rem;">Still confused about surge vs running watts?</strong><br/>
-<span style="font-size:0.88rem;color:#444;">This single number determines whether your generator trips at 2AM or keeps running. I tested all three brands specifically on this.</span><br/>
+<span style="font-size:0.88rem;color:#444;">This single number determines whether your generator trips at 2AM or keeps running. Here is how all three brands compare specifically on this.</span><br/>
 <a href="/blog/surge-vs-running-watts/" style="color:#92400e;font-weight:700;font-size:0.88rem;text-decoration:underline;">→ Surge Watts vs Running Watts: What Every Homeowner Must Know</a>
 </div>
 </div>
@@ -91,7 +91,7 @@ It has a 1,070Wh battery and a 2,000W AC output. In practice, the surge handling
 
 So before you buy, [check your freezer's LRA number](/blog/what-is-lra-on-a-freezer/). If it is under 9.0, the Jackery handles it fine. Above that, go with the EcoFlow.
 
-In my testing:
+What the numbers show:
 
 - **Running watts:** 85-110W on my freezer
 - ✅ **Startup surge:** Passed on my unit, failed on high-LRA freezers
@@ -142,7 +142,7 @@ In my testing, I ran my full setup - chest freezer, upright refrigerator, four L
 <span style="font-size:1.4rem;">🧊</span>
 <div>
 <strong style="color:#2d6a4f;font-size:0.95rem;">Running this specifically for a chest freezer?</strong><br/>
-<span style="font-size:0.88rem;color:#444;">I ran a separate 73-day test specifically on chest freezers — different results than general home backup testing. Real surge data, real failures, real numbers.</span><br/>
+<span style="font-size:0.88rem;color:#444;">I ran the numbers separately for chest freezers — different results than general home backup testing. Real surge data, real failures, real numbers.</span><br/>
 <a href="/blog/best-solar-generator-chest-freezer-2026/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;">→ Best Solar Generator for Chest Freezer (Dedicated Test)</a>
 </div>
 </div>

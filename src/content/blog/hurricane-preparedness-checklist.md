@@ -267,7 +267,7 @@ Keep $300–$500 in small bills ($20s and smaller) in your kit. ATMs lose power 
 
 ---
 
-*Ethan Reynolds has spent 73 days field-testing solar generators and emergency power systems. He bought all equipment reviewed on this site with his own money. Last updated June 2026.*
+*Ethan Reynolds researches solar generators and emergency power systems using specs and owner reports. Equipment reviewed on this site with his own money. Last updated June 2026.*
 
 
 <!-- end-read-cta -->

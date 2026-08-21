@@ -50,7 +50,7 @@ I spent months running the top contenders on my garage chest freezer, refrigerat
 
 The Jackery Explorer 1000 V2 hits the sweet spot that no other sub-$1000 generator matches. You get a 2,000W inverter — higher than the EcoFlow at this price — which means it handles the surge loads that kill cheaper units at startup.
 
-### Real numbers from my testing
+### The real numbers
 
 I ran it continuously on my chest freezer through two real power outages. The freezer draws 85W running with a 450W startup surge — the exact load that trips most cheaper units.
 
@@ -80,7 +80,7 @@ The LCD display is harder to read in direct sunlight. The carrying handle feels 
 
 The EcoFlow DELTA 3 Plus costs about $100 more than the Jackery but wins on one metric that matters most in multi-day outages: recharge speed. With 800W solar input capacity it goes from dead to full in under 1 hour.
 
-### Real numbers from my testing
+### The real numbers
 
 - Chest freezer runtime: **13.4 hours** at full charge
 - Recharge via 400W solar: **1.8 hours**

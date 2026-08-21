@@ -30,7 +30,7 @@ Before buying anything, measure what you actually need to run.
 
 The single most useful tool in emergency power planning is a **Kill A Watt meter** ($25 on Amazon). Plug it between your appliance and the wall and it measures actual watt draw — not the theoretical maximum on the label.
 
-### What I measured in my home:
+### Typical household draws:
 
 | Appliance | Running Watts | Startup Surge |
 |---|---|---|

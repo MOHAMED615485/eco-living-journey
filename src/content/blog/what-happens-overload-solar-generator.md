@@ -167,7 +167,7 @@ This simple sequence eliminates 90% of startup overload trips.
 <span style="font-size:1.4rem;">&#128161;</span>
 <div>
 <strong style="color:#2d6a4f;font-size:0.95rem;">Not sure which generator handles your specific appliance load?</strong><br/>
-<span style="font-size:0.88rem;color:#444;">I tested all three top brands specifically on chest freezer and refrigerator surge loads over 73 days. Here's exactly which unit handled what.</span><br/>
+<span style="font-size:0.88rem;color:#444;">Here is how all three top brands compare on chest freezer and refrigerator surge loads over 73 days. Here's exactly which unit handled what.</span><br/>
 <a href="/blog/best-solar-generator-home-backup-2026/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;">→ Best Solar Generator for Home Backup (2026 Test Results)</a>
 </div>
 </div>

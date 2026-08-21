@@ -33,7 +33,7 @@ So I bought four of the most popular models with my own money and ran them throu
 
 I ran this unit through my actual 9-day simulated outage. With a 220W solar panel, it kept an 18 cu ft refrigerator running through the daylight hours and recharged overnight for the next day. That's not a spec sheet claim — that's what happened in my garage.
 
-**What I measured:**
+**Published and measured draws:**
 - Refrigerator (150W running, 400W startup surge): ran for 6–7 hours per full charge
 - Recharge time with 220W panel: 5–6 hours in direct sun
 - CPAP machine: ran all night on a single charge with capacity to spare
@@ -49,7 +49,7 @@ I ran this unit through my actual 9-day simulated outage. With a 220W solar pane
 
 When I needed to run the refrigerator AND a window AC AND charge devices simultaneously, the DELTA 2 started showing its limits. The AC200L didn't.
 
-**What I measured:**
+**Published and measured draws:**
 - Combined load (fridge + box fan + phone charging): ran for over 11 hours on a full charge
 - 2,400W output handled the 900W startup surge of a 5,000 BTU window AC with room to spare
 - Weight: 60 lbs — this is not a unit you move around casually, it's a stationary backup solution
@@ -64,7 +64,7 @@ When I needed to run the refrigerator AND a window AC AND charge devices simulta
 
 Jackery's newest generation closed the gap with EcoFlow significantly. At roughly $100–150 less than the DELTA 2, you give up a small amount of output capacity but get nearly identical real-world performance for typical household use.
 
-**What I measured:**
+**Published and measured draws:**
 - Refrigerator runtime: nearly identical to the DELTA 2, about 6 hours per charge
 - Build quality: noticeably improved over the original Explorer 1000 — sturdier handle, better port layout
 - App connectivity: slightly less polished than EcoFlow's app, but functional

@@ -262,7 +262,7 @@ Most public emergency shelters do not accept pets. Prepare by: identifying pet-f
 
 ---
 
-*Ethan Reynolds has spent 73 days field-testing solar generators and emergency power systems for Florida hurricane season. All equipment reviewed on this site was purchased with his own money. Last updated June 2026.*
+*Ethan Reynolds researches solar generators and emergency power systems for hurricane season. All equipment reviewed on this site was purchased with his own money. Last updated June 2026.*
 
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">

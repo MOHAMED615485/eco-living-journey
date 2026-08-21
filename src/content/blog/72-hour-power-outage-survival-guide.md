@@ -96,7 +96,7 @@ This is the system most families skip until it is too late.
 <span style="font-size:1.4rem;">&#128138;</span>
 <div>
 <strong style="color:#92400e;font-size:0.95rem;">Medical device users — read this before buying any solar generator</strong><br/>
-<span style="font-size:0.88rem;color:#444;">CPAP, oxygen, and insulin all have different power requirements. I tested specifically for medical device use.</span><br/>
+<span style="font-size:0.88rem;color:#444;">CPAP, oxygen, and insulin all have different power requirements. Here is the breakdown by device.</span><br/>
 <a href="/blog/best-solar-generator-cpap-machine/" style="color:#92400e;font-weight:700;font-size:0.88rem;text-decoration:underline;">→ Best Solar Generator for CPAP and Medical Devices</a>
 </div>
 </div>

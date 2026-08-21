@@ -71,7 +71,7 @@ If you have a solar generator or power station:
 - Prioritize what you plug in: medical devices first, refrigerator second, phone charging third
 - Connect your solar panel if daylight is available — start recharging immediately
 
-**What I measured with a Kill A Watt meter:**
+**Typical measured draws:**
 - 18 cu ft refrigerator: 150W running, 400W startup surge
 - Box fan (medium): 55W
 - CPAP machine: 30–60W depending on pressure setting
@@ -266,7 +266,7 @@ The average power outage duration after a major hurricane (Category 3+) is 8–1
 
 ---
 
-*Ethan Reynolds has spent 73 days field-testing solar generators and emergency power systems. All equipment reviewed was purchased with his own money. Last updated June 2026.*
+*Ethan Reynolds researches solar generators and emergency power systems using specs and owner reports. Equipment referenced was purchased with his own money. Last updated June 2026.*
 
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">

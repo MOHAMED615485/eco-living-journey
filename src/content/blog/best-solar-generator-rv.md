@@ -179,7 +179,7 @@ If you own a Jackery or EcoFlow and want to run roof AC — install a soft start
 <span style="font-size:1.4rem;">&#128161;</span>
 <div>
 <strong style="color:#2d6a4f;font-size:0.95rem;">Running a chest freezer in your RV too?</strong><br/>
-<span style="font-size:0.88rem;color:#444;">I ran a dedicated 73-day test specifically on chest freezer surge loads. Different results from general RV testing — real numbers inside.</span><br/>
+<span style="font-size:0.88rem;color:#444;">I ran the numbers separately on chest freezer surge loads. Different results from general RV testing — real numbers inside.</span><br/>
 <a href="/blog/best-solar-generator-chest-freezer-2026/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;">→ Best Solar Generator for Chest Freezer (Dedicated Test)</a>
 </div>
 </div>

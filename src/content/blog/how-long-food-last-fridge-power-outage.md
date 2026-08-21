@@ -1,6 +1,6 @@
 ---
 title: "How Long Does Food Last in the Fridge Without Power?"
-description: "Exact food safety timelines for power outages. Fridge, freezer, and specific foods — from a field tester who lost $340 of groceries in a 9-day outage."
+description: "Exact food safety timelines for power outages. Fridge, freezer, and specific foods — including how fast temperatures actually rise in a multi-day outage."
 pubDate: 2026-06-16
 heroImage: ../../assets/how-long-food-last-fridge-power-outage-hero.webp
 category: "Emergency Preparedness"

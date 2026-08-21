@@ -41,7 +41,7 @@ When you're shopping, look for the **peak/surge watt rating**, not just the cont
 
 A compact 4.4 cu ft fridge might pull 80–100W running. A full-size French door refrigerator might pull 300–400W running. The generator doesn't care about the size — it cares about the watts.
 
-Here's a real-world comparison I tested:
+Here is a real-world comparison:
 
 | Fridge Type | Running Watts | Surge Watts | Verdict with 1000W Generator |
 |-------------|--------------|-------------|-------------------------------|

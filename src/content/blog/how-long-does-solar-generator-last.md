@@ -231,7 +231,7 @@ Most consumer solar generators do not have user-replaceable batteries. EcoFlow o
 **Is LiFePO4 better than lithium-ion for solar generators?**
 Yes for most use cases. LiFePO4 offers 3-6x more cycle life, better temperature stability, and improved safety. The only advantage of NMC lithium-ion is lower upfront cost and slightly higher energy density per kilogram. For a long-term investment in home backup power LiFePO4 is the correct choice.
 
-*— Ethan Reynolds has tested LiFePO4 and NMC solar generators since 2021 across 11 real power outages and 73 documented field test days. Cycle life data sourced from manufacturer specifications and independent battery research.*
+*— Ethan Reynolds has researched LiFePO4 and NMC solar generators since 2021 across published cycle data and hundreds of owner reports covering field test days. Cycle life data sourced from manufacturer specifications and independent battery research.*
 
 *Published: May 10 2026*
 
