@@ -171,7 +171,7 @@ Build a Senior Emergency Kit with SurviveX →
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
 <h3 style="color:#2d6a4f;margin-top:0;">📋 Setting this up for a parent — or for yourself?</h3>
-<p>The hardest part is not the generator. It is knowing what to do hour-by-hour when the power actually goes out. I turned my 73 days of testing into printable checklists and a family emergency plan anyone can follow — large-print friendly, no tech skills needed.</p>
+<p>The hardest part is not the generator. It is knowing what to do hour-by-hour when the power actually goes out. I turned my spec research and owner reports into printable checklists and a family emergency plan anyone can follow — large-print friendly, no tech skills needed.</p>
 <p><strong>72-Hour Power Outage Survival Kit — \</strong> — printable checklists, family emergency plan templates, and hour-by-hour outage protocols.</p>
 <a href="https://ethanecoliving.gumroad.com/l/72-hour-power-outage-survival-kit">Get the 72-Hour Kit →</a>
 </div>

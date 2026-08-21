@@ -187,7 +187,7 @@ The most important charging strategy happens before the outage, not during it.
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
 <h3 style="color:#2d6a4f;margin-top:0;">🔋 Buying your first unit — or upgrading?</h3>
-<p>Charging flexibility is exactly the kind of spec people forget to check before buying — then regret. My Buyer&rsquo;s Toolkit includes the full pre-purchase checklist from 73 days of testing: input watts, charge times, and the sizing calculator.</p>
+<p>Charging flexibility is exactly the kind of spec people forget to check before buying — then regret. My Buyer&rsquo;s Toolkit includes the full pre-purchase checklist from spec research and owner reports: input watts, charge times, and the sizing calculator.</p>
 <p><strong>Solar Generator Buyer&rsquo;s Toolkit — $19</strong></p>
 <a href="https://ethanecoliving.gumroad.com/l/solar-generator-toolkit-2026">Get the Buyer&rsquo;s Toolkit →</a>
 </div>
@@ -251,6 +251,6 @@ If you have a gas generator, connect it to your solar generator's AC input for w
 }
 </script>
 
-*— Ethan Reynolds has spent 73 days field testing solar generators and backup power systems. No paid partnerships. No sponsored content. Real numbers only.*
+*— Ethan Reynolds researches solar generators and backup power systems using manufacturer specifications, measured appliance draws and aggregated owner reports. No paid partnerships. No sponsored content. Real numbers only.*
 
 *Last updated: May 22, 2026*

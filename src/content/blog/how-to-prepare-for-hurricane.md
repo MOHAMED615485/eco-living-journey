@@ -1,6 +1,6 @@
 ---
 title: "How to Prepare for a Hurricane: 2026 Survival Guide"
-description: "Step-by-step hurricane preparation guide from a 73-day field tester. Covers timeline, power backup, evacuation, and what to do when the storm hits."
+description: "Step-by-step hurricane preparation guide from a spec-and-owner-report analysiser. Covers timeline, power backup, evacuation, and what to do when the storm hits."
 pubDate: 2026-06-12
 heroImage: ../../assets/how-to-prepare-for-hurricane-hero.webp
 category: "Emergency Preparedness"
@@ -22,7 +22,7 @@ The storm turned north and missed us entirely. I was completely fine with that.
 
 That's the mindset shift that separates people who survive hurricanes comfortably from people who suffer through them: you prepare for the worst version of the storm, not the most likely version.
 
-This guide gives you the exact preparation timeline and checklist I use — built from 73 days of field-testing emergency power systems and living in a hurricane-prone area.
+This guide gives you the exact preparation timeline and checklist I use — built from spec research and owner reports emergency power systems and living in a hurricane-prone area.
 
 ---
 
@@ -96,7 +96,7 @@ The standard advice is "get a generator." That advice is incomplete.
 
 Gas generators require stored fuel. Fuel is impossible to find 24 hours before a major hurricane. Gas generators produce carbon monoxide — they cannot be used indoors or in a garage. They're loud. They require maintenance.
 
-After 73 days of field-testing, my recommendation is a **solar generator** as primary backup, with a gas generator as a secondary option only if you have safe outdoor space and stored fuel.
+After spec research and owner reports, my recommendation is a **solar generator** as primary backup, with a gas generator as a secondary option only if you have safe outdoor space and stored fuel.
 
 ### What size solar generator do you need?
 
@@ -267,7 +267,7 @@ Most public emergency shelters do not accept pets. Prepare by: identifying pet-f
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
   <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">🎒 SurviveX 72-Hour Emergency Kit</p>
-  <p style="margin:0 0 6px;font-size:0.95rem;">Pre-assembled food, water purification, first aid, and communication gear — field-tested for real outages, not just camping weekends.</p>
+  <p style="margin:0 0 6px;font-size:0.95rem;">Pre-assembled food, water purification, first aid, and communication gear — built for real outages, not just camping weekends.</p>
   <p style="margin:0 0 12px;font-size:0.88rem;color:#3d8b6f;">📦 Free shipping on orders $150+ · 10% off your first order when you sign up</p>
   <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Check SurviveX Kit →</a>
 </div>

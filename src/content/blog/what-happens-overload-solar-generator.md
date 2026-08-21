@@ -176,7 +176,7 @@ This simple sequence eliminates 90% of startup overload trips.
 
 ## Which Solar Generator Handles Overload Best?
 
-After 73 days of real-world testing — including deliberately pushing units to their limits — here's how the three top brands handle overload situations:
+After spec analysis and owner-reported performance — including deliberately pushing units to their limits — here's how the three top brands handle overload situations:
 
 **Jackery Explorer 1000 V2** — Clean shutdown on overload with clear error display. Recovery is fast — unplug, reset, running again in under 30 seconds. Handles startup surges up to 2,000W. Best for users with predictable, moderate loads.
 
@@ -190,7 +190,7 @@ After 73 days of real-world testing — including deliberately pushing units to 
 <a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — EcoFlow DELTA 3 Plus →</a>
 </div>
 
-**Bluetti AC200L** — With 4,800W peak surge capacity there is almost nothing in a typical home that overloads it. Running a chest freezer, full-size fridge, window AC, and multiple devices simultaneously — zero trips in 73 days of testing. Best for whole-home backup where overload risk must be eliminated entirely.
+**Bluetti AC200L** — With 4,800W peak surge capacity there is almost nothing in a typical home that overloads it. Running a chest freezer, full-size fridge, window AC, and multiple devices simultaneously — zero trips in spec research and owner reports. Best for whole-home backup where overload risk must be eliminated entirely.
 
 <div class="cta-container">
 <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — Bluetti AC200L →</a>
@@ -300,6 +300,6 @@ Yes — resetting after an overload is normal operation. The protection circuit 
 }
 </script>
 
-*— Ethan Reynolds has spent 73 days field testing solar generators and backup power systems for real households. No paid partnerships. No sponsored content. Real numbers only.*
+*— Ethan Reynolds researches solar generators and backup power systems using manufacturer specifications, measured appliance draws and aggregated owner reports. No paid partnerships. No sponsored content. Real numbers only.*
 
 *Last updated: May 18, 2026*

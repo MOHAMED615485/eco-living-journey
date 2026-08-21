@@ -25,7 +25,7 @@ Here's exactly what I learned — with watt measurements to back it up.
 
 ## 🏕️ What Makes a Solar Generator Good for Camping?
 
-Camping demands different things than home backup power. After 73 days of field testing, these are the specs that actually matter:
+Camping demands different things than home backup power. After spec research and owner reports, these are the specs that actually matter:
 
 **Weight.** You're carrying this. Every pound matters. Gas generators average 45–80 lbs. The best solar generators for camping run 17–35 lbs.
 
@@ -117,7 +117,7 @@ For weekend campers running phone charging, lights, a fan, and a CPAP — the Ja
 
 ## 🌞 How Much Solar Do You Actually Need?
 
-This is the question I get most often. Here's my real-world solar math from 73 days of testing:
+This is the question I get most often. Here's my real-world solar math from spec research and owner reports:
 
 | Panel Size | Actual Output (Summer) | Hours to Add 500Wh |
 |---|---|---|

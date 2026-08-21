@@ -1,6 +1,6 @@
 ---
 title: "Hurricane Preparedness Checklist (Printable PDF 2026)"
-description: "Printable hurricane preparedness checklist from a 73-day field tester. Covers supplies, power backup, food, water, evacuation, and what FEMA gets wrong."
+description: "Printable hurricane preparedness checklist from a spec-and-owner-report analysiser. Covers supplies, power backup, food, water, evacuation, and what FEMA gets wrong."
 pubDate: 2026-06-09
 heroImage: ../../assets/hurricane-preparedness-checklist-hero.webp
 category: "Emergency Preparedness"

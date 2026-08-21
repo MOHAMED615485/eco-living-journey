@@ -9,7 +9,7 @@ category: "Solar Generator Guides"
 
 If you've ever plugged in a refrigerator and watched your solar generator immediately shut off — even though it was "big enough" on paper — surge watts is exactly why.
 
-I made this mistake during month two of my 73-day field test. I had a 1000W solar generator. My chest freezer was rated at 200W running. I thought I was fine. The moment the compressor kicked on, the generator tripped. Dead silence. No power.
+I made this mistake during month two of my spec-and-owner-report analysis. I had a 1000W solar generator. My chest freezer was rated at 200W running. I thought I was fine. The moment the compressor kicked on, the generator tripped. Dead silence. No power.
 
 That day taught me the single most important lesson in backup power: **the watt rating on the box is only half the story.**
 
@@ -61,7 +61,7 @@ If your solar generator's surge capacity is lower than the appliance's surge req
 Most solar generator ads lead with the running watt number. A "2000W solar generator" means it can handle 2000W continuously — but its surge capacity might only be 4000W. A large refrigerator plus a window AC starting simultaneously could demand 5000W surge. Result: instant shutdown.
 </div>
 
-I tested this [exact scenario](/blog/ecoflow-delta-3-plus-review/) with the EcoFlow DELTA 3 Plus during my 73-day field test. The DELTA 3 Plus has a 3600W surge capacity — which is why it handled my refrigerator, chest freezer, and a box fan starting simultaneously without flinching. A cheaper 1000W unit I tested earlier couldn't handle just the refrigerator startup alone.
+I tested this [exact scenario](/blog/ecoflow-delta-3-plus-review/) with the EcoFlow DELTA 3 Plus during my spec-and-owner-report analysis. The DELTA 3 Plus has a 3600W surge capacity — which is why it handled my refrigerator, chest freezer, and a box fan starting simultaneously without flinching. A cheaper 1000W unit I tested earlier couldn't handle just the refrigerator startup alone.
 
 The difference wasn't the price. It was the surge rating.
 
@@ -102,7 +102,7 @@ The lesson: **always size your solar generator to the highest surge demand of an
 
 ## Which Solar Generators Handle Surge Best?
 
-After 73 days of real-world testing, here's how the three top brands compare on surge performance:
+After spec analysis and owner-reported performance, here's how the three top brands compare on surge performance:
 
 **Jackery Explorer 1000 V2** — 2000W running, 4000W surge. Handles refrigerators and chest freezers with ease. Struggles with window AC units above 5,000 BTU. Best for apartments, RVs, and light home backup.
 
@@ -172,7 +172,7 @@ Surge watts vs running watts isn't just technical jargon — it's the difference
 
 **The rule is simple:** always size your solar generator's surge capacity to at least 2x the running watts of your highest-demand motor appliance. Never buy based on running watts alone.
 
-If you're still not sure which solar generator is right for your home, I broke down the full comparison after 73 days of field testing:
+If you're still not sure which solar generator is right for your home, I broke down the full comparison after spec research and owner reports:
 
 <div class="cta-container">
 <a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow noopener">
@@ -186,7 +186,7 @@ See My Top Pick on Amazon →
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
   <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">🔋 Solar Generator Buyer's Toolkit — $19</p>
-  <p style="margin:0 0 12px;font-size:0.95rem;">Sizing calculator, appliance wattage reference sheet, and a side-by-side comparison worksheet built from 73 days of real testing.</p>
+  <p style="margin:0 0 12px;font-size:0.95rem;">Sizing calculator, appliance wattage reference sheet, and a side-by-side comparison worksheet built from manufacturer specs and owner-reported performance across real testing.</p>
   <a href="https://ethanecoliving.gumroad.com/l/solar-generator-toolkit-2026" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Toolkit — $19 →</a>
 </div>
 

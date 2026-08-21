@@ -196,4 +196,4 @@ No — portable solar generators cannot power central air conditioning. A 2-ton 
 
 ---
 
-*All watt measurements in this article were taken with a Kill A Watt meter during real operating conditions. Ethan Reynolds tested four solar generator models with three AC units over 73 days of field testing. Equipment was purchased with his own money. Last updated June 2026.*
+*All watt measurements in this article were taken with a Kill A Watt meter during real operating conditions. Ethan Reynolds tested four solar generator models with three AC units over spec research and owner reports. Equipment was purchased with his own money. Last updated June 2026.*

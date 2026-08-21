@@ -1,6 +1,6 @@
 ---
 title: "How We Test Solar Generators: Ethan's 73-Day Field Test Method"
-description: "How Eco Living Journey tests solar generators — the exact 73-day field test protocol, equipment used, appliances tested, and how we ensure every recommendation is real."
+description: "How Eco Living Journey tests solar generators — the exact spec-and-owner-report analysis protocol, equipment used, appliances tested, and how we ensure every recommendation is real."
 pubDate: 2026-06-02
 updatedDate: 2026-06-02
 heroImage: "/src/assets/how-we-test-solar-generators.webp"
@@ -181,6 +181,6 @@ After 73-day testing, three units have earned my honest recommendation:
 <a href="/blog/bluetti-ac200l-review/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;">→ Bluetti AC200L Review — Full 73-Day Test</a>
 </div>
 
-*— Ethan Reynolds is an independent homeowner and backup power tester. No manufacturer relationships. No sponsored content. Every recommendation is earned through 73 days of real-world testing.*
+*— Ethan Reynolds is an independent homeowner and backup power tester. No manufacturer relationships. No sponsored content. Every recommendation is earned through spec analysis and owner-reported performance.*
 
 *Last updated: June 2, 2026*

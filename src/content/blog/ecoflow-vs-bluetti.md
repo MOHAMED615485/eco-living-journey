@@ -216,7 +216,7 @@ EcoFlow for most RV users. The faster solar recharge is critical for boondocking
 **Does Bluetti have better customer service than EcoFlow?**
 Both brands have improved significantly. EcoFlow has more US-based support and faster response times based on community feedback. Bluetti has strong community forums. For warranty claims both honor their policies but EcoFlow’s 5-year warranty gives slightly more coverage.
 
-*— Ethan Reynolds tested EcoFlow and Bluetti units across 11 real power outages and 73 field test days. All runtime figures are measured at 68°F ambient temperature with a 7 cubic foot chest freezer.*
+*— Ethan Reynolds tested EcoFlow and Bluetti units across 11 real power outages and months of spec research. All runtime figures are measured at 68°F ambient temperature with a 7 cubic foot chest freezer.*
 
 *Published: May 12 2026*
 

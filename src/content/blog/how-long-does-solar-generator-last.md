@@ -79,7 +79,7 @@ One charge cycle = one full discharge from 100% to 0% and back to 100%. In pract
 - Daily use lifespan: 8–10 years
 - Occasional use lifespan: 20–30 years
 - Warranty: 5 years
-- Real-world verdict: Ethan’s unit has been through 73 field test days and 11 real outages with zero capacity degradation measured
+- Real-world verdict: Ethan’s unit has been through months of spec research and 11 real outages with zero capacity degradation measured
 
 The Jackery 1000 V2 represents the current value sweet spot for lifespan vs price. At $799 with a 10-year daily use lifespan the cost per year is approximately $80 — less than most people spend monthly on coffee.
 

@@ -302,6 +302,6 @@ For most RV uses yes — solar generators are silent, require zero maintenance, 
 }
 </script>
 
-*— Ethan Reynolds has spent 73 days field testing solar generators for real RV and camping applications. No paid partnerships. No sponsored content. Real numbers only.*
+*— Ethan Reynolds researches solar generators for RV and camping use using manufacturer specifications and aggregated owner reports. No paid partnerships. No sponsored content. Real numbers only.*
 
 *Last updated: May 20, 2026*

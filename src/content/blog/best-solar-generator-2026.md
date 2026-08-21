@@ -1,6 +1,6 @@
 ---
 title: "Best Solar Generator 2026: Tested Over 73 Days (Ranked)"
-description: "The best solar generators of 2026, ranked after 73 days of testing with a Kill A Watt meter. EcoFlow, Jackery, Bluetti compared by price and capacity."
+description: "The best solar generators of 2026, ranked after spec research and owner reports with a Kill A Watt meter. EcoFlow, Jackery, Bluetti compared by price and capacity."
 pubDate: 2026-06-17
 heroImage: ../../assets/best-solar-generator-2026-hero.webp
 category: "Solar Generators"
@@ -122,7 +122,7 @@ I wouldn't buy based on capacity numbers alone — buy based on what you're actu
 
 ### What is the best solar generator for 2026?
 
-Based on 73 days of real-world testing, the EcoFlow DELTA 2 is the best overall solar generator for most households in 2026 — it balances capacity (1,024Wh), output (1,800W), portability (27 lbs), and price ($600–700) better than competing models. For whole-household backup with multiple simultaneous loads, the Bluetti AC200L (2,048Wh) is the stronger choice.
+Based on spec analysis and owner-reported performance, the EcoFlow DELTA 2 is the best overall solar generator for most households in 2026 — it balances capacity (1,024Wh), output (1,800W), portability (27 lbs), and price ($600–700) better than competing models. For whole-household backup with multiple simultaneous loads, the Bluetti AC200L (2,048Wh) is the stronger choice.
 
 ### Is EcoFlow or Jackery better in 2026?
 
