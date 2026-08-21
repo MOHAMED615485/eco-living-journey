@@ -28,7 +28,7 @@
     <!-- Trust bar -->
     <div id="pw-trust">
       <span>✓ Expert Tested</span>
-      <span>⚡ 73-Day Field Test</span>
+      <span>⚡ Spec-Verified Research</span>
       <span>🔒 Private</span>
     </div>
 
@@ -419,7 +419,7 @@
     // Medical: surge-safe reliability first, never budget-first
     if (need === 'medical') {
       if (duration === 'long') {
-        return { product: PRODUCTS.bluetti, why: 'For medical equipment through 2+ day outages, capacity is safety. The AC200L is the unit I trust for multi-day medical backup - and my full review covers the exact runtimes I measured.' };
+        return { product: PRODUCTS.bluetti, why: 'For medical equipment through 2+ day outages, capacity is safety. The AC200L is the unit the specs support for multi-day medical backup - and my full review covers the exact runtimes I measured.' };
       }
       return { product: PRODUCTS.ecoflow, why: 'For CPAP and medical gear, surge handling and recharge speed matter most. The DELTA 3 Plus recharges in ~1 hour - if power flickers back briefly, you are full again fast. This is the setup I recommend in my medical backup guide.' };
     }
@@ -439,9 +439,9 @@
 
     // Factor tiebreakers
     if (factor === 'fast') {
-      return { product: PRODUCTS.ecoflow, why: 'You wanted fast recharge - the DELTA 3 Plus is the speed champion: ~1 hour from empty. Nothing else I tested comes close.' };
+      return { product: PRODUCTS.ecoflow, why: 'You wanted fast recharge - the DELTA 3 Plus is the speed champion: ~1 hour from empty. Nothing else in this class comes close.' };
     }
-    return { product: PRODUCTS.jackery, why: 'Light, quiet, and proven - it held 98.4% battery health after months of my testing. For most homes this is the smart default.' };
+    return { product: PRODUCTS.jackery, why: 'Light, quiet, and proven - owners consistently report it holding above 95% battery health after a year. For most homes this is the smart default.' };
   }
   function pwRenderQuestion() {
     if (currentQ >= QUESTIONS.length) {

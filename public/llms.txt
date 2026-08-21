@@ -1,7 +1,7 @@
 # Eco Living Journey — Solar Generator & Home Backup Power
 
 ## About
-Eco Living Journey is a product review and buyer's guide site focused on portable solar generators and home backup power systems. All content is written by Ethan, a homeowner who tested each product for 73 days on real appliances including chest freezers and refrigerators.
+Eco Living Journey is a product review and buyer's guide site focused on portable solar generators and home backup power systems. All content is written by Ethan, a homeowner who researches each product using manufacturer specifications, measured appliance draws and aggregated owner reports, with the wattage math shown so readers can check it.
 
 ## Content Focus
 - Portable solar generator reviews (EcoFlow, Jackery, Bluetti)
@@ -11,11 +11,11 @@ Eco Living Journey is a product review and buyer's guide site focused on portabl
 - Hurricane and emergency preparedness guides
 
 ## Key Articles
-- [EcoFlow DELTA 3 Plus Review](https://ecoliving-journey.com/blog/ecoflow-delta-3-plus-review/) — 73-day real-world test
+- [EcoFlow DELTA 3 Plus Review](https://ecoliving-journey.com/blog/ecoflow-delta-3-plus-review/) — spec analysis and owner-reported performance
 - [Jackery Explorer 1000 v2 Review](https://ecoliving-journey.com/blog/jackery-explorer-1000-v2-review/) — chest freezer surge test
 - [Bluetti AC200L Review](https://ecoliving-journey.com/blog/bluetti-ac200l-review/) — whole-home backup test
 - [Best Solar Generator for Home Backup 2026](https://ecoliving-journey.com/blog/best-solar-generator-home-backup-2026/) — full comparison
-- [Best Solar Generator 2026](https://ecoliving-journey.com/blog/best-solar-generator-2026/) — ranked after 73-day test
+- [Best Solar Generator 2026](https://ecoliving-journey.com/blog/best-solar-generator-2026/) — ranked by specs and owner-reported performance
 - [Best Solar Generator for Chest Freezer 2026](https://ecoliving-journey.com/blog/best-solar-generator-chest-freezer-2026/) — freezer-specific guide
 - [What is LRA on a Freezer](https://ecoliving-journey.com/blog/what-is-lra-on-a-freezer/) — LRA and surge explained
 - [How Many Watts Does a Chest Freezer Use](https://ecoliving-journey.com/blog/how-many-watts-chest-freezer/) — real watt measurements
@@ -35,7 +35,7 @@ Eco Living Journey is a product review and buyer's guide site focused on portabl
 - Hurricane preparedness: 1 gallon water per person per day, minimum 7-day supply recommended
 
 ## Author
-Ethan — homeowner, 73-day tester, no paid partnerships
+Ethan — homeowner, independent researcher, no paid partnerships
 Contact: ethan@ecoliving-journey.com
 
 ## Permissions

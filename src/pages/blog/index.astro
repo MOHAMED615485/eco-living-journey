@@ -11,7 +11,7 @@ const allPosts = (await getCollection('blog')).sort(
 ).filter((post: any) => post.data.title && post.data.heroImage);
 
 const categoryMeta: Record<string, { desc: string; order: number }> = {
-  "Solar Generator Reviews": { desc: "Hands-on 73-day tests of EcoFlow, Jackery & Bluetti", order: 1 },
+  "Solar Generator Reviews": { desc: "In-depth spec analysis of EcoFlow, Jackery & Bluetti", order: 1 },
   "Best Solar Generators": { desc: "Top picks for home, RV, camping & medical use", order: 2 },
   "Power Outage Prep": { desc: "Keep your family safe when the grid goes down", order: 3 },
   "Solar Generator Guides": { desc: "Wattage, battery chemistry, sizing & real-world math", order: 4 },
@@ -36,7 +36,7 @@ const sortedCategories = Object.keys(grouped).sort((a, b) => {
 <!doctype html>
 <html lang="en">
   <head>
-    <BaseHead title={"Solar Generator Reviews & Outage Guides - Eco Living Journey"} description={"Real-world solar generator tests, home backup power guides, and emergency prep by Ethan Reynolds — 73-day field tester."} />
+    <BaseHead title={"Solar Generator Reviews & Outage Guides - Eco Living Journey"} description={"Solar generator research, home backup power guides, and emergency prep by Ethan Reynolds — specs, wattage math and owner reports."} />
     <script is:inline data-grow-initializer="">!(function(){window.addEventListener('load',function(){window.growMe||((window.growMe=function(e){window.growMe._.push(e);}),(window.growMe._=[]));var e=document.createElement("script");(e.type="text/javascript"),(e.src="https://faves.grow.me/main.js"),(e.defer=!0),e.setAttribute("data-grow-faves-site-id","U2l0ZTo1ZmZlMDAzMS1jMTliLTRkNDktOWVlYy1jYTA1YWRmNjAyNTU=");var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t);});})();</script>
     <style is:inline>
       .cat-grid { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 1.25rem; }
@@ -70,7 +70,7 @@ const sortedCategories = Object.keys(grouped).sort((a, b) => {
 
     <div style="background:#2d6a4f;padding:2.5rem 1rem 2rem;text-align:center;">
       <h1 style="color:#fff;font-size:2rem;font-weight:800;margin:0 0 0.4rem;font-family:Georgia,serif;">Solar Generator & Power Outage Guides</h1>
-      <p style="color:rgba(255,255,255,0.75);font-size:0.95rem;margin:0 0 1.5rem;">73-day real-world tests by Ethan Reynolds — no sponsored fluff, just honest results</p>
+      <p style="color:rgba(255,255,255,0.75);font-size:0.95rem;margin:0 0 1.5rem;">Researched by Ethan Reynolds — no sponsored fluff, just honest numbers</p>
       <div style="max-width:520px;margin:0 auto;position:relative;">
         <input type="text" id="searchInput" placeholder="Search articles... (e.g. EcoFlow, freezer, outage)" autocomplete="off"
           style="width:100%;padding:13px 48px 13px 20px;border-radius:50px;border:none;font-size:0.95rem;outline:none;background:#fff;color:#1a202c;box-shadow:0 4px 20px rgba(0,0,0,0.15);font-family:Georgia,serif;box-sizing:border-box;" />
