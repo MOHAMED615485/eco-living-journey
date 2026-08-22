@@ -76,7 +76,7 @@ Fill every empty space in your freezer with water-filled containers and freeze t
 For the full breakdown on freezer food safety during outages see the [how long does a freezer last without power](/blog/how-long-food-last-fridge-power-outage/) guide.
 
 <div class="cta-container">
-  <a href="https://amzn.to/41D10iO" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; EcoFlow DELTA 3 Plus — Runs Fridge 13+ Hours &rarr;
   </a>
 </div>

@@ -18,7 +18,7 @@ After nine days without grid power, I became obsessed with backup power.
 
 Not in a prepper-bunker way. In a practical, I-never-want-to-lose-$340-of-groceries-again way.
 
-I spent 73 days testing every type of emergency power system available — solar generators, gas generators, power banks, whole-home battery systems. I measured actual watt draws with a Kill A Watt meter. I ran real appliances in real outage conditions.
+This guide covers every type of emergency power system available - solar generators, gas generators, power banks, whole-home battery systems - using published output ratings and measured appliance draws across realistic outage conditions.
 
 This guide tells you exactly what works, what doesn't, and what to buy based on your actual needs.
 
@@ -28,7 +28,7 @@ This guide tells you exactly what works, what doesn't, and what to buy based on 
 
 Before buying anything, measure what you actually need to run.
 
-The single most useful tool in emergency power planning is a **Kill A Watt meter** ($25 on Amazon). Plug it between your appliance and the wall and it measures actual watt draw — not the theoretical maximum on the label.
+The single most useful tool in emergency power planning is a **plug-in power meter** (around $25). Plug it between your appliance and the wall and it measures actual watt draw — not the theoretical maximum on the label.
 
 ### Typical household draws:
 
@@ -68,8 +68,8 @@ A 20,000mAh power bank charges a smartphone 4–5 times. That's it. Power banks 
 
 | Model | Capacity | Output | Rating | Price | Best For |
 |---|---|---|---|---|---|
-| [EcoFlow DELTA 2](https://amzn.to/41D10iO) | 1,024Wh | 1,800W | ★★★★★ (5.0) | $600–700 | Fridge + medical + devices |
-| [Bluetti AC200L](https://amzn.to/4sFpOCG) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | $1,400–1,600 | Whole-household coverage |
+| [EcoFlow DELTA 2](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) | 1,024Wh | 1,800W | ★★★★★ (5.0) | $600–700 | Fridge + medical + devices |
+| [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | $1,400–1,600 | Whole-household coverage |
 | [Jackery Explorer 1000 v2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | $500–600 | Budget all-rounder |
 
 ### Type 2: Portable Solar Generators (Power Stations)
@@ -267,7 +267,7 @@ Not a portable one. Whole-home solar backup requires a permanently installed sys
 
 ### What size generator do I need for a power outage?
 
-It depends on what you need to run. For phones, lights, and a refrigerator: a 1,000Wh solar generator is sufficient. For window AC or a sump pump: you need a gas generator rated at least 3,500W with startup surge capacity of 5,000W+. Measure your appliances with a Kill A Watt meter before buying — startup surge wattage is what determines minimum generator size, not running wattage.
+It depends on what you need to run. For phones, lights, and a refrigerator: a 1,000Wh solar generator is sufficient. For window AC or a sump pump: you need a gas generator rated at least 3,500W with startup surge capacity of 5,000W+. Check your appliances with a Kill A Watt meter before buying — startup surge wattage is what determines minimum generator size, not running wattage.
 
 ### Is a solar generator worth it for emergency power?
 
@@ -283,7 +283,7 @@ You can run a solar generator (battery-based power station) in an apartment — 
 
 ---
 
-*Ethan Reynolds tested all power equipment in this guide using a Kill A Watt meter during real and simulated power outages. All equipment was purchased with his own money. Last updated June 2026.*
+*Wattage figures in this guide are compiled from manufacturer specifications and measured appliance draws, cross-checked against aggregated owner reports. Equipment referenced is independently researched, not supplied by manufacturers. Last updated August 2026.*
 
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">

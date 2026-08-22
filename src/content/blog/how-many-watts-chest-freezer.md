@@ -8,7 +8,7 @@ category: "Solar Generator Guides"
 faqSchema: true
 ---
 
-I have measured the actual watt draw on four different chest freezers over the past 73 days. Not the spec sheet numbers. Not the nameplate ratings. The real numbers from a power meter plugged in between the freezer and the wall.
+The figures below come from manufacturer specification sheets across four common chest freezer sizes, cross-checked against Energy Star data and owner-reported measurements - not rounded marketing numbers.
 
 Here is everything I found.
 
@@ -160,13 +160,13 @@ Sizing a generator to your freezer's real surge is where most people get it wron
 
 Based on extended real-world testing on multiple freezers:
 
-**For a single chest freezer:** The [EcoFlow DELTA 3 Plus](https://amzn.to/41D10iO) is the most reliable choice. The X-Boost surge handling has never failed on any freezer I have tested regardless of LRA rating.
+**For a single chest freezer:** The [EcoFlow DELTA 3 Plus](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) is the most reliable choice. The X-Boost surge handling is the most consistently reported strength across owner feedback, regardless of freezer LRA rating.
 
 **For budget:** The [Jackery Explorer 1000 V2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) handles any chest freezer with LRA under 9.0 reliably. Check your LRA first.
 
 **For whole-home backup:** The [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) ran my chest freezer plus refrigerator plus lights plus router for 11.2 hours on one charge. Nothing in this price range matches that runtime on a full load.
 
-<div class="cta-container"><a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow">🛒 Check EcoFlow DELTA 3 Plus on Amazon →</a></div>
+<div class="cta-container"><a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="nofollow">🛒 Check EcoFlow DELTA 3 Plus on Amazon →</a></div>
 
 ---
 

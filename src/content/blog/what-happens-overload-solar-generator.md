@@ -167,7 +167,7 @@ This simple sequence eliminates 90% of startup overload trips.
 <span style="font-size:1.4rem;">&#128161;</span>
 <div>
 <strong style="color:#2d6a4f;font-size:0.95rem;">Not sure which generator handles your specific appliance load?</strong><br/>
-<span style="font-size:0.88rem;color:#444;">Here is how all three top brands compare on chest freezer and refrigerator surge loads over 73 days. Here's exactly which unit handled what.</span><br/>
+<span style="font-size:0.88rem;color:#444;">Here is how all three top brands compare on chest freezer and refrigerator surge loads, and which handles what.</span><br/>
 <a href="/blog/best-solar-generator-home-backup-2026/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;">→ Best Solar Generator for Home Backup (2026 Test Results)</a>
 </div>
 </div>
@@ -187,7 +187,7 @@ After spec analysis and owner-reported performance — including deliberately pu
 **EcoFlow DELTA 3 Plus** — The X-Boost technology actively manages surge loads rather than just tripping on them. It can run appliances rated up to 2,200W through intelligent power management. Fewer trips, smoother operation under variable loads. Best for mixed loads including window AC.
 
 <div class="cta-container">
-<a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — EcoFlow DELTA 3 Plus →</a>
+<a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — EcoFlow DELTA 3 Plus →</a>
 </div>
 
 **Bluetti AC200L** — With 4,800W peak surge capacity there is almost nothing in a typical home that overloads it. Running a chest freezer, full-size fridge, window AC, and multiple devices simultaneously — zero trips in spec research and owner reports. Best for whole-home backup where overload risk must be eliminated entirely.

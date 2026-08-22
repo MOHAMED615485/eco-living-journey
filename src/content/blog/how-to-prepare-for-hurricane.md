@@ -16,7 +16,7 @@ tags: ["hurricane preparation", "storm survival", "emergency power", "solar gene
 
 The second time a hurricane threatened my area, I was ready.
 
-I had 14 gallons of water per person. My [EcoFlow DELTA 2](https://amzn.to/41D10iO) was fully charged with a 220W panel ready to deploy. My documents were in a waterproof bag by the door. My tank was full. I had enough food for 14 days that required zero refrigeration.
+I had 14 gallons of water per person. An [EcoFlow DELTA 2](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) fully charged with a 220W panel is ready to deploy. My documents were in a waterproof bag by the door. My tank was full. I had enough food for 14 days that required zero refrigeration.
 
 The storm turned north and missed us entirely. I was completely fine with that.
 
@@ -119,9 +119,9 @@ A 1,000Wh+ solar generator is not optional if you depend on powered medical equi
 
 | Model | Capacity | Output | Rating | Best For |
 |---|---|---|---|---|
-| [EcoFlow DELTA 2](https://amzn.to/41D10iO) | 1,024Wh | 1,800W | ★★★★★ (5.0) | Refrigerator + medical devices |
+| [EcoFlow DELTA 2](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) | 1,024Wh | 1,800W | ★★★★★ (5.0) | Refrigerator + medical devices |
 | [Jackery Explorer 1000 v2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | Budget-friendly all-rounder |
-| [Bluetti AC200L](https://amzn.to/4sFpOCG) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | Whole-household backup |
+| [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | Whole-household backup |
 
 ### My tested setup for hurricane season:
 - **EcoFlow DELTA 2** (1,024Wh) — runs the refrigerator during the day
@@ -262,7 +262,7 @@ Most public emergency shelters do not accept pets. Prepare by: identifying pet-f
 
 ---
 
-*Ethan Reynolds researches solar generators and emergency power systems for hurricane season. All equipment reviewed on this site was purchased with his own money. Last updated June 2026.*
+*Ethan Reynolds researches solar generators and emergency power systems for hurricane season. Equipment referenced is independently researched, not supplied by manufacturers. Last updated August 2026.*
 
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">

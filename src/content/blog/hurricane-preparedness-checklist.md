@@ -85,16 +85,16 @@ This is where most hurricane prep fails. A box of candles and a flashlight is no
 - [ ] 200W+ portable solar panel to recharge during daytime
 - [ ] Know your devices' watt draw before the storm (use a Kill A Watt meter)
 
-I tested a [EcoFlow DELTA 2](https://amzn.to/41D10iO) through a 9-day simulated outage. With a 220W panel, I could keep a 18 cu ft refrigerator running through the day and recharge overnight. No fuel, no fumes, no noise. If you have medications that require refrigeration or run a CPAP, a solar generator is not optional — it's medical equipment.
+I tested a [EcoFlow DELTA 2](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) through a 9-day simulated outage. With a 220W panel, I could keep a 18 cu ft refrigerator running through the day and recharge overnight. No fuel, no fumes, no noise. If you have medications that require refrigeration or run a CPAP, a solar generator is not optional — it's medical equipment.
 
 
 ### 🏆 Quick Comparison: Solar Generators for Hurricane Prep
 
 | Model | Capacity | Output | Rating | Best For |
 |---|---|---|---|---|
-| [EcoFlow DELTA 2](https://amzn.to/41D10iO) | 1,024Wh | 1,800W | ★★★★★ (5.0) | Refrigerator + medical devices |
+| [EcoFlow DELTA 2](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) | 1,024Wh | 1,800W | ★★★★★ (5.0) | Refrigerator + medical devices |
 | [Jackery Explorer 1000 v2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | Budget-friendly all-rounder |
-| [Bluetti AC200L](https://amzn.to/4sFpOCG) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | Whole-household backup |
+| [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | Whole-household backup |
 
 👉 **[See my full solar generator recommendations →](/best-solar-generators-2025/)**
 

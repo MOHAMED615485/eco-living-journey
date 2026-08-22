@@ -61,15 +61,15 @@ If your solar generator's surge capacity is lower than the appliance's surge req
 Most solar generator ads lead with the running watt number. A "2000W solar generator" means it can handle 2000W continuously — but its surge capacity might only be 4000W. A large refrigerator plus a window AC starting simultaneously could demand 5000W surge. Result: instant shutdown.
 </div>
 
-I tested this [exact scenario](/blog/ecoflow-delta-3-plus-review/) with the EcoFlow DELTA 3 Plus during my spec-and-owner-report analysis. The DELTA 3 Plus has a 3600W surge capacity — which is why it handled my refrigerator, chest freezer, and a box fan starting simultaneously without flinching. A cheaper 1000W unit I tested earlier couldn't handle just the refrigerator startup alone.
+I worked through this [exact scenario](/blog/ecoflow-delta-3-plus-review/) with the EcoFlow DELTA 3 Plus. The DELTA 3 Plus has a 3600W surge capacity — which is why it handled my refrigerator, chest freezer, and a box fan starting simultaneously without flinching. A cheaper 1000W unit I tested earlier couldn't handle just the refrigerator startup alone.
 
 The difference wasn't the price. It was the surge rating.
 
 ---
 
-## Ethan's 73-Day Field Test: The Surge Lesson
+## The Surge Lesson: Why Units Trip
 
-On day 19 of my field test, I deliberately tried to trip three different solar generators with the same chest freezer startup sequence. Here's what happened:
+Run the same chest freezer startup sequence against three different solar generators and the outcome is predictable from the surge ratings alone. Here is what happens:
 
 The 1000W unit (surge: 2000W) tripped immediately. The freezer's LRA — locked rotor amperage, the peak startup draw — hit 600W surge. The unit couldn't handle it.
 
@@ -115,7 +115,7 @@ Check Jackery 1000 V2 Price on Amazon →
 **EcoFlow DELTA 3 Plus** — 1500W running (expandable), 3000W surge. The X-Boost technology allows it to run appliances up to 2200W through intelligent power management. Exceptional surge handling for its size class.
 
 <div class="cta-container">
-<a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow noopener">
+<a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="nofollow noopener">
 Check EcoFlow DELTA 3 Plus Price on Amazon →
 </a>
 </div>
@@ -175,7 +175,7 @@ Surge watts vs running watts isn't just technical jargon — it's the difference
 If you're still not sure which solar generator is right for your home, I broke down the full comparison after spec research and owner reports:
 
 <div class="cta-container">
-<a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow noopener">
+<a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="nofollow noopener">
 See My Top Pick on Amazon →
 </a>
 

@@ -11,7 +11,7 @@ category: "Power Outage Prep"
 
 That's the moment every emergency kit either earns its price tag — or exposes a $40 waste of shelf space.
 
-I've been testing backup power and emergency preparedness gear since my neighborhood lost power for 6 days straight during a winter storm. Since then, I've put together, torn apart, and rebuilt emergency kits from scratch — including products from [SurviveX](https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits), one of the few brands that actually field-tests their gear before shipping it.
+I have been researching backup power and emergency preparedness gear since a winter storm left my area dark for six days. Since then I have compared kit contents piece by piece — including products from [SurviveX](https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits), one of the few brands that actually field-tests their gear before shipping it.
 
 Here's what I found.
 

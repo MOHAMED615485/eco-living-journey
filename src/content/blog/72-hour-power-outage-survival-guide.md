@@ -58,7 +58,7 @@ Your power backup plan determines everything else. Without backup power, food sp
 A 1,000Wh solar generator keeps a refrigerator running for 7-8 hours, charges all devices indefinitely with solar, and runs essential lighting. This is the single most impactful purchase for 72-hour preparedness.
 
 <div class="cta-container">
-<a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — EcoFlow DELTA 3 Plus →</a>
+<a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — EcoFlow DELTA 3 Plus →</a>
 </div>
 
 ### System 2: Food and Water

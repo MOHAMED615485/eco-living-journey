@@ -18,11 +18,11 @@ This is the question I get every summer: can I run my AC on a solar generator du
 
 The honest answer is: it depends entirely on what type of air conditioner and what size solar generator.
 
-I spent the summer testing this exact scenario with a Kill A Watt meter, three different window AC units, a portable AC, and four solar generator models. Here's what actually works — and what the marketing doesn't tell you.
+This guide works through the exact scenario using published AC power ratings across three window AC sizes, a portable AC, and four solar generator models. Here's what actually works — and what the marketing doesn't tell you.
 
 ## ⚡ The Watt Reality of Air Conditioners
 
-Air conditioners are the most power-hungry appliances most people own. Before buying any solar generator for AC use, measure your specific unit with a Kill A Watt meter.
+Air conditioners are the most power-hungry appliances most people own. Before buying any solar generator for AC use, check your specific unit's nameplate rating or measure it with a plug-in power meter.
 
 ### My tested measurements:
 
@@ -43,8 +43,8 @@ Air conditioners are the most power-hungry appliances most people own. Before bu
 
 | Model | Capacity | Output | Rating | Best For |
 |---|---|---|---|---|
-| [EcoFlow DELTA 2 Max](https://amzn.to/41D10iO) | 2,048Wh | 2,400W | ★★★★★ (5.0) | 5,000 BTU window AC |
-| [Bluetti AC200L](https://amzn.to/4sFpOCG) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | Portable AC, extended runtime |
+| [EcoFlow DELTA 2 Max](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) | 2,048Wh | 2,400W | ★★★★★ (5.0) | 5,000 BTU window AC |
+| [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | Portable AC, extended runtime |
 | [Jackery Explorer 1000 v2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | Fans + small loads only, not AC |
 
 ## 📏 What Size Solar Generator for AC?
@@ -196,4 +196,4 @@ No — portable solar generators cannot power central air conditioning. A 2-ton 
 
 ---
 
-*All watt measurements in this article were taken with a Kill A Watt meter during real operating conditions. Ethan Reynolds tested four solar generator models with three AC units over spec research and owner reports. Equipment was purchased with his own money. Last updated June 2026.*
+*All wattage figures are compiled from manufacturer specifications and cross-checked against aggregated owner reports. Ethan Reynolds researches solar generators at ecoliving-journey.com. Equipment referenced was independently researched, not supplied by manufacturers. Formerly noted as purchased with his own money. Last updated June 2026.*

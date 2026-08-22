@@ -67,7 +67,7 @@ The 2,700W surge rating handled my electric skillet (1,400W running / 1,800W sur
 
 **One real limitation:** The solar input cap is 500W. With two 220W panels, I was getting 340–380W actual in summer sun — enough to gain ~300Wh in a 3-hour afternoon window. Enough for lights and phone charging, not enough to fully recharge from 20% in one day.
 
-**→ [Check current price on Amazon](https://amzn.to/41D10iO)**
+**→ [Check current price on Amazon](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20)**
 
 ---
 
@@ -266,10 +266,10 @@ For true backpacking where weight is critical, the Jackery Explorer 500 (13.3 lb
 
 | Need | Generator | Link |
 |---|---|---|
-| Best overall | EcoFlow DELTA 2 | [Amazon](https://amzn.to/41D10iO) |
+| Best overall | EcoFlow DELTA 2 | [Amazon](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) |
 | RV / base camp | Bluetti AC200L | [Bluetti](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) |
 | Weekend campers | Jackery Explorer 1000 v2 | [Amazon](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) |
-| Cold weather | EcoFlow DELTA 3 Plus | [Amazon](https://amzn.to/41D10iO) |
+| Cold weather | EcoFlow DELTA 3 Plus | [Amazon](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) |
 
 ---
 

@@ -104,7 +104,7 @@ The EcoFlow app allows you to set charging limits — never charging above 80% a
 - Best for: Homesteaders and off-grid households with high daily consumption
 
 <div class="cta-container">
-  <a href="https://amzn.to/41D10iO" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; EcoFlow DELTA 3 Plus — App-Controlled Battery Longevity &rarr;
   </a>
 
@@ -231,7 +231,7 @@ Most consumer solar generators do not have user-replaceable batteries. EcoFlow o
 **Is LiFePO4 better than lithium-ion for solar generators?**
 Yes for most use cases. LiFePO4 offers 3-6x more cycle life, better temperature stability, and improved safety. The only advantage of NMC lithium-ion is lower upfront cost and slightly higher energy density per kilogram. For a long-term investment in home backup power LiFePO4 is the correct choice.
 
-*— Ethan Reynolds has researched LiFePO4 and NMC solar generators since 2021 across published cycle data and hundreds of owner reports covering field test days. Cycle life data sourced from manufacturer specifications and independent battery research.*
+*— Ethan Reynolds has researched LiFePO4 and NMC solar generators since 2021 across published cycle data and hundreds of owner reports. Cycle life data sourced from manufacturer specifications and independent battery research.*
 
 *Published: May 10 2026*
 

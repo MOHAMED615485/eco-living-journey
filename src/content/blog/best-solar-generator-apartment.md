@@ -102,7 +102,7 @@ The app shows real-time watt draw and estimated runtime on your phone. During a 
 **Best for:** Apartment dwellers who want one unit that handles everything — fridge, devices, lights, and CPAP — with zero compromise.
 
 <div class="cta-container">
-<a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow">Check EcoFlow DELTA 3 Plus on Amazon</a>
+<a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="nofollow">Check EcoFlow DELTA 3 Plus on Amazon</a>
 
 </div>
 

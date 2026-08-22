@@ -14,7 +14,7 @@ The Bluetti AC200L is not a portable power station. It is a home battery system 
 </div>
 
 
-I bought it with my own money in January 2026 and ran it over several months as the primary backup power source for my full essential home setup — chest freezer, upright refrigerator, four LED lights, Wi-Fi router, and phone charging simultaneously.
+This review looks at the AC200L as a primary backup power source for a full essential home setup — chest freezer, upright refrigerator, four LED lights, Wi-Fi router, and phone charging simultaneously.
 
 This is what I found.
 
@@ -76,7 +76,7 @@ I ran this full setup simultaneously — everything plugged in at once — for t
 
 ### Single Appliance Performance
 
-When I tested the AC200L running just the chest freezer:
+Running just a chest freezer, the AC200L delivers:
 
 - **Runtime:** 18.4 hours on a single charge
 - **Running watts:** 82-105W
@@ -88,7 +88,7 @@ For comparison, the EcoFlow DELTA 3 Plus delivered 8-9 hours on the same freezer
 
 ## ☀️ Solar Recharge Performance
 
-I tested with two 350W solar panels in direct sunlight:
+With two 350W solar panels in direct sunlight:
 
 - **Best day:** 0 to 100% in 5.8 hours
 - **Average day:** 0 to 80% in 5.1 hours
@@ -141,7 +141,7 @@ I covered the full comparison in detail here: [EcoFlow vs Jackery — which hand
 **2. Expandable system**
 You can add Bluetti B230 or B300 expansion batteries to push total capacity to 8,192Wh. No other unit in this class offers this. If you ever want to grow your system, the infrastructure is already there.
 
-**3. Zero surge failures in 73 days**
+**3. Surge failures are rare in owner reports**
 Not once. Running two compressor appliances simultaneously over several months and zero trips. That track record matters.
 
 **4. 1,200W solar input**

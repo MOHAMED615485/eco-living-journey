@@ -156,7 +156,7 @@ The EcoFlow DELTA 3 Plus, Jackery Explorer 1000 V2, and Bluetti AC200L all use L
 
 Not sure which one fits your specific appliance load? [Use the free Solar Generator Sizing Calculator](/solar-calculator/) to get a personalized recommendation.
 
-<div class="cta-container"><a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow">Check EcoFlow DELTA 3 Plus on Amazon</a></div>
+<div class="cta-container"><a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="nofollow">Check EcoFlow DELTA 3 Plus on Amazon</a></div>
 
 ---
 

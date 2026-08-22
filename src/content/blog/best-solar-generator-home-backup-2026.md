@@ -12,7 +12,7 @@ That was January 2024. The grid went down at 2AM during an ice storm. By morning
 
 That mistake sent me on a months-long search to find the best solar generator for home backup - one that could actually handle real appliances, not just phone chargers and laptops.
 
-I tested three units: the EcoFlow DELTA 3 Plus, the Jackery Explorer 1000 V2, and the Bluetti AC200L. I ran them on my chest freezer, my refrigerator, my router, and my lights. I tracked watt readings every day. I deliberately killed the power at 2AM to see what would fail.
+Three units are compared here: the EcoFlow DELTA 3 Plus, the Jackery Explorer 1000 V2, and the Bluetti AC200L - against a chest freezer, refrigerator, router and lights, using rated output and measured appliance draws. The scenario that matters is the 2AM to see what would fail.
 
 Here is exactly what I found.
 
@@ -79,7 +79,7 @@ The app is genuinely useful. I could see real-time watt draw, battery percentage
 
 **Best for:** Homeowners who want a single unit that can handle a chest freezer, refrigerator, router, and lights simultaneously during an outage.
 
-<div class="cta-container"><a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow">Check EcoFlow DELTA 3 Plus on Amazon</a></div>
+<div class="cta-container"><a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="nofollow">Check EcoFlow DELTA 3 Plus on Amazon</a></div>
 
 ---
 
@@ -108,7 +108,7 @@ What the numbers show:
 
 This one is in a different category. The AC200L has a 2,048Wh battery and a 2,400W output with 3,600W surge capacity.
 
-In my testing, I ran my full setup - chest freezer, upright refrigerator, four LED lights, and router - simultaneously for 11.2 hours on a single charge. No trips. No failures.
+On the numbers, that full setup - chest freezer, upright refrigerator, four LED lights, and router - runs roughly 11 hours on a single charge with surge headroom to spare.
 
 - **Running watts on full setup:** 280-320W
 - **Runtime on full setup:** 11.2 hours

@@ -96,7 +96,7 @@ The 1,800W inverter trips on chest freezers with high LRA surge ratings. Heavier
 **Bottom line:** Pay the extra $100 if fast recharging or multi-day outages are your priority.
 
 <div class="cta-container">
-  <a href="https://amzn.to/41D10iO" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; Check EcoFlow DELTA 3 Plus Price on Amazon &rarr;
   </a>
 
@@ -196,7 +196,7 @@ For a deeper head-to-head breakdown with real chest freezer surge data, see the 
 </div>
 
 <div class="cta-container" style="margin-top:1rem;">
-  <a href="https://amzn.to/41D10iO" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; EcoFlow DELTA 3 Plus on Amazon &rarr;
   </a>
 

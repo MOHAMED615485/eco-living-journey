@@ -86,9 +86,9 @@ A 1,000Wh solar generator running a refrigerator (150W average) will last approx
 
 | Model | Capacity | Output | Rating | Best For |
 |---|---|---|---|---|
-| [EcoFlow DELTA 2](https://amzn.to/41D10iO) | 1,024Wh | 1,800W | ★★★★★ (5.0) | Fridge + medical devices |
+| [EcoFlow DELTA 2](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) | 1,024Wh | 1,800W | ★★★★★ (5.0) | Fridge + medical devices |
 | [Jackery Explorer 1000 v2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | Budget all-rounder |
-| [Bluetti AC200L](https://amzn.to/4sFpOCG) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | Extended outages |
+| [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | Extended outages |
 
 
 
@@ -266,7 +266,7 @@ The average power outage duration after a major hurricane (Category 3+) is 8–1
 
 ---
 
-*Ethan Reynolds researches solar generators and emergency power systems using specs and owner reports. Equipment referenced was purchased with his own money. Last updated June 2026.*
+*Ethan Reynolds researches solar generators and emergency power systems using specs and owner reports. Equipment referenced is independently researched, not supplied by manufacturers. Last updated August 2026.*
 
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">

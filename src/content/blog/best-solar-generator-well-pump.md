@@ -98,7 +98,7 @@ The EcoFlow DELTA 3 Plus delivers 2,500W surge through its X-Boost technology. F
 
 **Best for:** 120V well pumps, LRA under 20A
 
-<div class="cta-container"><a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow">Check EcoFlow DELTA 3 Plus on Amazon</a></div>
+<div class="cta-container"><a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="nofollow">Check EcoFlow DELTA 3 Plus on Amazon</a></div>
 
 ---
 
@@ -150,7 +150,7 @@ Research whole-home backup options. The physics of the startup surge require mor
 
 Not sure what your setup requires? [Use the free Solar Generator Sizing Calculator](/solar-calculator/) to model your specific pump alongside your other critical appliances.
 
-<div class="cta-container"><a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow">Check EcoFlow DELTA 3 Plus on Amazon</a></div>
+<div class="cta-container"><a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="nofollow">Check EcoFlow DELTA 3 Plus on Amazon</a></div>
 
 ---
 

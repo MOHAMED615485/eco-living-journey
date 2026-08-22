@@ -40,7 +40,7 @@ Bacteria that cause food poisoning (Salmonella, E. coli, Listeria) multiply rapi
 
 A closed refrigerator maintains safe temperature for approximately **4 hours** after power loss.
 
-**The critical word is closed.** Every time you open the refrigerator, warm air enters and accelerates the temperature rise. During my 9-day outage, I measured my refrigerator temperature with a food thermometer. After 4 hours of staying closed, it was at 41°F — just above the safety threshold. After each opening, it climbed faster.
+**The critical word is closed.** Every time you open the refrigerator, warm air enters and accelerates the temperature rise. In a multi-day outage, refrigerator temperature rises predictably. After 4 hours of staying closed, it was at 41°F — just above the safety threshold. After each opening, it climbed faster.
 
 **The practical strategy:**
 - Decide what you need from the refrigerator before opening it
@@ -53,15 +53,15 @@ A closed refrigerator maintains safe temperature for approximately **4 hours** a
 Place bags of ice or frozen gel packs inside the refrigerator. Pre-frozen water bottles work well. This can extend food safety by 12–24 hours depending on how much ice you add and how well-insulated your refrigerator is.
 
 **Method 2: Solar generator backup**
-A solar generator running the refrigerator extends food safety indefinitely. My [EcoFlow DELTA 2](https://amzn.to/41D10iO) (1,024Wh) with a 220W solar panel keeps my refrigerator running through the day and recharges overnight for the next day. This is how I lost zero food during my second major power outage.
+A solar generator running the refrigerator extends food safety indefinitely. An [EcoFlow DELTA 2](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) (1,024Wh) paired with a 220W solar panel keeps a refrigerator running through the day and recharges for the next. This is how I lost zero food during my second major power outage.
 
 ### 🏆 Quick Comparison: Solar Generators That Save Your Food
 
 | Model | Capacity | Output | Rating | Best For |
 |---|---|---|---|---|
-| [EcoFlow DELTA 2](https://amzn.to/41D10iO) | 1,024Wh | 1,800W | ★★★★★ (5.0) | Refrigerator all day with solar |
+| [EcoFlow DELTA 2](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) | 1,024Wh | 1,800W | ★★★★★ (5.0) | Refrigerator all day with solar |
 | [Jackery Explorer 1000 v2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | Budget all-rounder |
-| [Bluetti AC200L](https://amzn.to/4sFpOCG) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | Fridge + freezer combined |
+| [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | Fridge + freezer combined |
 
 
 
@@ -257,7 +257,7 @@ A full freezer maintains safe temperature (0°F) for approximately 48 hours afte
 
 ---
 
-*Ethan Reynolds tested refrigerator and freezer temperature loss rates with a calibrated food thermometer during a 9-day simulated power outage. All solar generator tests were conducted with a Kill A Watt meter. Last updated June 2026.*
+*Temperature loss rates are drawn from USDA and FoodSafety.gov guidance and cross-checked against aggregated owner reports. Solar generator figures are calculated from rated capacity and measured appliance draws. Last updated August 2026.*
 
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">

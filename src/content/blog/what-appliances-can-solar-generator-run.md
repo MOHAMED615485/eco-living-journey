@@ -126,7 +126,7 @@ Any 500–1,000Wh generator works. The EcoFlow DELTA 3 Plus is the sweet spot �
 
 ⭐⭐⭐⭐⭐ 4.7/5 — 1,800+ Amazon reviews
 
-<a href="https://amzn.to/41D10iO" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:12px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;margin:12px 0;">
+<a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:12px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;margin:12px 0;">
   🛒 Check EcoFlow DELTA 3 Plus Price on Amazon →
 </a>
 

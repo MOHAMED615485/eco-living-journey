@@ -151,7 +151,7 @@ The generator I bought in 2022 is still in my garage. I use it once a year to ma
 
 Not sure what your specific setup requires? [Use the free Solar Generator Sizing Calculator](/solar-calculator/) to find out exactly what you need before buying.
 
-<div class="cta-container"><a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow">Check EcoFlow DELTA 3 Plus on Amazon</a></div>
+<div class="cta-container"><a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="nofollow">Check EcoFlow DELTA 3 Plus on Amazon</a></div>
 
 ---
 

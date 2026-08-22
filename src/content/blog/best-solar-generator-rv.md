@@ -1,6 +1,6 @@
 ---
-title: "Best Solar Generator for RV: I Tested 3 Units for 73 Days (2026)"
-description: "After 73 days of real RV power testing, Ethan reveals the best solar generator for RV use in 2026. Real runtime data, surge tests, and honest picks for every budget."
+title: "Best Solar Generator for RV 2026: Surge, Runtime and Real Costs"
+description: "The best solar generator for RV use in 2026: rooftop AC surge requirements, real runtime math, and honest picks for every budget."
 pubDate: 2026-05-20
 updatedDate: 2026-05-20
 heroImage: ../../assets/best-solar-generator-rv.webp
@@ -13,7 +13,7 @@ I had a 1,000W unit. The AC was rated 450W running. I figured I had headroom to 
 
 That trip changed how I think about RV power forever. It is not about how many watts you have. It is about whether your generator can survive the startup spike that happens in a fraction of a second every time your AC, fridge, or water pump cycles on.
 
-After 73 days of real RV testing across three generators — running roof AC units, refrigerators, water pumps, and charging stations simultaneously — here is exactly what I found.
+Across three generators running roof AC units, refrigerators, water pumps, and charging stations, here is exactly what the numbers show.
 
 ---
 
@@ -81,7 +81,7 @@ Before buying any solar generator for RV use, know your real power demands:
 
 ### 1. EcoFlow DELTA 3 Plus — Best Overall for RV 🥇
 
-The EcoFlow DELTA 3 Plus is the unit I kept coming back to across 73 days of RV testing. The X-Boost technology actively manages surge loads rather than just tripping on them — it can run appliances up to 2,200W even though the unit is rated 1,500W continuous.
+The EcoFlow DELTA 3 Plus is the unit that holds up best across RV use cases. The X-Boost technology actively manages surge loads rather than just tripping on them — it can run appliances up to 2,200W even though the unit is rated 1,500W continuous.
 
 **Real RV test numbers:**
 - RV refrigerator + water pump + TV + lights: **9.2 hours runtime**
@@ -95,7 +95,7 @@ The verdict: for RVers running everything except roof AC without a soft starter,
 **Best for:** RVers running fridge, water pump, devices, and lights. Add a soft starter for AC use.
 
 <div class="cta-container">
-<a href="https://amzn.to/41D10iO" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — EcoFlow DELTA 3 Plus →</a>
+<a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — EcoFlow DELTA 3 Plus →</a>
 </div>
 
 ---

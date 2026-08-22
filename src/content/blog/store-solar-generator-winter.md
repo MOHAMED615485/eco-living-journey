@@ -100,7 +100,7 @@ Most units display percentage on the screen. Charge to 60%, unplug, and store.
 | Outdoor storage | ❌ Never | Moisture, freezing, UV damage |
 
 <div class="cta-container">
-  <a href="https://amzn.to/41D10iO" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
     &#9889; EcoFlow DELTA 3 Plus — Best Cold Weather Performance &rarr;
   </a>
 </div>

@@ -22,8 +22,8 @@ So I bought four of the most popular models with my own money and ran them throu
 
 | Model | Capacity | Output | Rating | Price Range | Best For |
 |---|---|---|---|---|---|
-| [EcoFlow DELTA 2](https://amzn.to/41D10iO) | 1,024Wh | 1,800W | ★★★★★ (5.0) | $600–700 | Best overall, fridge + medical devices |
-| [Bluetti AC200L](https://amzn.to/4sFpOCG) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | $1,400–1,600 | Whole-household, extended outages |
+| [EcoFlow DELTA 2](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) | 1,024Wh | 1,800W | ★★★★★ (5.0) | $600–700 | Best overall, fridge + medical devices |
+| [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | $1,400–1,600 | Whole-household, extended outages |
 | [Jackery Explorer 1000 v2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | $500–600 | Best budget pick |
 | EcoFlow DELTA 3 Plus | 1,024Wh (expandable) | 1,800W | ★★★★☆ (4.5) | $700–850 | Expandable capacity needs |
 
@@ -41,7 +41,7 @@ I ran this unit through my actual 9-day simulated outage. With a 220W solar pane
 
 **Why it wins:** the balance of capacity, output, weight (27 lbs — I could actually carry it one-handed), and price makes it the right choice for the largest number of households. It's not the biggest battery on this list, but it's the one that fits what most people actually need.
 
-👉 **[Check current price on Amazon →](https://amzn.to/41D10iO)**
+👉 **[Check current price on Amazon →](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20)**
 
 ---
 
@@ -56,7 +56,7 @@ When I needed to run the refrigerator AND a window AC AND charge devices simulta
 
 **Why it wins this category:** double the capacity of the DELTA 2 means double the runtime for the same loads, or the ability to run more things at once. If you have a CPAP user AND a refrigerator AND want some AC relief during summer outages, this is the unit that doesn't make you choose.
 
-👉 **[Check current price on Amazon →](https://amzn.to/4sFpOCG)**
+👉 **[Check current price on Amazon →](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l)**
 
 ---
 
