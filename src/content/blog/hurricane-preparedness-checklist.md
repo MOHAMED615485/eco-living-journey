@@ -21,7 +21,7 @@ In 2022, a Category 2 made landfall 40 miles from my house in Florida. I had fla
 
 By day three I had thrown out $340 worth of groceries. By day five I was driving 45 minutes each way to find a gas station that still had fuel. By day nine I understood — for the first time — what it actually means to be prepared.
 
-Since then I've spent 73 days field-testing emergency power equipment and building out a prep system that doesn't fail. This checklist is that system, translated into something you can print out and work through before the next storm forms in the Gulf.
+Since then I've spent months researching emergency power equipment - specifications, failure reports, and what actually holds up in multi-day outages - and building out a prep system that doesn't fail. This checklist is that system, translated into something you can print out and work through before the next storm forms in the Gulf.
 
 **The one thing FEMA gets wrong:** their standard 72-hour recommendation assumes the grid comes back in three days. In major hurricanes, the average outage in hard-hit areas is 8–12 days. Plan for 7 minimum. Plan for 14 if you're in a mobile home or coastal flood zone.
 
@@ -61,7 +61,7 @@ The math is simple and non-negotiable: **1 gallon per person per day, 7-day mini
 - [ ] Baby formula or special dietary needs supplies (30-day buffer)
 - [ ] Pet food (7-day supply minimum)
 
-**Pro tip from field testing:** Rotate your emergency food stock every 12 months. Eat it, replace it. Nothing worse than cracking open a can labeled 2019 when you're hungry and stressed.
+**Pro tip:** Rotate your emergency food stock every 12 months. Eat it, replace it. Nothing worse than cracking open a can labeled 2019 when you're hungry and stressed.
 
 ---
 
@@ -83,9 +83,9 @@ This is where most hurricane prep fails. A box of candles and a flashlight is no
 **Serious Power Backup (Refrigerator, CPAP, Medical Devices):**
 - [ ] Solar generator with 1,000Wh+ capacity (runs a fridge for 8–10 hours on a full charge)
 - [ ] 200W+ portable solar panel to recharge during daytime
-- [ ] Know your devices' watt draw before the storm (use a Kill A Watt meter)
+- [ ] Know your devices' watt draw before the storm (check the nameplate or use a plug-in power meter)
 
-I tested a [EcoFlow DELTA 2](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) through a 9-day simulated outage. With a 220W panel, I could keep a 18 cu ft refrigerator running through the day and recharge overnight. No fuel, no fumes, no noise. If you have medications that require refrigeration or run a CPAP, a solar generator is not optional — it's medical equipment.
+Run the numbers on an [EcoFlow DELTA 2](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) through a multi-day outage: with a 220W panel, an 18 cu ft refrigerator drawing roughly 150W can be sustained through daylight hours and recharged for the next day. No fuel, no fumes, no noise. If you have medications that require refrigeration or run a CPAP, a solar generator is not optional — it's medical equipment.
 
 
 ### 🏆 Quick Comparison: Solar Generators for Hurricane Prep
@@ -267,7 +267,7 @@ Keep $300–$500 in small bills ($20s and smaller) in your kit. ATMs lose power 
 
 ---
 
-*Ethan Reynolds researches solar generators and emergency power systems using specs and owner reports. Equipment reviewed on this site with his own money. Last updated June 2026.*
+*Ethan Reynolds researches solar generators and emergency power systems using manufacturer specifications, published outage data and aggregated owner reports. Equipment referenced is independently researched, not supplied by manufacturers. Last updated August 2026.*
 
 
 <!-- end-read-cta -->

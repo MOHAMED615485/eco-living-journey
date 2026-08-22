@@ -103,7 +103,7 @@ If you are looking for "Level 1" resilience to confidently survive a 12-to-24-ho
 
 The EcoFlow Delta Pro 3 is the undisputed heavyweight champion of the portable market. It is designed for the homeowner who refuses to compromise on capacity. With a peak output pushing past 4,000W, it won't just run your fridge—it can easily handle the 3,000W surge of a well pump without tripping the breakers. If you realize 4kWh isn't enough, you can daisy-chain extra smart batteries to push the system up to a staggering 12kWh of total storage.
 
-<a href="https://amzn.to/4rRrIjm" target="_blank" class="affiliate-btn">🛒 Check Current Price on Amazon ➔</a>
+<a href="https://www.amazon.com/dp/B0C4DW17PD?tag=ecolivingjo0d-20" target="_blank" class="affiliate-btn">🛒 Check Current Price on Amazon ➔</a>
 
 <h3>2. 🛻 The "Rugged Reliability" Choice: Jackery 2000 Plus</h3>
 
@@ -111,7 +111,7 @@ The EcoFlow Delta Pro 3 is the undisputed heavyweight champion of the portable m
 
 If EcoFlow is a luxury sports car, the Jackery 2000 Plus is an indestructible off-road truck. Jackery has moved to advanced LiFePO4 battery chemistry, meaning you can drain and recharge this unit thousands of times over a decade without degrading the battery health. It is built for the user who wants zero software headaches and features built-in wheels and ergonomic handles making it incredibly easy to roll around when the lights go out.
 
-<a href="https://amzn.to/4uaQ7lc" target="_blank" class="affiliate-btn">🛒 Check Current Price on Amazon ➔</a>
+<a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" class="affiliate-btn">🛒 Check Current Price on Amazon ➔</a>
 
 <div class="b2b-alert">
   <h2 style="margin-top: 0;">⚠️ The Hard Truth: When Portable Batteries Fail</h2>

@@ -15,7 +15,7 @@ The $1000 price point is where solar generators get serious.
 
 Below it you find toys. Above it you find diminishing returns. Right at $1000 is where three brands fight hardest for your money — and where the differences between them matter most.
 
-I spent months running the top contenders on my garage chest freezer, refrigerator, and full home backup setup. Here is what the real numbers say.
+I put the top contenders against the loads that matter - chest freezer, refrigerator, full home backup - using rated output and owner-reported runtimes. Here is what the real numbers say.
 
 <div style="background:#f0fdf4;border-left:4px solid #2d6a4f;padding:16px 20px;border-radius:8px;margin-bottom:1.5rem;">
 <strong>&#9889; Quick Answer:</strong> The <strong>Jackery Explorer 1000 V2</strong> is the best solar generator under $1000 for most homeowners — 1,070Wh, 2,000W inverter, LiFePO4 battery, and 14+ hours of chest freezer runtime per charge. The <strong>EcoFlow DELTA 3 Plus</strong> is the better pick if you need fast solar recharging during a multi-day outage.
@@ -52,7 +52,7 @@ The Jackery Explorer 1000 V2 hits the sweet spot that no other sub-$1000 generat
 
 ### The real numbers
 
-I ran it continuously on my chest freezer through two real power outages. The freezer draws 85W running with a 450W startup surge — the exact load that trips most cheaper units.
+On continuous chest freezer duty it holds up well. A typical small freezer draws 85W running with a 450W startup surge — the exact load that trips most cheaper units.
 
 - Chest freezer runtime: **14.2 hours** from 80% to 10%
 - Refrigerator (18 cu ft): **11.5 hours**
