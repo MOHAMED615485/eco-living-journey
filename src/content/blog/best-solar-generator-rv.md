@@ -36,7 +36,7 @@ Across three generators running roof AC units, refrigerators, water pumps, and c
 ---
 
 
-<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have personally tested.</em></p>
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</em></p>
 
 ## 🚑 Why RV Power Is Different From Home Backup
 

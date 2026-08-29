@@ -14,7 +14,7 @@ Most families are not even prepared for 24 hours.
 
 I know because I was one of them. Three years ago a winter storm knocked out our power for four days. Day one was inconvenient. Day two was uncomfortable. Day three was the day I realized how badly I had failed to prepare my family.
 
-<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have personally tested.</em></p>
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</em></p>
 
 
 This guide is what I built after that experience. A complete 72-hour power outage plan covering every room in your home, every critical system, and every decision you need to make before the lights go out — not after.

@@ -12,7 +12,7 @@ tags: ["best solar generator 2026", "solar generator review", "EcoFlow", "Jacker
 **Quick Answer:** The best overall solar generator for 2026 is the EcoFlow DELTA 2 (1,024Wh, 1,800W output, ★★★★★) for most households needing refrigerator and medical device backup. The Bluetti AC200L (2,048Wh, 2,400W) wins for whole-household coverage and extended outages. The Jackery Explorer 1000 v2 (1,000Wh, 1,500W) is the best budget pick. All three are ranked on rated surge headroom and owner-reported runtime against real appliance loads — not marketing capacity numbers alone.
 </div>
 
-<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have personally tested.</em></p>
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</em></p>
 
 Every "best solar generator" list I read before buying my first one was written by someone who clearly never plugged the thing into a real refrigerator.
 

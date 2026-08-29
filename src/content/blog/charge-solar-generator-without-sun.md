@@ -10,7 +10,7 @@ faqSchema: true
 
 The question I get asked most after every storm season: what do you do when it is cloudy for three days straight and your solar generator is dying?
 
-<div style="background:#eaf5ef;border-left:4px solid #2d6a4f;padding:12px 16px;border-radius:0 8px 8px 0;font-size:0.9em;">Affiliate disclosure: I may earn a commission if you buy through links on this page, at no extra cost to you. I only recommend gear I have personally tested.</div>
+<div style="background:#eaf5ef;border-left:4px solid #2d6a4f;padding:12px 16px;border-radius:0 8px 8px 0;font-size:0.9em;">Affiliate disclosure: I may earn a commission if you buy through links on this page, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</div>
 
 
 I have been there. Hurricane season in the American South means overcast skies for days at a time — exactly when you need your backup power most. The solar panels sit there doing almost nothing while the battery drains.

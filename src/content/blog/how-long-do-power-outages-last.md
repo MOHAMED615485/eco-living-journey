@@ -12,7 +12,7 @@ The first thing everyone wants to know when the lights go out is how long it wil
 
 The answer depends entirely on what caused it. A squirrel hitting a transformer is back in 45 minutes. A hurricane is three to seven days. An ice storm is somewhere in between, and almost always longer than the utility company initially tells you.
 
-<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have personally tested.</em></p>
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</em></p>
 
 
 I have been through 11 outages since 2019. The average duration was 6.2 hours. The longest was 61 hours after a major storm. The shortest was 22 minutes. Here is what the real data says about how long you should expect to wait.

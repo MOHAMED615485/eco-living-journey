@@ -10,7 +10,7 @@ faqSchema: true
 
 The most honest answer I can give you is this: the solar generator itself will outlast the battery by a decade.
 
-<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have personally tested.</em></p>
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</em></p>
 
 
 The electronics, the inverter, the charge controller, the ports — these components last 15-20 years with normal use. What actually limits your solar generator’s lifespan is the battery inside it. And the battery’s lifespan depends almost entirely on what chemistry it uses and how you treat it.

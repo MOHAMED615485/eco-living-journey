@@ -137,7 +137,7 @@ The SurviveX kits are the ones I'd hand to a family member who asked what to buy
 
 ---
 
-*Last tested: May 2026 · Affiliate disclosure: Links above are affiliate links. I earn a commission at no extra cost to you. I only recommend products I've personally tested.*
+*Last updated: August 2026 · Affiliate disclosure: Links above are affiliate links. I earn a commission at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.*
 
 Stay prepared.
 

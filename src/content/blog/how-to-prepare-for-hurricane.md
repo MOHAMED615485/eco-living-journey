@@ -12,7 +12,7 @@ tags: ["hurricane preparation", "storm survival", "emergency power", "solar gene
 **Quick Answer:** Start hurricane preparation in May — not when a storm is named. The 7-day timeline: Day 7 buy supplies, Day 5 fill prescriptions and fuel, Day 3 board windows and charge all devices, Day 1 execute evacuation plan or shelter in place. The single biggest mistake people make is waiting until 48 hours before landfall when stores are already empty.
 </div>
 
-<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have personally tested.</em></p>
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</em></p>
 
 The second time a hurricane threatened my area, I was ready.
 

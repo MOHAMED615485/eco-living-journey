@@ -12,7 +12,7 @@ tags: ["solar generator for whole house", "whole house backup power", "solar gen
 **Quick Answer:** A single portable solar generator cannot power an entire house. A typical US home uses 30–50 kWh per day — that's 30,000–50,000 Wh. The largest portable solar generators hold 2,000–5,000 Wh. You need either a whole-home battery system (Tesla Powerwall, $10,000+) or a strategic partial-home approach: run your critical loads only (refrigerator + lights + CPAP + devices) from a 2,000–3,000 Wh portable solar generator. That is what the math actually supports.
 </div>
 
-<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have personally tested.</em></p>
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</em></p>
 
 Every week someone asks me: "Can I run my whole house on a solar generator?"
 

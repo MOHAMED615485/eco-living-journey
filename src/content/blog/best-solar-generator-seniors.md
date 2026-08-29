@@ -10,7 +10,7 @@ faqSchema: true
 
 My mother-in-law is 74. She lives alone. She has a CPAP machine, insulin in the refrigerator, and a deep distrust of anything with too many buttons.
 
-<div style="background:#eaf5ef;border-left:4px solid #2d6a4f;padding:12px 16px;border-radius:0 8px 8px 0;font-size:0.9em;">Affiliate disclosure: I may earn a commission if you buy through links on this page, at no extra cost to you. I only recommend gear I have personally tested.</div>
+<div style="background:#eaf5ef;border-left:4px solid #2d6a4f;padding:12px 16px;border-radius:0 8px 8px 0;font-size:0.9em;">Affiliate disclosure: I may earn a commission if you buy through links on this page, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</div>
 
 
 When I started researching solar generators for her after Hurricane season 2023, I realized quickly that most backup power guides are written for 35-year-old tech enthusiasts. Nobody was writing for the people who actually need backup power most — elderly adults living alone, often with medical dependencies, who need something they can operate confidently in the dark at 3AM without calling anyone for help.

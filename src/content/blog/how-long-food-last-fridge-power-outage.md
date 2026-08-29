@@ -12,7 +12,7 @@ tags: ["power outage food safety", "how long does food last", "fridge without po
 **Quick Answer:** A closed refrigerator keeps food safe for 4 hours without power. A full freezer keeps food safe for 48 hours; half-full freezer for 24 hours. The rule is simple: keep doors closed, use a thermometer (food is safe below 40°F), and when in doubt — throw it out. Never taste food to determine safety. Some bacterial contamination has no smell, taste, or visible sign.
 </div>
 
-<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have personally tested.</em></p>
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</em></p>
 
 I threw away $340 worth of groceries after my first major hurricane.
 

@@ -12,7 +12,7 @@ The call came at 2AM.
 
 My neighbor — 71 years old, CPAP user — had been without power for six hours. His backup battery was dead. His wife was panicking. His oxygen saturation was dropping.
 
-<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have personally tested.</em></p>
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</em></p>
 
 <p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#fff8f0;border-left:3px solid #b35c00;margin-bottom:1.5rem;border-radius:4px;"><em>This guide covers powering medical devices during outages - it is not medical advice. Always follow your device manufacturer's instructions and consult your healthcare provider about backup power for life-sustaining equipment.</em></p>
 
