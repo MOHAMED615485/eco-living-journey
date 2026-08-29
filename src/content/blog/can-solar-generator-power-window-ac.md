@@ -112,20 +112,20 @@ I compared three window AC sizes against two solar generator capacities using ma
 - Room size: 12x14 ft, well insulated
 - Solar panels: 400W connected during testing
 
-### Results table
+### Calculated runtime by pairing
 
-| AC unit | Generator | Runtime (no solar) | Runtime (with 400W solar) |
+| AC size | Generator | Calculated runtime (no solar) | With 400W solar |
 |:--|:--|:--|:--|
-| 5,000 BTU LG | Jackery 1000 V2 | 2.6 hours | Indefinite in daylight |
-| 5,000 BTU LG | EcoFlow DELTA 3 Plus | 2.8 hours | Indefinite in daylight |
-| 8,000 BTU Frigidaire | Jackery 1000 V2 | 1.3 hours | 3–4 hours in daylight |
-| 8,000 BTU Frigidaire | EcoFlow DELTA 3 Plus | 1.5 hours | 4–5 hours in daylight |
-| 12,000 BTU window unit | Jackery 1000 V2 | ❌ Tripped inverter | N/A |
+| 5,000 BTU | Jackery 1000 V2 | 2.6 hours | Indefinite in daylight |
+| 5,000 BTU | EcoFlow DELTA 3 Plus | 2.8 hours | Indefinite in daylight |
+| 8,000 BTU | Jackery 1000 V2 | 1.3 hours | 3–4 hours in daylight |
+| 8,000 BTU | EcoFlow DELTA 3 Plus | 1.5 hours | 4–5 hours in daylight |
+| 12,000 BTU | Jackery 1000 V2 | ❌ Surge exceeds inverter | N/A |
 | 12,000 BTU window unit | EcoFlow DELTA 3 Plus | 0.9 hours | 2–3 hours in daylight |
 
-### Key finding
+### What the math means
 
-The Jackery 1000 V2 could not handle the 12,000 BTU unit. The surge exceeded its 2,000W inverter capacity. The EcoFlow DELTA 3 Plus handled it because of its X-Boost technology which allows it to run appliances up to 2,400W surge through intelligent power management.
+A 12,000 BTU unit surges to 2,400-2,800W, which exceeds the Jackery 1000 V2's rated 2,000W inverter. The EcoFlow DELTA 3 Plus clears it because of its X-Boost technology which allows it to run appliances up to 2,400W surge through intelligent power management.
 
 **For anything above 8,000 BTU: EcoFlow DELTA 3 Plus is the only 1,000Wh generator that works.**
 
@@ -210,6 +210,15 @@ Heat emergencies require more than just power backup. A complete emergency kit c
 </div>
 
 ---
+
+
+
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
+<h3 style="color:#2d6a4f;margin-top:0;">Cooling is only half the outage problem</h3>
+<p>An AC is the hardest thing most people try to run on backup power. Once you know your BTU surge, the same math applies to everything else in the house &mdash; and the fridge is usually next.</p>
+<p><a href="/blog/solar-generator-for-air-conditioner/">Portable AC vs window AC: which is realistic on battery &rarr;</a></p>
+<p style="margin-bottom:0;font-size:0.9em;"><a href="/blog/surge-vs-running-watts/">Why surge watts decide everything &rarr;</a> &nbsp;&middot;&nbsp; <a href="/blog/how-many-watts-chest-freezer/">Freezer wattage by size &rarr;</a> &nbsp;&middot;&nbsp; <a href="/blog/how-to-keep-house-cool-power-outage/">Cooling without any power at all &rarr;</a></p>
+</div>
 
 ## Frequently Asked Questions
 
