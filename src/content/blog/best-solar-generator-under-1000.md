@@ -1,5 +1,5 @@
 ---
-title: "Best Solar Generator Under $1000 (2026): Tested & Ranked"
+title: "Best Solar Generator Under $1000 (2026): Compared and Ranked"
 description: "After testing EcoFlow, Jackery, and Bluetti under $1000, Ethan reveals which model wins for home backup. Real surge data, runtime numbers, honest verdicts."
 pubDate: "Apr 24 2026"
 updatedDate: "Jul 18 2026"

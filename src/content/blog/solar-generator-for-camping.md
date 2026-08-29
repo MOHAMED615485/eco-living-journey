@@ -1,5 +1,5 @@
 ---
-title: "Best Solar Generator for Camping 2026: Tested in the Field"
+title: "Best Solar Generator for Camping 2026: Runtime Compared"
 description: "6 solar generators compared for camping: weight, runtime, cold-weather performance and solar recharge. Exactly which one to buy for RV, tent or van life."
 pubDate: 2026-06-29
 heroImage: ../../assets/solar-generator-for-camping.webp

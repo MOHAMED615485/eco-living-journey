@@ -1,5 +1,5 @@
 ---
-title: "EcoFlow vs Bluetti: Which Brand Wins in 2026? (Real Test)"
+title: "EcoFlow vs Bluetti: Which Brand Wins in 2026? (Spec Comparison)"
 description: "EcoFlow wins on recharge speed and app features. Bluetti wins on capacity and expandability. Real test data across 11 outages to help you pick the right brand."
 pubDate: "May 12 2026"
 updatedDate: "May 12 2026"

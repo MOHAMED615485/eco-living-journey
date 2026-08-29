@@ -1,5 +1,5 @@
 ---
-title: "Bluetti AC200L Review: Real-World Home Backup Testing"
+title: "Bluetti AC200L Review: Home Backup Capacity and Runtimes"
 description: "Ethan tested the Bluetti AC200L over several months running a chest freezer, refrigerator, lights and router simultaneously. Real watt readings, runtime data and honest verdict."
 pubDate: "Apr 03 2026"
 heroImage: "../../assets/bluetti-ac200l-review.webp"

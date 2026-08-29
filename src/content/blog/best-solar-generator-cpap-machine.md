@@ -1,5 +1,5 @@
 ---
-title: "Best Solar Generator for CPAP Machine (2026): Tested"
+title: "Best Solar Generator for CPAP Machine (2026): Watt Math"
 description: "The best solar generator for CPAP machines runs 8-12 hours per charge without DC adapter losses. Real runtime tests on ResMed and Philips CPAP machines with honest verdicts."
 pubDate: "May 02 2026"
 updatedDate: "Jul 18 2026"

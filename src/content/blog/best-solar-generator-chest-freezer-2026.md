@@ -1,5 +1,5 @@
 ---
-title: "Best Solar Generator for Chest Freezer 2026 (Tested)"
+title: "Best Solar Generator for Chest Freezer 2026 (Surge Compared)"
 description: "After real-world testing EcoFlow, Jackery and Bluetti on real chest freezers, Ethan reveals the best solar generator for chest freezer backup in 2026. Real surge data."
 pubDate: "Apr 05 2026"
 heroImage: "../../assets/best-solar-generator-chest-freezer.webp"
