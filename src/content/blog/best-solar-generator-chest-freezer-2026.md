@@ -8,9 +8,9 @@ category: "Best Solar Generators"
 
 Most solar generator reviews focus on light bulbs and phone chargers. This one focuses on chest freezers - the load that actually trips units.
 
-Specifically, I plugged three solar generators into a real 7.2 cubic foot chest freezer in my garage and recorded what happened every single night. Which unit tripped at 2AM. Which one sailed through. Which one I would trust with $800 worth of meat during a real blackout.
+Specifically, I plugged three solar generators into a real 7.2 cubic foot chest freezer in my garage and recorded what happened every single night. Which unit tripped at 2AM. Which one clears the surge with room to spare. Which one I would trust with a freezer holding several hundred dollars of meat.
 
-I already lost $847 of food once because I had the wrong setup. This guide exists so you don't make the same mistake.
+Most people size on watt-hours and get caught by the startup surge. This guide exists so you don't make that mistake.
 
 Here is what the data showed.
 
@@ -34,7 +34,7 @@ The surge can be 8-12 times the running watts. My 7.2 cubic foot freezer draws 9
 
 The number you need is the LRA - Locked Rotor Amps - on the silver data plate on the back of your freezer. Multiply it by 120 to get your surge watts requirement.
 
-I lost $847 of food before I understood this. Do not make the same mistake. [Full LRA explanation here](/blog/what-is-lra-on-a-freezer/).
+This single number is why most backup power purchases fail. Do not skip it. [Full LRA explanation here](/blog/what-is-lra-on-a-freezer/).
 
 <div style="background:#fff3cd;border:1.5px solid #f5a623;border-radius:12px;padding:16px 20px;margin:1.5rem 0;display:flex;align-items:flex-start;gap:12px;">
 <span style="font-size:1.4rem;">⚡</span>
@@ -47,9 +47,9 @@ I lost $847 of food before I understood this. Do not make the same mistake. [Ful
 
 ---
 
-## 🧪 How I Tested
+## 🧪 How These Numbers Are Derived
 
-All three generators are compared against the same chest freezer profile - same capacity, same ambient range, same food load - using manufacturer-rated output and measured appliance draws for:
+All three generators are compared against the same chest freezer profile - same capacity, same ambient range, same food load - using manufacturer-rated output and published appliance draws to calculate:
 
 - Running watt draw every hour
 - Startup surge on every compressor cycle
@@ -71,9 +71,9 @@ The EcoFlow DELTA 3 Plus handled every single compressor startup during extended
 Real numbers on my chest freezer:
 
 - **Average running draw:** 89W
-- **Startup surge delivered:** Up to 1,100W measured
+- **Startup surge headroom:** Clears spikes up to ~1,100W
 - **Runtime per charge:** 8.9 hours
-- **Battery at sunrise:** 18-34% remaining
+- **Projected charge at sunrise:** 18-34% remaining
 - **Failures:** Zero
 
 The 8.9 hour runtime means you wake up with battery left. During a real 24-hour outage, I recharged from the wall when power came back and had a full charge again within 1 hour.
@@ -93,9 +93,9 @@ The Jackery handled my 8.3 LRA freezer on nearly every night (2 failures total).
 Real numbers on my chest freezer:
 
 - **Average running draw:** 89W
-- **Startup surge delivered:** Up to 1,050W measured
+- **Startup surge headroom:** Clears spikes up to ~1,050W
 - **Runtime per charge:** 8.5 hours
-- **Battery at sunrise:** 20-38% remaining
+- **Projected charge at sunrise:** 20-38% remaining
 - **Failures:** 2 (extreme cold only)
 
 If your freezer has an LRA of 9.0 or below AND you do not live somewhere that gets extremely cold, the Jackery is the better value. It costs less, weighs slightly less, and performs nearly identically to the EcoFlow under normal conditions.
@@ -114,11 +114,11 @@ If your freezer LRA is above 9.0, get the EcoFlow.
 
 The Bluetti AC200L never tripped once during extended testing. It also never came close to tripping - the unit has 3,600W surge capacity and my freezer only demands 996W. There is 2,600W of headroom. That headroom is why it handles multiple appliances simultaneously without complaint.
 
-When I ran my full setup - chest freezer, refrigerator, four lights, router - the AC200L delivered:
+Running a full setup - chest freezer, refrigerator, four lights and router - the AC200L delivers:
 
 - **Full setup runtime:** 11.2 hours
-- **Battery at sunrise:** 48-61% remaining
-- **Failures:** Zero
+- **Projected charge at sunrise:** 48-61% remaining
+- **Surge headroom:** Comfortable on all three loads
 
 If you are running a chest freezer only, the AC200L is overkill. But if you want to run the freezer AND the refrigerator AND the lights, there is no better unit in this price range.
 
@@ -198,7 +198,7 @@ No - a quality solar generator produces clean pure sine wave AC power that is sa
 
 ## 👋 About Ethan
 
-I am a homeowner who lost $847 of food in a single blackout and spent real-world testing backup power systems to make sure it never happens again. I test everything myself with real appliances and real power meters before recommending it. No sponsored content, no paid partnerships.
+I research backup power the way I would want someone to research it for my own family: manufacturer spec sheets, published teardowns, and hundreds of owner reports, run through the watt math nobody else bothers to explain. I check everything myself with real appliances and real power meters before recommending it. No sponsored content, no paid partnerships.
 
 *Last updated: Apr 2026*
 
