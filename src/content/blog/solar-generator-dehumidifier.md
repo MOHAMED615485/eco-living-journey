@@ -101,6 +101,14 @@ Pure sine wave output matters here too; compressors run hot and inefficient on m
 <a href="https://ethanecoliving.gumroad.com/l/72-hour-power-outage-survival-kit">Get the 72-Hour Kit &rarr;</a>
 </div>
 
+
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
+<h3 style="color:#2d6a4f;margin-top:0;">A dehumidifier is the hardest load in flood recovery</h3>
+<p>334W continuous with no cycling is brutal on battery backup. If you are sizing a unit that has to handle this plus a fridge, the surge math matters more than capacity.</p>
+<p><a href="/blog/what-appliances-can-solar-generator-run/">What a portable unit can actually run &rarr;</a></p>
+<p style="margin-bottom:0;font-size:0.9em;"><a href="/blog/surge-vs-running-watts/">Surge vs running watts &rarr;</a> &nbsp;&middot;&nbsp; <a href="/blog/best-solar-generator-under-1000/">Best units under $1,000 &rarr;</a> &nbsp;&middot;&nbsp; <a href="/blog/how-to-prepare-for-hurricane/">Full hurricane prep guide &rarr;</a></p>
+</div>
+
 ## ❓ Frequently Asked Questions
 
 ### How many watts does a crawl space dehumidifier use?
