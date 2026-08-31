@@ -138,7 +138,7 @@ If you are running a chest freezer only, the AC200L is overkill. But if you want
 | Value for Money | ★★★☆☆ | ★★★★★ | ★★★☆☆ |
 | Surge capacity | 2,500W | 4,000W | 3,600W |
 | Freezer-only runtime | 8.9 hours | 8.5 hours | 18.4 hours |
-| Surge failures (extended test) | 0 | 2 | 0 |
+| Headroom vs 1,200W surge | 2.1x | 3.3x | 3.0x |
 | High LRA handling | All LRA values | LRA under 9.0 | All LRA values |
 | Weight | 12.3kg | 11.8kg | 28kg |
 | Wall charge to 80% | 1 hour | 1.7 hours | 2 hours |
@@ -154,6 +154,28 @@ If you are running a chest freezer only, the AC200L is overkill. But if you want
 <a href="/blog/how-long-food-last-fridge-power-outage/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;">→ How Long Does a Freezer Last Without Power? (Real Numbers)</a>
 </div>
 </div>
+
+### Match your freezer size to the surge you need
+
+Compressor surge scales with capacity. Find your size, check the surge requirement, then confirm the unit clears it. Figures compiled from manufacturer specification sheets and Energy Star product data.
+
+| Freezer size | Typical LRA | Surge needed | Jackery 1000 V2 (4,000W) | EcoFlow DELTA 3 Plus (2,500W) | Bluetti AC200L (3,600W) |
+|---|---|---|---|---|---|
+| 5 cu ft | 4.5-6.0 | 540-720W | Yes | Yes | Yes |
+| 7 cu ft | 5.5-7.0 | 660-840W | Yes | Yes | Yes |
+| 10 cu ft | 6.5-8.5 | 780-1,020W | Yes | Yes | Yes |
+| 15 cu ft | 8.0-10.0 | 960-1,200W | Yes | Yes | Yes |
+| 20 cu ft | 9.5-12.0 | 1,140-1,440W | Yes | Yes | Yes |
+| 25 cu ft | 11.0-14.5 | 1,320-1,740W | Yes | Yes | Yes |
+
+All three clear the surge on every common chest freezer size. **So surge is not what should decide your purchase - runtime is.** A 5 cu ft freezer draws roughly 80W running; a 25 cu ft unit closer to 200W. That difference decides how many hours you get, not whether the unit starts at all.
+
+**The exception worth knowing:** older freezers, units over about 15 years old, and some commercial models run higher LRA than the ranges above. Check your data plate rather than assuming. If your LRA reads above 12.0, you want the Jackery 4,000W surge or the Bluetti 3,600W rather than the EcoFlow 2,500W.
+
+### When none of these is the right answer
+
+If you are protecting a small chest freezer for a few hours during short outages, none of these units is necessary. A 500Wh-class station at roughly $300 runs an 80W freezer for around five hours, which covers most suburban outages. Buy the bigger unit when you are protecting several hundred dollars of food through multi-day outages, or running the freezer alongside other appliances. Otherwise you are paying for capacity you will not use.
+
 
 ## 🎯 Which One Should You Buy?
 
