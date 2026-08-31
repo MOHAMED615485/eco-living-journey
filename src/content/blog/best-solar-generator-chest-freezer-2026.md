@@ -180,6 +180,22 @@ Still not sure? [Use the free Solar Generator Sizing Calculator](/solar-calculat
 <a href="/blog/how-to-prep-home-power-outage/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;">→ How to Prep Your Home for a Power Outage (Complete Checklist)</a>
 </div>
 
+
+
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:22px;margin:28px 0;">
+<p style="margin:0 0 14px;font-weight:700;color:#2d6a4f;font-size:1.05em;">Ready to decide?</p>
+<p style="margin:0 0 10px;">Freezer only, best value &mdash; <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2">Check the Jackery 1000 V2 price &rarr;</a></p>
+<p style="margin:0;">Freezer plus fridge and more &mdash; <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l">Check the Bluetti AC200L price &rarr;</a></p>
+</div>
+
+
+
+<div style="background:#eaf5ef;border:2px dashed #2d6a4f;border-radius:10px;padding:16px 20px;margin:24px 0;text-align:center;">
+<p style="margin:0 0 6px;font-size:1.05em;"><strong>Stocking the freezer back up after an outage?</strong></p>
+<p style="margin:0 0 6px;">SurviveX emergency kits: 10% off with code <strong style="background:#2d6a4f;color:#fff;padding:3px 10px;border-radius:4px;letter-spacing:1px;">GETREADY10</strong></p>
+<p style="margin:0;font-size:0.85em;color:#555;">Valid through 30 November 2026.</p>
+</div>
+
 ## ❓ FAQ
 
 **What size solar generator do I need for a chest freezer?**
