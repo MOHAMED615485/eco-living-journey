@@ -132,6 +132,13 @@ This is the system most families skip until it is too late.
 
 ---
 
+
+<div style="background:#eaf5ef;border:2px dashed #2d6a4f;border-radius:10px;padding:16px 20px;margin:24px 0;text-align:center;">
+<p style="margin:0 0 6px;font-size:1.05em;"><strong>SurviveX discount: 10% off everything</strong></p>
+<p style="margin:0 0 6px;">Use code <strong style="background:#2d6a4f;color:#fff;padding:3px 10px;border-radius:4px;letter-spacing:1px;">GETREADY10</strong> at checkout</p>
+<p style="margin:0;font-size:0.85em;color:#555;">Valid through 30 November 2026. Cannot be combined with other offers.</p>
+</div>
+
 ## Room-by-Room 72-Hour Checklist
 
 ### Kitchen
