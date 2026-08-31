@@ -179,6 +179,14 @@ For outages expected to last 24+ hours, having a pre-packed emergency kit remove
 
 ---
 
+
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
+<h3 style="color:#2d6a4f;margin-top:0;">Now you know the odds. What covers you for that long?</h3>
+<p>Planning for 72 hours is the standard answer. The harder question is what it takes to keep a fridge, a phone and a medical device running for that whole window &mdash; and it is less about battery size than most people assume.</p>
+<p><a href="/blog/what-appliances-can-solar-generator-run/">What a portable unit can actually run &rarr;</a></p>
+<p style="margin-bottom:0;font-size:0.9em;"><a href="/blog/best-solar-generator-under-1000/">Best options under $1,000 &rarr;</a> &nbsp;&middot;&nbsp; <a href="/blog/how-long-food-last-fridge-power-outage/">How long your food stays safe &rarr;</a> &nbsp;&middot;&nbsp; <a href="/blog/72-hour-power-outage-survival-guide/">The full 72-hour plan &rarr;</a></p>
+</div>
+
 ## Frequently Asked Questions
 
 **How long do most power outages last?**

@@ -221,6 +221,14 @@ For a complete 7-day no-refrigeration meal plan with exact calorie counts and sh
 
 ---
 
+
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
+<h3 style="color:#2d6a4f;margin-top:0;">Four hours is not much. Here is how to buy more.</h3>
+<p>The clock only starts when the power stops &mdash; but a freezer that keeps running never starts it at all. A mid-size chest freezer needs about 1,100&ndash;1,200W of surge headroom to start on backup power, which is where most units fail.</p>
+<p><a href="/blog/best-solar-generator-chest-freezer-2026/">See which generators actually start a chest freezer &rarr;</a></p>
+<p style="margin-bottom:0;font-size:0.9em;"><a href="/blog/how-many-watts-chest-freezer/">Freezer wattage by size &rarr;</a> &nbsp;&middot;&nbsp; <a href="/blog/how-long-do-power-outages-last/">How long outages really last &rarr;</a> &nbsp;&middot;&nbsp; <a href="/blog/surge-vs-running-watts/">Why surge watts decide everything &rarr;</a></p>
+</div>
+
 ## ❓ Frequently Asked Questions
 
 ### How long does food last in the refrigerator without power?
