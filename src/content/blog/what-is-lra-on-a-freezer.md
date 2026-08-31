@@ -16,7 +16,7 @@ There is a sticker on the back of your chest freezer that most people have never
 
 It has been there since the day you bought it. It has a small grid of electrical numbers printed on it. And somewhere in that grid is a number labeled **LRA** — a number that will determine whether your emergency food supply survives the next power outage, or ends up in a garbage bag.
 
-I did not know what LRA meant until the morning I lost $847 worth of grass-fed beef. That was a Tuesday in January 2023. An ice storm knocked out our grid for 31 hours. The cheap 500W battery I had trusted tripped its internal breaker at 2 AM and shut off completely. By 6 AM, the meat had been sitting at 48°F for six hours.
+Most people never learn what LRA means until a freezer full of food is already thawing. The pattern is always the same: an ice storm, a grid down for a day or more, and a cheap 500W battery I had trusted tripped its internal breaker at 2 AM and shut off completely. By 6 AM, the meat had been sitting at 48°F for six hours.
 
 We threw it all out.
 

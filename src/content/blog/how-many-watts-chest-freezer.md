@@ -78,7 +78,7 @@ When the compressor kicks on, two things happen:
 
 If your generator or solar power station cannot deliver the startup surge, the unit trips. Your freezer appears to be running, the compressor keeps trying to start, and by morning your food is ruined.
 
-I lost $847 of food this exact way before I understood surge watts. It is the reason I built this site.
+I lost several hundred dollars of food this exact way before I understood surge watts. It is the reason I built this site.
 
 ---
 
@@ -158,7 +158,7 @@ Sizing a generator to your freezer's real surge is where most people get it wron
 
 ## 🛒 Which Generator Do I Recommend?
 
-Based on extended real-world testing on multiple freezers:
+Based on extended specification analysis on multiple freezers:
 
 **For a single chest freezer:** The [EcoFlow DELTA 3 Plus](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) is the most reliable choice. The X-Boost surge handling is the most consistently reported strength across owner feedback, regardless of freezer LRA rating.
 

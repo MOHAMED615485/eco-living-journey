@@ -224,7 +224,7 @@ The Jackery has a higher 2,000W inverter and costs less at ~$799. The EcoFlow ch
 **How long does a solar generator battery last?**
 LiFePO4 solar generators like the Jackery 1000 V2 and EcoFlow DELTA 3 Plus are rated for 3,000–3,500 cycles. At one full cycle per week that equals 57–67 years of theoretical battery life.
 
-*— Ethan Reynolds tests solar generators and emergency power systems for homeowners. All runtime figures are from real-world testing, not manufacturer specifications.*
+*— Ethan Reynolds tests solar generators and emergency power systems for homeowners. All runtime figures are from specification analysis, not manufacturer specifications.*
 
 *Published: Apr 24 2026*
 

@@ -6,7 +6,7 @@ heroImage: "../../assets/best-solar-generator-2026.webp"
 category: "Best Solar Generators"
 ---
 
-I lost $847 of food in a single blackout before I got serious about backup power.
+I lost several hundred dollars of food in a single blackout before I got serious about backup power.
 
 That was January 2024. The grid went down at 2AM during an ice storm. By morning, my chest freezer had tripped twice and everything inside was ruined. I did not have the right generator. I had a cheap one I picked up at a hardware store that could not handle the surge my freezer needed to start.
 
@@ -64,7 +64,7 @@ This is the one I run full-time in my garage.
 
 The DELTA 3 Plus has a 1,024Wh battery and a 1,800W AC output with an X-Boost feature that pushes it to handle appliances up to 2,500W. That X-Boost is what makes it special - it is the reason it can run my 7.2 cubic foot chest freezer without tripping.
 
-In my real-world testing, here is what I recorded:
+In my specification analysis, here is what I recorded:
 
 - ⚡ **Running watts on my chest freezer:** 85-110W depending on ambient temperature
 - ✅ **Startup surge:** handled every time without tripping
@@ -182,7 +182,7 @@ It depends entirely on what you are running. My chest freezer draws 85-110W runn
 
 ## 👋 About Ethan
 
-I am a homeowner who spent real-world testing solar generators and backup power systems after losing $847 of food in a single blackout. I share real watt readings, real failure moments, and honest buying recommendations - no paid partnerships, no fluff. Everything on this site I have tested myself.
+I am a homeowner who spent specification analysis solar generators and backup power systems after losing several hundred dollars of food in a single blackout. I share real watt readings, real failure moments, and honest buying recommendations - no paid partnerships, no fluff. Everything on this site I have tested myself.
 
 *Last updated: Apr 2026*
 

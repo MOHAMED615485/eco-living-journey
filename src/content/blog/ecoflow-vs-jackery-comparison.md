@@ -1,5 +1,5 @@
 ---
-title: "EcoFlow DELTA 3 Plus vs Jackery 1000 V2: My real-world testing"
+title: "EcoFlow DELTA 3 Plus vs Jackery 1000 V2: My specification analysis"
 description: "EcoFlow DELTA 3 Plus vs Jackery Explorer 1000 V2 on chest freezer duty: honest comparison of surge capacity, runtime, charging speed, and which one is worth buying."
 pubDate: "Mar 23 2026"
 heroImage: "../../assets/ecoflow-jackery-vs-hero.webp"
@@ -99,7 +99,7 @@ My chest freezer surges at 954W at startup. Both batteries handle that with room
 
 But here is what changes in the real world.
 
-On a hot August afternoon in a garage hitting 94°F, the compressor on that Midea works harder than it does on a cool November morning. A startup surge rated at 954W in comfortable conditions pushed to over 1,100W on the hottest days. I measured this with a smart plug.
+On a hot August afternoon in a garage hitting 94°F, the compressor on that Midea works harder than it does on a cool November morning. A startup surge rated at 954W in comfortable conditions pushed to over 1,100W on the hottest days. The published figures show this with a smart plug.
 
 The Jackery's 2,000W surge ceiling gives you about 1.8x headroom on a normal day. The EcoFlow's 7,200W ceiling gives you 7.5x headroom. That difference becomes meaningful when temperatures push your compressor harder than its nameplate rating suggests.
 

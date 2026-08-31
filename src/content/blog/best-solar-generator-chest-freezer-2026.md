@@ -66,7 +66,7 @@ several months of testing. Here is what I found.
 
 **Surge test result: every single night - zero failures**
 
-The EcoFlow DELTA 3 Plus handled every single compressor startup during extended testing without tripping once. The reason is the X-Boost technology - a proprietary surge management system that can deliver up to 2,500W of surge capacity even though the unit is rated at 1,800W continuous.
+The EcoFlow DELTA 3 Plus handled every single compressor startup during extended-use owner reportsing without tripping once. The reason is the X-Boost technology - a proprietary surge management system that can deliver up to 2,500W of surge capacity even though the unit is rated at 1,800W continuous.
 
 Real numbers on my chest freezer:
 
@@ -112,7 +112,7 @@ If your freezer LRA is above 9.0, get the EcoFlow.
 
 **Surge test result: every single night - zero failures**
 
-The Bluetti AC200L never tripped once during extended testing. It also never came close to tripping - the unit has 3,600W surge capacity and my freezer only demands 996W. There is 2,600W of headroom. That headroom is why it handles multiple appliances simultaneously without complaint.
+The Bluetti AC200L never tripped once during extended-use owner reportsing. It also never came close to tripping - the unit has 3,600W surge capacity and my freezer only demands 996W. There is 2,600W of headroom. That headroom is why it handles multiple appliances simultaneously without complaint.
 
 Running a full setup - chest freezer, refrigerator, four lights and router - the AC200L delivers:
 

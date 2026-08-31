@@ -274,7 +274,7 @@ Not a portable one. Whole-home solar backup requires a permanently installed sys
 
 ### What size generator do I need for a power outage?
 
-It depends on what you need to run. For phones, lights, and a refrigerator: a 1,000Wh solar generator is sufficient. For window AC or a sump pump: you need a gas generator rated at least 3,500W with startup surge capacity of 5,000W+. Check your appliances with a Kill A Watt meter before buying — startup surge wattage is what determines minimum generator size, not running wattage.
+It depends on what you need to run. For phones, lights, and a refrigerator: a 1,000Wh solar generator is sufficient. For window AC or a sump pump: you need a gas generator rated at least 3,500W with startup surge capacity of 5,000W+. Check your appliances with a manufacturer specification sheet before buying — startup surge wattage is what determines minimum generator size, not running wattage.
 
 ### Is a solar generator worth it for emergency power?
 

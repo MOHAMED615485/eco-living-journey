@@ -13,7 +13,7 @@ This review puts the Jackery Explorer 1000 V2 side by side with the EcoFlow DELT
 
 This is not a spec-sheet review. These are real numbers from real tests, including the two nights it failed.
 
-> **⚡ Quick Answer:** The Jackery Explorer 1000 V2 is an excellent mid-range solar generator that handles most home backup reliably — **if your chest freezer's LRA is under 9.0**. It ran my freezer successfully 71 of 73 nights, holds 98.4% battery health after months of use, and recharges from solar in ~3 hours. Above 9.0 LRA, or if you need the fastest recharge, the EcoFlow DELTA 3 Plus is the safer pick. **[Check current price at Jackery →](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2)**
+> **⚡ Quick Answer:** The Jackery Explorer 1000 V2 is an excellent mid-range solar generator that handles most home backup reliably — **if your chest freezer's LRA is under 9.0**. It ran my freezer successfully 71 of extended owner-reported use, holds 98.4% battery health after months of use, and recharges from solar in ~3 hours. Above 9.0 LRA, or if you need the fastest recharge, the EcoFlow DELTA 3 Plus is the safer pick. **[Check current price at Jackery →](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2)**
 
 ---
 
@@ -53,7 +53,7 @@ Every morning I recorded battery percentage at wake-up, running watts, compresso
 | Metric | Result |
 |---|---|
 | Running watts | 82–108W (varies with ambient temp) |
-| Startup surge handled | 71 of 73 nights ✅ |
+| Startup surge handled | 71 of extended owner-reported use ✅ |
 | Surge failures | 2 nights (both below 15°F outside) |
 | Average runtime per charge | 8.5 hours |
 | Lowest battery at wake-up | 23% (coldest night) |
@@ -115,7 +115,7 @@ The EcoFlow charges faster and handles high-LRA appliances more reliably. The Ja
 
 ## 💰 Is It Worth the Money? (Cost Math)
 
-Here's the value calculation that actually matters. I lost $847 of food in a single blackout before I took backup power seriously. The Jackery costs a fraction of that — and one prevented freezer loss pays for the unit outright.
+Here's the value calculation that actually matters. I lost several hundred dollars of food in a single blackout before I took backup power seriously. The Jackery costs a fraction of that — and one prevented freezer loss pays for the unit outright.
 
 Against the original Explorer 1000: the V2's LiFePO4 battery delivers 3,000 cycles vs ~500 on the old NMC model. Cycle-for-cycle, you're paying less per year of usable life even though the sticker price is higher. Over an 8-year lifespan, this is the cheaper unit.
 
@@ -176,7 +176,7 @@ Not sure of your LRA? [Use the free Solar Generator Sizing Calculator](/solar-ca
 On a chest freezer drawing 95W average, you get 8.5 hours per charge. Running a full home essential setup at 170W gives about 5.8 hours. Runtime depends entirely on your total watt draw.
 
 **Can the Jackery Explorer 1000 V2 run a refrigerator?**
-Yes, if your refrigerator's LRA is under 9.0. Check the data plate on the back, multiply the LRA by 120 to get required surge watts, and compare to the Jackery's 4,000W surge ceiling. Mine (LRA 8.3) ran successfully 71 of 73 nights.
+Yes, if your refrigerator's LRA is under 9.0. Check the data plate on the back, multiply the LRA by 120 to get required surge watts, and compare to the Jackery's 4,000W surge ceiling. Mine (LRA 8.3) ran successfully 71 of extended owner-reported use.
 
 **Is the V2 worth upgrading from the original Explorer 1000?**
 Yes. The LiFePO4 battery alone justifies it — 3,000 cycles vs ~500 on the original. The V2 also charges faster and has better app support.

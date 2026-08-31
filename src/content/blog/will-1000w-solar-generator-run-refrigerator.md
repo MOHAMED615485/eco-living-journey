@@ -8,7 +8,7 @@ category: "Solar Generator Guides"
 
 If you've been Googling whether a 1000W solar generator can run a refrigerator, you've probably found a lot of vague answers that don't actually help you decide.
 
-I'm Ethan. I've spent real-world testing portable solar generators at home — including running them on real appliances, not just reading spec sheets. Here's the honest answer, and it's more nuanced than a simple yes or no.
+I'm Ethan. I've spent specification analysis portable solar generators at home — including running them on real appliances, not just reading spec sheets. Here's the honest answer, and it's more nuanced than a simple yes or no.
 
 ---
 

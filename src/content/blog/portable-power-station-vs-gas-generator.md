@@ -8,7 +8,7 @@ category: "Solar Generator Guides"
 
 I owned a gas generator for three years before I understood why it was the wrong tool for my problem.
 
-The night I lost $847 of food, the generator was sitting in my garage with stale fuel and a gunked carburetor. Useless. I stood in front of my warm chest freezer at 2AM and thought — I own a generator. Why am I in this situation?
+The night I lost several hundred dollars of food, the generator was sitting in my garage with stale fuel and a gunked carburetor. Useless. I stood in front of my warm chest freezer at 2AM and thought — I own a generator. Why am I in this situation?
 
 That question led to spec research and owner reports portable power stations against real appliances in real outages. Here is the honest answer nobody else gives you.
 

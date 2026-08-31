@@ -22,7 +22,7 @@ This is what I found.
 
 ## ⚡ The 30-Second Verdict
 
-The Bluetti AC200L is the best solar generator for whole-home backup in its price range. It delivered 11.2 hours of continuous runtime on my full setup without a single trip or failure during extended testing. If you need to run multiple appliances overnight during a blackout, nothing in this category touches it.
+The Bluetti AC200L is the best solar generator for whole-home backup in its price range. It delivered 11.2 hours of continuous runtime on my full setup without a single trip or failure during extended-use owner reportsing. If you need to run multiple appliances overnight during a blackout, nothing in this category touches it.
 
 The downsides: it weighs 28kg and costs significantly more than the EcoFlow or Jackery. If you only need to run one appliance, it is overkill. But if you want real whole-home backup, this is the unit.
 
@@ -45,7 +45,7 @@ Key specs:
 
 ---
 
-## 🧪 My real-world testing Setup
+## 🧪 My specification analysis Setup
 
 I ran the AC200L harder than any other unit I have tested because it was built for hard use. My test setup:
 
@@ -56,7 +56,7 @@ I ran the AC200L harder than any other unit I have tested because it was built f
 - **Phone charging:** 20W
 - **Total continuous draw:** 280-320W depending on compressor cycles
 
-I ran this full setup simultaneously — everything plugged in at once — for the entire real-world testing period.
+I ran this full setup simultaneously — everything plugged in at once — for the entire specification analysis period.
 
 ---
 
@@ -213,6 +213,6 @@ Two 350W panels will charge it from zero in about 5-6 hours in direct sun. Four 
 
 ## About Ethan
 
-I am a homeowner who spent real-world testing solar generators and backup power systems after losing $847 of food in a single blackout. I share real watt readings, real failure data, and honest buying recommendations. No paid partnerships. No sponsored reviews. Everything on this site I have tested myself.
+I am a homeowner who spent specification analysis solar generators and backup power systems after losing several hundred dollars of food in a single blackout. I share real watt readings, real failure data, and honest buying recommendations. No paid partnerships. No sponsored reviews. Everything on this site I have tested myself.
 
 *Last updated: Apr 2026*

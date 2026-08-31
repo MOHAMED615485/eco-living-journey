@@ -6,7 +6,7 @@ heroImage: "../../assets/ecoflow-delta-3-plus-review.webp"
 category: "Solar Generator Reviews"
 faqSchema: true
 ---
-<div class="bg-blue-50 border-l-4 border-blue-400 p-4 my-6"><p><strong>Testing Note:</strong> The EcoFlow DELTA 3 Plus is our current real-world testing unit. All other reviews use verified manufacturer data and owner reports. We publish one real-world testing per quarter.</p></div>
+<div class="bg-blue-50 border-l-4 border-blue-400 p-4 my-6"><p><strong>Testing Note:</strong> The EcoFlow DELTA 3 Plus is our current specification analysis unit. All other reviews use verified manufacturer data and owner reports. We publish one specification analysis per quarter.</p></div>
 
 <div style="margin:24px 0;">
   <a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:14px 32px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
