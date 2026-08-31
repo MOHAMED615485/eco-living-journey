@@ -164,6 +164,14 @@ If running a full AC on solar isn't feasible for your budget, these alternatives
   <a href="https://ethanecoliving.gumroad.com/l/72-hour-power-outage-survival-kit" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Kit — $27 →</a>
 </div>
 
+
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
+<h3 style="color:#2d6a4f;margin-top:0;">Cooling is the hardest load in the house</h3>
+<p>If an AC clears your surge budget, everything else in the house does too. The same math applies to the fridge, the freezer and anything else with a compressor.</p>
+<p><a href="/blog/can-solar-generator-power-window-ac/">Window AC watts by BTU size &rarr;</a></p>
+<p style="margin-bottom:0;font-size:0.9em;"><a href="/blog/surge-vs-running-watts/">Why surge watts decide everything &rarr;</a> &nbsp;&middot;&nbsp; <a href="/blog/how-to-keep-house-cool-power-outage/">Cooling with no power at all &rarr;</a> &nbsp;&middot;&nbsp; <a href="/blog/what-appliances-can-solar-generator-run/">Full appliance wattage guide &rarr;</a></p>
+</div>
+
 ## ❓ Frequently Asked Questions
 
 ### Can a solar generator run an air conditioner?
