@@ -7,7 +7,7 @@ heroImage: "/src/assets/best-solar-generator-apartment.webp"
 category: "Best Solar Generators"
 ---
 
-My neighbor knocked on my door at 11PM during a blackout last winter.
+Apartment blackouts create a specific problem: no balcony for a generator, no garage, and neighbours sharing walls.
 
 She lives two floors up in the same building. No backup power, no flashlight, no plan. Her phone was at 4% and her insulin was in a fridge that had been off for 6 hours.
 
@@ -85,7 +85,7 @@ The good news: apartment essentials draw far less power than a full home setup.
 
 ### 1. EcoFlow DELTA 3 Plus — Best Overall 🥇
 
-This is the unit I handed my neighbor and the one I would buy first if I lived in an apartment.
+This is the unit I would point an apartment dweller to first, and the one I would buy if I lived in an apartment.
 
 The DELTA 3 Plus weighs 12.3kg — light enough to carry between rooms with one hand. It charges from zero to 80% in under one hour from a wall outlet, meaning if your building's power comes back even briefly, you can top it up fast. The X-Boost technology handles surge demands up to 2,500W which covers a full-size fridge, mini fridge, and window AC without tripping.
 

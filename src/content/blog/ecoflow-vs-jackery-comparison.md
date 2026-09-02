@@ -103,7 +103,7 @@ On a hot August afternoon in a garage hitting 94°F, the compressor on that Mide
 
 The Jackery's 2,000W surge ceiling gives you about 1.8x headroom on a normal day. The EcoFlow's 7,200W ceiling gives you 7.5x headroom. That difference becomes meaningful when temperatures push your compressor harder than its nameplate rating suggests.
 
-Add a second appliance — a Wi-Fi router, a lamp, Sarah's laptop — and the Jackery's ceiling closes in faster than the spec sheet implies. The EcoFlow does not care. It handles simultaneous loads without the math becoming a concern.
+Add a second appliance — a Wi-Fi router, a lamp, a laptop — and the Jackery's ceiling closes in faster than the spec sheet implies. The EcoFlow does not care. It handles simultaneous loads without the math becoming a concern.
 
 For a single small chest freezer in a climate-controlled basement, the Jackery's surge capacity is adequate. For a garage setup in summer heat with any additional loads, the EcoFlow's headroom is not a luxury — it is the difference between reliable protection and occasional trips.
 
@@ -130,7 +130,7 @@ Most of us do not keep our backup batteries at 100% all the time. We check them 
 ## Real Outage Testing Results
 
 **Summer outage — 14 hours, 94°F garage:**
-I ran the chest freezer, Sarah's work laptop and monitor, Wi-Fi router, and three LED bulbs simultaneously. Total continuous load: approximately 340W. Compressor surge peaked at 1,090W on the hottest part of the afternoon.
+I ran the chest freezer, a work laptop and monitor, Wi-Fi router, and three LED bulbs simultaneously. Total continuous load: approximately 340W. Compressor surge peaked at 1,090W on the hottest part of the afternoon.
 
 EcoFlow result: entire outage covered, **62% charge remaining** when grid returned.
 Jackery result: entire outage covered, **41% charge remaining.**

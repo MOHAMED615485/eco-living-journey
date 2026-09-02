@@ -10,7 +10,7 @@ faqSchema: true
 
 The call came at 2AM.
 
-My neighbor — 71 years old, CPAP user — had been without power for six hours. His backup battery was dead. His wife was panicking. His oxygen saturation was dropping.
+A 71-year-old CPAP user without power for six hours. His backup battery was dead. His wife was panicking. His oxygen saturation was dropping.
 
 <p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</em></p>
 

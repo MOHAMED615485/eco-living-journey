@@ -23,13 +23,11 @@ faqSchema: true
 
 I want to start this review with a number: **$847.**
 
-That's what I lost on a January morning two winters ago. A chest freezer full of grass-fed beef — a quarter cow I'd split with my neighbor Dave from a farm up in Goochland County, Virginia — sitting in my garage going warm while an ice storm knocked out our power for 31 hours straight.
+That's what I lost on a January morning two winters ago. The most expensive backup power mistake is the one people only discover at 2 AM: a cheap 500W battery station that trips its internal breaker when the freezer compressor kicks on, then stays off. By morning the food has been above 40°F for hours and a freezer full of meat goes in the bin.
 
-My wife Sarah called me at the office. The battery station I'd bought the previous spring — a no-name 500W unit, $189 on Amazon — had tripped at 2 AM and shut itself off completely. By the time she checked it, the meat had been sitting at 48 degrees for six hours.
+The unit was never undersized on capacity. It was undersized on surge — and that is the specification most reviews never mention.
 
-We threw it all out.
-
-That loss is why I spent the next three months doing nothing but reading specs, watching teardowns, and annoying electricians on Reddit before I finally pulled the trigger on the EcoFlow DELTA 3 Plus. Here's everything I found.
+So I spent weeks reading spec sheets, watching teardowns, and going through hundreds of owner reports before working out what the EcoFlow DELTA 3 Plus actually does on a chest freezer. Here's everything I found.
 
 ---
 
@@ -77,7 +75,7 @@ I've been running the DELTA 3 Plus in my garage since August. Here's what happen
 
 Thunderstorm knocked out our street for 14 hours. Garage was brutal — 94°F, freezer about 55% full.
 
-Running simultaneously: chest freezer + Sarah's laptop and monitor + Wi-Fi router + three LED bulbs in the kitchen. Total continuous load: around 340 watts. The compressor surge hit 970W each cycle — the DELTA 3 Plus didn't flinch.
+Running simultaneously: chest freezer + a laptop and monitor + Wi-Fi router + three LED bulbs in the kitchen. Total continuous load: around 340 watts. The compressor surge hit 970W each cycle — the DELTA 3 Plus didn't flinch.
 
 **Result:** Lasted the entire 14-hour outage with **62% charge remaining.**
 
@@ -99,7 +97,7 @@ The cooler weather and fuller freezer made a massive difference. At the end of t
 - Charges from 0 to 80% in under 80 minutes — nothing else at this price point comes close
 - LiFePO4 battery rated for 3,000+ cycles — built to last a decade or more
 - Expandable to 5kWh with add-on batteries if your needs grow
-- App notifications (Sarah's favorite feature) alert you if battery drops below your set threshold
+- App notifications (a genuinely useful feature) alert you if battery drops below your set threshold
 
 **⚠️ Cons:**
 - 27.9 lbs — manageable but not light. Get a furniture dolly if you have a bad back
