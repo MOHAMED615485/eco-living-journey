@@ -68,6 +68,68 @@ Being honest: a portable solar generator will not dry out a flooded crawl space.
 
 If you want the full outage playbook this fits into, the [72-hour power outage survival guide](/blog/72-hour-power-outage-survival-guide/) covers the room-by-room sequence, and the [hurricane preparedness checklist](/blog/hurricane-preparedness-checklist/) covers what to have in place before the storm rather than after.
 
+## 🕐 The Clock That Actually Matters
+
+Mould begins establishing on wet building materials within **24 to 48 hours**, according to EPA and FEMA flood guidance. Not weeks. Two days.
+
+That window is why flood drying is urgent in a way most homeowners underestimate. Once mould takes hold in drywall, insulation or subfloor, you are no longer drying a space - you are removing material.
+
+The target is relative humidity below 50%. Above 60%, growth continues. Between those two numbers is where every decision below sits.
+
+## 🚪 Hour One: Before Power Even Matters
+
+The first hour has nothing to do with your generator.
+
+1. **Get standing water out.** A dehumidifier removes moisture from air, not puddles. Pump, shop-vac or bucket - whatever you have.
+2. **Open everything.** Doors, vents, crawl space access, cabinet doors. Trapped air stays saturated.
+3. **Pull up what is soaked.** Wet carpet, padding and cardboard hold water against the floor and will not dry in place.
+4. **Start airflow immediately**, even before dehumidification.
+
+None of this needs electricity except the last step, and that step is far cheaper than most people assume.
+
+## 💨 Airflow Does Half the Job at a Tenth of the Cost
+
+This is the part that changes the power equation.
+
+A dehumidifier pulls moisture out of air. A fan moves saturated air away from wet surfaces so more moisture can evaporate into it. **Neither works well alone.** Run a dehumidifier in a still room and it dries the air near itself while the far corner stays wet.
+
+The cost difference is dramatic:
+
+| Equipment | Power draw | Job it does |
+|---|---|---|
+| Box fan | 40-75W | Moves saturated air off wet surfaces |
+| Air mover / carpet blower | 150-250W | Directed high-velocity drying |
+| Argendon Shield 35M dehumidifier | 334W | Removes moisture from the air itself |
+| Refrigerator (average, 40% duty cycle) | ~60W | Keeps food safe |
+
+**On limited power, fans are the highest-value watts you can spend.** Two box fans running continuously cost less than a quarter of one dehumidifier and prevent the stagnant pockets where mould starts.
+
+## ⚖️ Power Triage: What to Run When You Cannot Run Everything
+
+This is the question nobody answers, and after a flood with the grid down it is the only question that matters.
+
+Assume a 2,000Wh battery, roughly 85% usable after inverter losses:
+
+| What you run | Combined draw | Realistic runtime |
+|---|---|---|
+| Two box fans only | ~100W | ~17 hours |
+| Fridge only | ~60W average | ~28 hours |
+| Dehumidifier only | 334W | ~5 hours |
+| Fridge + two fans | ~160W | ~10.6 hours |
+| Dehumidifier + fridge | ~394W | ~4.3 hours |
+| Everything together | ~494W | ~3.4 hours |
+
+**The honest conclusion: on battery alone you cannot run a dehumidifier continuously and keep a fridge cold.** Something has to give.
+
+The order that makes sense for most households:
+
+1. **Fans first.** Cheapest watts, prevents the worst mould outcomes, runs almost a full day.
+2. **Fridge second**, in cycles. A closed fridge holds safe temperature roughly 4 hours unpowered, so run it in bursts rather than continuously.
+3. **Dehumidifier in short cycles** when the other two allow, or once grid power returns.
+
+Full remediation of a flooded space needs days of continuous dehumidifier operation. Battery backup buys you the critical first hours and slows the damage. It does not replace grid power for the actual drying job - and anyone telling you otherwise is selling something.
+
+
 ## 🛒 Which Dehumidifier for This Job
 
 For crawl-space and flood recovery on battery power, the deciding factor is **efficiency**, not capacity. A bigger unit dries faster but drains your generator proportionally faster. A unit that pulls less per pint removed is worth more when your energy is finite.
