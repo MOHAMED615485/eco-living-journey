@@ -16,11 +16,11 @@ There is a sticker on the back of your chest freezer that most people have never
 
 It has been there since the day you bought it. It has a small grid of electrical numbers printed on it. And somewhere in that grid is a number labeled **LRA** — a number that will determine whether your emergency food supply survives the next power outage, or ends up in a garbage bag.
 
-Most people never learn what LRA means until a freezer full of food is already thawing. The pattern is always the same: an ice storm, a grid down for a day or more, and a cheap 500W battery I had trusted tripped its internal breaker at 2 AM and shut off completely. By 6 AM, the meat had been sitting at 48°F for six hours.
+Most people never learn what LRA means until a freezer full of food is already thawing. The pattern is almost always the same: an ice storm, a grid down for a day or more, and a cheap 500W battery that trips its internal breaker at 2 AM and shuts off completely. By 6 AM the food has been sitting above 40°F for hours, and the whole freezer goes in the bin.
 
-We threw it all out.
+The battery was never undersized on capacity. It was undersized on surge — and the number that would have predicted it was printed on the appliance the whole time.
 
-That morning I pulled every appliance away from the wall and read every data plate in my house. That is when I found the LRA number — and understood exactly why my battery had failed.
+That number is LRA.
 
 ---
 
