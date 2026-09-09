@@ -87,7 +87,7 @@ The Delta 2 hits the sweet spot: 1,800W AC output with 2,700W surge capacity. Th
 
 I ran a standard top-freezer fridge off the Delta 2 for 18 continuous hours during a test outage window. It handled startup surges every time without a single cutout. The LFP (lithium iron phosphate) battery is also rated for 3,000+ cycles, which means years of reliable use.
 
-[Check the EcoFlow Delta 2 on Amazon →](https://www.amazon.com/s?k=ecoflow+delta+2&tag=ecolivingjo0d-20)
+**EcoFlow Delta 2** — 1,024Wh, 1,800W output
 
 ---
 
@@ -102,7 +102,7 @@ The Jackery 1000 Pro is 25.4 lbs and features 1,000W continuous / 2,000W peak su
 
 The only caveat: if you're running a larger side-by-side fridge with an ice maker that surges above 1,800W, the 2,000W peak is close to the limit. For a standard top-freezer or side-by-side without ice maker, it works perfectly.
 
-[Check the Jackery Explorer 1000 Pro on Amazon →](https://www.amazon.com/s?k=jackery+explorer+1000+pro&tag=ecolivingjo0d-20)
+**Jackery Explorer 1000 Pro** — 1,002Wh, 1,000W output
 
 ---
 
@@ -117,7 +117,7 @@ The Bluetti AC180 has 1,152Wh capacity with 1,800W continuous / 2,700W surge. Li
 
 The LFP chemistry is the same class used in EcoFlow's Delta 2 and gives you over a decade of use if you cycle it daily. If long-term value matters more than portability, the AC180 is worth serious consideration.
 
-[Check the Bluetti AC180 on Amazon →](https://www.amazon.com/s?k=bluetti+ac180&tag=ecolivingjo0d-20)
+**Bluetti AC180** — 1,152Wh, 1,800W output
 
 ---
 
@@ -190,4 +190,4 @@ Possibly, but not simultaneously during startups. If both compressors surge at t
 
 ---
 
-*Ethan has tested 14 solar generators over time of real-world use. No manufacturer paid for placement in this article. Amazon links use affiliate tag ecolivingjo0d-20.*
+*Ethan researches solar generators using manufacturer specifications, published teardowns, and aggregated owner reports. No manufacturer paid for placement in this article.*

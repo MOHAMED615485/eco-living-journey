@@ -75,7 +75,7 @@ A 20,000mAh power bank charges a smartphone 4–5 times. That's it. Power banks 
 
 | Model | Capacity | Output | Rating | Price | Best For |
 |---|---|---|---|---|---|
-| [EcoFlow DELTA 2](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) | 1,024Wh | 1,800W | ★★★★★ (5.0) | $600–700 | Fridge + medical + devices |
+| EcoFlow DELTA 2 | 1,024Wh | 1,800W | ★★★★★ (5.0) | $600–700 | Fridge + medical + devices |
 | [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | $1,400–1,600 | Whole-household coverage |
 | [Jackery Explorer 1000 v2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | $500–600 | Budget all-rounder |
 

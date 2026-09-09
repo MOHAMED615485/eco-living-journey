@@ -18,7 +18,7 @@ Here is what the data showed.
 
 ## 🏆 Best Solar Generator for Chest Freezer - Quick Picks
 
-- **Best Overall:** [EcoFlow DELTA 3 Plus](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) - most reliable surge handling, fastest recharge
+- **Best Overall:** EcoFlow DELTA 3 Plus - most reliable surge handling, fastest recharge
 - **Best Value:** [Jackery Explorer 1000 V2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) - excellent for LRA under 9.0, costs less
 - **Best for Multiple Appliances:** [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) - double the capacity, runs everything
 

@@ -53,13 +53,13 @@ A closed refrigerator maintains safe temperature for approximately **4 hours** a
 Place bags of ice or frozen gel packs inside the refrigerator. Pre-frozen water bottles work well. This can extend food safety by 12–24 hours depending on how much ice you add and how well-insulated your refrigerator is.
 
 **Method 2: Solar generator backup**
-A solar generator running the refrigerator extends food safety indefinitely. An [EcoFlow DELTA 2](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) (1,024Wh) paired with a 220W solar panel keeps a refrigerator running through the day and recharges for the next. This is how I lost zero food during my second major power outage.
+A solar generator running the refrigerator extends food safety indefinitely. An EcoFlow DELTA 2 (1,024Wh) paired with a 220W solar panel keeps a refrigerator running through the day and recharges for the next. This is how I lost zero food during my second major power outage.
 
 ### 🏆 Quick Comparison: Solar Generators That Save Your Food
 
 | Model | Capacity | Output | Rating | Best For |
 |---|---|---|---|---|
-| [EcoFlow DELTA 2](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) | 1,024Wh | 1,800W | ★★★★★ (5.0) | Refrigerator all day with solar |
+| EcoFlow DELTA 2 | 1,024Wh | 1,800W | ★★★★★ (5.0) | Refrigerator all day with solar |
 | [Jackery Explorer 1000 v2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | Budget all-rounder |
 | [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | Fridge + freezer combined |
 

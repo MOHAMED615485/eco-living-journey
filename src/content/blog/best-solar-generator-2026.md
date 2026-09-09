@@ -22,7 +22,7 @@ So I took the four most popular models and put their published specifications si
 
 | Model | Capacity | Output | Rating | Price Range | Best For |
 |---|---|---|---|---|---|
-| [EcoFlow DELTA 2](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) | 1,024Wh | 1,800W | ★★★★★ (5.0) | $600–700 | Best overall, fridge + medical devices |
+| EcoFlow DELTA 2 | 1,024Wh | 1,800W | ★★★★★ (5.0) | $600–700 | Best overall, fridge + medical devices |
 | [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | $1,400–1,600 | Whole-household, extended outages |
 | [Jackery Explorer 1000 v2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | $500–600 | Best budget pick |
 | EcoFlow DELTA 3 Plus | 1,024Wh (expandable) | 1,800W | ★★★★☆ (4.5) | $700–850 | Expandable capacity needs |
@@ -41,7 +41,7 @@ Run the numbers for a multi-day outage and this unit holds up. With a 220W solar
 
 **Why it wins:** the balance of capacity, output, weight (27 lbs — I could actually carry it one-handed), and price makes it the right choice for the largest number of households. It's not the biggest battery on this list, but it's the one that fits what most people actually need.
 
-👉 **[Check current price on Amazon →](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20)**
+👉 **Check current price on Amazon →**
 
 ---
 

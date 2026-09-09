@@ -68,9 +68,9 @@ This is the approach that holds up in a multi-day outage. You do not run the AC,
 
 | Model | Capacity | Output | Rating | Price | Best For |
 |---|---|---|---|---|---|
-| [EcoFlow DELTA Pro](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) | 3,600Wh | 3,600W | ★★★★★ (5.0) | $2,200–2,800 | Best critical loads coverage |
+| EcoFlow DELTA Pro | 3,600Wh | 3,600W | ★★★★★ (5.0) | $2,200–2,800 | Best critical loads coverage |
 | [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | $1,400–1,600 | Best value for critical loads |
-| [EcoFlow DELTA 2 Max](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | $1,200–1,500 | Fastest recharging |
+| EcoFlow DELTA 2 Max | 2,048Wh | 2,400W | ★★★★☆ (4.5) | $1,200–1,500 | Fastest recharging |
 
 ## 📏 Sizing Guide by Home Size and Goal
 
