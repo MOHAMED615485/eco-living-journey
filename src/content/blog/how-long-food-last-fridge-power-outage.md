@@ -14,13 +14,13 @@ tags: ["power outage food safety", "how long does food last", "fridge without po
 
 <p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</em></p>
 
-I threw away $340 worth of groceries after my first major hurricane.
+A moderately stocked refrigerator and freezer hold several hundred dollars of food. An extended outage can cost a household all of it.
 
-Not because the storm destroyed them. Because I didn't know the rules. I opened the refrigerator too many times. I waited too long to move things to a cooler. I made assumptions about what was "probably fine."
+Usually not because the storm destroyed the food, but because the rules are not widely known. People open the refrigerator too many times. They wait too long to move things to a cooler. They assume that something is probably fine.
 
 None of it was probably fine. And food poisoning during a disaster — when hospitals may be overwhelmed and you're already stressed — is a serious risk.
 
-This guide gives you the exact timelines, food-by-food breakdown, and practical strategies I now use to protect my food supply during power outages. For the full outage survival plan, see [what to do during a power outage](/blog/what-to-do-during-power-outage/) and [emergency power at home](/blog/emergency-power-at-home/).
+This guide gives you the exact timelines, food-by-food breakdown, and practical strategies that protect a food supply during power outages. For the full outage survival plan, see [what to do during a power outage](/blog/what-to-do-during-power-outage/) and [emergency power at home](/blog/emergency-power-at-home/).
 
 ---
 
@@ -171,9 +171,9 @@ Cost: $8–$15 at any grocery or hardware store. Worth every cent.
 
 ---
 
-## 💰 The $340 Lesson
+## 💰 What a Full Refrigerator Is Actually Worth
 
-Here's what I lost in my first major outage:
+Here's a typical household loss, priced at current US grocery averages:
 
 - 2 lbs ground beef: $14
 - 6 chicken breasts: $18
@@ -181,14 +181,14 @@ Here's what I lost in my first major outage:
 - Various deli meats: $22
 - Full dairy section: $35
 - Leftovers and cooked food: $45
-- Condiments I was uncertain about: $28
+- Condiments of uncertain safety: $28
 - Frozen meals and meat: $166
 
-Total: $340. Gone because I didn't know the rules and didn't have backup power.
+That comes to roughly $340. The frozen section alone is nearly half of it, which is why the 48-hour freezer window is the number most worth protecting.
 
-My solar generator investment was $650. It paid for itself twice over in the second outage — zero food lost.
+A mid-range solar generator runs $600 to $900.
 
-The math is simple: if you're in a hurricane-prone area and cook at home regularly, a solar generator pays for itself in 2–3 major outages.
+The math is simple: for a household in a hurricane-prone area that cooks at home regularly, two or three avoided losses on this scale cover the purchase.
 
 ---
 
@@ -205,7 +205,7 @@ The math is simple: if you're in a hurricane-prone area and cook at home regular
 
 ## 🥫 Emergency Food Alternatives
 
-Once your refrigerator food is gone, you need a food plan that doesn't require power. My 7-day no-refrigeration meal framework:
+Once your refrigerator food is gone, you need a food plan that doesn't require power. A 7-day no-refrigeration meal framework:
 
 **Breakfast:** Instant oatmeal (hot water from camp stove), peanut butter on crackers, granola bars
 **Lunch:** Canned tuna or chicken with crackers, peanut butter and jelly sandwich, trail mix
