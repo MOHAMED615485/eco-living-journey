@@ -40,7 +40,8 @@ The kits I recommend below pass a different test: **what would I actually reach 
 <div style="background:#eaf5ef;border:2px dashed #2d6a4f;border-radius:10px;padding:16px 20px;margin:24px 0;text-align:center;">
 <p style="margin:0 0 6px;font-size:1.05em;"><strong>SurviveX discount: 10% off everything</strong></p>
 <p style="margin:0 0 6px;">Use code <strong style="background:#2d6a4f;color:#fff;padding:3px 10px;border-radius:4px;letter-spacing:1px;">GETREADY10</strong> at checkout</p>
-<p style="margin:0;font-size:0.85em;color:#555;">Valid through 30 November 2026. Cannot be combined with other offers.</p>
+<p style="margin:0 0 6px;">Plus free shipping on orders over $150</p>
+<p style="margin:0;font-size:0.85em;color:#555;">Code valid through 30 November 2026. Cannot be combined with other offers.</p>
 </div>
 
 ## The 5 Things Every Outage Kit Must Have
@@ -129,6 +130,44 @@ The combination that works best for most homeowners is a 72-hour emergency kit p
 If you're only going to do one thing today, get the emergency kit. It covers the immediate threat — the first three days, which statistically are when most people make costly mistakes.
 
 ---
+
+## 🩹 The Part of Outage Prep Most Kits Skip
+
+Emergency kit lists always cover water, food and light. Almost none address the thing that actually goes wrong during a major outage: **you cannot count on an ambulance.**
+
+During widespread storm events, 911 response times stretch, roads are blocked by downed lines and debris, and hospitals run on generator power with full waiting rooms. The FEMA guidance most people skim past assumes you can handle a wound, a burn or a sprain yourself for the first 24 to 72 hours.
+
+That changes what belongs in a kit. Drugstore first aid kits are largely adhesive bandages. What an outage actually demands is wound closure, bleeding control, burn treatment, and something to splint a sprain — because the injuries that happen in a blackout are cuts from broken glass, burns from candles and camp stoves, and falls in the dark.
+
+### Choosing by household size
+
+I compared the SurviveX range on component count, use case and price. These are the figures from their current listings:
+
+| Kit | Household | Price | Best for |
+|---|---|---|---|
+| Small First Aid Kit | 1-2 people | \.99 | Apartments, car, go-bag |
+| Large First Aid Kit | 3-4 people | \.99 | Most households. 250 components |
+| Large Pro | 5-6 people | \.99 | Larger families. 270 components |
+| Large Waterproof | 3-4 people | \.99 | Flood-prone areas, boats, humid storage |
+| Burn Care Kit | add-on | \.99 | Candle and camp stove burns |
+| Zip Stitch Closures | add-on | \.99 | Cuts that would otherwise need stitches |
+
+The **Large kit is the sensible default** for most American households. It covers 3-4 people, includes Zip Stitch wound closures, trauma shears, hydrogel burn gel, a CPR mask and a conforming splint, and its components are grouped into labeled compartments by use case. That last detail matters more than it sounds: in a dark house with a bleeding hand, you do not want to be reading small print.
+
+### Two things worth knowing before you buy
+
+**These qualify for FSA and HSA spending.** First aid kits and wound care are eligible medical expenses, which means you can buy one with pre-tax health dollars. Depending on your bracket that is effectively a 20 to 35 percent discount. And if you have FSA funds that expire on December 31, this is one of the more useful ways to spend them.
+
+**The free shipping threshold sits at \.** The Large kit is \.99, which just misses it. Adding the Burn Care Kit at \.99 brings you to \.98 and clears the threshold, which makes the burn kit effectively free once you account for shipping. Given that candles and camp stoves cause most outage burns, that is a genuinely sensible pairing rather than an upsell.
+
+<div style=\"background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;\">
+<h3 style=\"color:#2d6a4f;margin-top:0;\">SurviveX first aid kits</h3>
+<p>Designed in Virginia, endorsed by a practicing EMT-P, FSA and HSA eligible, lifetime warranty, free returns. Orders ship within 12 hours from US warehouses.</p>
+<p><a href=\"https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Flarge-first-aid-kit\">Large First Aid Kit &mdash; \.99 &rarr;</a></p>
+<p><a href=\"https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Fsmall-first-aid-kit\">Small Kit, 1-2 people &mdash; \.99 &rarr;</a> &nbsp;&middot;&nbsp; <a href=\"https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Flarge-pro-first-aid-kit\">Large Pro, 5-6 people &mdash; \.99 &rarr;</a></p>
+<p style=\"margin-bottom:0;\">Use code <strong style=\"background:#2d6a4f;color:#fff;padding:3px 10px;border-radius:4px;letter-spacing:1px;\">GETREADY10</strong> for 10% off. Free shipping over \. Code valid through 30 November 2026.</p>
+</div>
+
 
 ## The Final Word
 
