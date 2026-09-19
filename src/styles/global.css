@@ -363,3 +363,18 @@ header nav .internal-links a:hover::after { transform: scaleX(1); }
   0%, 100% { box-shadow: 0 4px 14px rgba(240,140,50,0.35); }
   50% { box-shadow: 0 4px 22px rgba(240,140,50,0.6); }
 }
+/* Product image links: not buttons */
+.prose a:has(img) {
+  background: none !important;
+  padding: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+  animation: none !important;
+  display: inline-block !important;
+  border-radius: 0 !important;
+}
+.prose a:has(img):hover {
+  transform: scale(1.03) !important;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.18) !important;
+  background: none !important;
+}
