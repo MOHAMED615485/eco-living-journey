@@ -160,12 +160,12 @@ The **Large kit is the sensible default** for most American households. It cover
 
 **The free shipping threshold sits at \.** The Large kit is \.99, which just misses it. Adding the Burn Care Kit at \.99 brings you to \.98 and clears the threshold, which makes the burn kit effectively free once you account for shipping. Given that candles and camp stoves cause most outage burns, that is a genuinely sensible pairing rather than an upsell.
 
-<div style=\"background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;\">
-<h3 style=\"color:#2d6a4f;margin-top:0;\">SurviveX first aid kits</h3>
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
+<h3 style="color:#2d6a4f;margin-top:0;">SurviveX first aid kits</h3>
 <p>Designed in Virginia, endorsed by a practicing EMT-P, FSA and HSA eligible, lifetime warranty, free returns. Orders ship within 12 hours from US warehouses.</p>
-<p><a href=\"https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Flarge-first-aid-kit\">Large First Aid Kit &mdash; \.99 &rarr;</a></p>
-<p><a href=\"https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Fsmall-first-aid-kit\">Small Kit, 1-2 people &mdash; \.99 &rarr;</a> &nbsp;&middot;&nbsp; <a href=\"https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Flarge-pro-first-aid-kit\">Large Pro, 5-6 people &mdash; \.99 &rarr;</a></p>
-<p style=\"margin-bottom:0;\">Use code <strong style=\"background:#2d6a4f;color:#fff;padding:3px 10px;border-radius:4px;letter-spacing:1px;\">GETREADY10</strong> for 10% off. Free shipping over \. Code valid through 30 November 2026.</p>
+<p><a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Flarge-first-aid-kit">Large First Aid Kit &mdash; \.99 &rarr;</a></p>
+<p><a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Fsmall-first-aid-kit">Small Kit, 1-2 people &mdash; \.99 &rarr;</a> &nbsp;&middot;&nbsp; <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Flarge-pro-first-aid-kit">Large Pro, 5-6 people &mdash; \.99 &rarr;</a></p>
+<p style="margin-bottom:0;">Use code <strong style="background:#2d6a4f;color:#fff;padding:3px 10px;border-radius:4px;letter-spacing:1px;">GETREADY10</strong> for 10% off. Free shipping over \. Code valid through 30 November 2026.</p>
 </div>
 
 
