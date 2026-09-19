@@ -136,6 +136,15 @@ For crawl-space and flood recovery on battery power, the deciding factor is **ef
 
 ### Argendon Shield 35M - the sensible starting point
 
+<div style=\"display:flex;gap:18px;align-items:flex-start;flex-wrap:wrap;margin:20px 0;\">
+<a href=\"https://www.awin1.com/cread.php?awinmid=126513&awinaffid=2815020&ued=https%3A%2F%2Fwww.argendon.com%2Fproducts%2Fcrawl-space-dehumidifier-shield-35m\"><img src=\"/products/argendon-shield35m.webp\" alt=\"Argendon Shield 35M crawl space dehumidifier\" width=\"200\" loading=\"lazy\" style=\"border-radius:10px;box-shadow:0 4px 14px rgba(0,0,0,0.12);\" /></a>
+<div style=\"flex:1;min-width:240px;\">
+<p style=\"margin:0 0 8px;\"><strong>Argendon Shield 35M</strong><br/>70-pint capacity &middot; 334W running draw &middot; up to 1,000 sq ft &middot; 39.7 lbs</p>
+<p style=\"margin:0;font-size:0.9em;color:#555;\">Rated to operate down to 33&deg;F, where most consumer dehumidifiers stop working around 41&deg;F. That matters in an unheated crawl space.</p>
+</div>
+</div>
+
+
 70-pint capacity, roughly 1,000 sq ft coverage, 334W draw. This is the size where solar backup remains practical: about 3 hours from a 1,000Wh unit, 6 from a 2,048Wh one. Built for crawl-space conditions rather than a living-room unit pressed into service.
 
 <a href="https://www.awin1.com/cread.php?awinmid=126513&awinaffid=2815020&ued=https%3A%2F%2Fwww.argendon.com%2Fproducts%2Fcrawl-space-dehumidifier-shield-35m">Check the Shield 35M &rarr;</a>
@@ -149,6 +158,15 @@ For crawl-space and flood recovery on battery power, the deciding factor is **ef
 </div>
 
 ### Argendon Guardian 85P - when the space is bigger
+
+<div style=\"display:flex;gap:18px;align-items:flex-start;flex-wrap:wrap;margin:20px 0;\">
+<a href=\"https://www.awin1.com/cread.php?awinmid=126513&awinaffid=2815020&ued=https%3A%2F%2Fwww.argendon.com%2Fproducts%2Fcommercial-dehumidifier-guardian-85p\"><img src=\"/products/argendon-guardian85p.webp\" alt=\"Argendon Guardian 85P commercial dehumidifier\" width=\"200\" loading=\"lazy\" style=\"border-radius:10px;box-shadow:0 4px 14px rgba(0,0,0,0.12);\" /></a>
+<div style=\"flex:1;min-width:240px;\">
+<p style=\"margin:0 0 8px;\"><strong>Argendon Guardian 85P</strong><br/>180-pint capacity &middot; 610W running draw &middot; up to 2,300 sq ft &middot; 57.3 lbs</p>
+<p style=\"margin:0;font-size:0.9em;color:#555;\">610W continuous puts this firmly in grid-power territory. Realistic for restoration work, not for battery backup.</p>
+</div>
+</div>
+
 
 180-pint commercial unit. Considerably more capacity, and considerably more draw - realistically this is a grid-power or fuel-generator appliance, not something you run meaningfully from a portable battery. Worth it if your space demands it; understand that battery backup becomes a token gesture at this size.
 
