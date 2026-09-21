@@ -154,6 +154,31 @@ I compared the SurviveX range on component count, use case and price. These are 
 
 The **Large kit is the sensible default** for most American households. It covers 3-4 people, includes Zip Stitch wound closures, trauma shears, hydrogel burn gel, a CPR mask and a conforming splint, and its components are grouped into labeled compartments by use case. That last detail matters more than it sounds: in a dark house with a bleeding hand, you do not want to be reading small print.
 
+
+<div style="display:flex;gap:18px;align-items:flex-start;flex-wrap:wrap;margin:20px 0;">
+<a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Flarge-first-aid-kit"><img src="/products/survivex-large.webp" alt="SurviveX Large First Aid Kit" width="200" loading="lazy" style="border-radius:10px;box-shadow:0 4px 14px rgba(0,0,0,0.12);" /></a>
+<div style="flex:1;min-width:240px;">
+<p style="margin:0 0 8px;"><strong>SurviveX Large First Aid Kit</strong><br/>3-4 people &middot; 250 components &middot; $120.99</p>
+<p style="margin:0;font-size:0.9em;color:#555;">The sensible default for most households. Labeled compartments by use case, which matters in a dark house.</p>
+</div>
+</div>
+
+<div style="display:flex;gap:18px;align-items:flex-start;flex-wrap:wrap;margin:20px 0;">
+<a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Fsmall-first-aid-kit"><img src="/products/survivex-small.webp" alt="SurviveX Small First Aid Kit" width="200" loading="lazy" style="border-radius:10px;box-shadow:0 4px 14px rgba(0,0,0,0.12);" /></a>
+<div style="flex:1;min-width:240px;">
+<p style="margin:0 0 8px;"><strong>SurviveX Small First Aid Kit</strong><br/>1-2 people &middot; $54.99</p>
+<p style="margin:0;font-size:0.9em;color:#555;">Right-sized for apartments, the car, or a go-bag.</p>
+</div>
+</div>
+
+<div style="display:flex;gap:18px;align-items:flex-start;flex-wrap:wrap;margin:20px 0;">
+<a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Flarge-pro-first-aid-kit"><img src="/products/survivex-pro.webp" alt="SurviveX Large Pro First Aid Kit" width="200" loading="lazy" style="border-radius:10px;box-shadow:0 4px 14px rgba(0,0,0,0.12);" /></a>
+<div style="flex:1;min-width:240px;">
+<p style="margin:0 0 8px;"><strong>SurviveX Large Pro First Aid Kit</strong><br/>5-6 people &middot; 270 components &middot; $150.99</p>
+<p style="margin:0;font-size:0.9em;color:#555;">For larger families. Also clears the free shipping threshold on its own.</p>
+</div>
+</div>
+
 ### Two things worth knowing before you buy
 
 **These qualify for FSA and HSA spending.** First aid kits and wound care are eligible medical expenses, which means you can buy one with pre-tax health dollars. Depending on your bracket that is effectively a 20 to 35 percent discount. And if you have FSA funds that expire on December 31, this is one of the more useful ways to spend them.
