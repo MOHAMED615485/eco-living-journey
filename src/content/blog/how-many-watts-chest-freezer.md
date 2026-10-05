@@ -2,200 +2,189 @@
 title: "Chest Freezer Wattage Chart: Watts by Size (2026)"
 description: "Chest freezer wattage by size: running watts, startup surge, and daily kWh for 5 to 25 cu ft models. Full chart plus how to size a solar generator."
 pubDate: "Apr 04 2026"
-updatedDate: "Jul 18 2026"
+updatedDate: 2026-10-05
 heroImage: "../../assets/how-many-watts-chest-freezer.webp"
 category: "Solar Generator Guides"
 faqSchema: true
 ---
 
-The figures below come from manufacturer specification sheets across four common chest freezer sizes, cross-checked against Energy Star data and owner-reported measurements - not rounded marketing numbers.
-
-Here is everything I found.
-
-<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</em></p>
-
+This page lists typical running watts, startup surge and daily energy use for 5 to 25 cu ft chest freezers, then shows what that means when you size a solar generator or portable power station. The figures are ranges compiled from manufacturer specification sheets, ENERGY STAR criteria and EnergyGuide labels. They are not lab measurements, so treat your own freezer's nameplate as the final word.
 
 ---
 
 ## ⚡ Quick Answer
 
-A typical chest freezer uses **30-100 watts running** and requires **400-1,200 watts at startup surge**. The running watts number on the label is almost useless for backup power planning. The startup surge number is what determines whether your generator trips at 2AM.
+A chest freezer draws roughly **70-240 watts while the compressor is running** (depending on size), but the compressor only runs about a third of the time. What decides whether a generator works is the **startup surge: roughly 500-1,800 watts**. The running-watts number on the label is almost useless for backup planning. The surge number is what trips a generator at 2AM.
+
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
+<p style="margin:0 0 8px;font-weight:700;color:#2d6a4f;">Quick pick (check your freezer's LRA first)</p>
+<p style="margin:0 0 8px;font-size:0.95rem;"><strong>Freezer plus a fridge, lights and a router, or a larger or older freezer:</strong> <a href="https://www.awin1.com/cread.php?awinmid=59271&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" target="_blank" rel="sponsored nofollow">Bluetti AC200L</a>, 2,048Wh, the most headroom of the three below.</p>
+<p style="margin:0;font-size:0.95rem;"><strong>One modern freezer plus small loads:</strong> <a href="https://www.awin1.com/cread.php?awinmid=59183&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="sponsored nofollow">Jackery Explorer 1000 V2</a>, 1,070Wh, as long as the surge rating Jackery publishes clears your freezer's LRA x 120.</p>
+</div>
 
 ---
 
 ## 📊 Chest Freezer Wattage Chart by Size
 
-
-Wattage varies mainly with capacity. These figures are compiled from manufacturer specification sheets across major brands (Frigidaire, GE, Midea, Whirlpool, Danby) and cross-checked against Energy Star product data.
+Wattage varies mainly with capacity. These ranges are compiled from manufacturer specification sheets (Frigidaire, GE, Midea, Whirlpool, Danby), ENERGY STAR criteria and EnergyGuide labels.
 
 | Freezer size | Running watts | Startup surge | Daily kWh | Est. annual cost* |
 |---|---|---|---|---|
-| 5 cu ft | 70–90W | 500–700W | 0.6–0.9 kWh | $28–42 |
-| 7 cu ft | 85–110W | 600–800W | 0.8–1.1 kWh | $37–51 |
-| 10 cu ft | 100–130W | 700–1,000W | 1.0–1.4 kWh | $47–65 |
-| 15 cu ft | 120–160W | 900–1,200W | 1.3–1.8 kWh | $61–84 |
-| 20 cu ft | 150–200W | 1,100–1,500W | 1.6–2.2 kWh | $75–103 |
-| 25 cu ft | 180–240W | 1,300–1,800W | 2.0–2.7 kWh | $93–126 |
+| 5 cu ft | 70-90W | 500-700W | 0.5-0.7 kWh | $24-33 |
+| 7 cu ft | 85-110W | 600-800W | 0.6-0.8 kWh | $28-38 |
+| 10 cu ft | 100-130W | 700-1,000W | 0.7-0.9 kWh | $33-43 |
+| 15 cu ft | 120-160W | 900-1,200W | 0.9-1.2 kWh | $43-57 |
+| 20 cu ft | 150-200W | 1,100-1,500W | 1.1-1.4 kWh | $52-66 |
+| 25 cu ft | 180-240W | 1,300-1,800W | 1.3-1.8 kWh | $62-85 |
 
-*Annual cost at the US average residential rate of ~$0.13/kWh (EIA). Energy Star certified models typically draw 15–25% less than the figures above.
+*Annual cost at about $0.13/kWh. Older freezers (15+ years) and units in hot garages can use well above these ranges. The yellow EnergyGuide label on your freezer gives its actual kWh per year; divide by 365 for daily kWh.
 
-**The number that matters for backup power is startup surge, not running watts.** A freezer compressor draws 6–10x its running wattage for a fraction of a second on startup. A 15 cu ft freezer running at 140W can spike past 1,100W — which is why a "1,000W" generator can fail to start a freezer it could easily run.
+**The number that matters for backup power is startup surge, not running watts.** A compressor can briefly draw roughly 6-10 times its running wattage on startup. A 15 cu ft freezer running at 140W can spike past 1,100W, which is why a "1,000W" generator can fail to start a freezer it could easily run.
 
 ### How to find your freezer's exact numbers
 
 Three places, in order of reliability:
 
-1. **The nameplate label** — inside the lid or on the back. Look for amps; multiply by 120 (US) or 230 (EU/UK) for running watts.
-2. **The manual or manufacturer spec page** — search your model number plus "specifications." Look for LRA (locked rotor amps), which gives you true surge: LRA x voltage.
-3. **The Energy Guide label** — gives annual kWh, which divided by 365 gives daily kWh directly.
+1. **The nameplate label**, inside the lid or on the back. Look for amps; multiply by 120 (US) or 230 (EU/UK) for running watts.
+2. **The manual or manufacturer spec page.** Search your model number plus "specifications" and look for LRA (locked rotor amps), which gives you surge: LRA x voltage.
+3. **The EnergyGuide label**, which gives annual kWh. Divide by 365 for daily kWh.
 
-If your label shows 1.2A at 120V, that is 144W running — and an LRA of 9.0 means a 1,080W surge.
+If your label shows 1.2A at 120V, that is 144W running, and an LRA of 9.0 means a 1,080W surge requirement.
 
-The published figures show these with a spec-sheet data P4400 power meter over 30+ days each:
-
-| Freezer | Size | Running Watts | Startup Surge | LRA |
-|---|---|---|---|---|
-| Frigidaire FFFC09M4TW | 8.7 cu ft | 82-95W | 960W | 8.0 |
-| GE FCM7SKWW | 7.0 cu ft | 65-78W | 840W | 7.0 |
-| Chest freezer (older model) | 14.8 cu ft | 105-125W | 1,440W | 12.0 |
-| Kenmore 16502 | 9.0 cu ft | 88-102W | 996W | 8.3 |
-
-The oldest, largest freezer drew nearly double the watts and triple the startup surge of the most efficient modern unit. Age and size both matter significantly.
+Age and size both matter. Older, larger freezers draw noticeably more running watts and have higher LRA ratings than efficient modern units, so a unit that is 15+ years old should be measured before you buy backup power. A plug-in watt meter will show you the real number in a day or two.
 
 ---
 
 ## 🔍 Why Running Watts and Surge Watts Are Completely Different
 
-This is the single most important thing to understand about freezer power consumption and almost nobody explains it correctly.
+This is the most important thing to understand about freezer power, and most guides skip it.
 
-A chest freezer compressor does not run continuously. It cycles on and off to maintain temperature. When the compressor is off, the freezer draws almost zero watts — maybe 2-3W for the thermostat and any interior light.
+A chest freezer compressor does not run continuously. It cycles on and off to hold temperature. While it is off, the freezer draws almost nothing, only a few watts for the thermostat and any interior light.
 
 When the compressor kicks on, two things happen:
 
-**First — the startup surge.** For a fraction of a second the motor demands a massive burst of power to overcome inertia and start spinning. This surge typically lasts 0.3-0.5 seconds but it can be 8-12 times the running watt draw.
+**First, the startup surge.** For a fraction of a second the motor demands a large burst of power to overcome inertia and start spinning. That burst is typically 6-10 times the running draw.
 
-**Second — the running draw.** Once the compressor is spinning, power consumption drops to the normal running watts and stays there until the compressor cycles off again.
+**Second, the running draw.** Once the compressor is spinning, consumption drops to the normal running watts until it cycles off again.
 
-If your generator or solar power station cannot deliver the startup surge, the unit trips. Your freezer appears to be running, the compressor keeps trying to start, and by morning your food is ruined.
-
-I lost several hundred dollars of food this exact way before I understood surge watts. It is the reason I built this site.
+If your generator or power station cannot deliver the startup surge, the compressor cannot start. The freezer looks plugged in and powered, the compressor keeps trying, and the food slowly warms. That is the failure you are sizing against.
 
 ---
 
 ## 🔢 How To Calculate Your Exact Startup Surge
 
-Every chest freezer has a silver data plate on the back or side. Find the LRA number — Locked Rotor Amps.
+Every chest freezer has a data plate on the back or side. Find the LRA number, the Locked Rotor Amps.
 
-**LRA x 120 = startup surge watts required**
+**LRA x 120 = startup surge watts to plan for**
 
 Examples:
-- LRA 7.0 → 840W surge required
-- LRA 8.3 → 996W surge required
-- LRA 10.0 → 1,200W surge required
-- LRA 12.0 → 1,440W surge required
 
-I wrote a full breakdown on [what LRA is and how to find it here](/blog/what-is-lra-on-a-freezer/). Read it before buying any backup power system.
+- LRA 7.0 means plan for 840W of surge
+- LRA 8.3 means plan for 996W
+- LRA 10.0 means plan for 1,200W
+- LRA 12.0 means plan for 1,440W
+
+LRA is a worst-case figure. Real startups are often lower, but size to the worst case so the freezer starts every time. I wrote a full breakdown of [what LRA is and how to find it](/blog/what-is-lra-on-a-freezer/). Read it before buying any backup power system.
 
 ---
 
-## 📈 How Watt Draw Changes With Temperature
+## 📈 How Ambient Temperature Changes the Draw
 
-One thing most guides miss: your freezer draws more watts in summer than winter. Here is what I recorded on the same 8.7 cu ft Frigidaire over different ambient temperatures:
+Your freezer works harder in summer than in winter. In a hot garage the compressor runs more often and for longer than in a cool basement, so energy use per day goes up even though the running watts stay about the same.
 
-| Ambient Temp | Running Watts | Compressor Cycle |
-|---|---|---|
-| 45°F (cold garage) | 65-75W | 8 min on / 22 min off |
-| 65°F (moderate) | 82-95W | 12 min on / 18 min off |
-| 85°F (hot garage) | 105-118W | 18 min on / 12 min off |
-
-At 85°F the compressor runs nearly twice as often as at 45°F. If you are planning backup power for a garage freezer in summer, use the higher watt estimates.
+If you are planning backup power for a garage freezer in July, plan with the high end of the ranges in the chart, not the low end.
 
 ---
 
 ## ⏱️ How Long Will a Solar Generator Run a Chest Freezer?
 
-Using the real numbers above and accounting for a 15% efficiency buffer:
+Because the compressor cycles, what matters for runtime is the average draw over a full day, not the running watts. The scenarios below use three average draws and a 15% efficiency buffer on the battery.
 
-| Generator | Battery | Runtime (75W avg) | Runtime (100W avg) |
-|---|---|---|---|
-| Jackery Explorer 1000 V2 | 1,070Wh | 12.1 hours | 9.1 hours |
-| EcoFlow DELTA 3 Plus | 1,024Wh | 11.6 hours | 8.7 hours |
-| Bluetti AC200L | 2,048Wh | 23.2 hours | 17.4 hours |
+| Scenario | Avg draw | Jackery Explorer 1000 V2 (1,070Wh) | EcoFlow DELTA 3 Plus (1,024Wh) | Bluetti AC200L (2,048Wh) |
+|---|---|---|---|---|
+| Efficient modern freezer (about 0.7 kWh/day) | 30W | 30 hours | 29 hours | 58 hours |
+| Typical freezer (about 1.1 kWh/day) | 45W | 20 hours | 19 hours | 39 hours |
+| Older unit or hot garage (about 1.6 kWh/day) | 65W | 14 hours | 13 hours | 27 hours |
 
-These are real runtime estimates based on actual freezer watt draws. The manufacturer runtime claims are typically based on a 100W or 200W load — much lower than what most freezers actually draw with compressor cycling.
+These are calculated estimates from the figures on this page, not measurements. Manufacturer runtime claims are often based on a flat 100W or 200W load, which does not match how a cycling compressor behaves, so check how any runtime number was calculated.
 
-Not sure which generator fits your situation? [Use the free Solar Generator Sizing Calculator](/solar-calculator/) — enter your freezer size and LRA and it gives you an exact recommendation.
+Not sure which generator fits? [Use the free Solar Generator Sizing Calculator](/solar-calculator/). Enter your freezer size and LRA and it gives you a recommendation.
 
 ---
 
 ## 💡 5 Things That Affect Chest Freezer Watt Draw
 
-**1. How full it is**
-A full freezer is more efficient than an empty one. The frozen food acts as thermal mass, storing cold and reducing how often the compressor needs to run. Fill empty space with water bottles if you are preparing for an outage.
+**1. How full it is.** A full freezer is more efficient than an empty one. Frozen food acts as thermal mass and cuts how often the compressor runs. Before an outage, fill empty space with water bottles.
 
-**2. How old it is**
-Freezers manufactured before 2010 can draw 2-3x more watts than modern Energy Star models. If your freezer is old, measure the actual draw before buying backup power.
+**2. How old it is.** Freezers made before about 2010 can draw far more than modern ENERGY STAR models. If yours is old, measure it before buying backup power.
 
-**3. Ambient temperature**
-As shown above — hot environments dramatically increase runtime and watt draw. A garage freezer in Arizona in July needs significantly more backup power than the same freezer in a climate-controlled basement.
+**3. Ambient temperature.** Hot environments raise how often the compressor runs. A garage freezer in Arizona in July needs more backup capacity than the same freezer in a climate-controlled basement.
 
-**4. How often you open it**
-Every time you open the freezer lid, cold air escapes and warm air enters. The compressor has to run longer to recover. During an outage, keep the lid closed as much as possible.
+**4. How often you open it.** Every opening lets cold air out and warm air in, and the compressor has to recover. During an outage, keep the lid closed.
 
-**5. Freezer location**
-A freezer in direct sunlight will draw significantly more power than one in shade. If possible, move your freezer to a cool, shaded location before a major outage.
+**5. Where it sits.** A freezer in direct sunlight draws more than one in shade. If you can, move it somewhere cool and shaded before a major outage.
 
 ---
 
+## 🛒 Which Generator Fits a Chest Freezer?
 
-Sizing a generator to your freezer's real surge is where most people get it wrong - too small and it trips, too big and you overpaid. My **Solar Generator Buyer's Toolkit** does the watt math for you.
+Based on published specifications, here is how the three units I'd shortlist compare for a chest freezer. Check each maker's published surge rating against your freezer's LRA x 120 before you buy.
 
-<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
-  <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">&#9889; Solar Generator Buyer's Toolkit - $19</p>
-  <p style="margin:0 0 12px;font-size:0.95rem;">The exact surge + running watt math and a sizing calculator so your generator actually starts your freezer - the first time.</p>
-  <a href="https://ethanecoliving.gumroad.com/l/solar-generator-toolkit-2026" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Toolkit - $19 &rarr;</a>
+<div style="display:flex;gap:16px;align-items:center;flex-wrap:wrap;margin:1.5rem 0;">
+<a href="https://www.awin1.com/cread.php?awinmid=59271&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" target="_blank" rel="sponsored nofollow"><img src="/products/bluetti-ac200l.webp" alt="Bluetti AC200L portable power station" width="200" height="200" loading="lazy" style="width:200px;height:auto;border-radius:8px;" /></a>
+<div style="flex:1;min-width:220px;">
+<p style="margin:0 0 6px;"><strong><a href="https://www.awin1.com/cread.php?awinmid=59271&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" target="_blank" rel="sponsored nofollow">Bluetti AC200L</a></strong> (best for headroom)</p>
+<p style="margin:0;font-size:0.95rem;">2,048Wh capacity. On the average draws above, a chest freezer plus a refrigerator, a few lights and a router (about 125W combined) comes to roughly 14 hours on one charge. The trade-off is weight and price. It is overkill if you only need to protect one small freezer.</p>
+</div>
 </div>
 
-## 🛒 Which Generator Do I Recommend?
+<div style="display:flex;gap:16px;align-items:center;flex-wrap:wrap;margin:1.5rem 0;">
+<a href="https://www.awin1.com/cread.php?awinmid=59183&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="sponsored nofollow"><img src="/products/jackery-1000v2.webp" alt="Jackery Explorer 1000 V2 portable power station" width="200" height="200" loading="lazy" style="width:200px;height:auto;border-radius:8px;" /></a>
+<div style="flex:1;min-width:220px;">
+<p style="margin:0 0 6px;"><strong><a href="https://www.awin1.com/cread.php?awinmid=59183&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="sponsored nofollow">Jackery Explorer 1000 V2</a></strong> (best for one modern freezer)</p>
+<p style="margin:0;font-size:0.95rem;">1,070Wh capacity. A sensible fit for a single modern chest freezer with a modest LRA. Confirm that Jackery's published surge rating clears your freezer's LRA x 120 before you commit. It has less capacity for adding a fridge on top.</p>
+</div>
+</div>
 
-Based on extended specification analysis on multiple freezers:
+**EcoFlow DELTA 3 Plus** (1,024Wh) is the third option. Its X-Boost feature is built for loads that need more than the rated output, which is relevant to compressor startups, but confirm the exact limits on EcoFlow's spec sheet. Our [EcoFlow DELTA 3 Plus review](/blog/ecoflow-delta-3-plus-review/) covers it against a freezer load.
 
-**For a single chest freezer:** The EcoFlow DELTA 3 Plus is the most reliable choice. The X-Boost surge handling is the most consistently reported strength across owner feedback, regardless of freezer LRA rating.
+<div class="cta-container"><a href="https://www.awin1.com/cread.php?awinmid=59271&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">🛒 Check Bluetti AC200L Price →</a></div>
 
-**For budget:** The [Jackery Explorer 1000 V2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) handles any chest freezer with LRA under 9.0 reliably. Check your LRA first.
+---
 
-**For whole-home backup:** The [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) is rated at 2,048Wh, which on published draw figures covers a chest freezer plus a refrigerator, lights and a router for roughly 11 hours on one charge. Little else in this price range matches that capacity on a full load.
+Sizing a generator to your freezer's real surge is where most people go wrong: too small and it trips, too big and you overpaid. The **Solar Generator Buyer's Toolkit** does the watt math for you.
 
-<div class="cta-container"><a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="nofollow">🛒 Check Bluetti AC200L Price →</a></div>
+<div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
+<p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">⚡ Solar Generator Buyer's Toolkit - $19</p>
+<p style="margin:0 0 12px;font-size:0.95rem;">The surge and running watt math, plus a sizing calculator, so your generator actually starts your freezer the first time.</p>
+<a href="https://ethanecoliving.gumroad.com/l/solar-generator-toolkit-2026" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Toolkit - $19 →</a>
+</div>
 
 ---
 
 ## ❓ FAQ
 
 **How many watts does a 7 cubic foot chest freezer use?**
-A modern 7 cubic foot chest freezer typically draws 65-80 watts running. At startup the surge can reach 800-950 watts depending on the LRA rating. Find your LRA number on the data plate and multiply by 120 for the exact surge requirement.
+A 7 cu ft chest freezer typically draws about 85-110 watts while the compressor is running, and 600-800 watts at startup depending on its LRA. Find the LRA on the data plate and multiply by 120 for the surge you need to cover.
 
 **How many watts does a chest freezer use per day?**
-At 80W average draw with the compressor cycling on about 30% of the time, a typical chest freezer uses roughly 0.6-1.0 kWh per day. Older or larger models can use 1.5-2.0 kWh per day.
+Because the compressor cycles on roughly a third of the time, a modern 7 cu ft chest freezer uses about 0.6-0.8 kWh per day. Larger, older or hot-garage units can use twice that or more.
 
 **Does a chest freezer use a lot of electricity?**
-Modern chest freezers are among the most efficient large appliances. An Energy Star certified model uses approximately 200-300 kWh per year — about $25-35 at average US electricity rates. That is significantly less than an upright freezer of the same capacity.
+Not compared with most large appliances. ENERGY STAR certified chest freezers commonly use about 200-300 kWh a year, which is roughly $26-39 at $0.13/kWh. Chest models generally use less than upright freezers of the same capacity. Your EnergyGuide label has the exact figure.
 
 **What size generator do I need for a chest freezer?**
-You need a generator with surge capacity above your freezer's LRA x 120. For most modern chest freezers that means at least 1,200W surge capacity. Running capacity of 300-500W is more than sufficient for a single freezer.
+Choose one whose surge rating clears your freezer's LRA x 120. For most modern chest freezers that means at least 1,200W of surge capacity. Running capacity of 300-500W is plenty for a single freezer.
 
 ---
 
-
-
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
 <h3 style="color:#2d6a4f;margin-top:0;">You know your surge number. Now what clears it?</h3>
-<p>A 15 cu ft freezer spiking past 1,200W needs real headroom &mdash; not the round number printed on the box. Most units sold as "1,000W" trip the moment the compressor kicks in.</p>
-<p><a href="/blog/best-solar-generator-chest-freezer-2026/">See which generators actually start a chest freezer &rarr;</a></p>
-<p style="margin-bottom:0;font-size:0.9em;"><a href="/blog/surge-vs-running-watts/">Why surge watts and running watts are completely different &rarr;</a> &nbsp;&middot;&nbsp; <a href="/blog/how-long-food-last-fridge-power-outage/">How long your food stays safe without power &rarr;</a></p>
+<p>A 15 cu ft freezer spiking past 1,200W needs real headroom, not the round number printed on the box. Many units sold as "1,000W" struggle the moment the compressor kicks in.</p>
+<p><a href="/blog/best-solar-generator-chest-freezer-2026/">See which generators actually start a chest freezer →</a></p>
+<p style="margin-bottom:0;font-size:0.9em;"><a href="/blog/surge-vs-running-watts/">Why surge watts and running watts are completely different →</a> · <a href="/blog/how-long-food-last-fridge-power-outage/">How long your food stays safe without power →</a></p>
 </div>
 
 ## About the data
 
-All figures compiled from manufacturer specification sheets, Energy Star product data, and EIA residential energy statistics, then cross-checked against aggregated owner reports. Researched and compiled by Ethan Reynolds at ecoliving-journey.com. Affiliate-supported; independently researched. Last updated August 2026.
-
+All figures are ranges compiled from manufacturer specification sheets, ENERGY STAR criteria and EnergyGuide labels, plus EIA residential energy statistics. They are not independent lab measurements, and individual freezers vary, so confirm your own numbers on the nameplate and EnergyGuide label. Compiled by Ethan Reynolds. Affiliate-supported; independently researched. Last updated October 2026.
