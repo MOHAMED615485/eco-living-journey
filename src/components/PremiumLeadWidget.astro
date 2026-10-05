@@ -27,8 +27,8 @@
 
     <!-- Trust bar -->
     <div id="pw-trust">
-      <span>✓ Expert Tested</span>
-      <span>⚡ Spec-Verified Research</span>
+      <span>✓ Spec-Based Picks</span>
+      <span>⚡ Researched From Spec Sheets</span>
       <span>🔒 Private</span>
     </div>
 
@@ -419,7 +419,7 @@
     // Medical: surge-safe reliability first, never budget-first
     if (need === 'medical') {
       if (duration === 'long') {
-        return { product: PRODUCTS.bluetti, why: 'For medical equipment through 2+ day outages, capacity is safety. The AC200L is the unit the specs support for multi-day medical backup - and my full review covers the exact runtimes I measured.' };
+        return { product: PRODUCTS.bluetti, why: 'For medical equipment through 2+ day outages, capacity is safety. The AC200L is the unit the specs support for multi-day medical backup - and my full review covers the runtime math.' };
       }
       return { product: PRODUCTS.ecoflow, why: 'For CPAP and medical gear, surge handling and recharge speed matter most. The DELTA 3 Plus recharges in ~1 hour - if power flickers back briefly, you are full again fast. This is the setup I recommend in my medical backup guide.' };
     }
@@ -429,12 +429,12 @@
       if (duration === 'long') {
         return { product: PRODUCTS.bluetti, why: 'A fridge through 2+ days needs serious watt-hours. The AC200L has the capacity to go the distance without rationing.' };
       }
-      return { product: PRODUCTS.jackery, why: 'This is the exact unit that ran my chest freezer 71 of 73 nights in testing. For fridge duty under 2 days, it is the best value I have measured.' };
+      return { product: PRODUCTS.jackery, why: 'On the average draws in our chest freezer guide, a typical chest freezer runs for roughly 20 hours on this unit. For fridge duty under 2 days, it is a good-value fit on the published specs.' };
     }
 
     // Multiple appliances
     if (need === 'multiple' || duration === 'long') {
-      return { product: PRODUCTS.bluetti, why: 'Running several loads at once is where smaller units tap out. The AC200Ls 2,048Wh and 2,400W output give you real headroom - my review shows the exact loads I ran together.' };
+      return { product: PRODUCTS.bluetti, why: 'Running several loads at once is where smaller units tap out. The AC200Ls 2,048Wh and 2,400W output give you real headroom - my review shows the load math.' };
     }
 
     // Factor tiebreakers
