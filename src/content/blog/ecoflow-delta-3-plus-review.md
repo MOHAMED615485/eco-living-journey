@@ -21,13 +21,13 @@ faqSchema: true
 
 ---
 
-I want to start this review with a number: **$847.**
+I want to start this review with a risk, not a feature: **a stocked chest freezer can hold hundreds of dollars of food.**
 
-That's what I lost on a January morning two winters ago. The most expensive backup power mistake is the one people only discover at 2 AM: a cheap 500W battery station that trips its internal breaker when the freezer compressor kicks on, then stays off. By morning the food has been above 40°F for hours and a freezer full of meat goes in the bin.
+The most expensive backup power mistake is the one people only discover at 2 AM: a cheap 500W battery station that trips its internal breaker when the freezer compressor kicks on, then stays off. By morning the food has been above 40°F for hours and a freezer full of meat goes in the bin.
 
-The unit was never undersized on capacity. It was undersized on surge — and that is the specification most reviews never mention.
+A unit does not have to be undersized on capacity to fail. It can be undersized on surge — and that is the specification most reviews never mention.
 
-So I spent weeks reading spec sheets, watching teardowns, and going through hundreds of owner reports before working out what the EcoFlow DELTA 3 Plus actually does on a chest freezer. Here's everything I found.
+So I went through the manufacturer spec sheets, published teardowns and owner reports to work out what the EcoFlow DELTA 3 Plus should do on a chest freezer. Here is what the numbers show.
 
 ---
 
@@ -123,7 +123,7 @@ Take the battery capacity in Wh (1,024 for the base DELTA 3 Plus). Divide by you
 
 Example: 1,024Wh ÷ 172W × (1 ÷ 0.3) = roughly **20 hours minimum**, often much more in real-world conditions.
 
-That matches what I found in testing — and then some, once the temperatures and full-freezer effect kicked in.
+Real-world runtime is often longer than this, because a full freezer holds cold well and a cooler room means the compressor runs less often.
 
 ---
 
@@ -146,7 +146,7 @@ That matches what I found in testing — and then some, once the temperatures an
 
 At $999–$1,099, the DELTA 3 Plus is not a casual purchase. But here's how I think about it.
 
-I lost $847 worth of food in one outage. One 31-hour stretch without power. If I'd owned this unit, I wouldn't have lost a single pound of that beef. The LiFePO4 battery is rated for 3,000+ cycles — at one full charge per week, that's nearly 60 years. In reality, a decade or more of reliable service before you'd notice any degradation.
+A stocked chest freezer can easily hold several hundred dollars of food, and a long outage is exactly when it is at risk. A unit that clears your freezer's startup surge can keep it cold for about 20 hours on the figures above, and longer with solar. The LiFePO4 battery is rated for 3,000+ cycles — at one full charge per week, that's nearly 60 years. In practice, real-world lifespan depends on temperature, depth of discharge and how often you cycle it.
 
 That's not a gadget. That's infrastructure.
 
