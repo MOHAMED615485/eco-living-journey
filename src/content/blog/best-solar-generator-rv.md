@@ -222,7 +222,7 @@ Build Your RV Emergency Kit with SurviveX →
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
   <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">📊 RV Solar Sizing Kit — $19</p>
-  <p style="margin:0 0 12px;font-size:0.95rem;">Power audit worksheet + auto-calculating Excel tool. Know exactly what size battery bank and solar panel you need for your RV before buying anything.</p>
+  <p style="margin:0 0 12px;font-size:0.95rem;">Power audit worksheet + auto-calculating Excel tool. Get a clear estimate of the battery bank and solar panel size your RV needs before you buy anything.</p>
   <a href="https://ethanecoliving.gumroad.com/l/muumhq" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the RV Solar Sizing Kit — $19 →</a>
 </div>
 

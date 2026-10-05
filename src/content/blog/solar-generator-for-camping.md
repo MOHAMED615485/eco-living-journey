@@ -91,12 +91,12 @@ The downside: 57 lbs. This is not a unit you carry. It lives in your truck bed o
 
 **→ [Check Bluetti AC200L price](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l)**
 
-🧰 **Planning an RV trip?** My free **RV Solar Sizing Kit** calculates exactly what capacity you need based on your appliances and trip length. Includes an auto-calculating Excel sheet.
+🧰 **Planning an RV trip?** The **RV Solar Sizing Kit** ($19) helps you estimate the capacity you need based on your appliances and trip length. Includes an auto-calculating Excel sheet.
 
 <div style="background: #e8f5e9; border-left: 4px solid #2d6a4f; padding: 16px; margin: 24px 0; border-radius: 4px;">
-  <strong>🚐 Free RV Solar Sizing Kit</strong><br>
-  Stop guessing what size generator you need. My calculator does the math for your exact appliance list.<br><br>
-  <a href="https://ethanecoliving.gumroad.com/l/muumhq" style="background: #2d6a4f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; display: inline-block; margin-top: 8px;">Get the Free Kit — $19</a>
+  <strong>🚐 RV Solar Sizing Kit</strong><br>
+  Stop guessing what size generator you need. Enter your appliance list and the calculator does the math to give you a sizing estimate.<br><br>
+  <a href="https://ethanecoliving.gumroad.com/l/muumhq" style="background: #2d6a4f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; display: inline-block; margin-top: 8px;">Get the RV Solar Sizing Kit — $19</a>
 </div>
 
 ---
