@@ -53,7 +53,16 @@ A closed refrigerator maintains safe temperature for approximately **4 hours** a
 Place bags of ice or frozen gel packs inside the refrigerator. Pre-frozen water bottles work well. This can extend food safety by 12–24 hours depending on how much ice you add and how well-insulated your refrigerator is.
 
 **Method 2: Solar generator backup**
-A solar generator running the refrigerator extends food safety indefinitely. An EcoFlow DELTA 2 (1,024Wh) paired with a 220W solar panel keeps a refrigerator running through the day and recharges for the next. This is how I lost zero food during my second major power outage.
+A solar generator running the refrigerator extends food safety for as long as the battery or the sun lasts. An EcoFlow DELTA 2 (1,024Wh) paired with a 220W solar panel keeps a refrigerator running through the day and recharges for the next.
+
+<div style="background:#f0fdf4;border:1.5px solid #2d6a4f;border-radius:12px;padding:16px 20px;margin:2rem 0;display:flex;gap:16px;align-items:center;flex-wrap:wrap;">
+<a href="https://www.awin1.com/cread.php?awinmid=124816&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Ftraverseon.com%2Fproducts%2F48-qt-ac-dc-car-fridge-freezer-48h-cold-retention-traverseon" target="_blank" rel="sponsored nofollow"><img src="/products/traverseon-48qt-fridge.webp" alt="Traverseon 48 Qt AC/DC car fridge-freezer" width="200" height="150" loading="lazy" style="width:200px;height:auto;border-radius:8px;" /></a>
+<div style="flex:1;min-width:220px;">
+<strong style="color:#2d6a4f;font-size:0.95rem;">Method 3: a small 12V fridge-freezer for essentials</strong>
+<span style="font-size:0.9rem;color:#333;display:block;margin:8px 0;">If you only need to protect medicines, baby supplies and a few meals, a compact 12V compressor unit is a small, portable option. The Traverseon 48 Qt AC/DC car fridge-freezer (45 L) lists a 60W average draw and runs from 12V/24V DC or household AC, so it can sit on a power station. Traverseon says it holds cold for up to 48 hours after being unplugged under lab conditions. Treat that as a best case, and keep the food-safety rules above (40&deg;F, 4 hours) as your guide.</span>
+<a href="https://www.awin1.com/cread.php?awinmid=124816&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Ftraverseon.com%2Fproducts%2F48-qt-ac-dc-car-fridge-freezer-48h-cold-retention-traverseon" style="color:#2d6a4f;font-weight:700;font-size:0.9rem;text-decoration:underline;" target="_blank" rel="sponsored nofollow">&rarr; See the Traverseon 48 Qt AC/DC car fridge-freezer</a>
+</div>
+</div>
 
 ### 🏆 Quick Comparison: Solar Generators That Save Your Food
 

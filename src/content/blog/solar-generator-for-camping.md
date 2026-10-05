@@ -162,6 +162,16 @@ Four people camping means four phones, probably a cooler, and someone running a 
 
 For a 2-night family trip you need 4,000Wh+ or a recharge source. The Bluetti AC200L (2,048Wh) paired with 400W of solar is the realistic minimum for a family of four.
 
+
+<div style="background:#f0fdf4;border:1.5px solid #2d6a4f;border-radius:12px;padding:16px 20px;margin:2rem 0;display:flex;gap:16px;align-items:center;flex-wrap:wrap;">
+<a href="https://www.awin1.com/cread.php?awinmid=124816&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Ftraverseon.com%2Fproducts%2F48-qt-ac-dc-car-fridge-freezer-48h-cold-retention-traverseon" target="_blank" rel="sponsored nofollow"><img src="/products/traverseon-48qt-fridge.webp" alt="Traverseon 48 Qt AC/DC car fridge-freezer" width="200" height="150" loading="lazy" style="width:200px;height:auto;border-radius:8px;" /></a>
+<div style="flex:1;min-width:220px;">
+<strong style="color:#2d6a4f;font-size:0.95rem;">A 12V fridge-freezer for the camp kitchen</strong>
+<span style="font-size:0.9rem;color:#333;display:block;margin:8px 0;">If a cooler full of ice is not enough, the Traverseon 48 Qt AC/DC car fridge-freezer (45 L) runs from 12V/24V DC or household AC and covers -4&deg;F to 68&deg;F. Traverseon lists a 60W average draw. On that figure, a 1,070Wh power station runs it for roughly 15 hours and a 2,048Wh station for roughly 29 hours (15% battery buffer). Its Eco mode is meant to lower the draw. These are planning numbers from the maker's spec sheet, not our own tests, and real use depends on air temperature and how often you open it. Price-check similar 48-quart units before you buy.</span>
+<a href="https://www.awin1.com/cread.php?awinmid=124816&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Ftraverseon.com%2Fproducts%2F48-qt-ac-dc-car-fridge-freezer-48h-cold-retention-traverseon" style="color:#2d6a4f;font-weight:700;font-size:0.9rem;text-decoration:underline;" target="_blank" rel="sponsored nofollow">&rarr; See the Traverseon 48 Qt AC/DC car fridge-freezer</a>
+</div>
+</div>
+
 ---
 
 ## ❄️ Cold Weather Camping: What Changes
