@@ -18,7 +18,7 @@ A chest freezer draws roughly **70-240 watts while the compressor is running** (
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
 <p style="margin:0 0 8px;font-weight:700;color:#2d6a4f;">Quick pick (check your freezer's LRA first)</p>
-<p style="margin:0 0 8px;font-size:0.95rem;"><strong>Freezer plus a fridge, lights and a router, or a larger or older freezer:</strong> <a href="https://www.awin1.com/cread.php?awinmid=59271&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" target="_blank" rel="sponsored nofollow">Bluetti AC200L</a>, 2,048Wh, the most headroom of the three below.</p>
+<p style="margin:0 0 8px;font-size:0.95rem;"><strong>Freezer plus a fridge, lights and a router, or a larger or older freezer:</strong> <a href="https://www.awin1.com/cread.php?awinmid=59271&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2" target="_blank" rel="sponsored nofollow">Bluetti Elite 200 V2</a>, 2,073.6Wh, the most headroom of the three below.</p>
 <p style="margin:0;font-size:0.95rem;"><strong>One modern freezer plus small loads:</strong> <a href="https://www.awin1.com/cread.php?awinmid=59183&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="sponsored nofollow">Jackery Explorer 1000 V2</a>, 1,070Wh, as long as the surge rating Jackery publishes clears your freezer's LRA x 120.</p>
 </div>
 
@@ -100,9 +100,9 @@ If you are planning backup power for a garage freezer in July, plan with the hig
 
 Because the compressor cycles, what matters for runtime is the average draw over a full day, not the running watts. The scenarios below use three average draws and a 15% efficiency buffer on the battery.
 
-| Scenario | Avg draw | Jackery Explorer 1000 V2 (1,070Wh) | EcoFlow DELTA 3 Plus (1,024Wh) | Bluetti AC200L (2,048Wh) |
+| Scenario | Avg draw | Jackery Explorer 1000 V2 (1,070Wh) | EcoFlow DELTA 3 Plus (1,024Wh) | Bluetti Elite 200 V2 (2,073.6Wh) |
 |---|---|---|---|---|
-| Efficient modern freezer (about 0.7 kWh/day) | 30W | 30 hours | 29 hours | 58 hours |
+| Efficient modern freezer (about 0.7 kWh/day) | 30W | 30 hours | 29 hours | 59 hours |
 | Typical freezer (about 1.1 kWh/day) | 45W | 20 hours | 19 hours | 39 hours |
 | Older unit or hot garage (about 1.6 kWh/day) | 65W | 14 hours | 13 hours | 27 hours |
 
@@ -131,10 +131,10 @@ Not sure which generator fits? [Use the free Solar Generator Sizing Calculator](
 Based on published specifications, here is how the three units I'd shortlist compare for a chest freezer. Check each maker's published surge rating against your freezer's LRA x 120 before you buy.
 
 <div style="display:flex;gap:16px;align-items:center;flex-wrap:wrap;margin:1.5rem 0;">
-<a href="https://www.awin1.com/cread.php?awinmid=59271&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" target="_blank" rel="sponsored nofollow"><img src="/products/bluetti-ac200l.webp" alt="Bluetti AC200L portable power station" width="200" height="200" loading="lazy" style="width:200px;height:auto;border-radius:8px;" /></a>
+<a href="https://www.awin1.com/cread.php?awinmid=59271&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2" target="_blank" rel="sponsored nofollow"><img src="/products/bluetti-elite-200-v2.webp" alt="Bluetti Elite 200 V2 portable power station" width="200" height="170" loading="lazy" style="width:200px;height:auto;border-radius:8px;" /></a>
 <div style="flex:1;min-width:220px;">
-<p style="margin:0 0 6px;"><strong><a href="https://www.awin1.com/cread.php?awinmid=59271&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" target="_blank" rel="sponsored nofollow">Bluetti AC200L</a></strong> (best for headroom)</p>
-<p style="margin:0;font-size:0.95rem;">2,048Wh capacity. On the average draws above, a chest freezer plus a refrigerator, a few lights and a router (about 125W combined) comes to roughly 14 hours on one charge. The trade-off is weight and price. It is overkill if you only need to protect one small freezer.</p>
+<p style="margin:0 0 6px;"><strong><a href="https://www.awin1.com/cread.php?awinmid=59271&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2" target="_blank" rel="sponsored nofollow">Bluetti Elite 200 V2</a></strong> (best for headroom)</p>
+<p style="margin:0;font-size:0.95rem;">2,073.6Wh capacity and 2,600W output. On the average draws above, a chest freezer plus a refrigerator, a few lights and a router (about 125W combined) comes to roughly 14 hours on one charge. The trade-off is weight (53.4 lb), price, and that it cannot be expanded. It is overkill if you only need to protect one small freezer.</p>
 </div>
 </div>
 
@@ -148,7 +148,7 @@ Based on published specifications, here is how the three units I'd shortlist com
 
 **EcoFlow DELTA 3 Plus** (1,024Wh) is the third option. Its X-Boost feature is built for loads that need more than the rated output, which is relevant to compressor startups, but confirm the exact limits on EcoFlow's spec sheet. Our [EcoFlow DELTA 3 Plus review](/blog/ecoflow-delta-3-plus-review/) covers it against a freezer load.
 
-<div class="cta-container"><a href="https://www.awin1.com/cread.php?awinmid=59271&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">🛒 Check Bluetti AC200L Price →</a></div>
+<div class="cta-container"><a href="https://www.awin1.com/cread.php?awinmid=59271&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">🛒 Check Bluetti Elite 200 V2 Price →</a></div>
 
 ---
 
