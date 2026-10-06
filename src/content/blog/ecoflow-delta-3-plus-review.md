@@ -51,7 +51,7 @@ So while my freezer only *runs* at 172 watts, it *starts* at nearly 1,000 watts 
 4. Multiply LRA × 120 to get your surge watts
 5. Buy a battery with surge capacity at least 20% above that number
 
-Don't want to do the math? I built a [free blackout calculator](/local-quote/) that does it for you automatically.
+Don't want to do the math? I built a [free sizing calculator](/solar-calculator/) that does it for you automatically.
 
 ---
 
@@ -113,7 +113,7 @@ The cooler weather and fuller freezer made a massive difference. At the end of t
 I know the specs can feel overwhelming. So here's the only three-step process you need to follow:
 
 **Step 1: Find your surge number**
-Pull your freezer from the wall, read the LRA off the data plate, multiply by 120. That's your minimum surge requirement. Or just use the [calculator](/local-quote/).
+Pull your freezer from the wall, read the LRA off the data plate, multiply by 120. That's your minimum surge requirement. Or just use the [calculator](/solar-calculator/).
 
 **Step 2: Check the battery's surge rating**
 Not the continuous output — the *surge* rating. For the DELTA 3 Plus, that's 7,200W. For most chest freezers, your LRA-based surge number will be somewhere between 600W and 1,500W. The DELTA 3 Plus handles all of them.
@@ -150,7 +150,7 @@ A stocked chest freezer can easily hold several hundred dollars of food, and a l
 
 That's not a gadget. That's infrastructure.
 
-If you've got a chest freezer stocked with food you care about, the math works. Use the [free calculator](/local-quote/) to confirm your specific numbers first — and if the DELTA 3 Plus checks out for your setup, I wouldn't hesitate.
+If you've got a chest freezer stocked with food you care about, the math works. Use the [free calculator](/solar-calculator/) to confirm your specific numbers first — and if the DELTA 3 Plus checks out for your setup, I wouldn't hesitate.
 
 <div class="cta-container">
   <a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" target="_blank" rel="noopener noreferrer" class="cta-button">

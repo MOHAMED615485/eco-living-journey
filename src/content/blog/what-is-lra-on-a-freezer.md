@@ -82,7 +82,7 @@ Surge watts = 115 × 8.3 = **954 watts**
 This freezer runs at 172 watts continuously but demands 954 watts at every startup. Any backup battery needs a surge capacity above 954 watts to function reliably — ideally with at least 20% headroom, meaning 1,145 watts minimum.
 
 **Step 4 — Use the free calculator instead**
-If numbers are not your thing, the [free blackout calculator](/local-quote/) does all of this automatically. Enter your appliances and get your exact surge requirement in two minutes.
+If numbers are not your thing, the [free sizing calculator](/solar-calculator/) does all of this automatically. Enter your appliances and get a surge estimate in two minutes.
 
 ---
 
@@ -142,7 +142,7 @@ Everything above reduces to this:
 
 **Battery requirement:** Your battery's surge capacity must exceed that number by at least 20%.
 
-**Shortcut:** Use the [free calculator](/local-quote/) if you want to skip the math and get a recommendation for your specific setup.
+**Shortcut:** Use the [free calculator](/solar-calculator/) if you want to skip the math and get a recommendation for your specific setup.
 
 That is the entire framework. It takes three minutes to gather the data and two minutes with the calculator. Five minutes of work protects your entire emergency food supply.
 
@@ -151,7 +151,7 @@ The alternative is trusting a battery you picked based on marketing copy and hop
 I tried that approach. It cost me $847.
 
 <div class="cta-container">
-  <a href="/local-quote/" class="cta-button">
+  <a href="/solar-calculator/" class="cta-button">
     🧮 Calculate My Surge Requirements Free →
   </a>
 </div>

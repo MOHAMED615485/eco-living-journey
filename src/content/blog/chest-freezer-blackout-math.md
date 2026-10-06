@@ -89,7 +89,7 @@ category: "Power Outage Prep"
 <div class="bg-red-50 border border-red-200 p-8 my-10 text-center rounded-xl shadow-md">
   <h3 class="text-red-700 font-extrabold text-3xl mb-3">⚠️ Stop Guessing Your Surge Math</h3>
   <p class="mb-5 text-gray-800 text-lg">Don't risk your $1,000 emergency food supply on a guess. I built a free calculator tool for myself that does all the heavy lifting. Use it to find the exact surge requirements for your specific appliances before you buy a battery.</p>
-  <a href="/local-quote/" class="inline-block bg-red-600 text-white font-bold text-lg py-4 px-10 rounded-lg shadow-lg hover:bg-red-700 transition-colors duration-200">🧮 Calculate My Home Surge Load Now →</a>
+  <a href="/solar-calculator/" class="inline-block bg-red-600 text-white font-bold text-lg py-4 px-10 rounded-lg shadow-lg hover:bg-red-700 transition-colors duration-200">🧮 Calculate My Home Surge Load Now →</a>
 </div>
 
 <h2>🔋 The Top 3 Solar Generators for Deep Freezers</h2>
