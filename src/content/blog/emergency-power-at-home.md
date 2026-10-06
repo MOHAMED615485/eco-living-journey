@@ -259,6 +259,17 @@ This is the primary reason I recommend solar generators for apartment and condo 
   <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Check SurviveX Kit →</a>
 </div>
 
+## 📚 More Guides to Help You Prepare
+
+- [Can a solar generator run a whole house?](/blog/solar-generator-for-whole-house/)
+- [Best solar generators for apartments](/blog/best-solar-generator-apartment/)
+- [How much emergency water to store](/blog/emergency-water-storage/)
+- [How to charge a solar generator without sun](/blog/charge-solar-generator-without-sun/)
+- [Chest freezer wattage chart: running and surge watts](/blog/how-many-watts-chest-freezer/)
+- [EcoFlow vs Bluetti compared](/blog/ecoflow-vs-bluetti/)
+- [LiFePO4 vs lithium-ion batteries](/blog/lifepo4-vs-lithium-ion/)
+- [Running a dehumidifier on a solar generator](/blog/solar-generator-dehumidifier/)
+
 ## ❓ Frequently Asked Questions
 
 ### What is the best emergency power source for home use?

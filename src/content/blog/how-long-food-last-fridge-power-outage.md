@@ -238,6 +238,14 @@ For a complete 7-day no-refrigeration meal plan with exact calorie counts and sh
 <p style="margin-bottom:0;font-size:0.9em;"><a href="/blog/how-many-watts-chest-freezer/">Freezer wattage by size &rarr;</a> &nbsp;&middot;&nbsp; <a href="/blog/how-long-do-power-outages-last/">How long outages really last &rarr;</a> &nbsp;&middot;&nbsp; <a href="/blog/surge-vs-running-watts/">Why surge watts decide everything &rarr;</a></p>
 </div>
 
+## 📚 More Guides to Help You Prepare
+
+- [Chest freezer wattage chart: running and surge watts](/blog/how-many-watts-chest-freezer/)
+- [How much emergency water to store](/blog/emergency-water-storage/)
+- [How to charge a solar generator without sun](/blog/charge-solar-generator-without-sun/)
+- [Solar generators for camping, including 12V fridge-freezers](/blog/solar-generator-for-camping/)
+- [EcoFlow vs Bluetti compared](/blog/ecoflow-vs-bluetti/)
+
 ## ❓ Frequently Asked Questions
 
 ### How long does food last in the refrigerator without power?
