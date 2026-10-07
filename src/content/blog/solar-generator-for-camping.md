@@ -17,7 +17,7 @@ I compared 6 solar generators across the scenarios campers actually face - car c
 
 Here is what the numbers show.
 
-> **⚡ Quick Answer:** The **EcoFlow DELTA 2** is the best solar generator for most campers. It charges from 0–80% in 50 minutes, weighs 27 lbs, and ran my CPAP + phone + LED lights for 3 nights on one charge. If you're RV camping or need more power, step up to the **Bluetti AC200L**.
+> **⚡ Quick Answer:** The **EcoFlow DELTA 2** is the best solar generator for most campers. It charges from 0–80% in 50 minutes, weighs 27 lbs, and by our calculation runs a CPAP, phone charging and LED lights for about 2 nights on one charge. If you're RV camping or need more power, step up to the **Bluetti Elite 200 V2**.
 
 *Affiliate disclosure: I earn a commission if you buy through my links — at no extra cost to you. Recommendations are based on published specifications and aggregated owner reports, not manufacturer samples.*
 
@@ -43,12 +43,12 @@ Camping demands different things than home backup power. After spec research and
 
 | Generator | Capacity | Weight | Recharge Time | Surge Watts | Best For |
 |---|---|---|---|---|---|
-| EcoFlow DELTA 2 | 1,024Wh | 27 lbs | 50 min (AC) | 2,700W | Most campers ★★★★★ |
-| Bluetti AC200L | 2,048Wh | 57 lbs | 90 min | 3,000W | RV / base camp ★★★★★ |
-| Jackery Explorer 1000 v2 | 1,070Wh | 23.8 lbs | 1.8 hrs | 2,000W | Weekend campers ★★★★☆ |
-| EcoFlow DELTA 3 Plus | 1,024Wh | 29 lbs | 56 min | 3,000W | Cold weather ★★★★★ |
-| Jackery Explorer 500 | 518Wh | 13.3 lbs | 7.5 hrs | 1,000W | Ultralight / backpack ★★★★☆ |
-| Bluetti EB3A | 268Wh | 10.2 lbs | 30 min | 600W | Day trips only ★★★☆☆ |
+| EcoFlow DELTA 2 | 1,024Wh | 27 lbs | 50 min (AC) | 2,700W | Most campers |
+| Bluetti Elite 200 V2 | 2,073.6Wh | 53.4 lbs | About 1.2 hrs (calculated) | Not published (resistive loads up to 3,900W) | RV / base camp |
+| Jackery Explorer 1000 v2 | 1,070Wh | 23.8 lbs | 1.6 hrs | 3,000W | Weekend campers |
+| EcoFlow DELTA 3 Plus | 1,024Wh | 27.6 lbs | 56 min | 3,600W | Cold weather |
+| Jackery Explorer 500 | 518Wh | 13.3 lbs | 7.5 hrs | 1,000W | Ultralight / backpack |
+| Bluetti EB3A | 268Wh | 10.2 lbs | 30 min | 600W | Day trips only |
 
 ---
 
@@ -61,7 +61,7 @@ Camping demands different things than home backup power. After spec research and
 - Portable fan (35W) × 6 hrs = 210Wh
 - **Total: ~1,400Wh over 3 nights** (needed a top-up on Day 3)
 
-The DELTA 2 hits the sweet spot between power and portability. At 27 lbs it fits in the back of an SUV without rearranging the cooler. The 50-minute AC charge means I can top it up at the trailhead bathroom if needed. It ran my CPAP every night without complaint.
+The DELTA 2 hits the sweet spot between power and portability. At 27 lbs it fits in the back of an SUV without rearranging the cooler. The 50-minute AC charge means you can top it up quickly at home before a trip or from a campsite outlet. By our calculation it runs a typical CPAP for about two nights before it needs a recharge.
 
 The 2,700W surge rating handled my electric skillet (1,400W running / 1,800W surge) with headroom to spare. That's the number I care about most — a weaker unit would have tripped.
 
@@ -71,9 +71,9 @@ The 2,700W surge rating handled my electric skillet (1,400W running / 1,800W sur
 
 ---
 
-## 🥈 #2 Bluetti AC200L — Best for RV and Base Camp
+## 🥈 #2 Bluetti Elite 200 V2 — Best for RV and Base Camp
 
-If you're RV camping, car camping with a group, or running a base camp for multiple days, the Bluetti AC200L is the unit I'd buy.
+If you're RV camping, car camping with a group, or running a base camp for multiple days, the Bluetti Elite 200 V2 is the unit to look at.
 
 **Typical RV and base camp load, calculated:**
 - 12V compressor cooler (45W avg) × 24 hrs = 1,080Wh
@@ -81,15 +81,15 @@ If you're RV camping, car camping with a group, or running a base camp for multi
 - Laptop (65W) × 4 hrs/day × 3 days = 780Wh
 - LED camp lights × 3 nights = 240Wh
 - Phone charging × 4 people × 3 nights = ~120Wh
-- **Total: ~3,300Wh over 3 days** — AC200L had 500Wh left
+- **Total: ~3,300Wh over 3 days (about 1,100Wh per day)**
 
-That's the kind of headroom that matters on a 4-day camping trip. The DELTA 2 would have needed a full recharge on Day 2.
+At about 1,100Wh per day, the Elite 200 V2's roughly 1,762Wh of usable energy (with a 15% buffer) lasts about 1.6 days before it needs solar or a wall recharge. The DELTA 2 (about 870Wh usable) lasts under a day.
 
-The AC200L's 3,000W surge rating also means it can handle a portable window AC unit (if you're van camping or RV-ing without shore power). Against a 5,000 BTU unit drawing roughly 450W running and up to 1,500W surge, it starts cleanly and delivers around 2 hours before capacity becomes the limit.
+At 2,600W continuous, the Elite 200 V2 has the output to run a small 5,000 BTU window AC (roughly 450W running), but Bluetti does not publish a motor-start surge figure for it, so check the AC's nameplate first. At 450W, about 1,762Wh of usable energy runs it for roughly 3.9 hours.
 
-The downside: 57 lbs. This is not a unit you carry. It lives in your truck bed or RV bay.
+The downside: 53.4 lbs. This is not a unit you carry. It lives in your truck bed or RV bay.
 
-**→ [Check Bluetti AC200L price](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l)**
+**→ [Check Bluetti Elite 200 V2 price](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2)**
 
 🧰 **Planning an RV trip?** The **RV Solar Sizing Kit** ($19) helps you estimate the capacity you need based on your appliances and trip length. Includes an auto-calculating Excel sheet.
 
@@ -160,7 +160,7 @@ Four people camping means four phones, probably a cooler, and someone running a 
 | Electric skillet (breakfast) | 1,400W | 20 min | 467Wh |
 | **Total daily** | | | **~2,077Wh** |
 
-For a 2-night family trip you need 4,000Wh+ or a recharge source. The Bluetti AC200L (2,048Wh) paired with 400W of solar is the realistic minimum for a family of four.
+For a 2-night family trip you need 4,000Wh+ or a recharge source. The Bluetti Elite 200 V2 (2,073.6Wh) paired with 400W of solar is the realistic minimum for a family of four.
 
 
 <div style="background:#f0fdf4;border:1.5px solid #2d6a4f;border-radius:12px;padding:16px 20px;margin:2rem 0;display:flex;gap:16px;align-items:center;flex-wrap:wrap;">
@@ -190,7 +190,7 @@ Cold weather changes the picture. At around 28°F, here is what happens to the E
 
 Running an RV without hookups for multiple nights requires a different calculation than tent camping.
 
-Take a 24-foot travel trailer over four nights with the Bluetti AC200L as the sole power source. The load:
+Take a 24-foot travel trailer over four nights with the Bluetti Elite 200 V2 as the sole power source. The load:
 
 - 12V refrigerator (55W avg): 1,320Wh/day
 - LED interior lights: 60Wh/day
@@ -199,7 +199,7 @@ Take a 24-foot travel trailer over four nights with the Bluetti AC200L as the so
 - CPAP: 360Wh/night
 - **Total: ~1,830Wh/day**
 
-The AC200L (2,048Wh) covers about 26 hours between charges on that load. With 400W of solar in good sun you gain roughly 1,200Wh/day — a deficit of about 630Wh/day, meaning an AC top-up every 3 days.
+The Elite 200 V2 (2,073.6Wh, about 1,762Wh usable) covers about 23 hours between charges on that load. With 400W of solar in good sun you gain roughly 1,200Wh/day — a deficit of about 630Wh/day, meaning an AC top-up every 3 days.
 
 **The honest math:** For true off-grid RV camping for 5+ days, you need either a 3,000–4,000Wh system or to be conservative with your usage.
 
@@ -250,7 +250,7 @@ If you or someone in your group has a medical condition, **a solar generator is 
 ## ❓ Frequently Asked Questions
 
 **Can a solar generator run a mini fridge while camping?**
-Yes — if you have the right unit. A 12V compressor cooler draws 45W average and needs 1,000Wh+ capacity for 24-hour operation. The EcoFlow DELTA 2 or Bluetti AC200L handle this comfortably. A standard 120V refrigerator draws 150–200W and needs 2,000Wh+ for 24 hours.
+Yes — if you have the right unit. A 12V compressor cooler draws 45W average and needs 1,000Wh+ capacity for 24-hour operation. The EcoFlow DELTA 2 or Bluetti Elite 200 V2 handle this comfortably. A standard 120V refrigerator draws 150–200W and needs 2,000Wh+ for 24 hours.
 
 **How long does a solar generator last camping?**
 At typical camping use (lights, phone charging, fan, CPAP), a 1,000Wh unit lasts 2–3 nights. A 2,000Wh unit lasts 4–5 nights. Add a 200W solar panel to extend indefinitely in good sun conditions.
@@ -277,8 +277,8 @@ For true backpacking where weight is critical, the Jackery Explorer 500 (13.3 lb
 | Need | Generator | Link |
 |---|---|---|
 | Best overall | EcoFlow DELTA 2 | Amazon |
-| RV / base camp | Bluetti AC200L | [Bluetti](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) |
-| Weekend campers | Jackery Explorer 1000 v2 | [Amazon](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) |
+| RV / base camp | Bluetti Elite 200 V2 | [Bluetti](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2) |
+| Weekend campers | Jackery Explorer 1000 v2 | [Jackery](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) |
 | Cold weather | EcoFlow DELTA 3 Plus | Amazon |
 
 ---
@@ -293,7 +293,7 @@ For true backpacking where weight is critical, the Jackery Explorer 500 (13.3 lb
 
 <div style="background: #f0f7f4; border: 1px solid #2d6a4f; padding: 16px; margin: 24px 0; border-radius: 4px;">
   <strong>🧰 SurviveX Emergency Kits</strong><br>
-  Every camper should carry a proper emergency kit. SurviveX makes the best ones I've tested — built for real scenarios, not just a box to check.<br>
+  Every camper should carry a proper emergency kit. SurviveX makes emergency kits — built for real scenarios, not just a box to check.<br>
   Free shipping on orders $150+. 10% off your first order with newsletter signup.<br><br>
   <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="background: #3d8b6f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; display: inline-block; margin-top: 8px;">Shop SurviveX Kits →</a>
 </div>
