@@ -315,9 +315,9 @@ import Footer from '../components/Footer.astro';
         {id:"medical",icon:"🏥",name:"Medical Device",watts:150,surge:150}
       ];
       const PRODUCTS = [
-        {id:"ecoflow",name:"EcoFlow DELTA 3 Plus",tagline:"Best Overall - Top Pick",capacity:1024,acOutput:1800,surgeOutput:2500,weight:"12.3kg",link:"https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20",ethanNote:"The X-Boost surge handling is what makes this one stand out - it manages startup surges actively rather than simply tripping, which is the failure mode owners report most often."},
-        {id:"jackery",name:"Jackery Explorer 1000 V2",tagline:"Best Value - Solid Mid-Range",capacity:1070,acOutput:2000,surgeOutput:4000,weight:"11.8kg",link:"https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2",ethanNote:"Great value if your freezer LRA is under 9.0. Lighter than EcoFlow and slightly larger battery. Check your LRA first."},
-        {id:"bluetti",name:"Bluetti AC200L",tagline:"Best Capacity - Whole-Home Backup",capacity:2048,acOutput:2400,surgeOutput:3600,weight:"28kg",link:"https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l",ethanNote:"At 2,048Wh this is the capacity tier where a chest freezer, fridge, lights and router together become realistic for a full night. If you need real whole-home backup this is it."}
+        {id:"ecoflow",name:"EcoFlow DELTA 3 Plus",tagline:"Best Overall - Top Pick",capacity:1024,acOutput:1800,surgeOutput:3600,weight:"12.5kg",link:"https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20",ethanNote:"The X-Boost surge handling is what makes this one stand out - it manages startup surges actively rather than simply tripping, which is the failure mode owners report most often."},
+        {id:"jackery",name:"Jackery Explorer 1000 V2",tagline:"Best Value - Solid Mid-Range",capacity:1070,acOutput:1500,surgeOutput:3000,weight:"10.8kg",link:"https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2",ethanNote:"Lighter than the EcoFlow with a slightly larger battery. Check your appliance startup surge against its 3,000W rating first."},
+        {id:"bluetti",name:"Bluetti Elite 200 V2",tagline:"Best Capacity - Whole-Home Backup",capacity:2074,acOutput:2600,surgeOutput:2600,weight:"24.2kg",link:"https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2",ethanNote:"At 2,074Wh this is the capacity tier where a chest freezer, fridge, lights and router together become realistic for a full night. Bluetti does not publish a motor-surge rating, so check your appliance startup draw against the 2,600W continuous rating."}
       ];
       let selectedAppliances = new Set();
       let customAppliances = [];
@@ -441,7 +441,7 @@ import Footer from '../components/Footer.astro';
         const best = scored[0];
         let note = "";
         if (totalRunning < 300 && minCap < 1200) { note = `<strong>Good news</strong> - your setup is manageable. At only ${totalRunning}W, ${best.name} handles this comfortably.`; }
-        else if (totalRunning > 1000) { note = `<strong>Heavy load detected.</strong> At ${totalRunning}W running draw, the Bluetti AC200L is built for setups like yours.`; }
+        else if (totalRunning > 1000) { note = `<strong>Heavy load detected.</strong> At ${totalRunning}W running draw, the Bluetti Elite 200 V2 has the capacity for setups like yours.`; }
         else { note = `Based on ${totalRunning}W load and ${minCap}Wh needed for ${hours} hours, <strong>${best.name} is your best match.</strong>`; }
         document.getElementById("ethanNote").innerHTML = note;
         document.getElementById("productsGrid").innerHTML = scored.map((p, i) => `
@@ -459,7 +459,7 @@ import Footer from '../components/Footer.astro';
               <div class="spec-item"><div class="spec-value">${p.weight}</div><div class="spec-label">Weight</div></div>
             </div>
             <div class="product-verdict"><strong>Ethan says:</strong> ${p.ethanNote}${p.issues.length > 0 ? "<br><br><strong>Note:</strong> " + p.issues.join(" - ") : ""}</div>
-            <a href="${p.link}" target="_blank" rel="nofollow" class="btn-amazon">Check Current Price on Amazon</a>
+            <a href="${p.link}" target="_blank" rel="sponsored nofollow" class="btn-amazon">Check Current Price</a>
           </div>`).join("");
         goToStep(4);
       }
