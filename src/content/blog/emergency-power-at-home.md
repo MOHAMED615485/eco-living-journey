@@ -108,7 +108,7 @@ This is the category that changed my emergency power setup completely. Portable 
 
 *2,000–2,400Wh ($800–$1,500):* Runs refrigerator + freezer. Powers oxygen concentrator and other medical devices. Extended runtime for multiple appliances.
 
-👉 **[See my full tested solar generator recommendations →](/best-solar-generators-2025/)**
+👉 **[See our full solar generator comparison →](/blog/best-solar-generator-home-backup-2026/)**
 
 ### Type 3: Gas/Propane Generators
 **Best for:** High-power loads, whole-home backup, extended outages with fuel supply
@@ -180,7 +180,7 @@ Runs: CPAP all night, refrigerator during day, all devices
 **Recommended:**
 - 1,000Wh portable solar generator
 - 200W foldable solar panel
-- See the [RV solar generator guide](/best-solar-generator-rv/) for specific recommendations
+- See the [RV solar generator guide](/blog/best-solar-generator-rv/) for specific recommendations
 
 ---
 
@@ -256,7 +256,7 @@ This is the primary reason I recommend solar generators for apartment and condo 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
   <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">🎒 SurviveX 72-Hour Emergency Kit</p>
   <p style="margin:0 0 12px;font-size:0.95rem;">Pre-assembled food, water purification, first aid, and communication gear — the supply side of your outage kit, done for you.</p>
-  <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Check SurviveX Kit →</a>
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Check SurviveX Kit →</a>
 </div>
 
 ## 📚 More Guides to Help You Prepare

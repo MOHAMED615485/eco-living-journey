@@ -116,7 +116,7 @@ Running AC on solar power means you're consuming power faster than a small panel
 - **Panel:** 400W+ solar array
 - **Reality check:** Cycle 2 hours on/2 hours charging — 6+ hours cooling per day
 
-👉 **[Full solar generator comparison with tested specs →](/best-solar-generators-2025/)**
+👉 **[Full solar generator comparison with published specs →](/blog/best-solar-generator-home-backup-2026/)**
 
 ## 🛠️ Practical Strategies for Outage Cooling
 

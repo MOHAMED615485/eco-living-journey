@@ -80,7 +80,7 @@ If you have a solar generator or power station:
 
 A 1,000Wh solar generator running a refrigerator (150W average) will last approximately 6–7 hours. Add a 200W solar panel and you can run the refrigerator indefinitely during daylight hours.
 
-👉 **[See which solar generators I recommend for power outages →](/best-solar-generators-2025/)**
+👉 **[See which solar generators I recommend for power outages →](/blog/best-solar-generator-home-backup-2026/)**
 
 ### 🏆 Quick Comparison: Best Solar Generators for Power Outages
 

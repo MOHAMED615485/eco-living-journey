@@ -163,7 +163,7 @@ A 1000W solar generator will run most standard refrigerators — as long as:
 
 The three models I recommend — EcoFlow Delta 2, Jackery 1000 Pro, and Bluetti AC180 — all meet these requirements and have the surge capacity to handle real-world fridge startups.
 
-If you're not sure which one fits your situation, the [Best Solar Generator Under $1,000](/best-solar-generator-under-1000) guide breaks down the full comparison with pricing.
+If you're not sure which one fits your situation, the [Best Solar Generator Under $1,000](/blog/best-solar-generator-under-1000/) guide breaks down the full comparison with pricing.
 
 ---
 

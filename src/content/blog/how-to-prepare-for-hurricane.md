@@ -120,7 +120,7 @@ A 1,000Wh+ solar generator is not optional if you depend on powered medical equi
 **For serious household loads (sump pump, window AC, refrigerator + freezer):**
 2,000Wh+ with 400W+ solar input. Cost: $800–$1,500.
 
-👉 **[Full solar generator sizing guide and recommendations →](/best-solar-generators-2025/)**
+👉 **[Full solar generator sizing guide and recommendations →](/blog/best-solar-generator-home-backup-2026/)**
 
 
 ### 🏆 Quick Comparison: Solar Generators for Hurricane Prep
@@ -229,7 +229,7 @@ If you want everything done for you, the SurviveX 72-Hour Emergency Kit covers t
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
   <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">🎒 SurviveX 72-Hour Emergency Kit</p>
   <p style="margin:0 0 12px;font-size:0.95rem;">Pre-assembled food, water purification, first aid, and communication gear — the supply side of your hurricane kit, done for you.</p>
-  <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Check SurviveX Kit →</a>
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Check SurviveX Kit →</a>
 </div>
 
 ---
