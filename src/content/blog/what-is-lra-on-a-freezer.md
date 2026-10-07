@@ -4,6 +4,7 @@ description: "LRA is the hidden surge number on your freezer's data plate. It de
 pubDate: "Mar 22 2026"
 heroImage: "../../assets/power-outage.webp"
 category: "Solar Generator Guides"
+updatedDate: "Oct 7 2026"
 ---
 
 ## 🔍 What Is LRA on a Freezer Data Plate?
@@ -16,7 +17,7 @@ There is a sticker on the back of your chest freezer that most people have never
 
 It has been there since the day you bought it. It has a small grid of electrical numbers printed on it. And somewhere in that grid is a number labeled **LRA** — a number that will determine whether your emergency food supply survives the next power outage, or ends up in a garbage bag.
 
-Most people never learn what LRA means until a freezer full of food is already thawing. The pattern is almost always the same: an ice storm, a grid down for a day or more, and a cheap 500W battery that trips its internal breaker at 2 AM and shuts off completely. By 6 AM the food has been sitting above 40°F for hours, and the whole freezer goes in the bin.
+Most people never learn what LRA means until a freezer full of food is already thawing. A common failure pattern looks like this: an ice storm, a grid down for a day or more, and a cheap 500W battery that trips its internal breaker at 2 AM and shuts off completely. By 6 AM the food has been sitting above 40°F for hours, and the whole freezer goes in the bin.
 
 The battery was never undersized on capacity. It was undersized on surge — and the number that would have predicted it was printed on the appliance the whole time.
 
@@ -40,13 +41,13 @@ Electricians call this the **Locked Rotor Amps** — the current the motor draws
 
 Your backup battery sees that spike and has to decide: absorb it, or trip the breaker to protect itself.
 
-A battery rated for 500W continuous output with a 600W surge limit will trip every single time. A battery rated for 7,200W surge will not even notice.
+A battery rated for 500W continuous output with a 600W surge limit will trip every single time. A battery with a 3,000W surge rating will not even notice.
 
 That is the entire LRA story in three paragraphs.
 
 ---
 
-<div class="bg-gray-50 border border-gray-200 p-4 my-6 rounded-lg"><p><strong>Real Data Point:</strong> Midea MFC07M2AWW 7 cu ft — Volts: 115V, Running Amps: 1.5A, LRA: 8.3A, Running Watts: 172W, Surge Watts: 954W. Actual data plate reading from our test unit.</p></div>
+<div class="bg-gray-50 border border-gray-200 p-4 my-6 rounded-lg"><p><strong>Example data plate:</strong> Midea MFC07M2AWW 7 cu ft — Volts: 115V, Running Amps: 1.5A, LRA: 8.3A, Running Watts: 172W, Surge Watts: 954W (8.3A &times; 115V). Your own plate will differ, so always read it.</p></div>
 
 ## 🛠️ How to Find Your LRA in Three Minutes
 
@@ -100,13 +101,13 @@ Your exact numbers depend on your specific brand and model — always read your 
 
 Notice the upright freezer numbers. Upright freezers run significantly harder than chest freezers of the same size because cold air falls out every time the door opens — so the compressor cycles more frequently and works harder against a warmer internal temperature.
 
-If you own an upright freezer, add 30% to whatever number you find on the data plate when calculating your minimum battery surge requirement.
+If you own an upright freezer, consider adding an extra 30% margin on top of the number you find on the data plate when calculating your minimum battery surge requirement.
 
 ---
 
 ## Why Surge Capacity Beats Storage Capacity Every Time
 
-Here is the mistake I see repeated constantly in prepper forums and homesteading groups.
+Here is a common mistake in prepping and homesteading circles.
 
 People compare portable power stations by **watt-hours** — the total energy storage. They look for the biggest number at the best price. A 1,000Wh battery versus a 2,000Wh battery. More storage, more runtime. That logic makes sense for phones and laptops.
 
@@ -158,7 +159,7 @@ I tried that approach. It cost me $847.
 
 ---
 
-*— Ethan is a homeowner who began testing backup power systems after losing food during a prolonged power outage. He documents real-world results for households in regions with unreliable grids.*
+*— Ethan Reynolds researches backup power and writes about it for households in regions with unreliable grids. Figures here are manufacturer specifications and calculations.*
 
 ---
 
