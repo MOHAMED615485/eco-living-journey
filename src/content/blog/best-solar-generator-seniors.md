@@ -1,159 +1,160 @@
 ---
 title: "Best Solar Generator for Seniors 2026 (Easy to Use, Reliable)"
-description: "The best solar generator for seniors in 2026 — lightweight, simple to operate, and reliable for medical devices, fridge backup, and communication during power outages."
+description: "Choosing outage backup power for an older parent or yourself: lighter units, fewer steps, a setup checklist and calculated overnight runtimes for CPAP and other devices."
 pubDate: 2026-07-25
-updatedDate: 2026-07-25
+updatedDate: "Oct 7 2026"
 heroImage: "../../assets/best-solar-generator-seniors.webp"
 category: "Best Solar Generators"
 faqSchema: true
 ---
 
-My mother-in-law is 74. She lives alone. She has a CPAP machine, insulin in the refrigerator, and a deep distrust of anything with too many buttons.
+Most backup power guides are written for people who enjoy comparing watt-hours. This one is for the person who will actually use the unit: an older adult, often living alone, who needs power for a CPAP, a refrigerator or a phone, and who does not want a complicated device in the dark at 3 a.m.
 
-<div style="background:#eaf5ef;border-left:4px solid #2d6a4f;padding:12px 16px;border-radius:0 8px 8px 0;font-size:0.9em;">Affiliate disclosure: I may earn a commission if you buy through links on this page, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</div>
+It is also for the adult children shopping on their behalf. The goal is simple: pick a unit one person can move, set it up once, label it, and test it before a storm.
 
-
-When I started researching solar generators for her after Hurricane season 2023, I realized quickly that most backup power guides are written for 35-year-old tech enthusiasts. Nobody was writing for the people who actually need backup power most — elderly adults living alone, often with medical dependencies, who need something they can operate confidently in the dark at 3AM without calling anyone for help.
-
-This guide fixes that.
+<div style="background:#eaf5ef;border-left:4px solid #2d6a4f;padding:12px 16px;border-radius:0 8px 8px 0;font-size:0.9em;">Affiliate disclosure: we may earn a commission if you buy through links on this page, at no extra cost to you. Specifications come from manufacturer pages and runtimes are our own calculations. We have not handled these units ourselves, so check the return policy and try the controls early.</div>
 
 ---
 
 <div style="background:#f0fdf4;border-left:4px solid #2d6a4f;padding:16px 20px;border-radius:8px;margin-bottom:1.5rem;">
-<strong>&#9889; Quick Answer:</strong> The best solar generator for seniors in 2026 is the <strong>EcoFlow DELTA 3 Plus</strong> — simple one-button operation, clear display, lightweight enough to carry without assistance, and fast enough to recharge during brief grid power returns. The <strong>Jackery Explorer 1000 V2</strong> is the best value option with an equally intuitive interface.
+<strong>&#9889; Quick Answer:</strong> For most older users, the <strong>Jackery Explorer 1000 V2</strong> is the lightest of the three at 23.8 lb, and the <strong>EcoFlow DELTA 3 Plus</strong> is the pick if faster recharging or room to expand matters more. The <strong>Bluetti Elite 200 V2</strong> offers about twice the capacity but weighs 53.4 lb, so it should stay in one place.
 </div>
 
 ---
 
 <div style="background:#f9f9f9;border-radius:8px;padding:14px 18px;margin:1.5rem 0;">
 <strong>Who this guide helps:</strong><br/>
-👴 <strong>Seniors living independently</strong> needing reliable outage backup &nbsp;|&nbsp;
-👪 <strong>Adult children</strong> buying backup power for elderly parents &nbsp;|&nbsp;
-💊 <strong>Seniors with medical devices</strong> — CPAP, oxygen, insulin &nbsp;|&nbsp;
-🌀 <strong>Florida retirees</strong> in hurricane zones &nbsp;|&nbsp;
-🏠 <strong>Senior living communities</strong> building individual unit backup &nbsp;|&nbsp;
-🌱 <strong>Homesteaders</strong> caring for elderly family members
+👴 <strong>Older adults living independently</strong> &nbsp;|&nbsp;
+👪 <strong>Adult children</strong> buying backup power for a parent &nbsp;|&nbsp;
+💊 <strong>People with medical devices</strong> such as a CPAP &nbsp;|&nbsp;
+🏠 <strong>Senior living households</strong> planning individual unit backup
 </div>
 
 ---
 
-## What Matters Most for Senior Users
+## What Matters Most for Older Users
 
-Most solar generator buying guides focus on watt-hours and surge capacity. For senior users, four different criteria matter most:
+Most buying guides focus on watt-hours and surge capacity. For this audience four other things matter just as much:
 
-**1. Simplicity of operation**
-Can they turn it on and plug in a device without reading a manual? Large, clearly labeled buttons. Intuitive display. No confusing mode switches.
+**1. Fewer steps**
+Can the person turn it on and plug something in without reading a manual? Whichever unit you choose, set it up once, label the power button and outlets in large print, and tape a one-page instruction sheet to it.
 
-**2. Weight and portability**
-Can they move it from storage to where it is needed without assistance? Units over 15kg become a fall risk for elderly users.
+**2. Weight and where it lives**
+A heavy unit is hard and risky to move. Decide where it will sit permanently, ideally beside the device it powers, and choose the weight to match. Our weights are below.
 
-**3. Reliability without monitoring**
-Will it keep running through the night without requiring attention? Automatic protection circuits, clear low-battery warnings, stable operation.
+**3. Staying charged without attention**
+Keep it plugged into the wall so it tops up between outages. Check your model's manual for how it behaves while charging and what its low-battery alerts look like.
 
-**4. Medical device compatibility**
-Pure sine wave output safe for CPAP machines, oxygen concentrators, and other medical electronics.
+**4. Compatibility with the device it must run**
+Choose pure sine wave output for sensitive electronics, and check the device's own power requirements. For oxygen or other life-sustaining equipment, read our [medical equipment guide](/blog/best-solar-generator-medical-equipment/) first.
+
+---
+
+## The Three Units Compared
+
+| | Jackery Explorer 1000 V2 | EcoFlow DELTA 3 Plus | Bluetti Elite 200 V2 |
+|:--|:--|:--|:--|
+| **Weight** | 23.8 lb (10.8 kg) | 27.6 lb (12.5 kg) | 53.4 lb (24.2 kg) |
+| **Capacity** | 1,070Wh | 1,024Wh | 2,073.6Wh |
+| **AC output** | 1,500W | 1,800W | 2,600W |
+| **Wall recharge** | about 1.6 hours | about 56 minutes | not listed here |
+| **Remote monitoring** | App | App | App |
+| **Expandable** | No | Yes | No |
+
+### Overnight battery use (calculated)
+
+An 8-hour night at a steady average draw, as a share of the unit's rated capacity:
+
+| Average draw | Jackery 1000 V2 | EcoFlow DELTA 3 Plus | Bluetti Elite 200 V2 |
+|:--|:--|:--|:--|
+| 30W | 22% | 23% | 12% |
+| 60W | 45% | 47% | 23% |
+| 100W | 75% | 78% | 39% |
+
+Use your device's real average watts for the most accurate answer. A CPAP without its heated humidifier is often at the low end of this range, and our [CPAP guide](/blog/best-solar-generator-cpap-machine/) explains how to find your number.
 
 ---
 
 ## The 3 Best Solar Generators for Seniors
 
-### 1. EcoFlow DELTA 3 Plus — Best Overall for Seniors 🥇
+### 1. Jackery Explorer 1000 V2: Lightest of the Three
 
-The EcoFlow DELTA 3 Plus wins for senior users on every criterion that actually matters for this demographic.
+- At 23.8 lb it is the easiest to carry, and 1,070Wh is plenty for a CPAP or a refrigerator overnight.
+- Jackery offers a smartphone app, so an adult child can check the battery remotely.
+- It recharges from the wall in about 1.6 hours. It does not expand.
 
-**Why seniors love it:**
-- **One-button AC power on** — no mode selection, no complex startup sequence
-- **Large clear display** — battery percentage, input/output watts, time remaining all clearly visible
-- **12.3kg** — light enough for most seniors to carry with two hands
-- **Pure sine wave output** — safe for all medical devices
-- **App monitoring** — adult children can check battery level remotely
-- **58-minute recharge** — critically important during rolling outages when grid returns briefly
-
-I set this up for my mother-in-law with a 30-minute orientation. She now operates it confidently and checks the app herself to see remaining runtime.
-
-**Real senior use test numbers:**
-- CPAP overnight (8 hours, no humidifier): **34% battery used**
-- Refrigerator overnight (8 hours): **62% battery used**
-- CPAP + fridge + phone charging overnight: **89% battery used**
-
-**Best for:** Seniors with CPAP machines, insulin refrigeration needs, or anyone who needs simple reliable backup that does not require technical knowledge.
+**Best for:** families buying backup power for a parent who mainly needs a CPAP, a phone and a few small devices.
 
 <div class="cta-container">
-<a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — EcoFlow DELTA 3 Plus →</a>
+<a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">⚡ Check Today's Price — Jackery Explorer 1000 V2 →</a>
 </div>
 
 ---
 
-### 2. Jackery Explorer 1000 V2 — Best Value for Seniors 🥈
+### 2. EcoFlow DELTA 3 Plus: Faster Recharge, Room to Grow
 
-The Jackery Explorer 1000 V2 is the most senior-friendly interface of any solar generator at this price point. The large orange power button, clear LCD display, and straightforward operation make it accessible to users who are not comfortable with technology.
+- 1,024Wh, 1,800W and 27.6 lb, about 4 lb heavier than the Jackery.
+- About 56 minutes from the wall, which helps when the grid returns briefly during rolling outages.
+- It has a smartphone app, and extra batteries can expand it up to 5 kWh.
 
-**Why seniors appreciate it:**
-- **Instantly recognizable orange power button** — no confusion about how to start it
-- **11.8kg** — lightest of the three, easiest to carry
-- **Clear LCD display** with battery percentage and estimated runtime
-- **Simple app** — easier to learn than EcoFlow for less tech-savvy users
-
-**Limitation:** Slower wall recharge at 1.7 hours means less recovery during brief grid power returns.
-
-**Best for:** Budget-conscious families buying backup power for elderly parents. Excellent for CPAP-only or device charging use.
+**Best for:** areas with long or repeated outages, or anyone who may want more capacity later.
 
 <div class="cta-container">
-<a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — Jackery Explorer 1000 V2 →</a>
+<a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">⚡ Check Today's Price — EcoFlow DELTA 3 Plus →</a>
 </div>
 
 ---
 
-### 3. Bluetti AC200L — Best for Seniors with Oxygen Concentrators 🥉
+### 3. Bluetti Elite 200 V2: Most Capacity, Fixed Location
 
-For seniors who use home oxygen concentrators, the Bluetti AC200L is the only unit with sufficient capacity for overnight continuous operation. The 2,048Wh battery runs a 200W oxygen concentrator for 9-10 hours — through a full night — with capacity to spare for other devices.
+- 2,073.6Wh and 2,600W, which gives roughly twice the hours of the other two on the same load.
+- At 53.4 lb it should live in one place, such as beside the bed or in a utility room, and not be carried.
+- It does not expand and Bluetti publishes no motor-surge rating, so check the startup draw of any motor-driven device.
+- The Bluetti AC200L this guide used to list is discontinued, and the Elite 200 V2 is the closest current model.
 
-The tradeoff is weight — 28kg requires assistance to move. For seniors who will keep it in a fixed location (beside the bed, in a designated room), this is not an issue.
-
-**Best for:** Seniors with home oxygen concentrators, multiple simultaneous medical device needs, or anyone who wants a 2-3 night buffer without recharging.
+**Best for:** households that want a large buffer in a fixed spot, such as a refrigerator plus a CPAP overnight.
 
 <div class="cta-container">
-<a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — Bluetti AC200L →</a>
+<a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">⚡ Check the Bluetti Elite 200 V2 →</a>
 </div>
-
 
 ---
 
-## Setting Up for a Senior User — Simple Guide
+## Setting Up for a Senior User: Simple Guide
 
 **Step 1: Choose the right location**
-Place the generator in the room where it will be used most — bedroom for CPAP users, kitchen for refrigerator backup. Keep it plugged into the wall for automatic top-up charging between outages.
+Place the generator in the room where it will be used most: the bedroom for a CPAP, the kitchen for refrigerator backup. Keep it plugged into the wall so it tops up between outages.
 
 **Step 2: Label everything**
-Use large-print labels on the power button, the AC outlets, and the charging port. Write out a simple one-page instruction sheet in large font and tape it to the unit.
+Use large-print labels on the power button and the outlets. Write a one-page instruction sheet in a big font and tape it to the unit.
 
 **Step 3: Test before any storm**
-Do a practice run on a clear day. Unplug from the wall. Turn it on. Plug in the CPAP or medical device. Verify it works. Then recharge. Familiarity in advance eliminates panic during a real outage.
+Do a practice run on a calm day. Unplug it from the wall, switch it on, plug in the CPAP or device and make sure it works for a full night. Then recharge. Familiarity in advance removes the panic during a real outage.
 
 **Step 4: Set up remote monitoring**
-Download the manufacturer app on both the senior's phone and an adult child's phone. This allows remote battery monitoring — no phone calls needed to check if the unit is charged.
+Both EcoFlow and Jackery offer apps. Install the app on the senior's phone and on an adult child's phone so someone can check the battery level without a phone call.
 
 **Step 5: Create a simple emergency card**
-A 4x6 index card with three steps: (1) Press power button (2) Plug in device (3) Call [name] if display shows under 20%. Tape it to the unit.
+A 4x6 index card with three steps: (1) Press the power button (2) Plug in the device (3) Call [name] if the display shows under 20%. Tape it to the unit.
 
 ---
 
-## The Florida Senior Reality
+## Plan Ahead Before Storm Season
 
 <div style="background:#fff0f0;border-left:4px solid #e63946;padding:16px 20px;border-radius:6px;margin:2rem 0;">
-<strong>🌀 Florida Families — Act Before Hurricane Season</strong><br/><br/>
-Florida has the highest concentration of seniors of any US state — and the highest hurricane risk. After every major hurricane, the most tragic outcomes involve elderly adults living alone who had no backup power for medical devices. If you have a parent or grandparent living alone in Florida, setting up their backup power is not optional. It is the most important thing you can do for their safety before June 1.
+<strong>🌀 Set this up while the lights are on</strong><br/><br/>
+Hurricanes, ice storms and heat waves cause the longest outages, and older adults living alone are often the most exposed. Set up and test the backup well before the season starts. Many electric utilities keep a medical-needs or priority list, so ask whether your parent can register. Keep device settings, supplier phone numbers and the nearest facility written down next to the unit.
 </div>
 
 ---
 
 ## Emergency Kit for Senior Households
 
-A solar generator handles power. A complete senior emergency plan also requires accessible first aid, medication management, and communication tools designed for senior users.
+A power station handles power. A complete plan also covers first aid, medication and a way to reach family.
 
 <div class="cta-container">
-<a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" class="cta-button" target="_blank" rel="nofollow noopener" style="background:#3d8b6f;">
-Build a Senior Emergency Kit with SurviveX →
+<a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" class="cta-button" target="_blank" rel="sponsored nofollow noopener" style="background:#3d8b6f;">
+Build an Emergency Kit with SurviveX →
 </a>
 </div>
 
@@ -162,37 +163,38 @@ Build a Senior Emergency Kit with SurviveX →
 <div style="background:#f0fdf4;border:1.5px solid #2d6a4f;border-radius:12px;padding:16px 20px;margin:1.5rem 0;">
 <strong style="color:#2d6a4f;font-size:0.95rem;">&#128218; Keep Reading:</strong><br/><br/>
 <a href="/blog/best-solar-generator-medical-equipment/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ Best Solar Generator for Medical Equipment (CPAP, Oxygen, Insulin)</a>
+<a href="/blog/best-solar-generator-cpap-machine/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ Best Solar Generator for a CPAP Machine</a>
 <a href="/blog/72-hour-power-outage-survival-guide/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;margin-bottom:6px;">→ 72-Hour Power Outage Survival Guide</a>
 <a href="/blog/best-solar-generator-home-backup-2026/" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;display:block;">→ Best Solar Generator for Home Backup Power (2026)</a>
 </div>
 
 ---
 
-
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
-<h3 style="color:#2d6a4f;margin-top:0;">📋 Setting this up for a parent — or for yourself?</h3>
-<p>The hardest part is not the generator. It is knowing what to do hour-by-hour when the power actually goes out. I turned my spec research and owner reports into printable checklists and a family emergency plan anyone can follow — large-print friendly, no tech skills needed.</p>
-<p><strong>72-Hour Power Outage Survival Kit — \</strong> — printable checklists, family emergency plan templates, and hour-by-hour outage protocols.</p>
+<h3 style="color:#2d6a4f;margin-top:0;">📋 Setting this up for a parent, or for yourself?</h3>
+<p>The hardest part is often not the generator but knowing what to do hour by hour when the power goes out. Our 72-Hour Power Outage Survival Kit gives you printable checklists, family emergency plan templates and hour-by-hour outage steps.</p>
+<p><strong>72-Hour Power Outage Survival Kit — $27</strong></p>
 <a href="https://ethanecoliving.gumroad.com/l/72-hour-power-outage-survival-kit">Get the 72-Hour Kit →</a>
 </div>
-
 
 ## Frequently Asked Questions
 
 **What is the easiest solar generator to use for seniors?**
-The Jackery Explorer 1000 V2 has the most intuitive interface — large orange power button, clear LCD display, simple operation. The EcoFlow DELTA 3 Plus is slightly more complex but recharges faster, which matters more during rolling outages.
+Choose the lightest unit that covers your devices, then set it up once and label it. The Jackery Explorer 1000 V2 is the lightest of our three at 23.8 lb, and the EcoFlow DELTA 3 Plus recharges faster. We have not handled either, so check the return policy and try the controls early.
 
 **How heavy are solar generators?**
-The Jackery Explorer 1000 V2 weighs 11.8kg. The EcoFlow DELTA 3 Plus weighs 12.3kg. Both are manageable for most seniors with two hands. The Bluetti AC200L at 28kg requires assistance to move and is best kept in a fixed location.
+The Jackery Explorer 1000 V2 weighs 23.8 lb (10.8 kg). The EcoFlow DELTA 3 Plus weighs 27.6 lb (12.5 kg). The Bluetti Elite 200 V2 weighs 53.4 lb (24.2 kg) and is best kept in a fixed location.
 
 **Can seniors set up solar panels themselves?**
-Foldable solar panels are simple to set up — unfold, prop against a surface, plug into the generator. No tools, no installation. A 30-minute orientation is sufficient for most senior users.
+Folding panels are generally simple: unfold, aim at the sun and plug in. Panels are sold separately, so confirm the connector and input limit for your unit. A short practice session on a calm day helps.
 
 **How do I monitor my parent's solar generator remotely?**
-Both EcoFlow and Jackery have smartphone apps that display battery level, input/output, and estimated runtime in real time. Download the app on your phone and your parent's phone during setup. You can check their battery level from anywhere without calling them.
+Both EcoFlow and Jackery offer smartphone apps that show battery level and input and output. Install the app on your phone and your parent's phone during setup, and check what the app needs, such as Wi-Fi or Bluetooth.
 
 **What happens when a solar generator runs out during the night?**
-Most units have audible low-battery warnings at 20% and 10%. Medical devices will stop when power is exhausted — they do not lose data or get damaged by power loss. Keep the generator charged above 50% before sleep for overnight medical device use.
+The devices it powers stop. Check your unit's manual for its low-battery alerts, keep it plugged in between outages, and for any medical device make sure there is a plan for what happens when the power stops.
+
+*Specifications are the manufacturers' published figures and can change. Runtimes are calculated, not measured. Last updated October 2026.*
 
 <script type="application/ld+json">
 {
@@ -202,31 +204,31 @@ Most units have audible low-battery warnings at 20% and 10%. Medical devices wil
     {
       "@type": "Question",
       "name": "What is the easiest solar generator to use for seniors?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The Jackery Explorer 1000 V2 has the most intuitive interface with a large orange power button and clear LCD display. The EcoFlow DELTA 3 Plus recharges faster which matters more during rolling outages."
-      }
+      "acceptedAnswer": {"@type": "Answer", "text": "Choose the lightest unit that covers your devices, then set it up once and label it. The Jackery Explorer 1000 V2 is the lightest of our three at 23.8 lb, and the EcoFlow DELTA 3 Plus recharges faster."}
     },
     {
       "@type": "Question",
       "name": "How heavy are solar generators?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The Jackery Explorer 1000 V2 weighs 11.8kg. The EcoFlow DELTA 3 Plus weighs 12.3kg. Both are manageable for most seniors with two hands. The Bluetti AC200L at 28kg requires assistance to move."
-      }
+      "acceptedAnswer": {"@type": "Answer", "text": "The Jackery Explorer 1000 V2 weighs 23.8 lb (10.8 kg), the EcoFlow DELTA 3 Plus 27.6 lb (12.5 kg) and the Bluetti Elite 200 V2 53.4 lb (24.2 kg), which is best kept in a fixed location."}
     },
     {
       "@type": "Question",
       "name": "How do I monitor my parent's solar generator remotely?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Both EcoFlow and Jackery have smartphone apps that display battery level, input output, and estimated runtime in real time. Download the app on your phone and your parent's phone during setup."
-      }
+      "acceptedAnswer": {"@type": "Answer", "text": "Both EcoFlow and Jackery offer smartphone apps that show battery level and input and output. Install the app on your phone and your parent's phone during setup."}
     }
   ]
 }
 </script>
 
-*— Ethan Reynolds tests solar generators for real household use including senior and medical applications. No paid partnerships. No sponsored content.*
-
-*Last updated: May 30, 2026*
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Best Solar Generator for Seniors 2026 (Easy to Use, Reliable)",
+  "datePublished": "2026-07-25",
+  "dateModified": "2026-10-07",
+  "author": {"@type": "Person", "name": "Ethan Reynolds"},
+  "publisher": {"@type": "Organization", "name": "Eco Living Journey", "url": "https://ecoliving-journey.com"},
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/best-solar-generator-seniors/"
+}
+</script>
