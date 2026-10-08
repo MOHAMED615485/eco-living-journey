@@ -93,7 +93,7 @@ Do not wait for a mandatory evacuation order if you're in Zone A or a mobile hom
 <div style="background:#eaf5ef;border:2px dashed #2d6a4f;border-radius:10px;padding:16px 20px;margin:24px 0;text-align:center;">
 <p style="margin:0 0 6px;font-size:1.05em;"><strong>SurviveX discount: 10% off everything</strong></p>
 <p style="margin:0 0 6px;">Use code <strong style="background:#2d6a4f;color:#fff;padding:3px 10px;border-radius:4px;letter-spacing:1px;">GETREADY10</strong> at checkout</p>
-<p style="margin:0 0 6px;">Plus free shipping on orders over $150</p>
+<p style="margin:0 0 6px;">Plus free shipping on orders over $50</p>
 <p style="margin:0;font-size:0.85em;color:#555;">Code valid through 30 November 2026. Cannot be combined with other offers.</p>
 </div>
 
@@ -275,7 +275,7 @@ Most public emergency shelters do not accept pets. Prepare by: identifying pet-f
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
   <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">🎒 SurviveX 72-Hour Emergency Kit</p>
   <p style="margin:0 0 6px;font-size:0.95rem;">Pre-assembled food, water purification, first aid, and communication gear — built for real outages, not just camping weekends.</p>
-  <p style="margin:0 0 12px;font-size:0.88rem;color:#3d8b6f;">📦 Free shipping on orders $150+ · 10% off your first order when you sign up</p>
+  <p style="margin:0 0 12px;font-size:0.88rem;color:#3d8b6f;">📦 Free shipping on orders $50+ · 10% off your first order when you sign up</p>
   <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" rel="sponsored nofollow" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Check SurviveX Kit →</a>
 </div>
 
