@@ -11,7 +11,7 @@ tags: ["dehumidifier solar generator", "flood recovery power", "crawl space dehu
 
 **Quick Answer:** Yes, but not indefinitely. A 70-pint crawl-space dehumidifier drawing about 334W will run roughly **3 hours on a 1,000Wh solar generator** or **6 hours on a 2,048Wh unit**, before losses. That is not enough to dry a flooded crawl space on its own, but it is enough to run the critical first cycles while you wait for grid power - and in the 24 to 48 hours before mould establishes, those hours matter.
 
-<div style="background:#eaf5ef;border-left:4px solid #2d6a4f;padding:12px 16px;border-radius:0 8px 8px 0;font-size:0.9em;">Affiliate disclosure: I may earn a commission if you buy through links on this page, at no extra cost to you. Recommendations are based on published specifications and aggregated owner reports.</div>
+<div style="background:#eaf5ef;border-left:4px solid #2d6a4f;padding:12px 16px;border-radius:0 8px 8px 0;font-size:0.9em;">Affiliate disclosure: We may earn a commission if you buy through links on this page, at no extra cost to you. Recommendations are based on published specifications and aggregated owner reports.</div>
 
 ## 🌊 Why This Question Only Matters After a Storm
 
@@ -137,7 +137,7 @@ For crawl-space and flood recovery on battery power, the deciding factor is **ef
 ### Argendon Shield 35M - the sensible starting point
 
 <div style="display:flex;gap:18px;align-items:flex-start;flex-wrap:wrap;margin:20px 0;">
-<a href="https://www.awin1.com/cread.php?awinmid=126513&awinaffid=2815020&ued=https%3A%2F%2Fwww.argendon.com%2Fproducts%2Fcrawl-space-dehumidifier-shield-35m"><img src="/products/argendon-shield35m.webp" alt="Argendon Shield 35M crawl space dehumidifier" width="200" loading="lazy" style="border-radius:10px;box-shadow:0 4px 14px rgba(0,0,0,0.12);" /></a>
+<a href="https://www.awin1.com/cread.php?awinmid=126513&awinaffid=2815020&ued=https%3A%2F%2Fwww.argendon.com%2Fproducts%2Fcrawl-space-dehumidifier-shield-35m" target="_blank" rel="sponsored nofollow"><img src="/products/argendon-shield35m.webp" alt="Argendon Shield 35M crawl space dehumidifier" width="200" loading="lazy" style="border-radius:10px;box-shadow:0 4px 14px rgba(0,0,0,0.12);" /></a>
 <div style="flex:1;min-width:240px;">
 <p style="margin:0 0 8px;"><strong>Argendon Shield 35M</strong><br/>70-pint capacity &middot; 334W running draw &middot; up to 1,000 sq ft &middot; 39.7 lbs</p>
 <p style="margin:0;font-size:0.9em;color:#555;">Rated to operate down to 33&deg;F, where most consumer dehumidifiers stop working around 41&deg;F. That matters in an unheated crawl space.</p>
@@ -147,7 +147,7 @@ For crawl-space and flood recovery on battery power, the deciding factor is **ef
 
 70-pint capacity, roughly 1,000 sq ft coverage, 334W draw. This is the size where solar backup remains practical: about 3 hours from a 1,000Wh unit, 6 from a 2,048Wh one. Built for crawl-space conditions rather than a living-room unit pressed into service.
 
-<a href="https://www.awin1.com/cread.php?awinmid=126513&awinaffid=2815020&ued=https%3A%2F%2Fwww.argendon.com%2Fproducts%2Fcrawl-space-dehumidifier-shield-35m">Check the Shield 35M &rarr;</a>
+<a href="https://www.awin1.com/cread.php?awinmid=126513&awinaffid=2815020&ued=https%3A%2F%2Fwww.argendon.com%2Fproducts%2Fcrawl-space-dehumidifier-shield-35m" target="_blank" rel="sponsored nofollow">Check the Shield 35M &rarr;</a>
 
 
 <div style="background:#eaf5ef;border:2px dashed #2d6a4f;border-radius:10px;padding:16px 20px;margin:20px 0;text-align:center;">
@@ -160,7 +160,7 @@ For crawl-space and flood recovery on battery power, the deciding factor is **ef
 ### Argendon Guardian 85P - when the space is bigger
 
 <div style="display:flex;gap:18px;align-items:flex-start;flex-wrap:wrap;margin:20px 0;">
-<a href="https://www.awin1.com/cread.php?awinmid=126513&awinaffid=2815020&ued=https%3A%2F%2Fwww.argendon.com%2Fproducts%2Fcommercial-dehumidifier-guardian-85p"><img src="/products/argendon-guardian85p.webp" alt="Argendon Guardian 85P commercial dehumidifier" width="200" loading="lazy" style="border-radius:10px;box-shadow:0 4px 14px rgba(0,0,0,0.12);" /></a>
+<a href="https://www.awin1.com/cread.php?awinmid=126513&awinaffid=2815020&ued=https%3A%2F%2Fwww.argendon.com%2Fproducts%2Fcommercial-dehumidifier-guardian-85p" target="_blank" rel="sponsored nofollow"><img src="/products/argendon-guardian85p.webp" alt="Argendon Guardian 85P commercial dehumidifier" width="200" loading="lazy" style="border-radius:10px;box-shadow:0 4px 14px rgba(0,0,0,0.12);" /></a>
 <div style="flex:1;min-width:240px;">
 <p style="margin:0 0 8px;"><strong>Argendon Guardian 85P</strong><br/>180-pint capacity &middot; 610W running draw &middot; up to 2,300 sq ft &middot; 57.3 lbs</p>
 <p style="margin:0;font-size:0.9em;color:#555;">610W continuous puts this firmly in grid-power territory. Realistic for restoration work, not for battery backup.</p>
@@ -170,7 +170,7 @@ For crawl-space and flood recovery on battery power, the deciding factor is **ef
 
 180-pint commercial unit. Considerably more capacity, and considerably more draw - realistically this is a grid-power or fuel-generator appliance, not something you run meaningfully from a portable battery. Worth it if your space demands it; understand that battery backup becomes a token gesture at this size.
 
-<a href="https://www.awin1.com/cread.php?awinmid=126513&awinaffid=2815020&ued=https%3A%2F%2Fwww.argendon.com%2Fproducts%2Fcommercial-dehumidifier-guardian-85p">Check the Guardian 85P &rarr;</a>
+<a href="https://www.awin1.com/cread.php?awinmid=126513&awinaffid=2815020&ued=https%3A%2F%2Fwww.argendon.com%2Fproducts%2Fcommercial-dehumidifier-guardian-85p" target="_blank" rel="sponsored nofollow">Check the Guardian 85P &rarr;</a>
 
 ## 🔌 Sizing the Generator Side
 
@@ -184,7 +184,7 @@ Pure sine wave output matters here too; compressors run hot and inefficient on m
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
 <h3 style="color:#2d6a4f;margin-top:0;">🌀 The flooding is the second problem. The plan is the first.</h3>
-<p>Water in the crawl space is what you deal with after the storm. What you do in the 48 hours before it decides how bad that gets - which pumps are staged, what is charged, and who does what. My 72-Hour Kit is the printable version of that plan: power, water, food, medical, hour by hour.</p>
+<p>Water in the crawl space is what you deal with after the storm. What you do in the 48 hours before it decides how bad that gets - which pumps are staged, what is charged, and who does what. Our 72-Hour Kit is the printable version of that plan: power, water, food, medical, hour by hour.</p>
 <p><strong>72-Hour Power Outage Survival Kit &mdash; $27</strong></p>
 <a href="https://ethanecoliving.gumroad.com/l/72-hour-power-outage-survival-kit">Get the 72-Hour Kit &rarr;</a>
 </div>
@@ -217,3 +217,73 @@ For meaningful dehumidifier runtime, 2,000Wh or more paired with at least 400W o
 ---
 
 *Wattage figures are calculated from manufacturer-published voltage and current ratings and cross-checked against aggregated owner reports. Surge estimates are category rules of thumb, not measured figures for a specific model - confirm with the manufacturer before relying on them. Researched and compiled by Ethan Reynolds at ecoliving-journey.com. Affiliate-supported; independently researched. Last updated August 2026.*
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many watts does a crawl space dehumidifier use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A 70-pint crawl-space dehumidifier such as the Argendon Shield 35M draws approximately 334W running, calculated from its rated 115V at 2.9A. Larger commercial units of 180 pints draw considerably more. Startup surge is typically 2 to 3 times running wattage, though most manufacturers do not publish this figure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a 1000W solar generator run a dehumidifier?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, for roughly 2.5 to 3 hours accounting for inverter loss. A 1,000W continuous rating comfortably handles the 334W running draw; the limiting factor is stored capacity, not output. Confirm the unit also offers at least 1,000W surge capability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does a solar generator run a dehumidifier?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Divide usable capacity by running watts and subtract roughly 15% for inverter loss. At 334W: about 2.5 hours from 1,000Wh, 5.2 hours from 2,048Wh, and 9.2 hours from 3,600Wh. Unlike a refrigerator, a dehumidifier in wet conditions runs 60 to 90% of the time rather than cycling off, so treat draw as near-continuous."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it worth running a dehumidifier after a flood if I only have battery power?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, within limits. Mould begins establishing within 24 to 48 hours, so early partial drying is materially better than none. A portable generator will not complete remediation, but running the wettest zone for a few hours daily, recharged by solar, slows damage while you wait for grid power."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What size solar generator do I need for flood recovery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For meaningful dehumidifier runtime, 2,000Wh or more paired with at least 400W of solar. That combination gives roughly 5 hours of runtime per charge plus about 4 hours of daily solar recovery. Below 1,000Wh you get a single short cycle and little else."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Can a Solar Generator Run a Dehumidifier? (Flood Recovery Math)",
+  "description": "Your crawl space flooded and the power is out. Here is the real wattage math on running a dehumidifier from a solar generator, and how many hours you actually get.",
+  "datePublished": "2026-08-21",
+  "dateModified": "2026-08-21",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/solar-generator-dehumidifier/"
+}
+</script>
