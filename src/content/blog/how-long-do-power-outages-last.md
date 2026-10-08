@@ -130,7 +130,7 @@ The right backup power capacity depends on your region’s typical outage durati
 | Urban, equipment failures only | 20,000mAh power bank | $30-50 power bank |
 | Suburban, thunderstorm region | 500–1,000Wh solar generator | Jackery Explorer 1000 V2 |
 | Rural or hurricane region | 1,000Wh + solar panels | EcoFlow DELTA 3 Plus + 200W panel |
-| Ice storm region or medical equipment | 2,000Wh+ system | Bluetti AC200L or larger |
+| Ice storm region or medical equipment | 2,000Wh+ system | Bluetti Elite 200 V2 or larger |
 
 For a full breakdown of which solar generator fits your specific situation see the [best solar generators for home backup](/blog/best-solar-generator-home-backup-2026/) guide.
 

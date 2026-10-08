@@ -124,9 +124,8 @@ Do not attempt to run these on any portable solar generator:
 
 Any 500–1,000Wh generator works. The EcoFlow DELTA 3 Plus is the sweet spot — enough runtime for a full night with surge capacity headroom for a chest freezer.
 
-⭐⭐⭐⭐⭐ 4.7/5 — 1,800+ Amazon reviews
 
-<a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:12px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;margin:12px 0;">
+<a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" target="_blank" rel="sponsored nofollow noopener" style="background-color:#c2410c;color:#ffffff;padding:12px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;margin:12px 0;">
   🛒 Check EcoFlow DELTA 3 Plus Price on Amazon →
 </a>
 
@@ -134,21 +133,16 @@ Any 500–1,000Wh generator works. The EcoFlow DELTA 3 Plus is the sweet spot �
 
 You need 1,000Wh minimum and at least 1,500W surge capacity. The Jackery Explorer 1000 V2 handles this reliably at a competitive price point.
 
-⭐⭐⭐⭐⭐ 4.8/5 — 2,400+ Amazon reviews
 
-<a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:12px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;margin:12px 0;">
+<a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="sponsored nofollow noopener" style="background-color:#c2410c;color:#ffffff;padding:12px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;margin:12px 0;">
   🛒 Check Jackery Explorer 1000 V2 Price on Amazon →
 </a>
 
 ### Essentials plus well pump
 
-You need 2,000Wh and 2,500W+ surge capacity minimum. The Bluetti AC200L is the right tool — 2,048Wh capacity and a 3,500W surge rating gives you the headroom a well pump demands.
+Check the pump's voltage and LRA first. Many residential well pumps are 240V, which portable power stations cannot run. For a 120V pump, multiply LRA by 120, add 20%, and compare to the unit's surge rating. The EcoFlow DELTA 3 Plus is rated for 3,600W surge. The Bluetti Elite 200 V2 has a large battery but publishes no motor surge rating, so confirm with Bluetti.
 
-⭐⭐⭐⭐½ 4.6/5 — 900+ Amazon reviews
-
-<a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" target="_blank" rel="noopener noreferrer" style="background-color:#c2410c;color:#ffffff;padding:12px 28px;border-radius:8px;font-weight:700;font-size:16px;text-decoration:none!important;color:#ffffff!important;display:inline-block;margin:12px 0;">
-  🛒 Check Bluetti AC200L Price on Amazon →
-</a>
+See our [well pump guide](/blog/best-solar-generator-well-pump/) for the full math and options.
 
 ### Extended multi-day outage
 

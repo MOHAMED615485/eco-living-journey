@@ -36,7 +36,7 @@ That is meaningfully lower than the 500 to 700W people assume for a unit this si
 | 500Wh | 1.5 hrs | ~1.2 hrs |
 | 1,000Wh | 3.0 hrs | ~2.5 hrs |
 | 1,500Wh | 4.5 hrs | ~3.8 hrs |
-| 2,048Wh (Bluetti AC200L) | 6.1 hrs | ~5.2 hrs |
+| 2,074Wh (Bluetti Elite 200 V2) | 6.2 hrs | ~5.3 hrs |
 | 3,600Wh | 10.8 hrs | ~9.2 hrs |
 
 *Realistic runtime accounts for roughly 15% inverter loss when running through an AC outlet.
