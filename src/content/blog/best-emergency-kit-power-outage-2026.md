@@ -35,7 +35,7 @@ A useful test: what would you actually reach for at 2 AM with no power and no wa
 <div style="background:#eaf5ef;border:2px dashed #2d6a4f;border-radius:10px;padding:16px 20px;margin:24px 0;text-align:center;">
 <p style="margin:0 0 6px;font-size:1.05em;"><strong>SurviveX discount: 10% off everything</strong></p>
 <p style="margin:0 0 6px;">Use code <strong style="background:#2d6a4f;color:#fff;padding:3px 10px;border-radius:4px;letter-spacing:1px;">GETREADY10</strong> at checkout</p>
-<p style="margin:0 0 6px;">Plus free shipping on orders over $150</p>
+<p style="margin:0 0 6px;">Plus free shipping on orders over $50</p>
 <p style="margin:0;font-size:0.85em;color:#555;">Code valid through 30 November 2026. Cannot be combined with other offers.</p>
 </div>
 
@@ -79,16 +79,17 @@ That changes what belongs in the kit. Many drugstore first aid kits are mostly a
 
 ### Choosing by household size
 
-SurviveX lists first aid kits sized by household. Check the current listing for components and prices:
+SurviveX lists first aid kits sized by household. Prices below are from its listings at the time of writing and can change:
 
-| Kit | Household | Best for |
-|---|---|---|
-| Small First Aid Kit | 1-2 people | Apartments, car, go-bag |
-| Large First Aid Kit | 3-4 people | Most households (250 components per the listing) |
-| Large Pro | 5-6 people | Larger families (270 components per the listing) |
-| Large Waterproof | 3-4 people | Flood-prone areas, boats, humid storage |
-| Burn Care Kit | add-on | Candle and camp stove burns |
-| Zip Stitch Closures | add-on | Cuts that might otherwise need stitches |
+| Kit | Household | Price | Best for |
+|---|---|---|---|
+| Small First Aid Kit | 1-2 people | $54.99 | Apartments, car, go-bag |
+| Large First Aid Kit | 3-4 people | $120.99 | Most households (250 components per the listing) |
+| Large Pro | 5-6 people | $150.99 | Larger families (270 components per the listing) |
+| Large Waterproof | 3-4 people | $150.99 | Flood-prone areas, boats, humid storage |
+| Burn Care Kit | add-on | $31.99 | Candle and camp stove burns |
+| Zip Stitch Wound Closure Kit | add-on | $34.99 | Cuts that might otherwise need stitches |
+| Travel Medicine Kit | 1-2 people | $31.99 | Over-the-counter medications for travel and everyday emergencies |
 
 The Large kit is a sensible default for most households. Per SurviveX, it includes Zip Stitch wound closures, trauma shears, hydrogel burn gel, a CPR mask and a conforming splint, in labeled compartments grouped by use. In a dark house with a bleeding hand, labels matter.
 
@@ -112,7 +113,7 @@ The Large kit is a sensible default for most households. Per SurviveX, it includ
 <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Flarge-pro-first-aid-kit" rel="sponsored nofollow"><img src="/products/survivex-pro.webp" alt="SurviveX Large Pro First Aid Kit" width="200" loading="lazy" style="border-radius:10px;box-shadow:0 4px 14px rgba(0,0,0,0.12);" /></a>
 <div style="flex:1;min-width:240px;">
 <p style="margin:0 0 8px;"><strong>SurviveX Large Pro First Aid Kit</strong><br/>5-6 people &middot; 270 components &middot; $150.99</p>
-<p style="margin:0;font-size:0.9em;color:#555;">For larger families. Also clears the free shipping threshold on its own.</p>
+<p style="margin:0;font-size:0.9em;color:#555;">For larger families, with extra wound and burn supplies.</p>
 </div>
 </div>
 
@@ -120,14 +121,14 @@ The Large kit is a sensible default for most households. Per SurviveX, it includ
 
 **FSA and HSA.** SurviveX states its first aid kits are FSA and HSA eligible. If you have FSA funds that expire on December 31, this can be a useful way to spend them. Check your plan's rules.
 
-**Free shipping.** SurviveX offers free shipping on orders over $150. If a kit lands just under that, an add-on such as the Burn Care Kit may clear it. Check the cart before you decide.
+**Shipping and returns.** SurviveX lists free shipping on orders over $50, free returns and a lifetime warranty, and says orders ship within 12 hours.
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
 <h3 style="color:#2d6a4f;margin-top:0;">SurviveX first aid kits</h3>
 <p>Per SurviveX: designed in Virginia, endorsed by a practicing EMT-P, FSA and HSA eligible, lifetime warranty, free returns, and orders shipped from US warehouses.</p>
 <p><a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Flarge-first-aid-kit" rel="sponsored nofollow">Large First Aid Kit, 3-4 people &rarr;</a></p>
 <p><a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Fsmall-first-aid-kit" rel="sponsored nofollow">Small Kit, 1-2 people &rarr;</a> &nbsp;&middot;&nbsp; <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Flarge-pro-first-aid-kit" rel="sponsored nofollow">Large Pro, 5-6 people &rarr;</a></p>
-<p style="margin-bottom:0;">Use code <strong style="background:#2d6a4f;color:#fff;padding:3px 10px;border-radius:4px;letter-spacing:1px;">GETREADY10</strong> for 10% off. Free shipping over $150. Code valid through 30 November 2026.</p>
+<p style="margin-bottom:0;">Use code <strong style="background:#2d6a4f;color:#fff;padding:3px 10px;border-radius:4px;letter-spacing:1px;">GETREADY10</strong> for 10% off. Free shipping over $50. Code valid through 30 November 2026.</p>
 </div>
 
 ## The Final Word

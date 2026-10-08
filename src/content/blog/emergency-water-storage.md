@@ -40,7 +40,7 @@ The standard emergency guidance is one gallon per person per day. That number co
 <div style="background:#eaf5ef;border:2px dashed #2d6a4f;border-radius:10px;padding:16px 20px;margin:24px 0;text-align:center;">
 <p style="margin:0 0 6px;font-size:1.05em;"><strong>SurviveX discount: 10% off everything</strong></p>
 <p style="margin:0 0 6px;">Use code <strong style="background:#2d6a4f;color:#fff;padding:3px 10px;border-radius:4px;letter-spacing:1px;">GETREADY10</strong> at checkout</p>
-<p style="margin:0 0 6px;">Plus free shipping on orders over $150</p>
+<p style="margin:0 0 6px;">Plus free shipping on orders over $50</p>
 <p style="margin:0;font-size:0.85em;color:#555;">Code valid through 30 November 2026. Cannot be combined with other offers.</p>
 </div>
 
@@ -144,7 +144,7 @@ A solar generator helps here too — it can boil water on an electric kettle or 
 <div style="background:#f0f7f4;border:1px solid #2d6a4f;padding:16px;margin:24px 0;border-radius:4px;">
   <strong>🧰 SurviveX Emergency Kits</strong><br>
   Water is tier one — but a full emergency kit covers the rest. SurviveX makes the best ones I've tested, built for real scenarios.<br>
-  Free shipping on orders $150+. 10% off your first order with newsletter signup.<br><br>
+  Free shipping on orders $50+. 10% off your first order with newsletter signup.<br><br>
   <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="background:#3d8b6f;color:white;padding:10px 20px;text-decoration:none;border-radius:4px;display:inline-block;margin-top:8px;">Shop SurviveX Kits →</a>
 </div>
 
