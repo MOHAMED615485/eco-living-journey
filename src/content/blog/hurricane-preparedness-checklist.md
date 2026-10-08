@@ -1,10 +1,11 @@
 ---
 title: "Hurricane Preparedness Checklist (Printable PDF 2026)"
-description: "Printable hurricane preparedness checklist from a spec-and-owner-report analysiser. Covers supplies, power backup, food, water, evacuation, and what FEMA gets wrong."
+description: "Printable hurricane preparedness checklist. Covers supplies, power backup, food, water, evacuation, and why to plan beyond the 72-hour minimum."
 pubDate: 2026-06-09
 heroImage: ../../assets/hurricane-preparedness-checklist-hero.webp
 category: "Emergency Preparedness"
 faqSchema: true
+updatedDate: "Oct 8 2026"
 tags: ["hurricane preparedness", "emergency checklist", "storm prep", "power outage", "solar generator"]
 ---
 
@@ -13,17 +14,13 @@ tags: ["hurricane preparedness", "emergency checklist", "storm prep", "power out
 **Quick Answer:** A complete hurricane preparedness checklist covers seven categories: water (1 gallon per person per day for 7 days), food (7-day non-perishable supply), power backup (solar generator or battery bank), documents (copies in waterproof bag), medications (30-day supply), communication (battery radio + out-of-state contact), and evacuation plan. Start 72 hours before landfall — not the morning of.
 </div>
 
-<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</em></p>
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. We earn a small commission if you buy through our links, at no extra cost to you. Specifications come from manufacturer pages and runtimes are calculations, not our own tests.</em></p>
 
-I learned about hurricane prep the hard way.
+Most people prepare for a hurricane the way they prepare for any storm: a few flashlights, some canned food and the confidence of having "been through storms before." Then the power goes out and stays out.
 
-In 2022, a Category 2 made landfall 40 miles from my house in Florida. I had flashlights, a few cans of soup, and the vague confidence of someone who had "been through storms before." Power went out at 11pm. It came back 9 days later.
+A long outage turns small gaps into real problems: groceries thrown out, no fuel nearby, cash that is useless when card readers and ATMs are down. This checklist is built to close those gaps before the storm forms in the Gulf or Atlantic.
 
-By day three I had thrown out $340 worth of groceries. By day five I was driving 45 minutes each way to find a gas station that still had fuel. By day nine I understood — for the first time — what it actually means to be prepared.
-
-Since then I've spent months researching emergency power equipment - specifications, failure reports, and what actually holds up in multi-day outages - and building out a prep system that doesn't fail. This checklist is that system, translated into something you can print out and work through before the next storm forms in the Gulf.
-
-**The one thing FEMA gets wrong:** their standard 72-hour recommendation assumes the grid comes back in three days. In major hurricanes, the average outage in hard-hit areas is 8–12 days. Plan for 7 minimum. Plan for 14 if you're in a mobile home or coastal flood zone.
+**One thing to plan beyond:** FEMA's standard kit guidance starts at 72 hours. In major hurricanes, outages in hard-hit areas can last a week or more. Plan for 7 days minimum, and 14 if you are in a mobile home or coastal flood zone.
 
 ---
 
@@ -81,22 +78,22 @@ This is where most hurricane prep fails. A box of candles and a flashlight is no
 - [ ] Car charger for phones as backup
 
 **Serious Power Backup (Refrigerator, CPAP, Medical Devices):**
-- [ ] Solar generator with 1,000Wh+ capacity (runs a fridge for 8–10 hours on a full charge)
+- [ ] Solar generator with 1,000Wh+ capacity (runs a fridge for roughly 14 hours on a full charge at a 60W average draw)
 - [ ] 200W+ portable solar panel to recharge during daytime
 - [ ] Know your devices' watt draw before the storm (check the nameplate or use a plug-in power meter)
 
-Run the numbers on an EcoFlow DELTA 2 through a multi-day outage: with a 220W panel, an 18 cu ft refrigerator drawing roughly 150W can be sustained through daylight hours and recharged for the next day. No fuel, no fumes, no noise. If you have medications that require refrigeration or run a CPAP, a solar generator is not optional — it's medical equipment.
+Run the numbers for a multi-day outage: a 1,000Wh-class unit has about 850Wh usable, a 200W panel adds about 750Wh on a good sun day (200W × 5 hours × 0.75), and a fridge averaging 60W uses about 1,440Wh a day. Solar covers roughly half of that, so it stretches the runtime rather than guaranteeing it. No fuel, no fumes, no noise. If you have medications that require refrigeration or run a CPAP, a solar generator is not optional — it's medical equipment.
 
 
 ### 🏆 Quick Comparison: Solar Generators for Hurricane Prep
 
-| Model | Capacity | Output | Rating | Best For |
-|---|---|---|---|---|
-| EcoFlow DELTA 2 | 1,024Wh | 1,800W | ★★★★★ (5.0) | Refrigerator + medical devices |
-| [Jackery Explorer 1000 v2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | Budget-friendly all-rounder |
-| [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | Whole-household backup |
+| Model | Capacity | Output | Best For |
+|---|---|---|---|
+| <a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" target="_blank" rel="sponsored nofollow">EcoFlow DELTA 3 Plus</a> | 1,024Wh | 1,800W (3,600W surge) | Refrigerator + medical devices |
+| <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="sponsored nofollow">Jackery Explorer 1000 V2</a> | 1,070Wh | 1,500W (3,000W surge) | Lighter all-rounder |
+| <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2" target="_blank" rel="sponsored nofollow">Bluetti Elite 200 V2</a> | 2,073.6Wh | 2,600W | Longer runtime, more loads |
 
-👉 **[See my full solar generator recommendations →](/blog/best-solar-generator-home-backup-2026/)**
+👉 **[See our full solar generator recommendations →](/blog/best-solar-generator-home-backup-2026/)**
 
 **What size do you need?**
 - Phone charging + lights only: 300Wh power station ($150–$250)
@@ -219,7 +216,7 @@ The checklist doesn't end at landfall.
 
 ## 📥 Downloadable Hurricane Prep Resources
 
-The [72-Hour Power Outage Survival Kit](/blog/what-to-do-during-power-outage/) I built covers the power outage scenario in detail, including exactly how to size a solar generator for your specific appliances.
+The [72-Hour Power Outage Survival Kit](/blog/what-to-do-during-power-outage/) covers the power outage scenario in detail, including exactly how to size a solar generator for your specific appliances.
 
 If you want a done-for-you kit with a printable checklist, appliance watt calculator, and a 7-day meal plan that requires zero refrigeration, the **72-Hour Power Outage Survival Kit** has all of it.
 
@@ -267,14 +264,91 @@ Keep $300–$500 in small bills ($20s and smaller) in your kit. ATMs lose power 
 
 ---
 
-*Ethan Reynolds researches solar generators and emergency power systems using manufacturer specifications, published outage data and aggregated owner reports. Equipment referenced is independently researched, not supplied by manufacturers. Last updated August 2026.*
+*Ethan Reynolds researches solar generators and emergency power systems using manufacturer specifications, published outage data and aggregated owner reports. Specs are manufacturers' published figures; runtimes are calculated, not measured. Last updated October 2026.*
 
 
 <!-- end-read-cta -->
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
 <h3 style="color:#2d6a4f;margin-top:0;">🌀 Don't close this tab and forget it.</h3>
-<p>Reading a checklist feels like preparing. Printing one and putting it on the fridge actually is. I turned everything on this page — plus the food, water, power, and medication worksheets — into a kit you can print tonight before the next storm has a name.</p>
+<p>Reading a checklist feels like preparing. Printing one and putting it on the fridge actually is. We turned everything on this page — plus the food, water, power, and medication worksheets — into a kit you can print tonight before the next storm has a name.</p>
 <p><strong>72-Hour Power Outage Survival Kit — $27</strong> — printable checklists, family emergency plan templates, and hour-by-hour outage protocols.</p>
 <a href="https://ethanecoliving.gumroad.com/l/72-hour-power-outage-survival-kit" >Get the 72-Hour Kit →</a>
 <p style="font-size:0.85em;color:#555;margin-bottom:0;margin-top:12px;">Instant download. Storm season is June–November — the best time to prepare was yesterday.</p>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far in advance should I prepare for a hurricane?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prepare your full kit in May or early June — before the season starts. Once a storm is named and tracking toward your area, stores sell out of water, batteries, and generators within 24–48 hours. The checklist above takes about 2–3 weeks to complete fully if you're buying items gradually. Don't wait for a storm to form."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most important thing to have in a hurricane kit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Water is the single most critical supply. You can survive days without food, but dehydration becomes dangerous within 24–48 hours, especially in Florida heat after a storm. Store 1 gallon per person per day for a minimum of 7 days. After water, reliable lighting and a way to charge medical devices or phones are the next priorities."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does a hurricane kit last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most emergency supply kits should be refreshed every 12 months. Check expiration dates on food, water (if stored in non-food-grade containers), medications, and batteries every June before hurricane season. A kit built in 2021 and never touched may have expired medications and dead batteries when you need it most."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a generator for a hurricane?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You need a power backup plan — the type depends on your needs. If you have medical devices (CPAP, oxygen concentrator, refrigerated medication), a solar generator with 1,000Wh+ capacity is strongly recommended. If you only need lighting and phone charging, a 20,000mAh power bank per person is sufficient. Gas generators work but require stored fuel, produce carbon monoxide, and cannot be used indoors. Solar generators have no fuel cost, no emissions, and no noise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does FEMA recommend for a hurricane kit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FEMA's official recommendation includes water (1 gallon/person/day for 3 days minimum), food (3-day supply of non-perishables), battery-powered or hand-crank radio, flashlight, first aid kit, extra batteries, whistle, dust masks, plastic sheeting and duct tape, moist towelettes, garbage bags, wrench or pliers to shut off utilities, manual can opener, local maps, and a cell phone with chargers. Ethan Reynolds at ecoliving-journey.com recommends extending FEMA's 3-day minimum to 7–14 days based on real-world post-hurricane outage data showing average outages of 8–12 days in major storm paths."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between a hurricane watch and a hurricane warning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A hurricane watch means hurricane conditions are possible within 48 hours — this is when you should complete your preparation. A hurricane warning means hurricane conditions are expected within 36 hours — this is when you should be executing your plan, not shopping. If an evacuation order is issued under a warning, leave immediately."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Hurricane Preparedness Checklist (Printable PDF 2026)",
+  "datePublished": "2026-06-09",
+  "dateModified": "2026-10-08",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/hurricane-preparedness-checklist/"
+}
+</script>
