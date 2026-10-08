@@ -7,6 +7,10 @@ on:
       - "src/content/blog/**"
       - "src/pages/**"
   workflow_dispatch:
+    inputs:
+      since:
+        description: "Optional commit SHA: submit pages changed since this commit"
+        required: false
 
 jobs:
   ping:
@@ -25,6 +29,7 @@ jobs:
           HOST="ecoliving-journey.com"
           KEY="576c8a15fb864a5db799a6407203923a"
           BEFORE="${{ github.event.before }}"
+          if [ -n "${{ github.event.inputs.since }}" ]; then BEFORE="${{ github.event.inputs.since }}"; fi
           if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ] || ! git cat-file -e "$BEFORE" 2>/dev/null; then
             BEFORE="HEAD~1"
           fi
