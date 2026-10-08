@@ -1,6 +1,6 @@
 ---
 title: "Best Solar Generator for Home Backup Power (2026 Guide)"
-description: "after extended use of real blackout testing, Ethan reveals the best solar generators for home backup power in 2026. EcoFlow, Jackery, and Bluetti compared with real numbers."
+description: "The best solar generators for home backup power in 2026: EcoFlow, Jackery and Bluetti compared on published specs, surge ratings and calculated runtimes."
 pubDate: "Apr 01 2026"
 heroImage: "../../assets/best-solar-generator-2026.webp"
 category: "Best Solar Generators"

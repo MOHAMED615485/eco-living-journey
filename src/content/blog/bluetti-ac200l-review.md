@@ -1,6 +1,6 @@
 ---
 title: "Bluetti AC200L Review: Discontinued, and What to Buy Instead"
-description: "The Bluetti AC200L has been discontinued. Here is what it offered, how it compares with its closest current replacement, the Bluetti Elite 200 V2, and what to check before buying."
+description: "The Bluetti AC200L is discontinued. What it offered, how it compares with its closest replacement, the Elite 200 V2, and what to check before buying."
 pubDate: "Apr 03 2026"
 heroImage: "../../assets/bluetti-ac200l-review.webp"
 category: "Solar Generator Reviews"

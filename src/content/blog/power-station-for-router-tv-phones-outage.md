@@ -1,6 +1,6 @@
 ---
-title: "Keep Wi-Fi, Phones and TV On During a Power Outage (Battery Runtimes)"
-description: "How many hours a portable power station keeps your router, modem, phones, laptop and TV running, with calculated runtimes and what to do if your internet goes down anyway."
+title: "Keep Wi-Fi, Phones and TV On in a Power Outage (Battery Runtimes)"
+description: "How many hours a power station runs your router, modem, phones, laptop and TV, with calculated runtimes and what to do if the internet goes down anyway."
 pubDate: "Oct 08 2026"
 heroImage: "../../assets/what-appliances-solar-generator.webp"
 category: "Solar Generator Guides"

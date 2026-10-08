@@ -1,6 +1,6 @@
 ---
 title: "Will a 1000W Solar Generator Run a Refrigerator? (The Surge Math)"
-description: "Can a 1,000W-class solar generator run a refrigerator? Usually yes, if its surge rating clears your fridge's startup. How to check the surge math and what runtime to expect, in calculated hours."
+description: "Can a 1,000W-class solar generator run a refrigerator? Usually yes, if its surge rating clears the startup. How to check the math and expected runtime."
 pubDate: "Apr 14 2026"
 heroImage: "../../assets/will-1000w-solar-generator-run-refrigerator.webp"
 category: "Solar Generator Guides"

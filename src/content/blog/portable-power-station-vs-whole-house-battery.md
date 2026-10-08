@@ -1,5 +1,5 @@
 ---
-title: "Portable Power Station vs Whole-House Battery: Which One Do You Need?"
+title: "Portable Power Station vs Whole-House Battery: Which Do You Need?"
 description: "A portable power station backs up key appliances. A whole-house battery runs the house. Compare capacity, cost, installation and what each can actually power."
 pubDate: "Oct 08 2026"
 heroImage: "../../assets/solar-generator-for-whole-house-hero.webp"

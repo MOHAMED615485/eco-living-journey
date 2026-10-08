@@ -1,6 +1,6 @@
 ---
 title: "Best Solar Generator for Apartment Living (2026 Guide)"
-description: "No yard, no generator hookup, no problem. How to choose a power station for apartment outages: balcony solar math, what it can run in calculated hours, weight, and building-safety basics."
+description: "No yard or generator hookup? How to choose a power station for apartment outages: balcony solar math, calculated runtimes, weight and safety."
 pubDate: 2026-05-16
 updatedDate: "Oct 7 2026"
 heroImage: "/src/assets/best-solar-generator-apartment.webp"

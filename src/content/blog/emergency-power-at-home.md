@@ -1,6 +1,6 @@
 ---
 title: "Best Emergency Power for Home: Backup Options 2026"
-description: "Solar generators, gas generators, battery banks: how to choose emergency power for your home. Typical appliance watts, calculated runtimes, a budget guide, and safety rules for 2026."
+description: "Solar generators, gas generators, battery banks: how to choose emergency power for your home. Typical appliance watts, runtimes, budgets and safety rules."
 pubDate: 2026-06-18
 heroImage: ../../assets/emergency-power-at-home-hero.webp
 category: "Solar Generators"

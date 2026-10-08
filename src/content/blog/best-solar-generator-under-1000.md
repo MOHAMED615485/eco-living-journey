@@ -1,6 +1,6 @@
 ---
 title: "Best Solar Generator Under $1000 (2026): Compared and Ranked"
-description: "Jackery Explorer 1000 V2, EcoFlow DELTA 3 Plus and Bluetti EB3A compared on published specs: capacity, surge rating, recharge speed, and calculated freezer and fridge runtimes."
+description: "Jackery Explorer 1000 V2, EcoFlow DELTA 3 Plus and Bluetti EB3A compared on published specs: capacity, surge, recharge speed and calculated runtimes."
 pubDate: "Apr 24 2026"
 updatedDate: "Oct 8 2026"
 heroImage: "../../assets/best-solar-generator-under-1000.webp"

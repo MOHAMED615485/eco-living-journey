@@ -7,8 +7,6 @@ heroImage: "../../assets/stocked-chest-freezer.webp"
 category: "Power Outage Prep"
 ---
 
-<h1>🧊 Will a Solar Generator Run a Chest Freezer? (The Blackout Math)</h1>
-
 <div class="bg-blue-50 border-l-4 border-blue-500 p-4 my-6 shadow-sm">
   <p><strong>The Short Answer:</strong> Yes, a solar generator can easily run a chest freezer, but you must size the battery inverter for the compressor's surge wattage (Locked Rotor Amps), not just the running wattage. A standard 7-cubic-foot chest freezer runs on about 150 watts but can violently surge up to 800+ watts on startup. If your backup battery cannot handle this initial surge spike, it will trip and shut off entirely.</p>
 </div>
