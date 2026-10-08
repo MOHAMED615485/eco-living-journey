@@ -90,6 +90,8 @@ At 268Wh and 600W, the EB3A is a small unit. It is a fit for camping, a CPAP on 
 | Laptop + phone charging | several hours |
 | Full-size refrigerator or chest freezer | **Not recommended** |
 
+<div class="cta-container"><a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fbluetti-eb3a-portable-power-station" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">Check Bluetti EB3A Price</a></div>
+
 Looking for more capacity from Bluetti? The <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2" target="_blank" rel="sponsored nofollow">Bluetti Elite 200 V2</a> (2,073.6Wh, 2,600W) is a step up in size, and its price may be above $1,000, so check.
 
 ---
