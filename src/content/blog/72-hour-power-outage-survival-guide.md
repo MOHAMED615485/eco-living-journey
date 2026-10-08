@@ -193,22 +193,11 @@ If you want this whole checklist done for you - printable, room-by-room, with a 
 
 <div style="background:#fff0f0;border-left:4px solid #e63946;padding:16px 20px;border-radius:6px;margin:2rem 0;">
 <strong>🌀 Florida and Gulf Coast Residents</strong><br/><br/>
-FEMA's 72-hour guideline is the minimum. After a major hurricane, Florida homeowners routinely go 5-10 days without power. The 2024 hurricane season hit multiple Florida counties with back-to-back storms that left some areas without power for 3 weeks. Plan for 7 days minimum. The families who were fine were the ones who had solar generators, 2 weeks of food, and knew their neighbors.
+FEMA's 72-hour guideline is the minimum. After Hurricane Ian in 2022, over 2.6 million Florida customers lost power and some were out for more than two weeks, according to the [U.S. Energy Information Administration](https://www.eia.gov/todayinenergy/detail.php?id=61303). Plan for 7 days minimum if you live in a hurricane zone, with backup power, food and water to match.
 </div>
 
 ---
 
-
-<div style="background:#f0fdf4;border:1.5px solid #2d6a4f;border-radius:12px;padding:16px 20px;margin:2rem 0;">
-<strong style="color:#2d6a4f;font-size:0.95rem;">&#127957; Complete Your Camp Setup with Traverseon</strong><br/>
-<span style="font-size:0.85rem;color:#444;display:block;margin:8px 0;">The same campers who trust solar generators for power trust Traverseon for shelter. Use code <strong>Mohamed10</strong> for 10% off.</span>
-<div style="display:flex;flex-direction:column;gap:8px;margin-top:10px;">
-<a href="https://www.awin1.com/cread.php?awinmid=124816&awinaffid=2815020&ued=https%3A%2F%2Ftraverseon.com%2Fproducts%2Fultralight-bivy-trekking-pole-tent" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;" target="_blank" rel="nofollow">→ Ultralight 1P Bivy Trekking Pole Tent — 1kg StormLock Design</a>
-<a href="https://www.awin1.com/cread.php?awinmid=124816&awinaffid=2815020&ued=https%3A%2F%2Ftraverseon.com%2Fproducts%2Ftraverseon-tunnel-duo-tent%3F_pos%3D1%26_sid%3Df04017b44%26_ss%3Dr%26variant%3D48628891648233" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;" target="_blank" rel="nofollow">→ AeroDuo 2P Ultralight Tunnel Tent — 1.58kg Compact Shelter</a>
-<a href="https://www.awin1.com/cread.php?awinmid=124816&awinaffid=2815020&ued=https%3A%2F%2Ftraverseon.com%2Fproducts%2Fgoose-down-winter-sleeping-bag-traverseon%3F_pos%3D1%26_sid%3D99a5a910b%26_ss%3Dr" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;" target="_blank" rel="nofollow">→ Down Mummy Sleeping Bag -13°C Extreme Cold Weather</a>
-</div>
-<p style="font-size:0.78rem;color:#2d6a4f;font-weight:700;margin:8px 0 0;">Use code <strong>Mohamed10</strong> at checkout for 10% off all Traverseon products</p>
-</div>
 
 ## Your Complete Emergency Kit
 
