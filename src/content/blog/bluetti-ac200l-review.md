@@ -59,3 +59,24 @@ Real runtime depends on room temperature, how often the lid opens and how full t
 - [How many watts does a chest freezer use?](/blog/how-many-watts-chest-freezer/)
 
 *As an affiliate, we may earn a commission if you buy through links on this page, at no extra cost to you. Specifications are the manufacturer's published figures and can change.*
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Bluetti AC200L Review: Discontinued, and What to Buy Instead",
+  "description": "The Bluetti AC200L has been discontinued. Here is what it offered, how it compares with its closest current replacement, the Bluetti Elite 200 V2, and what to check before buying.",
+  "datePublished": "Apr 03 2026",
+  "dateModified": "Oct 7 2026",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/bluetti-ac200l-review/"
+}
+</script>

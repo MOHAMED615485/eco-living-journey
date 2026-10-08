@@ -147,9 +147,7 @@ Everything above reduces to this:
 
 That is the entire framework. It takes three minutes to gather the data and two minutes with the calculator. Five minutes of work protects your entire emergency food supply.
 
-The alternative is trusting a battery you picked based on marketing copy and hoping it handles the startup spike at 2 AM.
-
-I tried that approach. It cost me $847.
+The alternative is trusting a battery you picked based on marketing copy and hoping it handles the startup spike at 2 AM. A power station that trips and leaves a stocked freezer thawing is an expensive mistake.
 
 <div class="cta-container">
   <a href="/solar-calculator/" class="cta-button">
@@ -184,3 +182,89 @@ Yes. A clamp meter or smart plug with energy monitoring will show you the actual
 
 
 *Last updated: Apr 2026*
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What Is LRA on a Freezer Data Plate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "⚡ The Quick Answer: LRA stands for Locked Rotor Amps — the surge of electricity your freezer's compressor needs to start from a dead stop. Multiply your LRA by 120 to get your surge watts. Any backup battery must have a surge capacity above that number or it will trip and shut off the moment your compressor kicks on — usually at 2 AM when you are asleep."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What If My Data Plate Does Not List LRA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Some older units — particularly models manufactured before 2005 — have simplified data plates that show only voltage and running amperage without an explicit LRA figure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "My battery says \"peak power 2000W\" — is that the surge rating?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Peak power, surge capacity, and peak output are all different names for the same specification. That is the number to compare against your LRA-calculated surge watts. Make sure it exceeds your requirement with at least 20% headroom."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to check LRA for my refrigerator too?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — if you plan to run your kitchen refrigerator during a blackout, it has its own LRA number. Modern refrigerators typically surge between 800W and 1,500W depending on size and compressor type. Check both appliances and use the higher surge requirement when choosing your battery."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "My freezer is 20 years old — does that change things?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Older compressors tend to have higher LRA numbers than modern equivalents. They also degrade over time, which can push startup demands higher. For a freezer older than 15 years, add an extra 15–20% to your calculated surge requirement as a safety buffer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does ambient temperature affect LRA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not the LRA rating itself — that is a fixed electrical property. But hot ambient temperatures mean the compressor cycles more frequently and works harder, which can cause it to draw closer to its LRA ceiling more consistently. In a 95°F garage in August, assume your compressor is running at near-maximum startup demand every single cycle."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I test my surge without a data plate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. A clamp meter or smart plug with energy monitoring will show you the actual startup spike in real time. Plug in the smart plug, connect the freezer, watch the wattage reading when the compressor cycles on. The peak reading is your real-world surge. This is actually more accurate than the data plate calculation for older units."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Freezer LRA Explained: The Surge Number That Matters Most",
+  "description": "LRA is the hidden surge number on your freezer's data plate. It determines whether your backup battery survives or trips at 2 AM. Here is exactly how to find it, calculate your surge watts, and choose the right battery.",
+  "datePublished": "Mar 22 2026",
+  "dateModified": "Oct 7 2026",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/what-is-lra-on-a-freezer/"
+}
+</script>

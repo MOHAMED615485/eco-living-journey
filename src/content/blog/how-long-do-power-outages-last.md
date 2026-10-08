@@ -22,7 +22,7 @@ I have been through 11 outages since 2019. The average duration was 6.2 hours. T
 </div>
 
 <div class="cta-container">
-  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;" target="_blank" rel="sponsored nofollow">
     &#9889; Best Solar Generator for Home Backup &rarr;
   </a>
 </div>
@@ -151,7 +151,7 @@ Utilities restore power in this order:
 The last category — your individual connection — is where you can wait hours after your neighbors have power restored. If your service drop is damaged (a tree on your line, a meter base problem), it requires a separate crew visit and you may wait 12-24 hours after the neighborhood is otherwise restored.
 
 <div class="cta-container">
-  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;" target="_blank" rel="sponsored nofollow">
     &#9889; Jackery 1000 V2 — Best Under $800 for Home Backup &rarr;
   </a>
 </div>
@@ -172,7 +172,7 @@ Knowing an outage could last days is one thing - being ready for it is another. 
 For outages expected to last 24+ hours, having a pre-packed emergency kit removes the scramble when it happens. A complete kit covers first aid, water purification, food, communication, and light in one place.
 
 <div class="cta-container">
-  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits&clickref=outage-duration-article" style="background-color:#2d6a4f;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits&clickref=outage-duration-article" style="background-color:#2d6a4f;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;" target="_blank" rel="sponsored nofollow">
     &#128274; See the SurviveX Emergency Kit &rarr;
   </a>
 </div>
@@ -247,5 +247,26 @@ Your utility company’s outage map shows estimated restoration times. Sign up f
       "acceptedAnswer": {"@type": "Answer", "text": "Check your utility company outage map for estimated restoration times. Sign up for text alerts from your utility. NOAA weather radio provides information on weather-related outage causes."}
     }
   ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How Long Do Power Outages Last? (Real Data by Cause)",
+  "description": "Most power outages last under 2 hours. But severe weather outages average 8 hours and major storms can last days. Real duration data by cause, season, and region.",
+  "datePublished": "Apr 30 2026",
+  "dateModified": "Jul 18 2026",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/how-long-do-power-outages-last/"
 }
 </script>

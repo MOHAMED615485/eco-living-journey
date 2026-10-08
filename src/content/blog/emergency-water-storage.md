@@ -30,7 +30,7 @@ The standard emergency guidance is one gallon per person per day. That number co
 
 **Don't forget pets.** A medium dog needs about 0.5–1 gallon per day. Add it to your total.
 
-**My honest take:** FEMA's 3-day standard exists because it's achievable for everyone, not because it's enough. After Hurricane-related outages routinely run 5–10 days, I keep 14 days minimum and recommend the same.
+**Our take:** FEMA's 3-day standard exists because it's achievable for everyone, not because it's enough. Outages after major hurricanes can run well beyond three days (after Hurricane Ian in 2022, some Florida customers were out for more than two weeks, per the [U.S. Energy Information Administration](https://www.eia.gov/todayinenergy/detail.php?id=61303)), so a 14-day supply is a sensible target if you have the space.
 
 ---
 
@@ -143,7 +143,7 @@ A solar generator helps here too — it can boil water on an electric kettle or 
   <strong>🧰 SurviveX Emergency Kits</strong><br>
   Water is tier one — but a full emergency kit covers the rest. SurviveX makes first aid kits that cover the injuries outages usually bring.<br>
   Free shipping on orders $50+. 10% off your first order with newsletter signup.<br><br>
-  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="background:#3d8b6f;color:white;padding:10px 20px;text-decoration:none;border-radius:4px;display:inline-block;margin-top:8px;">Shop SurviveX Kits →</a>
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="background:#3d8b6f;color:white;padding:10px 20px;text-decoration:none;border-radius:4px;display:inline-block;margin-top:8px;" target="_blank" rel="sponsored nofollow">Shop SurviveX Kits →</a>
 </div>
 
 ---

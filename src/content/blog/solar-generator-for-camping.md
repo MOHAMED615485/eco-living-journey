@@ -307,7 +307,7 @@ For true backpacking where weight is critical, the Jackery Explorer 500 (13.3 lb
   <strong>🧰 SurviveX Emergency Kits</strong><br>
   Every camper should carry a proper emergency kit. SurviveX makes emergency kits — built for real scenarios, not just a box to check.<br>
   Free shipping on orders $50+. 10% off your first order with newsletter signup.<br><br>
-  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="background: #3d8b6f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; display: inline-block; margin-top: 8px;">Shop SurviveX Kits →</a>
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="background: #3d8b6f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; display: inline-block; margin-top: 8px;" target="_blank" rel="sponsored nofollow">Shop SurviveX Kits →</a>
 </div>
 
 ---

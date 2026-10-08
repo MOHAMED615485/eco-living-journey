@@ -188,3 +188,81 @@ Choose one whose surge rating clears your freezer's LRA x 120. For most modern c
 ## About the data
 
 All figures are ranges compiled from manufacturer specification sheets, ENERGY STAR criteria and EnergyGuide labels, plus EIA residential energy statistics. They are not independent lab measurements, and individual freezers vary, so confirm your own numbers on the nameplate and EnergyGuide label. Compiled by Ethan Reynolds. Affiliate-supported; independently researched. Last updated October 2026.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How Long Will a Solar Generator Run a Chest Freezer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because the compressor cycles, what matters for runtime is the average draw over a full day, not the running watts. The scenarios below use three average draws and a 15% efficiency buffer on the battery."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which Generator Fits a Chest Freezer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Based on published specifications, here is how the three units I'd shortlist compare for a chest freezer. Check each maker's published surge rating against your freezer's LRA x 120 before you buy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many watts does a 7 cubic foot chest freezer use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A 7 cu ft chest freezer typically draws about 85-110 watts while the compressor is running, and 600-800 watts at startup depending on its LRA. Find the LRA on the data plate and multiply by 120 for the surge you need to cover."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many watts does a chest freezer use per day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because the compressor cycles on roughly a third of the time, a modern 7 cu ft chest freezer uses about 0.6-0.8 kWh per day. Larger, older or hot-garage units can use twice that or more."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does a chest freezer use a lot of electricity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not compared with most large appliances. ENERGY STAR certified chest freezers commonly use about 200-300 kWh a year, which is roughly $26-39 at $0.13/kWh. Chest models generally use less than upright freezers of the same capacity. Your EnergyGuide label has the exact figure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What size generator do I need for a chest freezer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose one whose surge rating clears your freezer's LRA x 120. For most modern chest freezers that means at least 1,200W of surge capacity. Running capacity of 300-500W is plenty for a single freezer."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Chest Freezer Wattage Chart: Watts by Size (2026)",
+  "description": "Chest freezer wattage by size: running watts, startup surge, and daily kWh for 5 to 25 cu ft models. Full chart plus how to size a solar generator.",
+  "datePublished": "Apr 04 2026",
+  "dateModified": "2026-10-05",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/how-many-watts-chest-freezer/"
+}
+</script>

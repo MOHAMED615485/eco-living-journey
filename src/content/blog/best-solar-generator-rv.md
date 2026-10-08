@@ -7,11 +7,9 @@ heroImage: ../../assets/best-solar-generator-rv.webp
 category: "Best Solar Generators"
 ---
 
-The first time I tried to run my RV air conditioner off a solar generator, I learned an expensive lesson about surge watts.
+A common RV mistake is trying to run an air conditioner off a 1,000W power station because the AC is rated about 450W running. The compressor's startup surge is several times that, so the unit trips the moment the compressor kicks on, often on the hottest day of the trip.
 
-I had a 1,000W unit. The AC was rated 450W running. I figured I had headroom to spare. The moment the compressor kicked on, the generator tripped. Dead silence. 94 degrees outside. Middle of nowhere Utah.
-
-That trip changed how I think about RV power forever. It is not about how many watts you have. It is about whether your generator can survive the startup spike that happens in a fraction of a second every time your AC, fridge, or water pump cycles on.
+That is why RV power is different from home backup. It is not about how many watts you have. It is about whether your generator can survive the startup spike that happens in a fraction of a second every time your AC, fridge, or water pump cycles on.
 
 Across three generators running roof AC units, refrigerators, water pumps, and charging stations, here is exactly what the numbers show.
 
@@ -239,7 +237,7 @@ Build Your RV Emergency Kit with SurviveX →
   <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">🎒 SurviveX 72-Hour Emergency Kit</p>
   <p style="margin:0 0 6px;font-size:0.95rem;">Pre-assembled emergency kit for RV road trips — food, water purification, first aid, and communication gear.</p>
   <p style="margin:0 0 12px;font-size:0.88rem;color:#3d8b6f;">📦 Free shipping on orders $50+ · 10% off your first order when you sign up</p>
-  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Check SurviveX Kit →</a>
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;" target="_blank" rel="sponsored nofollow">Check SurviveX Kit →</a>
 </div>
 
 ## ❓ Frequently Asked Questions

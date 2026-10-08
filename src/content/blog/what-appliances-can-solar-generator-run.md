@@ -206,3 +206,81 @@ Stay prepared.
 — Ethan
 
 *Last updated: Apr 2026*
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a solar generator run a refrigerator all night?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — but only if the generator has enough surge capacity to handle the compressor startup. A full-size fridge surges to 1,200W on startup even though it only runs on 150W. You need a generator with at least 1,500W surge rating. The EcoFlow DELTA 3 Plus and Jackery Explorer 1000 V2 both handle this reliably."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What size solar generator do I need for a chest freezer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A 7 cubic foot chest freezer runs on 150W but surges to around 800W on startup. Any generator with 1,000W+ surge capacity handles it. For a larger 15 cubic foot freezer surging to 1,200W, go with 1,500W surge minimum. Read the full chest freezer blackout math guide for the complete calculation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I run a microwave on a solar generator?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, briefly. A 700W microwave needs 1,000W+ output and drains a 1,000Wh battery in about 1.4 hours of continuous use. Use it to reheat food quickly rather than cooking full meals during an outage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a solar generator run a CPAP machine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — this is one of the best use cases for a solar generator. A CPAP without heated humidifier draws only 30W. A 1,000Wh battery runs it for 33 hours — more than two full nights. With a heated humidifier add roughly 30W more."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What appliances should I never run on a solar generator?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Central air conditioning, electric water heaters, electric dryers, and electric stoves all draw 3,500–6,000W — far beyond what any portable solar generator can handle. Stick to essentials: lights, refrigeration, communication devices, fans, and medical equipment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I calculate how long my battery will last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Divide your battery capacity in watt-hours by the appliance wattage. Example: 1,000Wh ÷ 150W fridge = 6.6 hours. Use the free solar calculator to run this for multiple appliances at once."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "What Appliances Can a Solar Generator Run? (Complete Wattage Guide)",
+  "description": "From fridges to CPAP machines, here's exactly what a solar generator can and can't power — with real wattage numbers for every common home appliance.",
+  "datePublished": "Apr 16 2026",
+  "dateModified": "Apr 16 2026",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/what-appliances-can-solar-generator-run/"
+}
+</script>

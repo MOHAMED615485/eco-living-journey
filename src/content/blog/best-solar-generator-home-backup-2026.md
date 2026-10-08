@@ -192,3 +192,65 @@ Figures come from manufacturer specifications and retailer listings for the US v
   <p style="margin:0 0 12px;font-size:0.95rem;">Sizing calculator, appliance wattage reference sheet, and a side-by-side comparison worksheet built from manufacturer specs.</p>
   <a href="https://ethanecoliving.gumroad.com/l/solar-generator-toolkit-2026" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Toolkit — $19 →</a>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which One Should You Buy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Buy the EcoFlow DELTA 3 Plus if: You want the strongest all-round unit for a single freezer or refrigerator, the highest published surge of the three, and fast recharging when the grid comes back."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What size solar generator do I need for home backup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a single chest freezer or refrigerator, a 1,000-1,200Wh unit with a surge rating above your appliance's startup surge handles most situations. If you want to run multiple appliances simultaneously, go with 2,000Wh or more."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a solar generator power a whole house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not a standard portable unit. Whole-home backup requires a permanently installed battery system like a Tesla Powerwall. Portable solar generators are designed for essential appliances during an outage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does a solar generator last on one charge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends entirely on what you are running. A typical chest freezer averages about 45W over a day, so a 1,024Wh battery runs it for roughly 19 hours (15% battery buffer). Add a refrigerator and lights and you are looking at about 10 hours."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Best Solar Generator for Home Backup Power (2026 Guide)",
+  "description": "after extended use of real blackout testing, Ethan reveals the best solar generators for home backup power in 2026. EcoFlow, Jackery, and Bluetti compared with real numbers.",
+  "datePublished": "Apr 01 2026",
+  "dateModified": "Apr 01 2026",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/best-solar-generator-home-backup-2026/"
+}
+</script>

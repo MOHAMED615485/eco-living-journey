@@ -32,7 +32,7 @@ heroImage: "../../assets/solar-generator.webp"
 
 As a homeowner, there is absolutely nothing worse than the exact moment the power goes out during a severe winter storm or extreme heatwave. You hear the sudden silence as the HVAC unit shuts down, your fridge starts getting warm, the Wi-Fi dies, and you are left sitting in the dark hoping the grid operators can bring the system back online before your pipes freeze or your house reaches 90 degrees.
 
-With recent data showing ERCOT’s winter reserve margins dropping dangerously low and California’s PG&E expanding their Public Safety Power Shutoff (PSPS) protocols, regional grid vulnerability is no longer a hypothetical scenario. It is a mathematical certainty. If you are relying on an aging infrastructure to keep your family safe, you are playing a very dangerous game of roulette. **<a href="/grid-threats/" style="color: #059669; text-decoration: underline;">Check your state's specific grid vulnerabilities and local threats here.</a>**
+With recent data showing ERCOT’s winter reserve margins dropping dangerously low and California’s PG&E expanding their Public Safety Power Shutoff (PSPS) protocols, regional grid vulnerability is no longer a hypothetical scenario. It is a mathematical certainty. If you are relying on an aging infrastructure to keep your family safe, you are playing a very dangerous game of roulette.
 
 <h2>🚨 The Hidden Danger of the "Gas Trap"</h2>
 
@@ -111,13 +111,12 @@ The EcoFlow Delta Pro 3 is the undisputed heavyweight champion of the portable m
 
 If EcoFlow is a luxury sports car, the Jackery 2000 Plus is an indestructible off-road truck. Jackery has moved to advanced LiFePO4 battery chemistry, meaning you can drain and recharge this unit thousands of times over a decade without degrading the battery health. It is built for the user who wants zero software headaches and features built-in wheels and ergonomic handles making it incredibly easy to roll around when the lights go out.
 
-<a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" class="affiliate-btn">🛒 Check Current Price on Amazon ➔</a>
+<a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" class="affiliate-btn" rel="sponsored nofollow">🛒 Check Jackery Price ➔</a>
 
 <div class="b2b-alert">
   <h2 style="margin-top: 0;">⚠️ The Hard Truth: When Portable Batteries Fail</h2>
   <p>Here is the uncomfortable reality most marketers refuse to tell you: Jackery and EcoFlow units are incredible machines, but they are strictly <strong>Level 1</strong> resilience. They will save your groceries, but they cannot run a central air conditioning unit or electric furnace during a multi-day grid collapse.</p>
-  <p>For true, multi-day grid failures, you must advance to a <strong>Level 3 System</strong>—a fully integrated solar array and battery reserve wired directly into your home's main electrical panel. Stop guessing what your home actually needs.</p>
-  <a href="/grid-threats/" class="b2b-btn">📍 Check Your Local Grid Threat & Request a Home Audit</a>
+  <p>For true, multi-day grid failures, you must advance to a <strong>Level 3 System</strong>—a fully integrated solar array and battery reserve wired directly into your home's main electrical panel.</p>
 </div>
 
 <h2>🤔 The "Blackout Prep" FAQ</h2>
@@ -126,3 +125,23 @@ If EcoFlow is a luxury sports car, the Jackery 2000 Plus is an indestructible of
 <h3>Can a portable solar station run a central air conditioner?</h3>
 <p>The short answer? No. The realistic answer? You are asking a golf cart to pull a freight train. A standard 3-ton central AC
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Why I Ditched Gas Generators: Top 2 Solar Power Stations",
+  "description": "Discover why portable solar power stations are replacing gas generators.",
+  "datePublished": "Mar 04 2026",
+  "dateModified": "Mar 04 2026",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/solar-generator/"
+}
+</script>

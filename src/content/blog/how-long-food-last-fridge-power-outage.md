@@ -154,7 +154,7 @@ Cost: $8–$15 at any grocery or hardware store. Worth every cent.
 <div style="background:#eef6f1;border:2px solid #2d6a4f;border-radius:8px;padding:1.1rem 1.3rem;margin:1.75rem 0;">
   <p style="margin:0 0 6px;font-weight:600;color:#2d6a4f;font-size:1.05rem;">🆕 New: BLUETTI FridgePower — Built Specifically for This Problem</p>
   <p style="margin:0 0 10px;font-size:0.95rem;">BLUETTI just launched a portable power station designed exactly for the scenario in this article: keeping your fridge running during an outage. It's an ultra-slim 75mm design that tucks behind or beside your refrigerator, switches to backup power automatically (instant UPS-style failover), and runs quieter than a generator. If you only need fridge backup — not a full whole-home setup — this is a purpose-built option for fridge-only backup.</p>
-  <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Ffridgepower-battery-backup" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">See BLUETTI FridgePower →</a>
+  <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Ffridgepower-battery-backup" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;" target="_blank" rel="sponsored nofollow">See BLUETTI FridgePower →</a>
 </div>
 
 ## 🛡️ Practical Strategies to Protect Your Food Supply
@@ -289,7 +289,7 @@ A full freezer maintains safe temperature (0°F) for approximately 48 hours afte
   <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">🎒 SurviveX 72-Hour Emergency Kit</p>
   <p style="margin:0 0 6px;font-size:0.95rem;">Pre-assembled food, water purification, first aid, and communication gear — built for real outages, not just camping weekends.</p>
   <p style="margin:0 0 12px;font-size:0.88rem;color:#3d8b6f;">📦 Free shipping on orders $50+ · 10% off your first order when you sign up</p>
-  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Check SurviveX Kit →</a>
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;" target="_blank" rel="sponsored nofollow">Check SurviveX Kit →</a>
 </div>
 
 <script type="application/ld+json">

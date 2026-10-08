@@ -16,7 +16,7 @@ LiFePO4 batteries are remarkably resilient. But they have two specific failure m
 </div>
 
 <div class="cta-container">
-  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;" target="_blank" rel="sponsored nofollow">
     &#9889; Jackery Explorer 1000 V2 — Best LiFePO4 Storage &rarr;
   </a>
 
@@ -191,7 +191,7 @@ When you retrieve your solar generator after winter storage follow this sequence
 For complete information on what to run during outage season see the [home backup power guide](/blog/best-solar-generator-home-backup-2026/) and the [best solar generator under $1000](/blog/best-solar-generator-under-1000/) for current recommendations.
 
 <div class="cta-container">
-  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits&clickref=store-solar-winter" style="background-color:#2d6a4f;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits&clickref=store-solar-winter" style="background-color:#2d6a4f;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;" target="_blank" rel="sponsored nofollow">
     &#128274; SurviveX Emergency Kit — Stay Ready Year Round &rarr;
   </a>
 
