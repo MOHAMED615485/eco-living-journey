@@ -199,6 +199,13 @@ If your inverter is undersized the generator shuts down the moment the compresso
 
 ---
 
+<div style="background:#f0fdf4;border:1.5px solid #2d6a4f;border-radius:12px;padding:16px 20px;margin:2rem 0;">
+<strong style="color:#2d6a4f;font-size:1rem;">A small portable AC sized for a power station: Traverseon 4,500/5,200 BTU</strong>
+<p style="font-size:0.92rem;color:#333;margin:8px 0;">Traverseon lists this 110V portable air conditioner at 4,500 BTU (for about 54&ndash;86 sq ft) and 5,200 BTU (about 86&ndash;108 sq ft), with a listed power consumption of 350W/450W (the page does not say which figure belongs to which model). It weighs 28.7 lb (4,500 BTU) or 33.1 lb (5,200 BTU), is listed at about 45 dB, and is priced at $699.90 and $789.90. Traverseon states a 30-day return window and does not publish a warranty length, and does not say whether it is compatible with battery power stations.</p>
+<p style="font-size:0.92rem;color:#333;margin:8px 0;"><strong>Calculated runtime at the listed draw (usable = rated Wh &times; 0.85):</strong> at 450W, about 3.9 hours on a Bluetti Elite 200 V2, about 2.0 hours on a Jackery Explorer 1000 V2, and about 1.9 hours on an EcoFlow DELTA 3 Plus. At 350W those become roughly 5.0, 2.6 and 2.5 hours. The compressor&rsquo;s startup surge is not published, so allow a generous surge margin before pairing it with a smaller station.</p>
+<a href="https://www.awin1.com/cread.php?awinmid=124816&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Ftraverseon.com%2Fproducts%2Fportable-air-conditioner-4500-5200-btu-for-53-108-sq-ft-camping-rv-ac-traverseon" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">Check Traverseon Portable AC Price</a>
+</div>
+
 ## Emergency Kit for Summer Power Outages
 
 Heat emergencies require more than just power backup. A complete emergency kit covers hydration, first aid, and communication alongside your power solution.
