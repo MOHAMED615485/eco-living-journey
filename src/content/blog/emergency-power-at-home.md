@@ -75,9 +75,9 @@ A 20,000mAh power bank charges a smartphone 4–5 times. That's it. Power banks 
 
 | Model | Capacity | Continuous output | Best for |
 |---|---|---|---|
-| [EcoFlow DELTA 3 Plus](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) | 1,024Wh | 1,800W (3,600W surge) | Fridge, CPAP and devices; expandable |
-| [Bluetti Elite 200 V2](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2) | 2,073.6Wh | 2,600W | Longer runtime, several loads at once |
-| [Jackery Explorer 1000 V2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) | 1,070Wh | 1,500W (3,000W surge) | Lighter, simpler all-rounder |
+| <a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" target="_blank" rel="sponsored nofollow">EcoFlow DELTA 3 Plus</a> | 1,024Wh | 1,800W (3,600W surge) | Fridge, CPAP and devices; expandable |
+| <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2" target="_blank" rel="sponsored nofollow">Bluetti Elite 200 V2</a> | 2,073.6Wh | 2,600W | Longer runtime, several loads at once |
+| <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="sponsored nofollow">Jackery Explorer 1000 V2</a> | 1,070Wh | 1,500W (3,000W surge) | Lighter, simpler all-rounder |
 
 Figures are manufacturers' published specs. Check current prices on each page.
 
@@ -257,7 +257,7 @@ This is the primary reason we recommend solar generators for apartment and condo
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
   <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">🎒 SurviveX 72-Hour Emergency Kit</p>
   <p style="margin:0 0 12px;font-size:0.95rem;">Pre-assembled food, water purification, first aid, and communication gear — the supply side of your outage kit, done for you.</p>
-  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Check SurviveX Kit →</a>
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" rel="sponsored nofollow" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Check SurviveX Kit →</a>
 </div>
 
 ## 📚 More Guides to Help You Prepare

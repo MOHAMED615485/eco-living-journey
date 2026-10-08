@@ -42,9 +42,9 @@ Air conditioners are among the most power-hungry appliances in a home. Before bu
 
 | Model | Capacity | Continuous output | Notes for AC use |
 |---|---|---|---|
-| [Bluetti Elite 200 V2](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2) | 2,073.6Wh | 2,600W | Largest battery here; no motor surge rating published, so confirm your AC's LRA with Bluetti |
-| [EcoFlow DELTA 3 Plus](https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20) | 1,024Wh | 1,800W (3,600W surge) | High surge rating, but only about 2 hours of 5,000 BTU AC |
-| [Jackery Explorer 1000 V2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) | 1,070Wh | 1,500W (3,000W surge) | Fans and small loads; about 2 hours of 5,000 BTU AC |
+| <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2" target="_blank" rel="sponsored nofollow">Bluetti Elite 200 V2</a> | 2,073.6Wh | 2,600W | Largest battery here; no motor surge rating published, so confirm your AC's LRA with Bluetti |
+| <a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" target="_blank" rel="sponsored nofollow">EcoFlow DELTA 3 Plus</a> | 1,024Wh | 1,800W (3,600W surge) | High surge rating, but only about 2 hours of 5,000 BTU AC |
+| <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="sponsored nofollow">Jackery Explorer 1000 V2</a> | 1,070Wh | 1,500W (3,000W surge) | Fans and small loads; about 2 hours of 5,000 BTU AC |
 
 ## 📏 Calculated Runtimes
 
