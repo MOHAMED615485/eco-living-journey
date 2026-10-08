@@ -112,6 +112,8 @@ Run the numbers for a multi-day outage: a 1,000Wh-class unit has about 850Wh usa
 - [ ] Thermometer, blood pressure cuff if needed
 - [ ] Contact lenses + extra glasses + saline solution
 
+**Our pick for the first aid kit:** SurviveX makes kits designed in Falls Church, Virginia and reviewed by an in-house former EMT/firefighter. The Large kit has 250 components (about $120.99). Shipping and returns are free over $50, the kits qualify for FSA/HSA spending, and they carry a lifetime warranty. <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" target="_blank" rel="sponsored nofollow">See SurviveX first aid kits</a>. Prices and availability can change, so check the current listing.
+
 ---
 
 ### ✅ Documents and Financial Preparedness

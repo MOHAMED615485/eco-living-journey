@@ -215,8 +215,8 @@ FEMA's 72-hour guideline is the minimum. After a major hurricane, Florida homeow
 Power backup handles electricity. A complete 72-hour plan also requires a proper emergency kit with first aid, medication storage, water purification, and communication tools.
 
 <div class="cta-container">
-<a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" class="cta-button" target="_blank" rel="nofollow noopener" style="background:#3d8b6f;">
-Build Your 72-Hour Emergency Kit with SurviveX →
+<a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" class="cta-button" target="_blank" rel="sponsored nofollow" style="background:#3d8b6f;">
+Shop SurviveX First Aid Kits →
 </a>
 </div>
 
