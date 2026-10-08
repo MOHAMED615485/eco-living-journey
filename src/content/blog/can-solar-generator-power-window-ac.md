@@ -8,12 +8,12 @@ category: "Solar Generator Guides"
 faqSchema: true
 ---
 
-A 5,000 BTU window AC is the most common unit people try to run on a solar generator during a heat wave that knocked out grid power across our neighborhood.
+A 5,000 BTU window AC is the most common unit people try to run on a solar generator during a heat-wave outage.
 
-<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</em></p>
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. We earn a small commission if you buy through our links, at no extra cost to you. We only recommend gear we have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</em></p>
 
 
-It worked. But only because I understood two things most people get wrong: surge watts and duty cycle. Get those wrong and you either buy a generator that trips every time the compressor kicks on, or you overspend on capacity you don't need.
+It can work, but only if you understand two things most people get wrong: surge watts and duty cycle. Get those wrong and you either buy a generator that trips every time the compressor kicks on, or you overspend on capacity you don't need.
 
 This guide gives you the exact math, the real runtime numbers from the specs and owner reports, and the right generator for every situation — whether you're a homeowner, RV owner, parent keeping kids cool, or someone building grid independence.
 
@@ -105,21 +105,21 @@ What that changes in practice:
 
 If you are choosing between a bigger generator and a soft-start kit, the kit is usually the cheaper path to the same result.
 
-I compared three window AC sizes against two solar generator capacities using manufacturer-rated draws and reported runtimes during peak summer heat wave. Here are the actual numbers.
+We compared three window AC sizes against two solar generator capacities using manufacturer-rated draws and calculated runtimes. These are calculations, not lab tests.
 
 ### How these numbers are derived
-- Location: Southeast US, outdoor temp 94°F
+- Assumptions: hot-day conditions (about 94°F outdoors)
 - Room size: 12x14 ft, well insulated
-- Solar panels: 400W connected during testing
+- Solar panels: 400W assumed connected
 
 ### Calculated runtime by pairing
 
 | AC size | Generator | Calculated runtime (no solar) | With 400W solar |
 |:--|:--|:--|:--|
-| 5,000 BTU | Jackery 1000 V2 | 2.6 hours | Indefinite in daylight |
-| 5,000 BTU | EcoFlow DELTA 3 Plus | 2.8 hours | Indefinite in daylight |
+| 5,000 BTU | Jackery 1000 V2 | 2.0 hours | Indefinite in daylight |
+| 5,000 BTU | EcoFlow DELTA 3 Plus | 1.9 hours | Indefinite in daylight |
 | 8,000 BTU | Jackery 1000 V2 | 1.3 hours | 3–4 hours in daylight |
-| 8,000 BTU | EcoFlow DELTA 3 Plus | 1.5 hours | 4–5 hours in daylight |
+| 8,000 BTU | EcoFlow DELTA 3 Plus | 1.2 hours | 4–5 hours in daylight |
 | 12,000 BTU | Jackery 1000 V2 | ❌ Surge exceeds inverter | N/A |
 | 12,000 BTU window unit | EcoFlow DELTA 3 Plus | 0.9 hours | 2–3 hours in daylight |
 
@@ -176,7 +176,7 @@ The same setup works for homestead buildings, workshops, and barns. A 5,000 BTU 
 ---
 
 
-Running a window AC off solar is all about matching surge watts, running watts, and battery capacity to your exact unit - get it wrong and it trips or dies in an hour. My **Solar Generator Buyer's Toolkit** does that math for you.
+Running a window AC off solar is all about matching surge watts, running watts, and battery capacity to your exact unit - get it wrong and it trips or dies in an hour. Our **Solar Generator Buyer's Toolkit** does that math for you.
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
   <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">&#9889; Solar Generator Buyer's Toolkit - $19</p>
@@ -240,7 +240,7 @@ A 5,000 BTU window AC averages 350W draw. You need 400W+ of solar panels in dire
 **Is it worth buying a solar generator just for window AC?**
 For homeowners in outage-prone regions — especially Florida, the Gulf Coast, and areas with summer thunderstorms — yes. A solar generator that runs your window AC also runs your refrigerator, charges devices, and powers lights. The AC capability is a bonus on top of essential backup power. See the [best solar generators for home backup](/blog/best-solar-generator-home-backup-2026/) for the full comparison.
 
-*— Ethan Reynolds tested window AC units against solar generators during an 11-day July heat wave. All runtime figures are real-world measurements at 94°F outdoor temperature in a 12x14 ft room.*
+*— Runtime figures are calculated from manufacturer specs (usable capacity = rated Wh × 0.85, divided by average AC draw). Real runtimes vary with temperature, room size and compressor cycling.*
 
 *Published: May 04 2026*
 
@@ -275,5 +275,26 @@ For homeowners in outage-prone regions — especially Florida, the Gulf Coast, a
       "acceptedAnswer": {"@type": "Answer", "text": "A 5,000 BTU window AC averages 350W draw. You need 400W+ of solar panels in direct sun to run the AC and slowly recharge the battery simultaneously."}
     }
   ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Can a Solar Generator Run a Window AC? Watts by BTU (2026)",
+  "description": "Window AC power draw by BTU size: running watts, startup surge, and real runtime math. Full chart from 5,000 to 12,000 BTU plus the soft-start fix.",
+  "datePublished": "May 04 2026",
+  "dateModified": "Jul 18 2026",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/can-solar-generator-power-window-ac/"
 }
 </script>

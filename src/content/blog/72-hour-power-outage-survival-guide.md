@@ -12,12 +12,12 @@ faqSchema: true
 
 Most families are not even prepared for 24 hours.
 
-I know because I was one of them. Three years ago a winter storm knocked out our power for four days. Day one was inconvenient. Day two was uncomfortable. Day three was the day I realized how badly I had failed to prepare my family.
+Many families find out the hard way. A multi-day winter storm outage turns from inconvenient on day one to uncomfortable on day two to a real problem by day three, and the gaps in preparation are what hurt.
 
-<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</em></p>
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. We earn a small commission if you buy through our links, at no extra cost to you. Specifications come from manufacturer pages and runtimes are calculations, not our own tests.</em></p>
 
 
-This guide is what I built after that experience. A complete 72-hour power outage plan covering every room in your home, every critical system, and every decision you need to make before the lights go out — not after.
+This guide is a complete 72-hour power outage plan covering every room in your home, every critical system, and every decision you need to make before the lights go out — not after.
 
 ---
 
@@ -293,3 +293,24 @@ Canned goods (with manual opener), peanut butter, crackers, dried fruit, nuts, g
 *— Ethan Reynolds is a homeowner and backup power specialist who has been through 4 extended power outages and tests solar generators for real households.*
 
 *Last updated: May 26, 2026*
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "72-Hour Power Outage Survival Guide (Room-by-Room Checklist)",
+  "description": "A complete 72-hour power outage survival guide covering power, food, water, medical, communication, and safety — with a room-by-room checklist you can print and keep.",
+  "datePublished": "2026-07-17",
+  "dateModified": "2026-07-17",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/72-hour-power-outage-survival-guide/"
+}
+</script>

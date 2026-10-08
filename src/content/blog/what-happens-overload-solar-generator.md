@@ -9,7 +9,7 @@ category: "Solar Generator Guides"
 
 The first time I overloaded my solar generator, I didn't even know I'd done it.
 
-One moment the fridge was humming, the fans were running, and the lights were on. The next — silence. Total silence. No warning. No alarm. Just a dead unit sitting on my garage floor at 11PM during a blackout.
+Picture it: the fridge is humming, the fans are running, the lights are on. Then, silence. A power station that is overloaded can shut off with little warning, and it usually happens at the worst time, in the middle of a blackout.
 
 I spent twenty minutes thinking my generator had failed. Pressing buttons. Checking cables. Quietly panicking while my chest freezer started warming up.
 
