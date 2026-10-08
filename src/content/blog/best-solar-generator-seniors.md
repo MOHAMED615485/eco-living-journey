@@ -1,6 +1,6 @@
 ---
 title: "Best Solar Generator for Seniors 2026 (Easy to Use, Reliable)"
-description: "Choosing outage backup power for an older parent or yourself: lighter units, fewer steps, a setup checklist and calculated overnight runtimes for CPAP and other devices."
+description: "Outage backup power for an older parent or yourself: lighter units, fewer steps, a setup checklist and calculated overnight runtimes for CPAP and more."
 pubDate: 2026-07-25
 updatedDate: "Oct 7 2026"
 heroImage: "../../assets/best-solar-generator-seniors.webp"

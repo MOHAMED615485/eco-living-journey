@@ -1,6 +1,6 @@
 ---
 title: "Portable Power Station vs Gas Generator: The True Cost Math"
-description: "Gas generator vs portable power station for home backup: a 10-year cost comparison with stated assumptions, plus noise, safety, maintenance and when a gas generator is still the right tool."
+description: "Gas generator vs portable power station for home backup: a 10-year cost comparison with stated assumptions, plus noise, safety and maintenance."
 pubDate: "Apr 12 2026"
 updatedDate: "Oct 8 2026"
 heroImage: "../../assets/gas-vs-battery.webp"

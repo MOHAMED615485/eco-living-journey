@@ -1,6 +1,6 @@
 ---
 title: "Jackery Explorer 1000 V2 Review: Can It Run a Chest Freezer?"
-description: "Jackery Explorer 1000 V2 review based on published specs: chest freezer and fridge runtime math, surge headroom, solar and wall recharge, CPAP nights per charge, and who should buy it."
+description: "Jackery Explorer 1000 V2 review from published specs: freezer and fridge runtime math, surge headroom, recharge speed, CPAP nights per charge and who it suits."
 pubDate: "Apr 03 2026"
 updatedDate: "Oct 7 2026"
 heroImage: "../../assets/jackery-1000-v2-review.webp"

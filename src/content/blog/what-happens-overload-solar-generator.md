@@ -1,6 +1,6 @@
 ---
 title: "What Happens If You Overload a Solar Generator? (Real Answer)"
-description: "Overloading a solar generator trips the breaker, shuts down output, or damages the inverter. Here's exactly what happens, how to recover, and how to prevent it permanently."
+description: "Overloading a solar generator trips the breaker, cuts output or can stress the inverter. What happens, how to recover and how to prevent it."
 pubDate: 2026-05-18
 updatedDate: 2026-05-18
 heroImage: "/src/assets/what-happens-overload-solar-generator.webp"

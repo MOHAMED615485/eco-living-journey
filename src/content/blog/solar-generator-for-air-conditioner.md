@@ -1,6 +1,6 @@
 ---
 title: "Solar Generator for Air Conditioner: What Actually Works"
-description: "Can a solar generator run an air conditioner? Typical AC wattages, calculated runtimes, surge math, and which portable power stations can handle a small window or portable AC."
+description: "Can a solar generator run an air conditioner? Typical AC wattages, calculated runtimes, surge math and which power stations handle a small window or portable AC."
 pubDate: 2026-06-20
 updatedDate: "Oct 8 2026"
 heroImage: ../../assets/solar-generator-for-air-conditioner-hero.webp

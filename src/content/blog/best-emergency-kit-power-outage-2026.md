@@ -1,6 +1,6 @@
 ---
-title: "Best Emergency Kit for Power Outages 2026: What to Include and What to Buy"
-description: "What a power outage kit actually needs: light, water, food, radio and real first aid. A checklist, how to choose first aid by household size, and how to pair a kit with backup power."
+title: "Best Emergency Kit for Power Outages 2026: What to Include"
+description: "What a power outage kit needs: light, water, food, radio and first aid. A checklist, kit sizing by household, and how to pair it with backup power."
 pubDate: 2026-05-04
 updatedDate: "Oct 8 2026"
 heroImage: "../../assets/best-emergency-kit-power-outage.webp"

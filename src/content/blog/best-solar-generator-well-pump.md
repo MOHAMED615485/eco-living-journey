@@ -1,6 +1,6 @@
 ---
 title: "Best Solar Generator for a Well Pump: Surge Numbers Revealed"
-description: "Well pumps are one of the hardest loads for a power station: high startup surge and often 240V. How to read your pump nameplate, which units clear the numbers, and when a gas generator with a transfer switch is the better answer."
+description: "Well pumps are a hard load for a power station: high startup surge and often 240V. How to read your nameplate and which units clear the numbers."
 pubDate: "Apr 06 2026"
 heroImage: "../../assets/well-pump-solar-generator.webp"
 category: "Best Solar Generators"

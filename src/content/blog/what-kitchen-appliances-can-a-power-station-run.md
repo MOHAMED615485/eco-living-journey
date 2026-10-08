@@ -1,6 +1,6 @@
 ---
 title: "What Kitchen Appliances Can a Power Station Run? (Wh per Use)"
-description: "Microwaves, coffee makers, kettles and slow cookers draw lots of watts but use little energy per use. See the watt-hours per use and how many uses a 1,000Wh battery gives."
+description: "Microwaves, coffee makers, kettles and slow cookers draw many watts but use little energy per use. See watt-hours per use and uses per 1,000Wh battery."
 pubDate: "Oct 08 2026"
 heroImage: "../../assets/what-appliances-solar-generator.webp"
 category: "Solar Generator Guides"

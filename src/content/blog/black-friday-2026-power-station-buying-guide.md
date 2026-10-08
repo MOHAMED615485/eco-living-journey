@@ -1,6 +1,6 @@
 ---
-title: "Black Friday 2026 Power Station Buying Guide: How to Spot a Real Deal"
-description: "Black Friday is November 27, 2026. Learn how to compare power stations by price per watt-hour, check real warranties and avoid inflated 'was' prices. No fake deals, just how to shop."
+title: "Black Friday 2026 Power Station Guide: How to Spot a Real Deal"
+description: "Black Friday is November 27, 2026. Compare power stations by price per watt-hour, check real warranties and avoid inflated 'was' prices."
 pubDate: "Oct 08 2026"
 heroImage: "../../assets/best-solar-generator-2026.webp"
 category: "Solar Generator Guides"

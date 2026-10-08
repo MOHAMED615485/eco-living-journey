@@ -1,5 +1,5 @@
 ---
-title: "How Many Watts Does a Refrigerator Use? (And How Long a Battery Runs It)"
+title: "How Many Watts Does a Refrigerator Use? Battery Runtime Math"
 description: "Refrigerator running watts, startup surge and daily energy use, plus calculated battery runtimes for popular power stations and the 4-hour food rule."
 pubDate: "Oct 08 2026"
 heroImage: "../../assets/how-long-food-last-fridge-power-outage-hero.webp"

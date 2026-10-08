@@ -1,6 +1,6 @@
 ---
-title: "EcoFlow DELTA 3 Plus Review: Can It Actually Run a Chest Freezer?"
-description: "EcoFlow DELTA 3 Plus review based on published specs: the LRA surge check most reviews skip, calculated freezer, fridge and CPAP runtimes, recharge speed, and who should buy it."
+title: "EcoFlow DELTA 3 Plus Review: Can It Run a Chest Freezer?"
+description: "EcoFlow DELTA 3 Plus review from published specs: the LRA surge check most reviews skip, calculated freezer, fridge and CPAP runtimes, and who should buy it."
 pubDate: "Mar 20 2026"
 updatedDate: "Oct 8 2026"
 heroImage: "../../assets/ecoflow-delta-3-plus-review.webp"

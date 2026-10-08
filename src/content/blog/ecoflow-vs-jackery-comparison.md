@@ -1,6 +1,6 @@
 ---
 title: "EcoFlow DELTA 3 Plus vs Jackery 1000 V2: Spec Comparison"
-description: "EcoFlow DELTA 3 Plus vs Jackery Explorer 1000 V2 for a chest freezer or fridge: published specs, surge headroom, calculated runtimes, charging speed, and which one fits your setup."
+description: "EcoFlow DELTA 3 Plus vs Jackery Explorer 1000 V2 for a freezer or fridge: published specs, surge headroom, calculated runtimes and charging speed."
 pubDate: "Mar 23 2026"
 updatedDate: "Oct 7 2026"
 heroImage: "../../assets/ecoflow-jackery-vs-hero.webp"

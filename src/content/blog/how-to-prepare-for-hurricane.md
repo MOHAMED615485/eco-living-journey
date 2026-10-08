@@ -1,6 +1,6 @@
 ---
 title: "How to Prepare for a Hurricane: 2026 Survival Guide"
-description: "Step-by-step hurricane preparation guide built from official guidance and published product specs. Covers timeline, power backup, evacuation, and what to do when the storm hits."
+description: "Step-by-step hurricane preparation built from official guidance and published specs: timeline, power backup, evacuation and what to do when the storm hits."
 pubDate: 2026-06-12
 heroImage: ../../assets/how-to-prepare-for-hurricane-hero.webp
 category: "Emergency Preparedness"

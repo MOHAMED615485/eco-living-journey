@@ -1,6 +1,6 @@
 ---
 title: "Best Solar Generator for CPAP Machine (2026): Watt Math"
-description: "Which solar generator keeps a CPAP running through a power outage? Calculated nights per charge for 1,000Wh units, the real power draw to plan around, DC vs AC, and airline battery limits."
+description: "Which solar generator keeps a CPAP running in an outage? Calculated nights per charge for 1,000Wh units, real power draw, DC vs AC and airline limits."
 pubDate: "May 02 2026"
 updatedDate: "Oct 7 2026"
 heroImage: "../../assets/best-solar-generator-cpap-machine.webp"

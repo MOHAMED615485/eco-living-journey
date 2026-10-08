@@ -1,6 +1,6 @@
 ---
 title: "How Long Does a Solar Generator Last? (Real Answer)"
-description: "A quality solar generator lasts 10-15 years. LiFePO4 batteries handle 3,000-6,000 cycles before hitting 80% capacity. Real lifespan data for Jackery, EcoFlow, and Bluetti."
+description: "A quality solar generator lasts roughly 10-15 years. LiFePO4 cells are rated for 3,000-6,000 cycles to 80% capacity. Lifespan data for Jackery, EcoFlow, Bluetti."
 pubDate: "May 10 2026"
 updatedDate: "Jul 18 2026"
 heroImage: "../../assets/how-long-does-solar-generator-last.webp"

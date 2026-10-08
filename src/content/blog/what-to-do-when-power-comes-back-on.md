@@ -1,6 +1,6 @@
 ---
 title: "What to Do When the Power Comes Back On After an Outage"
-description: "A safe checklist for when electricity returns: protect appliances from surges, check food against the 40°F rule, recharge your backup power and stay safe around generators."
+description: "A safe checklist for when power returns: protect appliances from surges, check food against the 40°F rule, recharge backup power and stay safe around generators."
 pubDate: "Oct 08 2026"
 heroImage: "../../assets/power-outage.webp"
 category: "Solar Generator Guides"

@@ -1,6 +1,6 @@
 ---
-title: "Best Solar Generator for Medical Equipment 2026 (CPAP, Oxygen, Insulin)"
-description: "How to power CPAP, oxygen concentrators and medication storage during an outage: sizing math in calculated hours, pure sine wave, and why life-sustaining equipment needs a plan beyond a power station."
+title: "Best Solar Generator for Medical Equipment 2026 (CPAP, Oxygen)"
+description: "How to power CPAP, oxygen concentrators and medication storage in an outage: sizing math, pure sine wave, and why life-support gear needs a wider plan."
 pubDate: 2026-07-21
 updatedDate: "Oct 7 2026"
 heroImage: "../../assets/best-solar-generator-medical-equipment.webp"
