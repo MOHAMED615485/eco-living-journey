@@ -22,7 +22,7 @@ Here is what manufacturer ratings and battery chemistry say about how long these
 </div>
 
 <div class="cta-container">
-  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;" target="_blank" rel="sponsored nofollow">
     &#9889; Jackery 1000 V2 — 3,000+ Cycle LiFePO4 Battery &rarr;
   </a>
 
@@ -202,7 +202,7 @@ Compare that to:
 For complete buying guidance see the [best solar generators for home backup](/blog/best-solar-generator-home-backup-2026/) and the [best solar generator under $1000](/blog/best-solar-generator-under-1000/) guides.
 
 <div class="cta-container">
-  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits&clickref=how-long-solar-lasts" style="background-color:#2d6a4f;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits&clickref=how-long-solar-lasts" style="background-color:#2d6a4f;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;" target="_blank" rel="sponsored nofollow">
     &#128274; SurviveX Emergency Kit — Complete Your Prep &rarr;
   </a>
 

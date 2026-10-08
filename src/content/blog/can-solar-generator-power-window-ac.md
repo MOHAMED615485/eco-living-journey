@@ -69,7 +69,7 @@ A window AC does not run continuously. It cycles on and off to maintain temperat
 That is the real runtime. Not the theoretical maximum on the spec sheet.
 
 <div class="cta-container">
-  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;" target="_blank" rel="sponsored nofollow">
     &#9889; Jackery 1000 V2 — Handles 5,000 BTU Window AC &rarr;
   </a>
 </div>
@@ -211,7 +211,7 @@ If your inverter is undersized the generator shuts down the moment the compresso
 Heat emergencies require more than just power backup. A complete emergency kit covers hydration, first aid, and communication alongside your power solution.
 
 <div class="cta-container">
-  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits&clickref=window-ac-article" style="background-color:#2d6a4f;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits&clickref=window-ac-article" style="background-color:#2d6a4f;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;" target="_blank" rel="sponsored nofollow">
     &#128274; See the SurviveX Emergency Kit &rarr;
   </a>
 </div>

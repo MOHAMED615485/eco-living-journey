@@ -8,7 +8,7 @@ category: "Power Outage Prep"
 faqSchema: true
 ---
 
-The summer I spent four days without power during a heat wave taught me something doctors do not always say clearly enough: heat kills faster than almost anything else that can go wrong during an outage.
+Heat-wave outages teach something that is not said clearly enough: heat kills faster than almost anything else that can go wrong during an outage.
 
 <div style="background:#eaf5ef;border-left:4px solid #2d6a4f;padding:12px 16px;border-radius:0 8px 8px 0;font-size:0.9em;">Affiliate disclosure: I may earn a commission if you buy through links on this page, at no extra cost to you. Recommendations are based on published specifications and aggregated owner reports.</div>
 
@@ -245,3 +245,24 @@ Fans do not reduce air temperature — they create a wind chill effect that make
 *— Ethan Reynolds tests solar generators and backup power systems for real households. No paid partnerships. No sponsored content.*
 
 *Last updated: June 4, 2026*
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How to Keep Your House Cool During a Power Outage (No AC Needed)",
+  "description": "Keep your house cool during a power outage without AC — 12 proven strategies that work in summer heat, plus the right backup power setup if you need to run a window AC.",
+  "datePublished": "2026-08-04",
+  "dateModified": "2026-08-04",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/how-to-keep-house-cool-power-outage/"
+}
+</script>

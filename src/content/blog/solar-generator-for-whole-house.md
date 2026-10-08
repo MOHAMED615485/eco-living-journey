@@ -158,7 +158,7 @@ For full guidance on sizing your specific setup, see the [Solar Generator Sizing
   <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">🎒 SurviveX 72-Hour Emergency Kit</p>
   <p style="margin:0 0 12px;font-size:0.95rem;">Pre-assembled food, water purification, first aid, and communication gear — the supply side of your outage plan, done for you.</p>
   <p style="margin:0 0 12px;font-size:0.88rem;color:#3d8b6f;">📦 Free shipping on orders $50+ · 10% off your first order when you sign up</p>
-  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Check SurviveX Kit →</a>
+  <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;" target="_blank" rel="sponsored nofollow">Check SurviveX Kit →</a>
 </div>
 
 ## ❓ Frequently Asked Questions
@@ -208,3 +208,105 @@ Step 1: List every appliance you need during an outage with its running wattage.
 <a href="https://ethanecoliving.gumroad.com/l/solar-generator-toolkit-2026" >Get the Buyer's Toolkit →</a>
 <p style="font-size:0.85em;color:#555;margin-bottom:0;margin-top:12px;">Instant download. If it doesn't save you at least the $19 on your purchase, email me at ethan@ecoliving-journey.com.</p>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How Many Solar Panels for Whole House Backup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you're investing in a serious backup system, solar panels determine how long you can sustain it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a solar generator power a whole house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not a typical US home. A whole house uses 30–50 kWh (30,000–50,000 Wh) per day. The largest portable solar generators hold 2,000–6,000 Wh — about 10–15% of daily home usage. A portable solar generator can power critical loads (refrigerator, lights, CPAP, devices, fans) which covers everything that matters during an outage. True whole-house backup requires a whole-home battery system starting at $10,000+ installed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What size solar generator do I need for a house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For critical loads only (refrigerator + lights + CPAP + devices = ~600W): a 2,000–3,000 Wh solar generator with 400W solar panels handles this in a cycle mode, providing nearly continuous power to everything that matters. For critical loads + window AC: a 3,600 Wh unit. For genuine whole-home backup: a Tesla Powerwall 3 system (13.5 kWh, $12,000–15,000 installed) or equivalent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long will a solar generator power a house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A 2,000 Wh solar generator running critical loads (600W) lasts about 3 hours on a full charge before needing recharging. With a 400W solar panel recharging during daylight, you can cycle power indefinitely — 3 hours on, 2 hours charging, repeat. This provides 8–10 hours of powered appliances daily from solar input alone."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a solar generator better than a gas generator for home backup?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For critical loads backup: solar generators are quieter, require no fuel storage, produce no carbon monoxide (can be used indoors safely), and have lower long-term costs. Gas generators produce more power cheaply and refuel quickly. The practical answer: a solar generator handles the critical loads most people actually need (fridge, devices, CPAP) without the noise, fumes, or fuel management of gas. For whole-home backup of high-draw appliances (AC, water heater), a gas generator or whole-home battery is more practical."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many solar panels do I need to power a house during an outage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For critical loads only (1,400 Wh/day): 400W of solar panels provides enough daily input to sustain indefinite operation. For a whole-home battery system (13.5 kWh): a 4,000–6,000W solar array is needed for meaningful daily recharging. A full residential solar + battery system typically uses 6–10kW of panels costing $15,000–25,000 before the 30% federal tax credit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I connect a solar generator to my home's electrical panel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with a transfer switch installed by a licensed electrician ($500–1,500 installed). This allows a portable solar generator to power selected circuits in your home rather than individual appliances via extension cords. It does not bypass your utility meter safely — a proper transfer switch isolates your home from the grid when the generator is running. Never backfeed power into your panel without a proper transfer switch — it is dangerous and illegal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the cheapest way to backup power a whole house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most cost-effective approach for most homeowners: a 2,000 Wh portable solar generator ($1,200–1,600) + two 200W solar panels ($300) = $1,500–1,900 total. This covers critical loads indefinitely using solar cycling. A whole-home battery system starts at $10,000+ installed. The critical loads approach covers 95% of real-world outage scenarios at 15% of the cost of a whole-home system."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I calculate what size solar generator I need for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Step 1: List every appliance you need during an outage with its running wattage. Step 2: Multiply running watts by hours used per day to get daily Wh per appliance. Step 3: Sum all daily Wh — this is your total daily load. Step 4: Your battery capacity should equal 1.5× your daily load. Step 5: Your solar panel wattage should equal daily load ÷ daily sun hours ÷ 0.75. Use the free solar calculator → for exact numbers based on your location."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Solar Generator for Whole House: What Size Do You Need?",
+  "description": "Can a solar generator power a whole house? The real wattage math, what is actually possible, and what size you need for whole house backup in 2026.",
+  "datePublished": "2026-06-25",
+  "dateModified": "2026-06-25",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/solar-generator-for-whole-house/"
+}
+</script>

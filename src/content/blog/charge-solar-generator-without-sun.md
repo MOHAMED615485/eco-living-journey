@@ -256,3 +256,24 @@ If you have a gas generator, connect it to your solar generator's AC input for w
 *Specifications are the manufacturers' published figures and can change. Charge estimates are calculations, not our own measurements.*
 
 *Last updated: October 2026*
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How to Charge a Solar Generator Without Sun (6 Real Methods)",
+  "description": "No sun? No problem. Here are 6 proven ways to charge your solar generator without sunlight — from wall outlets to car charging to cloudy day tips that actually work.",
+  "datePublished": "2026-08-01",
+  "dateModified": "Oct 7 2026",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/charge-solar-generator-without-sun/"
+}
+</script>
