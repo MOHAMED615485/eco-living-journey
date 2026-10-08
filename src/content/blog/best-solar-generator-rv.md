@@ -188,12 +188,21 @@ If you own a Jackery or EcoFlow and want to run roof AC — install a soft start
 
 
 <div style="background:#f0fdf4;border:1.5px solid #2d6a4f;border-radius:12px;padding:16px 20px;margin:2rem 0;">
-<strong style="color:#2d6a4f;font-size:0.95rem;">&#127957; Complete Your Camp Setup with Traverseon</strong><br/>
-<span style="font-size:0.85rem;color:#444;display:block;margin:8px 0;">The same campers who trust solar generators for power trust Traverseon for shelter. Use code <strong>Mohamed10</strong> for 10% off.</span>
-<div style="display:flex;flex-direction:column;gap:8px;margin-top:10px;">
-<a href="https://www.awin1.com/cread.php?awinmid=124816&awinaffid=2815020&ued=https%3A%2F%2Ftraverseon.com%2Fproducts%2Fultralight-bivy-trekking-pole-tent" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;" target="_blank" rel="sponsored nofollow">→ Ultralight 1P Bivy Trekking Pole Tent — 1kg StormLock Design</a>
-<a href="https://www.awin1.com/cread.php?awinmid=124816&awinaffid=2815020&ued=https%3A%2F%2Ftraverseon.com%2Fproducts%2Ftraverseon-tunnel-duo-tent" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;" target="_blank" rel="sponsored nofollow">→ AeroDuo 2P Ultralight Tunnel Tent — 1.58kg Compact Shelter</a>
-<a href="https://www.awin1.com/cread.php?awinmid=124816&awinaffid=2815020&ued=https%3A%2F%2Ftraverseon.com%2Fproducts%2Fgoose-down-winter-sleeping-bag-traverseon" style="color:#2d6a4f;font-weight:700;font-size:0.88rem;text-decoration:underline;" target="_blank" rel="sponsored nofollow">→ Down Mummy Sleeping Bag -13°C Extreme Cold Weather</a>
+<strong style="color:#2d6a4f;font-size:1rem;">&#127957; Shelter and sleep gear from Traverseon</strong>
+<p style="font-size:0.9rem;color:#333;margin:8px 0;">Power is only part of a camp setup. These are listed specs from Traverseon&rsquo;s own product pages; prices change, so check the current listing.</p>
+<ul style="font-size:0.9rem;color:#333;margin:6px 0 10px 1.2rem;">
+<li><a href="https://www.awin1.com/cread.php?awinmid=124816&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Ftraverseon.com%2Fproducts%2Ftraverseon-tunnel-duo-tent" style="color:#2d6a4f;font-weight:700;font-size:0.9rem;text-decoration:underline;" target="_blank" rel="sponsored nofollow">AeroDuo 2P tunnel tent</a>: 3-season, about 3.5 lb, from $109.90 (trekking poles not included).</li>
+<li><a href="https://www.awin1.com/cread.php?awinmid=124816&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Ftraverseon.com%2Fproducts%2Fultralight-bivy-trekking-pole-tent" style="color:#2d6a4f;font-weight:700;font-size:0.9rem;text-decoration:underline;" target="_blank" rel="sponsored nofollow">1-person trekking-pole tent</a>: about 2.2 lb, from $123.03 (front trekking pole not included).</li>
+<li><a href="https://www.awin1.com/cread.php?awinmid=124816&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Ftraverseon.com%2Fproducts%2Fgoose-down-winter-sleeping-bag-traverseon" style="color:#2d6a4f;font-weight:700;font-size:0.9rem;text-decoration:underline;" target="_blank" rel="sponsored nofollow">Down mummy sleeping bag</a>: five fill weights; the 1,200 g option lists a lower limit of 9&deg;F (-13&deg;C), the 400 g option 45&deg;F. From $119.96.</li>
+</ul>
+<p style="font-size:0.85rem;color:#2d6a4f;font-weight:700;margin:0;">Use code <strong>Mohamed10</strong> at checkout for 10% off.</p>
+</div>
+
+<div style="background:#f0fdf4;border:1.5px solid #2d6a4f;border-radius:12px;padding:16px 20px;margin:2rem 0;">
+<strong style="color:#2d6a4f;font-size:1rem;">A small portable AC sized for a power station: Traverseon 4,500/5,200 BTU</strong>
+<p style="font-size:0.92rem;color:#333;margin:8px 0;">Traverseon lists this 110V portable air conditioner at 4,500 BTU (for about 54&ndash;86 sq ft) and 5,200 BTU (about 86&ndash;108 sq ft), with a listed power consumption of 350W/450W (the page does not say which figure belongs to which model). It weighs 28.7 lb (4,500 BTU) or 33.1 lb (5,200 BTU), is listed at about 45 dB, and is priced at $699.90 and $789.90. Traverseon states a 30-day return window and does not publish a warranty length, and does not say whether it is compatible with battery power stations.</p>
+<p style="font-size:0.92rem;color:#333;margin:8px 0;"><strong>Calculated runtime at the listed draw (usable = rated Wh &times; 0.85):</strong> at 450W, about 3.9 hours on a Bluetti Elite 200 V2, about 2.0 hours on a Jackery Explorer 1000 V2, and about 1.9 hours on an EcoFlow DELTA 3 Plus. At 350W those become roughly 5.0, 2.6 and 2.5 hours. The compressor&rsquo;s startup surge is not published, so allow a generous surge margin before pairing it with a smaller station.</p>
+<a href="https://www.awin1.com/cread.php?awinmid=124816&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Ftraverseon.com%2Fproducts%2Fportable-air-conditioner-4500-5200-btu-for-53-108-sq-ft-camping-rv-ac-traverseon" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">Check Traverseon Portable AC Price</a>
 </div>
 <p style="font-size:0.78rem;color:#2d6a4f;font-weight:700;margin:8px 0 0;">Use code <strong>Mohamed10</strong> at checkout for 10% off all Traverseon products</p>
 </div>
@@ -305,3 +314,24 @@ For most RV uses yes — solar generators are silent, require zero maintenance, 
 *— Ethan Reynolds researches solar generators for RV and camping use using manufacturer specifications and aggregated owner reports. No paid partnerships. No sponsored content. Real numbers only.*
 
 *Last updated: May 20, 2026*
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Best Solar Generator for RV 2026: Surge, Runtime and Real Costs",
+  "description": "The best solar generator for RV use in 2026: rooftop AC surge requirements, runtime math, and costs.",
+  "datePublished": "2026-05-20",
+  "dateModified": "2026-10-08",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/best-solar-generator-rv/"
+}
+</script>
