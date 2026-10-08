@@ -119,13 +119,13 @@ The Large kit is a sensible default for most households. Per SurviveX, it includ
 
 ### Two things worth knowing before you buy
 
-**FSA and HSA.** SurviveX states its first aid kits are FSA and HSA eligible. If you have FSA funds that expire on December 31, this can be a useful way to spend them. Check your plan's rules.
+**FSA and HSA.** SurviveX states that all of its first aid kits qualify for FSA and HSA spending. If you have FSA funds that expire on December 31, this can be a useful way to spend them. Check your plan's rules.
 
 **Shipping and returns.** SurviveX lists free shipping on orders over $50, free returns and a lifetime warranty, and says orders ship within 12 hours.
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:12px;padding:24px;margin:32px 0;">
 <h3 style="color:#2d6a4f;margin-top:0;">SurviveX first aid kits</h3>
-<p>Per SurviveX: designed in Virginia, endorsed by a practicing EMT-P, FSA and HSA eligible, lifetime warranty, free returns, and orders shipped from US warehouses.</p>
+<p>Per SurviveX: designed in Falls Church, Virginia, every kit reviewed by an in-house former EMT, firefighter and search-and-rescue responder, FSA and HSA eligible, lifetime warranty, free returns, and orders shipped within 12 hours.</p>
 <p><a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Flarge-first-aid-kit" rel="sponsored nofollow">Large First Aid Kit, 3-4 people &rarr;</a></p>
 <p><a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Fsmall-first-aid-kit" rel="sponsored nofollow">Small Kit, 1-2 people &rarr;</a> &nbsp;&middot;&nbsp; <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fproducts%2Flarge-pro-first-aid-kit" rel="sponsored nofollow">Large Pro, 5-6 people &rarr;</a></p>
 <p style="margin-bottom:0;">Use code <strong style="background:#2d6a4f;color:#fff;padding:3px 10px;border-radius:4px;letter-spacing:1px;">GETREADY10</strong> for 10% off. Free shipping over $50. Code valid through 30 November 2026.</p>
