@@ -7,9 +7,7 @@ heroImage: "../../assets/store-solar-generator-winter.webp"
 category: "Solar Generator Guides"
 ---
 
-The winter I ignored my solar generator cost me 15% of its battery capacity permanently.
-
-I left it in my garage at 20% charge during a cold January. Temperatures dropped to 18°F for two weeks. When spring came the unit worked fine — but its usable capacity had dropped from 1,024Wh to roughly 870Wh. That capacity never came back.
+Winter is hard on a power station that sits unused. A battery left at a low charge in the cold, or charged below freezing, can lose capacity permanently.
 
 LiFePO4 batteries are remarkably resilient. But they have two specific failure modes in winter: deep discharge in the cold, and charging below freezing. Both cause permanent, irreversible damage. This guide tells you exactly how to avoid them.
 
@@ -268,5 +266,26 @@ LiFePO4 batteries deliver reduced output in very cold temperatures but this is t
       "acceptedAnswer": {"@type": "Answer", "text": "LiFePO4 batteries deliver reduced output in very cold temperatures but this is temporary. Performance returns to normal when the battery warms up. The Jackery 1000 V2 operates down to -4F with reduced but functional output."}
     }
   ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How to Store a Solar Generator in Winter (2026 Guide)",
+  "description": "Store your solar generator at 30-80% charge in a dry space above 32F. Cold kills LiFePO4 capacity permanently. Full winter storage checklist for every battery type.",
+  "datePublished": "May 08 2026",
+  "dateModified": "May 08 2026",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/store-solar-generator-winter/"
 }
 </script>

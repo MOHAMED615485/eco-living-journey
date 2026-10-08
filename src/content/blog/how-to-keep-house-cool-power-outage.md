@@ -97,7 +97,7 @@ A quality battery-powered fan draws only 20-50W — dramatically less than AC �
 <div>
 <strong style="color:#92400e;font-size:0.95rem;">Want to run a window AC instead of just a fan?</strong><br/>
 <span style="font-size:0.88rem;color:#444;">A 5,000 BTU window AC surges to 1,200-1,500W at startup. Most generators trip on this. Here is which units have the surge headroom to handle it.</span><br/>
-<a href="/blog/can-solar-generator-power-window-ac/" style="color:#92400e;font-weight:700;font-size:0.88rem;text-decoration:underline;">→ Can a Solar Generator Run a Window AC? (Real Test)</a>
+<a href="/blog/can-solar-generator-power-window-ac/" style="color:#92400e;font-weight:700;font-size:0.88rem;text-decoration:underline;">→ Can a Solar Generator Run a Window AC?</a>
 </div>
 </div>
 

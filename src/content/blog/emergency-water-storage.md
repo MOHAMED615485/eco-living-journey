@@ -7,13 +7,11 @@ category: "Emergency Preparedness"
 faqSchema: true
 ---
 
-The first time I lost water for three days, I had 40 gallons of backup power sitting in my garage and exactly four bottles of drinking water in the fridge.
+Many people spend months on backup power and never think about the one thing a household needs more urgently than electricity. You can survive weeks without power. You can survive only about three days without water.
 
-I'd spent months obsessing over solar generators and never once thought about the one thing my family needed more urgently than electricity. You can survive weeks without power. You can survive about three days without water.
+*Affiliate disclosure: some links below are affiliate links. We earn a commission at no extra cost to you.*
 
-*Affiliate disclosure: some links below are affiliate links — I earn a commission at no extra cost to you. I only recommend gear I've actually used.*
-
-So I fixed it, tested it over a full year of storage, and here's exactly what I learned about storing water for an emergency.
+This guide covers how much water to store, the main storage methods, and how to keep it safe.
 
 > **⚡ Quick Answer:** Store **one gallon per person per day**, for a minimum of **14 days** (FEMA says 3 days; 3 days is not enough for a real event). For a family of four, that's **56 gallons minimum**. Store it in food-grade containers, keep it out of sunlight, and rotate every 6–12 months. Commercially sealed bottled water lasts indefinitely if unopened and stored cool.
 
@@ -65,11 +63,11 @@ This is the question that surprises people most.
 
 ## 🛢️ Best Ways to Store Emergency Water
 
-I've tested four storage methods over the past year. Here's the honest breakdown.
+Here are four common storage methods.
 
 **1. Cases of bottled water — easiest.** Buy flats, stack them in a closet, done. Downside: bulky and expensive per gallon. Best for the first 3–5 days of supply where grab-and-go matters.
 
-**2. 5–7 gallon jugs (stackable) — best balance.** Food-grade containers like the Reliance Aqua-Tainer are the sweet spot: portable enough to carry, big enough to matter. This is what I recommend most families start with.
+**2. 5–7 gallon jugs (stackable) — best balance.** Food-grade containers like the Reliance Aqua-Tainer are the sweet spot: portable enough to carry, big enough to matter. This is a good starting point for most families.
 
 **3. 55-gallon barrels — best value per gallon.** One barrel = a week of water for a family of four. But full, it weighs ~450 lbs and can't be moved. You need a siphon pump and a permanent spot for it.
 
@@ -98,17 +96,17 @@ Heat and light are the enemies. A garage that hits 90°F in summer will degrade 
 
 Hurricanes are the scenario where water storage saves the day, because municipal water often gets contaminated or loses pressure when the grid goes down and pumping stations fail.
 
-Your hurricane water plan should layer three tiers: **grab-and-go bottles** for evacuation, **stored jugs or barrels** for sheltering in place, and a **WaterBOB** filled the moment a storm enters the forecast cone. I keep all three, and I fill the tub before every named storm — it costs nothing and I've never regretted it.
+Your hurricane water plan should layer three tiers: **grab-and-go bottles** for evacuation, **stored jugs or barrels** for sheltering in place, and a **WaterBOB** filled the moment a storm enters the forecast cone. Filling the tub before a named storm costs almost nothing.
 
-Pair this with the rest of your prep. My full [hurricane preparedness checklist](/blog/hurricane-preparedness-checklist/) covers power, food, and medical alongside water, and [what to do during a power outage](/blog/what-to-do-during-power-outage/) walks through the first-hour priorities.
+Pair this with the rest of your prep. Our full [hurricane preparedness checklist](/blog/hurricane-preparedness-checklist/) covers power, food, and medical alongside water, and [what to do during a power outage](/blog/what-to-do-during-power-outage/) walks through the first-hour priorities.
 
 ---
 
 ## 👨‍👩‍👧 Family & Kids: Don't Underestimate Usage
 
-Real families use more water than the calculators suggest. Kids spill. Formula needs mixing. Someone always wants to wash up after a stressful day. When I actually measured my family of four during a 3-day dry run, we used closer to **5 gallons per day**, not 4 — even being careful.
+Real families can use more water than the calculators suggest. Kids spill, formula needs mixing, and someone always wants to wash up. The common planning baseline is 1 gallon per person per day for drinking and basic hygiene, so build in a buffer for a family.
 
-Build in a buffer. If the math says 56 gallons for two weeks, store 70. Water is the cheapest insurance in your entire prep, and running short is the one shortage you can't improvise your way out of.
+Build in a buffer. If the math says 56 gallons for two weeks, consider storing 70. Water is the cheapest insurance in your entire prep, and running short is the one shortage you can't improvise your way out of.
 
 ---
 
@@ -131,7 +129,7 @@ For under $100 you can store two weeks of water for a family of four using reusa
 
 Storage covers you for days to weeks. For anything longer, you need a way to make water safe. Keep at least one backup method: a quality gravity filter, water purification tablets, or the ability to boil (rolling boil for 1 minute kills pathogens). A filter plus stored water is the combination that turns "two weeks" into "as long as you need."
 
-A solar generator helps here too — it can boil water on an electric kettle or run a purification setup when the gas is out. If you don't have backup power yet, start with my guide to [emergency power at home](/blog/emergency-power-at-home/).
+A solar generator helps here too — it can boil water on an electric kettle or run a purification setup when the gas is out. If you don't have backup power yet, start with our guide to [emergency power at home](/blog/emergency-power-at-home/).
 
 ---
 
@@ -143,7 +141,7 @@ A solar generator helps here too — it can boil water on an electric kettle or 
 
 <div style="background:#f0f7f4;border:1px solid #2d6a4f;padding:16px;margin:24px 0;border-radius:4px;">
   <strong>🧰 SurviveX Emergency Kits</strong><br>
-  Water is tier one — but a full emergency kit covers the rest. SurviveX makes the best ones I've tested, built for real scenarios.<br>
+  Water is tier one — but a full emergency kit covers the rest. SurviveX makes first aid kits that cover the injuries outages usually bring.<br>
   Free shipping on orders $50+. 10% off your first order with newsletter signup.<br><br>
   <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="background:#3d8b6f;color:white;padding:10px 20px;text-decoration:none;border-radius:4px;display:inline-block;margin-top:8px;">Shop SurviveX Kits →</a>
 </div>
@@ -189,6 +187,100 @@ Municipal tap water already contains chlorine and needs nothing extra for 6-mont
 
 ## About Ethan
 
-I'm a homeowner who tests emergency and backup systems in real conditions before recommending them. I learned the water lesson the hard way — three days dry with four bottles in the fridge. Now I keep 14 days stored and share exactly what works. Everything on this site I've tested myself.
+Ethan Reynolds writes about emergency and backup power for households. Specifications come from manufacturers and official guidance, and calculations are shown so you can check them.
 
-*Last updated: July 2026*
+*Last updated: October 2026*
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much water should I store per person?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "One gallon per person per day covers drinking, cooking, and basic hygiene. For a realistic emergency, store 14 days' worth — 14 gallons per person. FEMA's 3-day minimum is a floor, not a target."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does stored water expire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Commercially sealed bottled water doesn't expire for safety purposes if kept cool and dark — the date is about taste and plastic quality. Home-stored tap water should be rotated every 6 months."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I store tap water in old milk jugs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Milk jug plastic degrades within months and residual sugars promote bacterial growth. Use food-grade containers designed for water storage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I purify water if I run out of stored supply?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Boil at a rolling boil for 1 minute, use unscented household bleach (2 drops per gallon, wait 30 minutes), water purification tablets, or a quality gravity filter. Keep at least one backup method on hand."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long can a person survive without water?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Roughly three days, though this varies with heat, exertion, and health. This is why water is the single highest priority in any emergency plan — well ahead of food or power."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does emergency water storage cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under $100 covers two weeks of water for a family of four using reusable food-grade containers. It's the cheapest high-value item in any preparedness plan."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much water do I need for a hurricane specifically?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minimum 14 days per person, because outages and water contamination after major storms routinely last a week or more. Fill a WaterBOB in your tub the moment a storm enters the forecast."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to add anything to stored tap water?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Municipal tap water already contains chlorine and needs nothing extra for 6-month storage. For well or untreated water, add 2 drops of unscented bleach per gallon before sealing."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Emergency Water Storage: How Much You Really Need",
+  "description": "How much water to store per person, how to store it safely, and how long it lasts. A practical emergency water plan for outages, hurricanes, and disasters.",
+  "datePublished": "Jul 07 2026",
+  "dateModified": "Jul 07 2026",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/emergency-water-storage/"
+}
+</script>

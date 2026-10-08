@@ -7,11 +7,9 @@ heroImage: "../../assets/how-to-prep-home-power-outage.webp"
 category: "Power Outage Prep"
 ---
 
-The night before Hurricane Ida hit, I was driving to three different stores trying to find flashlight batteries.
+The night before a big storm, the shelves are empty. Flashlight batteries are sold out, you are left with candles you have never used, your phone is at 40%, and you are unsure whether the freezer will survive. Outages like that are mostly avoidable.
 
-Everything was sold out. I came home with candles I'd never used, a phone at 40%, and a freezer full of food I wasn't sure would survive. We lost power for 61 hours. I lost the food. I lost sleep. I spent two days uncomfortable in ways that were entirely preventable.
-
-That was the last time I prepped reactively. This guide is everything I put in place afterward so the next outage — and there have been several since — was boring instead of miserable.
+This guide covers what to put in place beforehand so the next outage is boring instead of miserable.
 
 <div style="background:#f0fdf4;border-left:4px solid #2d6a4f;padding:16px 20px;border-radius:8px;margin-bottom:1.5rem;">
 <strong>&#9889; Quick Answer:</strong> To prep your home for a power outage you need: <strong>72 hours of water</strong> (1 gallon per person per day), <strong>3+ days of non-perishable food</strong>, a <strong>manual can opener</strong>, a <strong>battery or solar powered light source</strong>, a <strong>fully charged power bank</strong>, and a plan for your freezer food. Everything else is a bonus.
@@ -110,7 +108,7 @@ The goal is food that requires no refrigeration, minimal water, and ideally no c
 
 Manual can opener. Every single preparedness guide mentions it and every single outage produces someone with 40 cans of soup and no way to open them. Buy three. Put one in the kitchen, one in your go bag, one in your car.
 
-If you want a ready-built emergency kit that covers food, first aid, water purification, and communication in one package, the SurviveX Large Survival Kit is the most complete option I have found at the price point.
+If you want a ready-built emergency kit that covers food, first aid, water purification, and communication in one package, SurviveX makes first aid kits that cover the first aid layer of an outage kit; build food, water and light around them.
 
 <div class="cta-container">
   <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits&clickref=prep-home-article" style="background-color:#2d6a4f;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
@@ -224,7 +222,7 @@ Most people wait until a storm is 48 hours away and then panic-buy everything th
 
 The supplies are not the hard part. The hard part is doing it before you need it, when the urgency does not feel real yet.
 
-I keep a running list of what I used during each outage and restock within a week of power coming back. That discipline — not any particular product — is what makes the difference between an outage being an inconvenience and being a crisis.
+Keep a running list of what you used during each outage and restock within a week of power coming back. That discipline — not any particular product — is what makes the difference between an outage being an inconvenience and being a crisis.
 
 For families with specific needs — medical equipment, infants, elderly family members, or chest freezers full of food — a solar generator is the single upgrade that changes the experience the most. The [best solar generators for home backup](/blog/best-solar-generator-home-backup-2026/) guide covers the options at every budget.
 
@@ -303,5 +301,26 @@ For essential loads — chest freezer, refrigerator, router, phone charging, and
       "acceptedAnswer": {"@type": "Answer", "text": "For essential loads including chest freezer, refrigerator, router, and phone charging, a 1000Wh solar generator with a 2000W inverter handles most households. The Jackery Explorer 1000 V2 and EcoFlow DELTA 3 Plus are the top picks at this capacity."}
     }
   ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How to Prep Your Home for a Power Outage (2026 Guide)",
+  "description": "A step-by-step checklist to prep your home for a power outage before the next storm hits. Covers food, water, power, heat, and communication — tested by a homeowner.",
+  "datePublished": "Apr 26 2026",
+  "dateModified": "Apr 26 2026",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/how-to-prep-home-power-outage/"
 }
 </script>
