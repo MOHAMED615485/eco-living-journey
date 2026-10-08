@@ -1,10 +1,11 @@
 ---
 title: "What to Do During a Power Outage: Complete 2026 Guide"
-description: "Exactly what to do during a power outage — first 10 minutes to day 7. From a spec-and-owner-report analysiser with real watt measurements and outage experience."
+description: "Exactly what to do during a power outage — first 10 minutes to day 7. Built from official guidance and typical appliance wattages."
 pubDate: 2026-06-14
 heroImage: ../../assets/what-to-do-during-power-outage-hero.webp
 category: "Emergency Preparedness"
 faqSchema: true
+updatedDate: "Oct 8 2026"
 tags: ["power outage", "what to do", "emergency preparedness", "solar generator", "outage survival"]
 ---
 
@@ -12,13 +13,11 @@ tags: ["power outage", "what to do", "emergency preparedness", "solar generator"
 **Quick Answer:** First 10 minutes of a power outage: confirm it's not just your home (check neighbors), locate flashlights, unplug sensitive electronics, check your circuit breaker, and report the outage to your utility. Do NOT open the refrigerator. First hour: assess how long the outage might last, deploy backup power, and activate your emergency plan. After 4 hours: move refrigerator food to cooler with ice.
 </div>
 
-<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. I earn a small commission if you buy through my links, at no extra cost to you. I only recommend gear I have researched in depth: manufacturer specifications, published teardowns, and aggregated owner reports.</em></p>
+<p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. We earn a small commission if you buy through our links, at no extra cost to you. Specifications come from manufacturer pages and runtimes are calculations, not our own tests.</em></p>
 
-My longest power outage lasted 9 days.
+Outages rarely go the way people expect. Day one can feel like a camping adventure, day three turns into a logistics problem, and by day seven every gap in your preparation shows.
 
-Day one felt like a camping adventure. Day three felt like a logistics problem. Day seven felt like a test of everything I thought I knew about being prepared.
-
-I made mistakes. I opened the refrigerator too many times. I ran my first generator too close to the house. I didn't have enough cash when the ATMs went offline. I learned every lesson the hard way so you don't have to.
+The common mistakes are easy to avoid once you know them: opening the refrigerator too often, running a generator too close to the house, and not having cash when card readers and ATMs go offline.
 
 This guide covers exactly what to do at each stage of a power outage — from the first 10 minutes to day seven and beyond.
 
@@ -78,17 +77,17 @@ If you have a solar generator or power station:
 - Phone charging: 5–20W
 - LED lamp: 8W
 
-A 1,000Wh solar generator running a refrigerator (150W average) will last approximately 6–7 hours. Add a 200W solar panel and you can run the refrigerator indefinitely during daylight hours.
+A 1,000Wh-class solar generator has about 850Wh usable. A refrigerator averaging 60W runs roughly 14 hours on that, and about 6 hours if it drew a continuous 150W. A 200W solar panel adds about 750Wh on a good sun day, which covers roughly half a fridge's daily use, so it extends the runtime rather than making it indefinite.
 
-👉 **[See which solar generators I recommend for power outages →](/blog/best-solar-generator-home-backup-2026/)**
+👉 **[See which solar generators we recommend for power outages →](/blog/best-solar-generator-home-backup-2026/)**
 
 ### 🏆 Quick Comparison: Best Solar Generators for Power Outages
 
-| Model | Capacity | Output | Rating | Best For |
-|---|---|---|---|---|
-| EcoFlow DELTA 2 | 1,024Wh | 1,800W | ★★★★★ (5.0) | Fridge + medical devices |
-| [Jackery Explorer 1000 v2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) | 1,000Wh | 1,500W | ★★★★☆ (4.5) | Budget all-rounder |
-| [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | Extended outages |
+| Model | Capacity | Output | Best For |
+|---|---|---|---|
+| <a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" target="_blank" rel="sponsored nofollow">EcoFlow DELTA 3 Plus</a> | 1,024Wh | 1,800W (3,600W surge) | Fridge + CPAP + devices |
+| <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="sponsored nofollow">Jackery Explorer 1000 V2</a> | 1,070Wh | 1,500W (3,000W surge) | Lighter all-rounder |
+| <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2" target="_blank" rel="sponsored nofollow">Bluetti Elite 200 V2</a> | 2,073.6Wh | 2,600W | Longer outages, more loads |
 
 
 
@@ -108,7 +107,7 @@ At the 4-hour mark, your refrigerator food is approaching the safety limit. This
 Transfer the most perishable items (meat, dairy, leftovers) to a cooler with ice. A good cooler with sufficient ice extends food safety by 24–48 hours.
 
 ### Option B: You have a solar generator
-Run the refrigerator on backup power. At 150W average draw, a 1,000Wh battery runs it for 6–7 hours. With solar recharging during the day, you can keep the refrigerator running indefinitely.
+Run the refrigerator on backup power. At a 60W average draw, a 1,000Wh-class battery runs it for roughly 14 hours. Solar recharging in good sun adds several more hours per day.
 
 ### Option C: No ice, no backup power
 After 4 hours, move non-perishable items out and mentally write off the perishables. Eat what you can now. For a detailed breakdown of which foods survive and for how long, see [how long does food last in the fridge without power](/blog/how-long-food-last-fridge-power-outage/).
@@ -204,7 +203,7 @@ These mistakes cost people money, health, and in worst cases, their lives:
 
 ## 🎒 Power Outage Kit — What You Actually Need
 
-Based on my 9-day outage experience, here's what made the difference:
+Here is what makes the biggest difference in a long outage:
 
 **Non-negotiable:**
 - Solar generator 1,000Wh+ with solar panel (runs refrigerator + medical devices)
@@ -220,7 +219,7 @@ Based on my 9-day outage experience, here's what made the difference:
 - Cash ($300+ in small bills)
 - Cooler with ice for first 24–48 hours
 
-For the complete kit list with exact products and watt measurements, the **72-Hour Power Outage Survival Kit** has everything in one printable document.
+For the complete kit list with exact products and typical wattages, the **72-Hour Power Outage Survival Kit** has everything in one printable document.
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
   <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">🔋 72-Hour Power Outage Survival Kit — $27</p>
@@ -246,7 +245,7 @@ Yes — gas stoves work without electricity for cooking. However, never use a ga
 
 ### Can I run my refrigerator on a solar generator during a power outage?
 
-Yes. A standard 18 cu ft refrigerator draws approximately 150W running (400W startup surge). A 1,000Wh solar generator can run it for 6–7 hours on a full charge. Paired with a 200W solar panel, you can keep a refrigerator running indefinitely during daylight hours by recharging while the sun is up. This is my tested setup for hurricane season.
+Yes. A standard 18 cu ft refrigerator draws roughly 150W while the compressor runs (about 400W at startup) and averages closer to 60W over time. A 1,000Wh-class solar generator has about 850Wh usable, so it runs a fridge for roughly 14 hours at a 60W average. A 200W solar panel adds about 750Wh on a good day, which covers about half of a fridge's daily use, so it stretches the runtime but may not sustain it alone. Check your own fridge with a plug-in power meter.
 
 ### How do I keep my house cool during a summer power outage?
 
@@ -266,12 +265,88 @@ The average power outage duration after a major hurricane (Category 3+) is 8–1
 
 ---
 
-*Ethan Reynolds researches solar generators and emergency power systems using specs and owner reports. Equipment referenced is independently researched, not supplied by manufacturers. Last updated August 2026.*
+*Ethan Reynolds researches solar generators and emergency power systems using specs and owner reports. Specs are manufacturers' published figures; runtimes are calculated, not measured. Last updated October 2026.*
 
 
 <div style="background:#f5f0dc;border:2px solid #2d6a4f;border-radius:8px;padding:1rem 1.25rem;margin:1.5rem 0;">
   <p style="margin:0 0 8px;font-weight:600;color:#2d6a4f;">🎒 SurviveX 72-Hour Emergency Kit</p>
   <p style="margin:0 0 6px;font-size:0.95rem;">Pre-assembled food, water purification, first aid, and communication gear — built for real outages, not just camping weekends.</p>
-  <p style="margin:0 0 12px;font-size:0.88rem;color:#3d8b6f;">📦 Free shipping on orders $150+ · 10% off your first order when you sign up</p>
   <a href="https://www.awin1.com/cread.php?awinmid=124484&awinaffid=2815020&ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Check SurviveX Kit →</a>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the first thing you should do in a power outage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first thing is to locate your flashlights and confirm the scope of the outage — check if neighbors have power and whether it's just your home or a wider area. Then unplug sensitive electronics to protect them from power surges when electricity returns. Do not open the refrigerator — every opening costs you 30–60 minutes of food safety time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does food last in the fridge during a power outage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A closed refrigerator keeps food safe for 4 hours. A full freezer maintains safe temperature for 48 hours; a half-full freezer for 24 hours. The key is keeping the door closed. After 4 hours without power, move the most perishable items to a cooler with ice or begin consuming them. See the full food safety guide for a complete breakdown by food type."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it safe to use a gas stove during a power outage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — gas stoves work without electricity for cooking. However, never use a gas stove for heating your home — this creates carbon monoxide risk. Also, some gas stoves with electronic ignition require a manual light with a match or lighter during an outage. Check your stove model before you need this information."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I run my refrigerator on a solar generator during a power outage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. A standard 18 cu ft refrigerator draws roughly 150W while the compressor runs (about 400W at startup) and averages closer to 60W over time. A 1,000Wh-class solar generator has about 850Wh usable, so it runs a fridge for roughly 14 hours at a 60W average. A 200W solar panel adds about 750Wh on a good day, which covers about half of a fridge's daily use, so it stretches the runtime but may not sustain it alone. Check your own fridge with a plug-in power meter."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I keep my house cool during a summer power outage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Close all blinds and curtains to block solar heat gain. Use battery-powered fans — a box fan on medium draws about 55W and runs for hours on a power bank. Stay on the lowest floor. Wear light, loose clothing. Wet a towel and place it around your neck. In extreme heat, identify cooling centers in your area — most municipalities open them during extended summer outages."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens to well water during a power outage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you're on a municipal water supply, water usually continues during a power outage. If you're on a private well, your electric pump will not work without backup power. A 1,000Wh+ solar generator can run most residential well pumps (typically 750W–1,500W). If you're on well water, fill bathtubs and large containers immediately when an outage begins."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "What to Do During a Power Outage: Complete 2026 Guide",
+  "datePublished": "2026-06-14",
+  "dateModified": "2026-10-08",
+  "author": {
+    "@type": "Person",
+    "name": "Ethan Reynolds"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Eco Living Journey",
+    "url": "https://ecoliving-journey.com"
+  },
+  "mainEntityOfPage": "https://ecoliving-journey.com/blog/what-to-do-during-power-outage/"
+}
+</script>
