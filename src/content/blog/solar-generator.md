@@ -32,7 +32,7 @@ heroImage: "../../assets/solar-generator.webp"
 
 As a homeowner, there is absolutely nothing worse than the exact moment the power goes out during a severe winter storm or extreme heatwave. You hear the sudden silence as the HVAC unit shuts down, your fridge starts getting warm, the Wi-Fi dies, and you are left sitting in the dark hoping the grid operators can bring the system back online before your pipes freeze or your house reaches 90 degrees.
 
-With recent data showing ERCOT’s winter reserve margins dropping dangerously low and California’s PG&E expanding their Public Safety Power Shutoff (PSPS) protocols, regional grid vulnerability is no longer a hypothetical scenario. It is a mathematical certainty. If you are relying on an aging infrastructure to keep your family safe, you are playing a very dangerous game of roulette. **<a href="/grid-threats/" style="color: #059669; text-decoration: underline;">Check your state's specific grid vulnerabilities and local threats here.</a>**
+With recent data showing ERCOT’s winter reserve margins dropping dangerously low and California’s PG&E expanding their Public Safety Power Shutoff (PSPS) protocols, regional grid vulnerability is no longer a hypothetical scenario. It is a mathematical certainty. If you are relying on an aging infrastructure to keep your family safe, you are playing a very dangerous game of roulette.
 
 <h2>🚨 The Hidden Danger of the "Gas Trap"</h2>
 

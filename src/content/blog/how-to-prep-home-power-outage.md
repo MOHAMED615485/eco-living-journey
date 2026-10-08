@@ -147,7 +147,7 @@ A 20,000mAh power bank ($30-50) charges your phone 4-6 times and powers a small 
 
 ### What a solar generator covers
 
-A 1,000Wh solar generator like the [Jackery Explorer 1000 V2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) runs your chest freezer for 14+ hours, charges all devices, and powers a CPAP machine through the night. Paired with a 200W solar panel it recharges during the day and runs indefinitely.
+A 1,000Wh solar generator like the <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="sponsored nofollow">Jackery Explorer 1000 V2</a> runs your chest freezer for 14+ hours, charges all devices, and powers a CPAP machine through the night. Paired with a 200W solar panel it recharges during the day and runs indefinitely.
 
 This is the right tool for outages over 12 hours or for households with medical equipment, chest freezers full of food, or family members who cannot tolerate heat.
 

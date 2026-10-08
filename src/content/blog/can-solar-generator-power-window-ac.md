@@ -135,7 +135,7 @@ A 12,000 BTU unit surges to 2,400-2,800W, which exceeds the Jackery 1000 V2's ra
 
 ### For homeowners — 5,000 or 8,000 BTU during outages
 
-The [Jackery Explorer 1000 V2](https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2) handles 5,000 BTU units indefinitely with solar panels connected. For 8,000 BTU units it gives you 3–4 hours of daytime cooling per charge cycle. For most outage situations that covers the critical afternoon heat window.
+The <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="sponsored nofollow">Jackery Explorer 1000 V2</a> handles 5,000 BTU units indefinitely with solar panels connected. For 8,000 BTU units it gives you 3–4 hours of daytime cooling per charge cycle. For most outage situations that covers the critical afternoon heat window.
 
 **Best for:** 1–3 day outages, keeping one bedroom cool, families with children
 
