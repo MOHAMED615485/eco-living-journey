@@ -261,7 +261,7 @@ Contact your utility company directly via their app, website, or phone number. M
 
 ### How long do power outages last after a hurricane?
 
-The average power outage duration after a major hurricane (Category 3+) is 8–12 days in the hardest-hit areas, and 2–5 days in areas with moderate damage. After Hurricane Irma in 2017, some Florida customers were without power for 3 weeks. Plan for a minimum of 7 days of backup power capacity, not the FEMA-recommended 72 hours.
+Outage length after a major hurricane varies widely with damage. In hard-hit areas it can run from several days to more than two weeks: after Hurricane Ian in 2022, over 2.6 million Florida customers lost power and some were out for more than two weeks (per the [U.S. Energy Information Administration](https://www.eia.gov/todayinenergy/detail.php?id=61303)). Areas with lighter damage are usually restored sooner. Plan for a minimum of 7 days of backup capacity if you live in a hurricane zone, rather than the 72 hours in FEMA's basic kit guidance.
 
 ---
 
