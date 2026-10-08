@@ -153,15 +153,14 @@ On a sunny winter day the panels push current into a cold battery. If the BMS te
 - Fastest recharge in spring when you bring it back online
 - Winter storage verdict: Best for RV owners who store and retrieve seasonally
 
-### Bluetti AC200L
-- Store at 80% or below
-- Temperature range: 32°F to 113°F (0°C to 45°C)
-- Check every 2 months due to larger capacity
-- Winter storage verdict: Requires more attention but handles long storage well
+### Bluetti Elite 200 V2
+- Follow Bluetti's manual for the recommended storage charge level and temperature range
+- Check the charge every couple of months, since a larger battery takes longer to top up
+- Winter storage verdict: bring it to a stable, dry room if you can, and check the manual for low-temperature limits
 
 <div class="cta-container">
-  <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
-    &#9889; Bluetti AC200L — Best for Long-Term Storage &rarr;
+  <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2" rel="sponsored nofollow" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+    &#9889; Check the Bluetti Elite 200 V2 &rarr;
   </a>
 
 </div>

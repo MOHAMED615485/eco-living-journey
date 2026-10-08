@@ -114,7 +114,7 @@ Everything is running fine until someone tries to heat food in the microwave. A 
 
 Fridge, lights, and router are running fine on your 1,500W generator. You add a 5,000 BTU window AC during a heat wave. The AC's startup surge hits 1,500W on top of your existing 400W load. Total surge demand exceeds 1,900W. Trip.
 
-**Fix:** The EcoFlow DELTA 3 Plus X-Boost technology was specifically designed for this — it handles appliances above its rated wattage through intelligent power management. Or upgrade to the Bluetti AC200L with 4,800W surge capacity.
+**Fix:** Use a unit with a higher surge rating, such as the EcoFlow DELTA 3 Plus (3,600W surge), and start the AC before adding other loads. X-Boost lets the DELTA 3 Plus run some resistive loads such as heaters above its rated output, but it does not apply to motors like an AC compressor.
 
 <div style="background:#fff0f0;border-left:4px solid #e63946;padding:16px 20px;border-radius:6px;margin:2rem 0;">
 <strong>🌀 Florida Hurricane Season Warning</strong><br/><br/>
@@ -135,9 +135,9 @@ The continuous output is what most ads show. The peak surge capacity is what act
 
 | Generator | Continuous | Peak Surge |
 |---|---|---|
-| Jackery Explorer 1000 V2 | 1,000W | 2,000W |
-| EcoFlow DELTA 3 Plus | 1,500W | 3,000W (X-Boost to 2,200W) |
-| Bluetti AC200L | 2,400W | 4,800W |
+| Jackery Explorer 1000 V2 | 1,500W | 3,000W |
+| EcoFlow DELTA 3 Plus | 1,800W | 3,600W (X-Boost to 2,200W for resistive loads only) |
+| Bluetti Elite 200 V2 | 2,600W | No motor surge rating published |
 
 ### Step 2: Calculate Your Real Load
 
@@ -184,16 +184,16 @@ After spec analysis and owner-reported performance — including deliberately pu
 <a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — Jackery Explorer 1000 V2 →</a>
 </div>
 
-**EcoFlow DELTA 3 Plus** — The X-Boost technology actively manages surge loads rather than just tripping on them. It can run appliances rated up to 2,200W through intelligent power management. Fewer trips, smoother operation under variable loads. Best for mixed loads including window AC.
+**EcoFlow DELTA 3 Plus** — 1,800W continuous and 3,600W surge, the highest surge rating of the three units here. X-Boost can run some resistive loads up to 2,200W, but it does not apply to motors. A good fit for mixed loads with a freezer, fridge and a small window AC, provided your LRA math fits.
 
 <div class="cta-container">
-<a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — EcoFlow DELTA 3 Plus →</a>
+<a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">⚡ Check Today's Price — EcoFlow DELTA 3 Plus →</a>
 </div>
 
-**Bluetti AC200L** — With 4,800W peak surge capacity there is almost nothing in a typical home that overloads it. Running a chest freezer, full-size fridge, window AC, and multiple devices simultaneously — zero trips in spec research and owner reports. Best for whole-home backup where overload risk must be eliminated entirely.
+**Bluetti Elite 200 V2** — 2,073.6Wh and 2,600W continuous, the most output and capacity of the three, but no motor surge rating is published. Confirm your appliance's LRA with Bluetti before relying on it for large motors. Best when you need long runtime for several loads at once.
 
 <div class="cta-container">
-<a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — Bluetti AC200L →</a>
+<a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">⚡ Check Today's Price — Bluetti Elite 200 V2 →</a>
 
 
 </div>
@@ -238,7 +238,7 @@ Unplug all appliances from the unit. Locate the reset button on the generator's 
 Add up the running watts of all appliances you plan to run simultaneously. Then identify the single appliance with the highest startup surge — usually the refrigerator or air conditioner. Your generator's peak surge capacity must exceed that number. For a typical home setup, a 2,000W+ generator with 4,000W+ surge handles most scenarios.
 
 **Why does my solar generator keep tripping when I plug in my refrigerator?**
-Your refrigerator's startup surge is exceeding your generator's peak surge capacity. A standard refrigerator surges to 800-1,200W at startup even though it only draws 150-200W running. Check your generator's surge capacity — if it's under 1,000W you need a higher-capacity unit or the EcoFlow DELTA 3 Plus with X-Boost technology.
+Your refrigerator's startup surge is exceeding your generator's peak surge capacity. A standard refrigerator surges to 800-1,200W at startup even though it only draws 150-200W running. Check your generator's surge capacity — if it's under 1,000W you need a unit with a higher surge rating, such as the EcoFlow DELTA 3 Plus (3,600W surge).
 
 **Is it safe to reset a solar generator after overload?**
 Yes — resetting after an overload is normal operation. The protection circuit did exactly what it was designed to do. Reset the unit, identify what caused the overload, reduce the load, and restart. If the unit trips repeatedly on the same load, that load exceeds the generator's safe capacity.

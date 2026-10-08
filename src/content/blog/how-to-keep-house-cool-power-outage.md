@@ -20,7 +20,7 @@ This guide gives you everything I have tested and learned about keeping a house 
 ---
 
 <div style="background:#f0fdf4;border-left:4px solid #2d6a4f;padding:16px 20px;border-radius:8px;margin-bottom:1.5rem;">
-<strong>&#9889; Quick Answer:</strong> The most effective free strategies are <strong>cross-ventilation at night, closing blinds during the day, and using wet towels on pulse points.</strong> For active cooling with power, a battery-powered fan uses 20-50W and runs 8-20 hours on a small solar generator. Running a window AC requires at least 2,000W surge capacity — the EcoFlow DELTA 3 Plus with X-Boost or the Bluetti AC200L handles this reliably.
+<strong>&#9889; Quick Answer:</strong> The most effective free strategies are <strong>cross-ventilation at night, closing blinds during the day, and using wet towels on pulse points.</strong> For active cooling with power, a battery-powered fan uses 20-50W and runs 8-20 hours on a small solar generator. Running a window AC needs a surge rating above your AC's LRA × 120 plus 20%. The EcoFlow DELTA 3 Plus (3,600W surge) and the Bluetti Elite 200 V2 (2,600W continuous, no motor surge rating published) are two options.
 </div>
 
 ---
@@ -142,16 +142,16 @@ For elderly adults, infants, and people with heat-sensitive medical conditions �
 - Window AC (5,000 BTU): 1,200-1,500W surge, 450-500W running
 - Generator surge capacity: minimum 2,000W (with soft starter) or 3,000W+ (without)
 
-**The EcoFlow DELTA 3 Plus with X-Boost** handles a 5,000 BTU window AC reliably. Runtime: approximately 2 hours of AC per charge — enough for sleeping hours.
+**The EcoFlow DELTA 3 Plus** has a 3,600W surge rating, which covers most small window ACs. Runtime: about 2 hours of a 450W AC per charge (about 870Wh usable). X-Boost applies to resistive loads, not motors, so do not count on it for an AC.
 
-**The Bluetti AC200L** handles window AC without any modifications and provides 4+ hours of runtime.
+**The Bluetti Elite 200 V2** has the larger battery (2,073.6Wh), giving about 3.9 hours of a 450W AC. Bluetti publishes no motor surge rating, so confirm your AC's LRA with Bluetti first.
 
 <div class="cta-container">
-<a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — EcoFlow DELTA 3 Plus →</a>
+<a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">⚡ Check Today's Price — EcoFlow DELTA 3 Plus →</a>
 </div>
 
 <div class="cta-container">
-<a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" class="cta-button-amazon" target="_blank" rel="nofollow">⚡ Check Today's Price — Bluetti AC200L →</a>
+<a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">⚡ Check Today's Price — Bluetti Elite 200 V2 →</a>
 </div>
 
 
@@ -193,7 +193,7 @@ The most effective free strategies: cross-ventilate at night, close all blinds d
 In summer heat, an unventilated house gains approximately 1-2°F per hour with windows closed. Starting at 75°F indoor temperature, a house can reach 90°F+ within 8 hours on a hot summer day. Upper floors heat faster than ground level.
 
 **Can a solar generator run air conditioning?**
-Yes — with the right unit. A 5,000 BTU window AC requires at least 1,500W surge capacity to start reliably. The EcoFlow DELTA 3 Plus with X-Boost handles this. Runtime is approximately 2 hours per charge cycle.
+Yes — with the right unit. A 5,000 BTU window AC typically needs about 1,500W or more of surge capacity to start, so check your AC's LRA × 120 plus 20%. The EcoFlow DELTA 3 Plus is rated for 3,600W surge. Runtime is about 2 hours per charge for a 450W AC.
 
 **What temperature is dangerous during a power outage?**
 Sustained indoor temperatures above 90°F cause heat exhaustion risk. Above 100°F, heat stroke risk increases significantly — especially for elderly adults, infants, and people with cardiovascular conditions. Prioritize cooling measures and evacuation to cooling centers in extreme heat.
@@ -227,7 +227,7 @@ Fans do not reduce air temperature — they create a wind chill effect that make
       "name": "Can a solar generator run air conditioning?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes with the right unit. A 5000 BTU window AC requires at least 1500W surge capacity to start reliably. The EcoFlow DELTA 3 Plus with X-Boost handles this with approximately 2 hours runtime per charge."
+        "text": "Yes with the right unit. A 5000 BTU window AC typically needs about 1500W or more of surge capacity to start, so check your AC LRA x 120 plus 20%. The EcoFlow DELTA 3 Plus is rated for 3600W surge. Runtime is about 2 hours per charge for a 450W AC."
       }
     },
     {

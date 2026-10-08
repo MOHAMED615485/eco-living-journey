@@ -66,11 +66,13 @@ This is the approach that holds up in a multi-day outage. You do not run the AC,
 
 ## 🏆 Best Solar Generators for Whole House Critical Loads
 
-| Model | Capacity | Output | Rating | Price | Best For |
-|---|---|---|---|---|---|
-| EcoFlow DELTA Pro | 3,600Wh | 3,600W | ★★★★★ (5.0) | $2,200–2,800 | Best critical loads coverage |
-| [Bluetti AC200L](https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l) | 2,048Wh | 2,400W | ★★★★☆ (4.5) | $1,400–1,600 | Best value for critical loads |
-| EcoFlow DELTA 2 Max | 2,048Wh | 2,400W | ★★★★☆ (4.5) | $1,200–1,500 | Fastest recharging |
+| Model | Capacity | Output | Best For |
+|---|---|---|---|
+| EcoFlow DELTA Pro | 3,600Wh | 3,600W | Larger critical-loads coverage |
+| <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2" target="_blank" rel="sponsored nofollow">Bluetti Elite 200 V2</a> | 2,073.6Wh | 2,600W | Critical loads, long runtime |
+| EcoFlow DELTA 2 Max | 2,048Wh | 2,400W | Faster recharging |
+
+Figures are manufacturers' published specs; check current prices.
 
 ## 📏 Sizing Guide by Home Size and Goal
 
@@ -78,7 +80,7 @@ This is the approach that holds up in a multi-day outage. You do not run the AC,
 - **Daily critical load:** ~8,000Wh
 - **Solar generator needed:** 2,000–3,000Wh with 400W solar
 - **What you can run:** fridge, lights, devices, CPAP, fans
-- **Best match:** Bluetti AC200L ($1,400) + 2× 200W panels
+- **Best match:** a 2,000Wh-class unit such as the Bluetti Elite 200 V2 + 2× 200W panels
 - **Runtime strategy:** 3 hours on / 2 hours solar recharge cycle
 
 ### Medium home (1,000–2,000 sq ft) — critical loads + comfort:
@@ -134,13 +136,13 @@ If you're investing in a serious backup system, solar panels determine how long 
 - Typical residential solar install: 6–10kW, $15,000–25,000 before incentives
 - Federal solar tax credit: 30% — brings that to $10,500–17,500 net
 
-## 🏡 My Honest Recommendation for a Hurricane-Belt Homeowner
+## 🏡 A Suggested Setup for a Hurricane-Belt Homeowner
 
-After running the numbers across every unit in this class, here is what I would actually tell a neighbour:
+Here is a sensible starting point for critical loads:
 
-**Buy a Bluetti AC200L ($1,400) + two 200W solar panels ($300) = $1,700 total.**
+**A 2,000Wh-class unit such as the Bluetti Elite 200 V2 plus about 400W of solar panels.**
 
-Connect it to your refrigerator, your CPAP, your phone chargers, and four LED lights. Run box fans instead of AC during the day. That system gets through a 7-day Florida summer outage with no food loss and no medical emergencies, which covers every realistic scenario except a category 5 direct hit where you've already evacuated.
+Connect it to your refrigerator, your CPAP, your phone chargers, and four LED lights. Run box fans instead of AC during the day. On a 60W average, a fridge runs about 29 hours from the Elite 200 V2's roughly 1,760Wh usable, and 400W of panels makes about 1,500Wh in good sun (400W × 5 hours × 0.75), close to a fridge's daily use. A CPAP and devices on top need more, and cloudy days cut solar sharply, so treat this as a starting point and have a second plan for medical needs.
 
 For anything more than that — a 2-week+ outage, running central AC, powering the whole house — you're looking at a $10,000+ whole-home system, and at that point you're making a different kind of decision.
 

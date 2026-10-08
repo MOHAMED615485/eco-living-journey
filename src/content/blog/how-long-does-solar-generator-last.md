@@ -94,14 +94,13 @@ The Jackery 1000 V2 represents the current value sweet spot for lifespan vs pric
 
 The EcoFlow app allows you to set charging limits — never charging above 80% automatically extends cycle life by 30-40%. For RV owners doing daily charging this feature alone adds 2-3 years to the unit’s useful life.
 
-### Bluetti AC200L
+### Bluetti Elite 200 V2
 
 - Battery: LiFePO4
-- Rated cycles: 3,500+ to 80% capacity
-- Daily use lifespan: 9–12 years
-- Occasional use lifespan: 25–35 years
-- Warranty: 4 years
-- Best for: Homesteaders and off-grid households with high daily consumption
+- Rated cycles: 6,000+ (Bluetti's published figure)
+- Warranty: 5 years
+- Not expandable
+- Best for: Households that cycle the battery often and want a large capacity
 
 <div class="cta-container">
   <a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
@@ -163,13 +162,13 @@ Calendar aging for LiFePO4: approximately 15-20 years before significant capacit
 | Daily home backup | Jackery 1000 V2 | 8–10 years |
 | Hurricane prep only | Any LiFePO4 | 15–20 years |
 | Full-time RV | EcoFlow DELTA 3 Plus | 10–12 years |
-| Homestead daily use | Bluetti AC200L | 10–15 years |
+| Homestead daily use | Bluetti Elite 200 V2 | Long; 6,000+ rated cycles |
 | Occasional camping | Jackery 1000 V2 | 20–30 years |
 | CPAP backup | EcoFlow DELTA 3 Plus | 10–15 years |
 
 <div class="cta-container">
-  <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fac200l" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
-    &#9889; Bluetti AC200L — 3,500 Cycles for Homestead Use &rarr;
+  <a href="https://www.awin1.com/cread.php?awinmid=59271&awinaffid=2815020&ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2" rel="sponsored nofollow" style="background-color:#c2410c;color:#ffffff!important;display:inline-block;width:95%;max-width:420px;padding:16px;border-radius:50px;text-decoration:none!important;font-weight:bold;font-size:1.1rem;text-align:center;margin:0 auto;display:block;">
+    &#9889; Check the Bluetti Elite 200 V2 &rarr;
   </a>
 
 </div>

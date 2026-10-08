@@ -46,7 +46,7 @@ For a battery stored in a garage and called upon during emergencies, chemical st
 | Energy density | Lower (heavier) | Higher (lighter) |
 | Upfront cost | Higher | Lower |
 | 10-year total cost | Lower | Higher |
-| Overall rating | ★★★★★ | ★★★☆☆ |
+| Overall rating | Excellent | Fair |
 
 The cycle life difference is the headline number. At one full charge cycle per week — a reasonable estimate for maintenance charging plus real outage use — LiFePO4 reaches 3,000 cycles in approximately 57 years. Standard lithium-ion reaches 500 cycles in under 10 years.
 
@@ -64,7 +64,7 @@ This is the data that portable power station manufacturers rarely publish.
 | 1,000 | 95% | 55% |
 | 2,000 | 92% | Not functional |
 | 3,000 | 88% | Not functional |
-| Rating | ★★★★★ | ★★★☆☆ |
+| Rating | Excellent | Fair |
 
 At 500 cycles — roughly 10 years at one cycle per week — a standard lithium-ion battery is operating at 70 percent of its original capacity. The same 500 cycles barely dents a LiFePO4 unit at 97 percent.
 
@@ -84,8 +84,8 @@ Standard lithium-ion batteries degrade significantly faster when charged or disc
 | 32F to 95F operation | None | None |
 | Above 113F charging | Slight slowdown | Permanent damage |
 | Above 140F storage | Caution | Dangerous |
-| Garage summer storage | ★★★★★ Safe | ★★☆☆☆ Risky |
-| Overall temperature rating | ★★★★★ | ★★★☆☆ |
+| Garage summer storage | Safe | Risky |
+| Overall temperature rating | Excellent | Fair |
 
 LiFePO4 chemistry is stable up to 140F and continues to function below freezing. For a battery stored in a garage or basement subject to temperature swings, this is not a minor specification. It is the difference between a battery that lasts a decade and one that needs replacement in three years.
 
@@ -121,14 +121,14 @@ Check the product listing or manual for these terms:
 
 | What You See | Chemistry | Verdict |
 |---|---|---|
-| LiFePO4 | Lithium iron phosphate | ★★★★★ Buy |
-| LFP | Lithium iron phosphate | ★★★★★ Buy |
-| Lithium ferro phosphate | Lithium iron phosphate | ★★★★★ Buy |
-| Li-ion | Standard lithium-ion | ★★★☆☆ Caution |
-| NMC | Nickel manganese cobalt | ★★★☆☆ Caution |
-| No chemistry listed | Assume lithium-ion | ★★☆☆☆ Ask first |
+| LiFePO4 | Lithium iron phosphate | Buy |
+| LFP | Lithium iron phosphate | Buy |
+| Lithium ferro phosphate | Lithium iron phosphate | Buy |
+| Li-ion | Standard lithium-ion | Caution |
+| NMC | Nickel manganese cobalt | Caution |
+| No chemistry listed | Assume lithium-ion | Ask first |
 
-All three units I recommend — the EcoFlow DELTA 3 Plus, Jackery Explorer 1000 V2, and Bluetti AC200L — use LiFePO4 chemistry. This is one of the primary reasons they made my recommendation list.
+All three units we recommend — the EcoFlow DELTA 3 Plus, Jackery Explorer 1000 V2, and Bluetti Elite 200 V2 — use LiFePO4 chemistry. This is one of the primary reasons they made our recommendation list.
 
 ---
 
@@ -140,7 +140,7 @@ All three units I recommend — the EcoFlow DELTA 3 Plus, Jackery Explorer 1000 
 | Replacement at year 4 | None needed | $599 |
 | Replacement at year 8 | None needed | $599 |
 | 10-year total | $999 | $1,797 |
-| 10-year rating | ★★★★★ | ★★★☆☆ |
+| 10-year rating | Excellent | Fair |
 
 The lithium-ion unit costs $400 less upfront. It costs $798 more over 10 years.
 
@@ -152,7 +152,7 @@ This is the math that marketing never shows you. The cheaper battery is not chea
 
 For home backup power in 2026, LiFePO4 is not a premium feature. It is the baseline requirement for any serious purchase.
 
-The EcoFlow DELTA 3 Plus, Jackery Explorer 1000 V2, and Bluetti AC200L all use LiFePO4. All three are built to protect your food supply in year 9 as reliably as year 1.
+The EcoFlow DELTA 3 Plus, Jackery Explorer 1000 V2, and Bluetti Elite 200 V2 all use LiFePO4. All three are built to protect your food supply in year 9 as reliably as year 1.
 
 Not sure which one fits your specific appliance load? [Use the free Solar Generator Sizing Calculator](/solar-calculator/) to get a personalized recommendation.
 
