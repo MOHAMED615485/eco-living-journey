@@ -1,0 +1,56 @@
+name: IndexNow ping
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "src/content/blog/**"
+      - "src/pages/**"
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "Optional commit SHA: submit pages changed since this commit"
+        required: false
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Wait for Cloudflare Pages to deploy
+        run: sleep 150
+
+      - name: Submit changed URLs to IndexNow
+        run: |
+          set -e
+          HOST="ecoliving-journey.com"
+          KEY="576c8a15fb864a5db799a6407203923a"
+          BEFORE="${{ github.event.before }}"
+          if [ -n "${{ github.event.inputs.since }}" ]; then BEFORE="${{ github.event.inputs.since }}"; fi
+          if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ] || ! git cat-file -e "$BEFORE" 2>/dev/null; then
+            BEFORE="HEAD~1"
+          fi
+          FILES=$(git diff --name-only --diff-filter=AM "$BEFORE" HEAD -- src/content/blog src/pages || true)
+          URLS=""
+          for f in $FILES; do
+            case "$f" in
+              src/content/blog/*.md|src/content/blog/*.mdx)
+                slug=$(basename "$f"); slug="${slug%.*}"
+                URLS="$URLS https://$HOST/blog/$slug/" ;;
+              src/pages/index.astro)
+                URLS="$URLS https://$HOST/" ;;
+              src/pages/*.astro)
+                name=$(basename "$f" .astro)
+                case "$name" in \[*) ;; *) URLS="$URLS https://$HOST/$name/" ;; esac ;;
+            esac
+          done
+          if [ -z "$URLS" ]; then echo "No page changes to submit."; exit 0; fi
+          LIST=$(printf '%s\n' $URLS | sort -u | head -100 | python3 -c 'import sys,json; print(json.dumps([l.strip() for l in sys.stdin if l.strip()]))')
+          echo "Submitting: $LIST"
+          BODY=$(python3 -c 'import json,sys; print(json.dumps({"host":sys.argv[1],"key":sys.argv[2],"keyLocation":"https://"+sys.argv[1]+"/"+sys.argv[2]+".txt","urlList":json.loads(sys.argv[3])}))' "$HOST" "$KEY" "$LIST")
+          CODE=$(curl -s -o /dev/stderr -w '%{http_code}' -X POST "https://api.indexnow.org/indexnow" -H "Content-Type: application/json; charset=utf-8" -d "$BODY")
+          echo "IndexNow responded: $CODE"
+          case "$CODE" in 200|202) exit 0 ;; *) exit 1 ;; esac
