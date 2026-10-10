@@ -2,7 +2,7 @@
 title: "Carbon Monoxide Safety During a Power Outage: Generator Rules"
 description: "Carbon monoxide kills hundreds of Americans each year, many during outages. CDC and Red Cross rules for generators, alarms, symptoms and safer battery backup."
 pubDate: "Oct 10 2026"
-heroImage: "../../assets/gas-vs-battery.webp"
+heroImage: "../../assets/hero-carbon-monoxide-power-outage-safety.webp"
 category: "Solar Generator Guides"
 tags: ["carbon monoxide", "generator safety", "power outage safety", "CO alarm"]
 ---

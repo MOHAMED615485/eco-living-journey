@@ -2,7 +2,7 @@
 title: "Candles vs Flashlights in a Power Outage: Safer Lighting"
 description: "Why fire safety agencies recommend flashlights and battery lights over candles in an outage, plus how long a power station runs LED lights."
 pubDate: "Oct 10 2026"
-heroImage: "../../assets/emergency-power-at-home-hero.webp"
+heroImage: "../../assets/hero-candles-vs-flashlights-power-outage.webp"
 category: "Solar Generator Guides"
 tags: ["power outage lighting", "candles vs flashlights", "fire safety", "LED lantern"]
 ---

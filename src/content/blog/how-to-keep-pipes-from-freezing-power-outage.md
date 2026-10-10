@@ -2,7 +2,7 @@
 title: "How to Keep Pipes From Freezing in a Power Outage"
 description: "Red Cross advice for preventing and handling frozen pipes when the heat goes out: dripping taps, cabinet doors, shut-off valve and safe thawing."
 pubDate: "Oct 10 2026"
-heroImage: "../../assets/store-solar-generator-winter.webp"
+heroImage: "../../assets/hero-how-to-keep-pipes-from-freezing-power-outage.webp"
 category: "Solar Generator Guides"
 tags: ["frozen pipes", "winter power outage", "Red Cross", "winter storm"]
 ---
