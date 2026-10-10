@@ -2,7 +2,7 @@
 title: "Public Safety Power Shutoff (PSPS): How to Prepare"
 description: "What a utility Public Safety Power Shutoff is, how much notice PG&E aims to give, and how to prepare with alerts, medical baseline and backup power."
 pubDate: "Oct 10 2026"
-heroImage: "../../assets/how-to-prep-home-power-outage.webp"
+heroImage: "../../assets/hero-public-safety-power-shutoff-preparation.webp"
 category: "Solar Generator Guides"
 tags: ["PSPS", "public safety power shutoff", "wildfire", "power outage preparation"]
 ---

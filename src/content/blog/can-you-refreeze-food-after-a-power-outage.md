@@ -2,7 +2,7 @@
 title: "Can You Refreeze Food After a Power Outage? USDA Rules"
 description: "What USDA says about refreezing, keeping, and throwing out food after a power outage: the 4-hour fridge rule, 48-hour freezer rule and the 40°F test."
 pubDate: "Oct 10 2026"
-heroImage: "../../assets/freezer-without-power.webp"
+heroImage: "../../assets/hero-can-you-refreeze-food-after-a-power-outage.webp"
 category: "Solar Generator Guides"
 tags: ["refreeze food", "food safety power outage", "USDA", "freezer"]
 ---
