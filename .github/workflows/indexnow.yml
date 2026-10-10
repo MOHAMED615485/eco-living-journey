@@ -27,7 +27,7 @@ jobs:
         run: |
           set -e
           HOST="ecoliving-journey.com"
-          KEY="576c8a15fb864a5db799a6407203923a"
+          KEY="bf7a81439867e05e1aff4309bf8e690d"
           BEFORE="${{ github.event.before }}"
           if [ -n "${{ github.event.inputs.since }}" ]; then BEFORE="${{ github.event.inputs.since }}"; fi
           if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ] || ! git cat-file -e "$BEFORE" 2>/dev/null; then
