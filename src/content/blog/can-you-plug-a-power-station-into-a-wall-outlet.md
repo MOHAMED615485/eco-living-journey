@@ -71,6 +71,7 @@ Never connect a power station or generator to a wall outlet. Plug devices straig
 - [Portable power station vs whole-house battery](/blog/portable-power-station-vs-whole-house-battery/)
 - [Power station vs gas generator](/blog/portable-power-station-vs-gas-generator/)
 - [What to do during a power outage](/blog/what-to-do-during-power-outage/)
+- [Plug-in solar panels vs a solar generator](/blog/plug-in-solar-panels-vs-solar-generator/)
 
 ## ❓ Frequently Asked Questions
 

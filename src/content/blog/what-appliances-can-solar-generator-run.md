@@ -171,6 +171,10 @@ Use the [free solar calculator](/solar-calculator/) to run the numbers for your 
   <a href="https://ethanecoliving.gumroad.com/l/solar-generator-toolkit-2026" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Toolkit — $19 →</a>
 </div>
 
+## 🔗 Related Guides
+
+- [Off-grid solar for a small cabin with a portable power station](/blog/off-grid-solar-cabin-portable-power-station/)
+
 ## Frequently Asked Questions
 
 **Can a solar generator run a refrigerator all night?**

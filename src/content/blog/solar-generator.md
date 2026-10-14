@@ -125,6 +125,11 @@ If EcoFlow is a luxury sports car, the Jackery 2000 Plus is an indestructible of
 <h3>Can a portable solar station run a central air conditioner?</h3>
 <p>The short answer? No. The realistic answer? You are asking a golf cart to pull a freight train. A standard 3-ton central AC
 
+## 🔗 Related Guides
+
+- [Plug-in solar panels vs a solar generator](/blog/plug-in-solar-panels-vs-solar-generator/)
+- [Off-grid solar for a small cabin with a portable power station](/blog/off-grid-solar-cabin-portable-power-station/)
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

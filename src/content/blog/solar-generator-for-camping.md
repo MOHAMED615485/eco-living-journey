@@ -256,6 +256,7 @@ If you or someone in your group has a medical condition, **a solar generator is 
 - [Surge vs Running Watts Explained](/blog/surge-vs-running-watts/)
 - [How Long Does Food Last Without Power](/blog/how-long-food-last-fridge-power-outage/)
 - [Best Solar Generator Under $1,000](/blog/best-solar-generator-under-1000/)
+- [Off-grid solar for a small cabin with a portable power station](/blog/off-grid-solar-cabin-portable-power-station/)
 
 ---
 
