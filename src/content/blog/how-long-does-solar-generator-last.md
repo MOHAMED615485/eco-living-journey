@@ -210,6 +210,10 @@ For complete buying guidance see the [best solar generators for home backup](/bl
 
 ---
 
+## 🔗 Related Guides
+
+- [Off-grid solar for a small cabin with a portable power station](/blog/off-grid-solar-cabin-portable-power-station/)
+
 ## Frequently Asked Questions
 
 **How long does a solar generator last?**

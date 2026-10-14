@@ -195,6 +195,10 @@ The most important charging strategy happens before the outage, not during it.
 </div>
 
 
+## 🔗 Related Guides
+
+- [Off-grid solar for a small cabin with a portable power station](/blog/off-grid-solar-cabin-portable-power-station/)
+
 ## Frequently Asked Questions
 
 **Can you charge a solar generator without solar panels?**

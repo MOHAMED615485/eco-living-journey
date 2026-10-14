@@ -193,6 +193,11 @@ Figures come from manufacturer specifications and retailer listings for the US v
   <a href="https://ethanecoliving.gumroad.com/l/solar-generator-toolkit-2026" style="display:inline-block;background:#3d8b6f;color:#fff;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:600;">Get the Toolkit — $19 →</a>
 </div>
 
+## 🔗 Related Guides
+
+- [Plug-in solar panels vs a solar generator](/blog/plug-in-solar-panels-vs-solar-generator/)
+- [Off-grid solar for a small cabin with a portable power station](/blog/off-grid-solar-cabin-portable-power-station/)
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

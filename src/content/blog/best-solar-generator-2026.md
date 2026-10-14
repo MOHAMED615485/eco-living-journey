@@ -132,6 +132,10 @@ Don't buy on capacity numbers alone. A plug-in power meter costs about $25 and t
 
 ---
 
+## 🔗 Related Guides
+
+- [Plug-in solar panels vs a solar generator](/blog/plug-in-solar-panels-vs-solar-generator/)
+
 ## Frequently Asked Questions
 
 **What is the best solar generator for 2026?**
