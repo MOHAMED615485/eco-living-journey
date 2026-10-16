@@ -270,6 +270,9 @@ document.addEventListener('DOMContentLoaded', function() {
       hr { border: none; border-top: 1px solid #eee; margin: 1rem 0; }
     </style>
   <script>document.querySelectorAll(".prose table").forEach(function(t){var w=document.createElement("div");w.style.cssText="overflow-x:auto;-webkit-overflow-scrolling:touch;width:100%;display:block;margin:2rem 0;";t.parentNode.insertBefore(w,t);w.appendChild(t);});</script>
+  <script is:inline>
+  (function(){var codes=["GETREADY10","Mohamed10","PRELUV","AW35M"];document.querySelectorAll(".prose strong").forEach(function(el){var t=el.textContent.trim();if(codes.indexOf(t)<0)return;el.style.cursor="pointer";el.setAttribute("role","button");el.setAttribute("tabindex","0");el.title="Click to copy";el.insertAdjacentHTML("afterend",' <small style="opacity:.7;font-weight:400">(tap to copy)</small>');function done(){var o=el.textContent;el.textContent="Copied!";setTimeout(function(){el.textContent=o},1200);}function copy(){if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t).then(done,done);}else{var x=document.createElement("textarea");x.value=t;document.body.appendChild(x);x.select();try{document.execCommand("copy");}catch(e){}document.body.removeChild(x);done();}}el.addEventListener("click",copy);el.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){e.preventDefault();copy();}});});})();
+  </script>
 <script is:inline>
   document.addEventListener('DOMContentLoaded', function() {
     document.querySelectorAll('td').forEach(function(td) {
