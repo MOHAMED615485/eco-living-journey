@@ -100,13 +100,29 @@ If you are planning backup power for a garage freezer in July, plan with the hig
 
 Because the compressor cycles, what matters for runtime is the average draw over a full day, not the running watts. The scenarios below use three average draws and a 15% efficiency buffer on the battery.
 
-| Scenario | Avg draw | Jackery Explorer 1000 V2 (1,070Wh) | EcoFlow DELTA 3 Plus (1,024Wh) | Bluetti Elite 200 V2 (2,073.6Wh) |
+| Scenario | Avg draw | [Jackery Explorer 1000 V2](/blog/jackery-explorer-1000-v2-review/) (1,070Wh) | [EcoFlow DELTA 3 Plus](/blog/ecoflow-delta-3-plus-review/) (1,024Wh) | [Bluetti Elite 200 V2](/blog/ecoflow-vs-bluetti/) (2,073.6Wh) |
 |---|---|---|---|---|
 | Efficient modern freezer (about 0.7 kWh/day) | 30W | 30 hours | 29 hours | 59 hours |
 | Typical freezer (about 1.1 kWh/day) | 45W | 20 hours | 19 hours | 39 hours |
 | Older unit or hot garage (about 1.6 kWh/day) | 65W | 14 hours | 13 hours | 27 hours |
 
 These are calculated estimates from the figures on this page, not measurements. Manufacturer runtime claims are often based on a flat 100W or 200W load, which does not match how a cycling compressor behaves, so check how any runtime number was calculated.
+
+
+### Which one for your setup?
+
+Using the calculated runtimes above (not lab tests):
+
+| Your setup | Average draw | Best fit | Calculated runtime |
+|:--|:--:|:--|:--:|
+| One efficient modern freezer | 30W | Jackery Explorer 1000 V2 | about 30 hours |
+| Typical freezer | 45W | Jackery Explorer 1000 V2 or EcoFlow DELTA 3 Plus | about 19-20 hours |
+| Older freezer or hot garage | 65W | Bluetti Elite 200 V2 | about 27 hours (about 13-14 hours on a 1,000Wh unit) |
+| Freezer plus fridge, lights and router | about 125W combined | Bluetti Elite 200 V2 | about 14 hours |
+
+Check each unit's surge rating against your freezer's LRA x 120 before you buy.
+
+<p style="margin:0 0 10px;"><a href="https://www.awin1.com/cread.php?awinmid=59183&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">Check Jackery Explorer 1000 V2 Price</a> &nbsp; <a href="https://www.awin1.com/cread.php?awinmid=59271&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">Check Bluetti Elite 200 V2 Price</a></p>
 
 Not sure which generator fits? [Use the free Solar Generator Sizing Calculator](/solar-calculator/). Enter your freezer size and LRA and it gives you a recommendation.
 
@@ -184,6 +200,15 @@ Choose one whose surge rating clears your freezer's LRA x 120. For most modern c
 <p><a href="/blog/best-solar-generator-chest-freezer-2026/">See which generators actually start a chest freezer →</a></p>
 <p style="margin-bottom:0;font-size:0.9em;"><a href="/blog/surge-vs-running-watts/">Why surge watts and running watts are completely different →</a> · <a href="/blog/how-long-food-last-fridge-power-outage/">How long your food stays safe without power →</a></p>
 </div>
+
+## 🔗 Related Guides
+
+- [Best solar generator for a chest freezer (2026)](/blog/best-solar-generator-chest-freezer-2026/)
+- [Chest freezer blackout math](/blog/chest-freezer-blackout-math/)
+- [Chest vs upright freezer in a power outage](/blog/chest-freezer-vs-upright-freezer-power-outage/)
+- [Can you refreeze food after a power outage?](/blog/can-you-refreeze-food-after-a-power-outage/)
+- [How many watts does a refrigerator use?](/blog/how-many-watts-does-a-refrigerator-use/)
+- [Surge watts vs running watts](/blog/surge-vs-running-watts/)
 
 ## About the data
 
