@@ -27,6 +27,21 @@ This guide gives you the exact math, the real runtime numbers from the specs and
   </a>
 </div>
 
+
+## 🧭 Pick by AC Size (Quick Answer)
+
+Assumptions: usable energy = rated Wh &times; 0.85, divided by the AC's running watts (about 500W, 800W and 1,200W for 5,000, 8,000 and 12,000 BTU). These are calculated estimates, not tests, and your AC's label decides the real numbers.
+
+| Your window AC | Running / surge watts | 1,000Wh class (Jackery 1000 V2) | 2,000Wh class (Bluetti Elite 200 V2) | My pick |
+|:--|:--:|:--:|:--:|:--|
+| 5,000-6,000 BTU | 450-600W / 1,100-1,500W | about 2 hours | about 3.5 hours | Jackery 1000 V2, add solar for daytime |
+| 8,000 BTU | 700-900W / 1,600-2,000W | about 1 hour | about 2 hours | Bluetti Elite 200 V2 for a full evening |
+| 10,000-12,000 BTU | 900-1,300W / 2,000-2,800W | under 1 hour | about 1.5 hours | Bluetti Elite 200 V2 minimum |
+
+**Short version:** small AC, short outage: the Jackery. Anything bigger, or a night's sleep: the Bluetti.
+
+<p style="margin:0 0 10px;"><a href="https://www.awin1.com/cread.php?awinmid=59183&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">Check Jackery Explorer 1000 V2 Price</a> &nbsp; <a href="https://www.awin1.com/cread.php?awinmid=59271&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fwww.bluettipower.com%2Fproducts%2Fsolar-generator-elite-200-v2" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">Check Bluetti Elite 200 V2 Price</a></p>
+
 ---
 
 ## Who This Guide Is For
@@ -50,13 +65,13 @@ The wattage on the label is the running wattage. The number that matters for you
 
 ### Running vs surge watts by BTU
 
-| AC size | Running watts | Surge watts | Min inverter needed |
+| AC size | Running watts | Surge watts | Rule-of-thumb surge rating needed |
 |:--|:--|:--|:--|
-| 5,000 BTU | 450–550W | 1,100–1,400W | 1,500W inverter |
-| 6,000 BTU | 500–600W | 1,200–1,500W | 1,500W inverter |
-| 8,000 BTU | 700–900W | 1,600–2,000W | 2,000W inverter |
-| 10,000 BTU | 900–1,100W | 2,000–2,400W | 2,500W inverter |
-| 12,000 BTU | 1,100–1,300W | 2,400–2,800W | 3,000W inverter |
+| 5,000 BTU | 450–550W | 1,100–1,400W | 1,500W+ surge rating |
+| 6,000 BTU | 500–600W | 1,200–1,500W | 1,500W+ surge rating |
+| 8,000 BTU | 700–900W | 1,600–2,000W | 2,000W+ surge rating |
+| 10,000 BTU | 900–1,100W | 2,000–2,400W | 2,500W+ surge rating |
+| 12,000 BTU | 1,100–1,300W | 2,400–2,800W | 3,000W+ surge rating |
 
 ### The duty cycle rule
 
@@ -120,14 +135,14 @@ We compared three window AC sizes against two solar generator capacities using m
 | 5,000 BTU | EcoFlow DELTA 3 Plus | 1.9 hours | Indefinite in daylight |
 | 8,000 BTU | Jackery 1000 V2 | 1.3 hours | 3–4 hours in daylight |
 | 8,000 BTU | EcoFlow DELTA 3 Plus | 1.2 hours | 4–5 hours in daylight |
-| 12,000 BTU | Jackery 1000 V2 | ❌ Surge exceeds inverter | N/A |
+| 12,000 BTU | Jackery 1000 V2 | Under 1 hour (surge fits on paper, see below) | Draw is far above 400W of solar |
 | 12,000 BTU window unit | EcoFlow DELTA 3 Plus | 0.9 hours | 2–3 hours in daylight |
 
 ### What the math means
 
-A 12,000 BTU unit surges to 2,400-2,800W, which exceeds the Jackery 1000 V2's rated 2,000W inverter. The EcoFlow DELTA 3 Plus clears it because of its X-Boost technology which allows it to run appliances up to 2,400W surge through intelligent power management.
+A 12,000 BTU unit surges to roughly 2,400-2,800W and runs at about 1,100-1,300W. On published specs, the Jackery Explorer 1000 V2 (1,500W rated, 3,000W surge) covers that surge on paper, while the EcoFlow DELTA 3 Plus (1,800W rated, 2,400W with X-Boost) sits at or just below the low end of it. Check your own AC's label before you rely on either.
 
-**For anything above 8,000 BTU: EcoFlow DELTA 3 Plus is the only 1,000Wh generator that works.**
+**For anything above 8,000 BTU, the limit is runtime, not just surge: a 1,000Wh unit gives well under an hour, so plan on a 2,000Wh-class unit such as the Bluetti Elite 200 V2 (2,073.6Wh, 2,600W output).**
 
 ---
 
@@ -188,12 +203,12 @@ Running a window AC off solar is all about matching surge watts, running watts, 
 
 This is the mistake that causes 90% of failed window AC setups.
 
-Your solar generator inverter must be rated for at least 2x the running watts of your AC unit. This covers the compressor surge at startup.
+Your power station must meet two numbers: its rated output must cover the AC's running watts, and its surge rating must cover the compressor's startup surge. A common rule of thumb is a surge rating of at least 2x the running watts.
 
 **Examples:**
-- 5,000 BTU (500W running) → needs 1,000W+ inverter → Jackery 1000 V2 (2,000W) ✅
-- 8,000 BTU (800W running) → needs 1,600W+ inverter → Jackery 1000 V2 (2,000W) ✅
-- 12,000 BTU (1,200W running) → needs 2,400W+ inverter → EcoFlow DELTA 3 Plus only ✅
+- 5,000 BTU (about 500W running, 1,100-1,400W surge) → Jackery 1000 V2 (1,500W rated, 3,000W surge) ✅ on paper
+- 8,000 BTU (about 800W running, 1,600-2,000W surge) → Jackery 1000 V2 ✅ on paper; DELTA 3 Plus (1,800W rated, 2,400W with X-Boost) ✅ on paper
+- 12,000 BTU (about 1,200W running, 2,400-2,800W surge) → surge fits the Jackery on paper and is at the edge for the DELTA 3 Plus, but runtime on 1,000Wh is under an hour, so use a 2,000Wh-class unit
 
 If your inverter is undersized the generator shuts down the moment the compressor kicks on. This is not a battery capacity problem — it is an inverter size problem.
 
@@ -236,10 +251,10 @@ Yes. A 1,000Wh solar generator runs a 5,000 BTU window AC for 2-3 hours without 
 A 1,000Wh generator runs a 5,000 BTU window AC for 2-3 hours, an 8,000 BTU unit for 1-2 hours, and a 12,000 BTU unit for under 1 hour. With 400W solar panels connected in daylight the runtime extends to 3-5 hours for 8,000 BTU units.
 
 **What size solar generator do I need for a window AC?**
-For a 5,000 BTU unit: 1,000Wh with 2,000W inverter minimum. For 8,000 BTU: 1,000Wh with 2,000W inverter plus solar panels for extended use. For 10,000-12,000 BTU: 2,000Wh system required. The EcoFlow DELTA 3 Plus handles all window AC sizes up to 12,000 BTU.
+For a 5,000 BTU unit: a 1,000Wh class unit with a surge rating above about 1,400W. For 8,000 BTU: the same unit with a surge rating above about 2,000W, plus solar panels for extended use. For 10,000-12,000 BTU: a 2,000Wh-class system. Always check your own AC's label first.
 
 **Can a Jackery run a window air conditioner?**
-The Jackery Explorer 1000 V2 runs 5,000 and 8,000 BTU window AC units successfully. It cannot reliably run 12,000 BTU units because the surge exceeds its 2,000W inverter limit. For 12,000 BTU units the EcoFlow DELTA 3 Plus is the better choice.
+On published specs (1,500W rated, 3,000W surge), the Jackery Explorer 1000 V2 can start and run 5,000 and 8,000 BTU window AC units, for roughly 2 hours and 1 hour respectively on one charge. A 12,000 BTU unit may start on paper, but a 1,000Wh battery runs it for under an hour, so a larger unit is the better choice.
 
 **How many solar panels do I need to run a window AC continuously?**
 A 5,000 BTU window AC averages 350W draw. You need 400W+ of solar panels in direct sun to keep pace with consumption. A single 400W panel in full sun produces enough power to run the AC and slowly recharge the battery simultaneously.
@@ -269,7 +284,7 @@ For homeowners in outage-prone regions — especially Florida, the Gulf Coast, a
     {
       "@type": "Question",
       "name": "What size solar generator do I need for a window AC?",
-      "acceptedAnswer": {"@type": "Answer", "text": "For 5,000 BTU: 1,000Wh with 2,000W inverter minimum. For 8,000 BTU: 1,000Wh with 2,000W inverter plus solar panels. For 10,000-12,000 BTU: 2,000Wh system required."}
+      "acceptedAnswer": {"@type": "Answer", "text": "For 5,000 BTU: a 1,000Wh class unit with a surge rating above about 1,400W. For 8,000 BTU: the same unit with a surge rating above about 2,000W, plus solar panels. For 10,000-12,000 BTU: a 2,000Wh-class system."}
     },
     {
       "@type": "Question",
