@@ -92,13 +92,13 @@
   document.addEventListener('DOMContentLoaded', function() {
     if (getCookie(COOKIE_KEY)) return;
 
-    // Timer trigger - 40 seconds
-    var timer = setTimeout(showPopup, 40000);
+    // Timer trigger - 60 seconds
+    var timer = setTimeout(showPopup, 60000);
 
-    // Scroll trigger - 50%
+    // Scroll trigger - 80% (late, so it does not cover product picks mid-read)
     function onScroll() {
       var scrolled = window.scrollY / (document.body.scrollHeight - window.innerHeight);
-      if (scrolled >= 0.5) {
+      if (scrolled >= 0.8) {
         clearTimeout(timer);
         showPopup();
         window.removeEventListener('scroll', onScroll);
