@@ -2,7 +2,7 @@
 title: "How Many Watts Does a Furnace Blower Use in a Power Outage?"
 description: "A gas furnace needs electricity for its blower and controls. Typical blower watts by motor type, calculated overnight runtimes, and safety rules for backup power."
 pubDate: "Oct 08 2026"
-heroImage: "../../assets/store-solar-generator-winter.webp"
+heroImage: "../../assets/hero-how-many-watts-does-a-furnace-blower-use.webp"
 category: "Solar Generator Guides"
 tags: ["furnace blower watts", "furnace power outage", "winter backup power"]
 ---
