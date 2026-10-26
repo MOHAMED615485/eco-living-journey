@@ -2,7 +2,7 @@
 title: "Can a Power Station Run a Space Heater? (Wattage and Runtime Math)"
 description: "A 1,500W space heater drains most power stations in under an hour. See the calculated runtimes, why an electric blanket works better, and safer ways to stay warm."
 pubDate: "Oct 08 2026"
-heroImage: "../../assets/power-outage.webp"
+heroImage: "../../assets/hero-can-a-power-station-run-a-space-heater.webp"
 category: "Solar Generator Guides"
 tags: ["space heater power station", "electric blanket watts", "winter power outage"]
 ---
