@@ -2,7 +2,7 @@
 title: "Can You Plug a Power Station Into a Wall Outlet? (Backfeeding Explained)"
 description: "Why plugging a generator or power station into a wall outlet is dangerous, what the Red Cross and CPSC say, and the safe ways to power your home appliances."
 pubDate: "Oct 10 2026"
-heroImage: "../../assets/power-outage.webp"
+heroImage: "../../assets/hero-can-you-plug-a-power-station-into-a-wall-outlet.webp"
 category: "Solar Generator Guides"
 tags: ["backfeeding", "power station wall outlet", "transfer switch", "power outage safety"]
 ---
