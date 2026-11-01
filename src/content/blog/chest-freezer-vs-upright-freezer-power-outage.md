@@ -2,7 +2,7 @@
 title: "Chest vs Upright Freezer in a Power Outage: Which Is Easier to Back Up?"
 description: "ENERGY STAR numbers put a chest freezer near 215 kWh a year and an upright near 395. What that means for outage runtime and battery size, with calculated hours."
 pubDate: "Oct 10 2026"
-heroImage: "../../assets/stocked-chest-freezer.webp"
+heroImage: "../../assets/hero-chest-freezer-vs-upright-freezer-power-outage.webp"
 category: "Solar Generator Guides"
 tags: ["chest freezer vs upright freezer", "freezer power outage", "freezer backup power"]
 ---
