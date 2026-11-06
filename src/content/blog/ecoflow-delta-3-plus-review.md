@@ -1,6 +1,6 @@
 ---
-title: "EcoFlow DELTA 3 Plus Review: Can It Run a Chest Freezer?"
-description: "EcoFlow DELTA 3 Plus review from published specs: the LRA surge check most reviews skip, calculated freezer, fridge and CPAP runtimes, and who should buy it."
+title: "EcoFlow DELTA 3 Plus Review: Freezer Runtime & Surge (2026)"
+description: "DELTA 3 Plus (1,024Wh, 1,800W) from published specs: calculated freezer, fridge and CPAP runtimes, the LRA surge check most reviews skip, and who should buy it."
 pubDate: "Mar 20 2026"
 updatedDate: "Oct 8 2026"
 heroImage: "../../assets/ecoflow-delta-3-plus-review.webp"
@@ -144,7 +144,7 @@ Yes, the DELTA 3 Plus can be expanded up to 5kWh with add-on batteries.
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "EcoFlow DELTA 3 Plus Review: Can It Actually Run a Chest Freezer?",
+  "headline": "EcoFlow DELTA 3 Plus Review: Freezer Runtime & Surge (2026)",
   "datePublished": "2026-03-20",
   "dateModified": "2026-10-08",
   "author": {"@type": "Person", "name": "Ethan Reynolds"},

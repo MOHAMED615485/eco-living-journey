@@ -1,6 +1,6 @@
 ---
-title: "Freezer LRA Explained: The Surge Number That Matters Most"
-description: "LRA is the hidden surge number on your freezer's data plate. How to find it, calculate surge watts, and choose a battery that won't trip at 2 AM."
+title: "What Is LRA on a Freezer? Find It and Size Your Battery"
+description: "LRA is the surge number on your freezer's data plate. How to find it in 3 minutes, convert it to surge watts, and pick a battery that won't trip at 2 AM."
 pubDate: "Mar 22 2026"
 heroImage: "../../assets/power-outage.webp"
 category: "Solar Generator Guides"
@@ -252,8 +252,8 @@ Yes. A clamp meter or smart plug with energy monitoring will show you the actual
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Freezer LRA Explained: The Surge Number That Matters Most",
-  "description": "LRA is the hidden surge number on your freezer's data plate. It determines whether your backup battery survives or trips at 2 AM. Here is exactly how to find it, calculate your surge watts, and choose the right battery.",
+  "headline": "What Is LRA on a Freezer? Find It and Size Your Battery",
+  "description": "LRA is the surge number on your freezer's data plate. How to find it in 3 minutes, convert it to surge watts, and pick a battery that won't trip at 2 AM.",
   "datePublished": "Mar 22 2026",
   "dateModified": "Oct 7 2026",
   "author": {

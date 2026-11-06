@@ -1,6 +1,6 @@
 ---
-title: "Best Solar Generator for Chest Freezer 2026 (Surge Compared)"
-description: "Which solar generator starts and runs a chest freezer? EcoFlow DELTA 3 Plus, Jackery Explorer 1000 V2 and Bluetti Elite 200 V2 compared on surge, capacity and runtime."
+title: "Best Solar Generator for Chest Freezer: 3 Picks (2026)"
+description: "Which solar generator starts a chest freezer? DELTA 3 Plus, Jackery 1000 V2 and Bluetti Elite 200 V2 compared on surge, capacity and runtime, with a clear pick."
 pubDate: "Apr 05 2026"
 updatedDate: "Oct 6 2026"
 heroImage: "../../assets/best-solar-generator-chest-freezer.webp"
@@ -238,7 +238,7 @@ Specifications come from manufacturer product pages and retailer listings for th
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Best Solar Generator for Chest Freezer 2026 (Surge Compared)",
+  "headline": "Best Solar Generator for Chest Freezer: 3 Picks (2026)",
   "datePublished": "2026-04-05",
   "dateModified": "2026-10-06",
   "author": {"@type": "Person", "name": "Ethan Reynolds"},
