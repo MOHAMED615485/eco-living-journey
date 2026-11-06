@@ -10,6 +10,8 @@ faqSchema: true
 
 Most backup power guides are written for people who enjoy comparing watt-hours. This one is for the person who will actually use the unit: an older adult, often living alone, who needs power for a CPAP, a refrigerator or a phone, and who does not want a complicated device in the dark at 3 a.m.
 
+> **Shopping the Black Friday sales (Nov 27)?** Compare units by price per watt-hour before you buy: see our [Black Friday 2026 power station guide](/blog/black-friday-2026-power-station-buying-guide/).
+
 It is also for the adult children shopping on their behalf. The goal is simple: pick a unit one person can move, set it up once, label it, and test it before a storm.
 
 <div style="background:#eaf5ef;border-left:4px solid #2d6a4f;padding:12px 16px;border-radius:0 8px 8px 0;font-size:0.9em;">Affiliate disclosure: we may earn a commission if you buy through links on this page, at no extra cost to you. Specifications come from manufacturer pages and runtimes are our own calculations. We have not handled these units ourselves, so check the return policy and try the controls early.</div>

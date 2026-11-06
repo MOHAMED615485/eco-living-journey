@@ -10,6 +10,8 @@ faqSchema: true
 
 Around $1,000 is where portable power stations get serious. Below it you find units for phones, laptops and camping. Above it you start paying for capacity most households do not need.
 
+> **Shopping the Black Friday sales (Nov 27)?** Compare units by price per watt-hour before you buy: see our [Black Friday 2026 power station guide](/blog/black-friday-2026-power-station-buying-guide/).
+
 <p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. We earn a small commission if you buy through our links, at no extra cost to you. Specifications come from manufacturer pages and runtimes are calculations, not our own tests. Prices change often, so check the current price on each page.</em></p>
 
 This guide compares the leading sub-$1,000 picks against the loads that matter most: a chest freezer, a refrigerator, and a few essentials.

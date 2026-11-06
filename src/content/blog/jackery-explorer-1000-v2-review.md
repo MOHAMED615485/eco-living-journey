@@ -10,6 +10,8 @@ faqSchema: true
 
 The Jackery Explorer 1000 V2 is a 1,070Wh LiFePO4 power station that is light enough to carry and big enough for a chest freezer or refrigerator through an overnight outage. This review uses Jackery's published specifications and calculated runtimes. We have not lab-tested the unit, and you will not find invented test results here.
 
+> **Shopping the Black Friday sales (Nov 27)?** Compare units by price per watt-hour before you buy: see our [Black Friday 2026 power station guide](/blog/black-friday-2026-power-station-buying-guide/).
+
 <p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. We earn a small commission if you buy through our links, at no extra cost to you. Specifications come from manufacturer pages and runtimes are calculations, not our own tests.</em></p>
 
 > **⚡ Quick Answer:** The Jackery Explorer 1000 V2 is a good fit for one chest freezer or one refrigerator, a router, lights and phone charging. It is rated for 1,500W continuous and 3,000W surge, which covers a freezer with an LRA up to about 20 after a 20% margin. It is not expandable and recharges from the wall more slowly than the EcoFlow DELTA 3 Plus. **<a href="https://www.awin1.com/cread.php?awinmid=59183&awinaffid=2815020&ued=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-1000-v2" target="_blank" rel="sponsored nofollow">Check current price at Jackery →</a>**

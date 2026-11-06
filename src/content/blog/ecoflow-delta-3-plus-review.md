@@ -10,6 +10,8 @@ faqSchema: true
 
 The EcoFlow DELTA 3 Plus is a 1,024Wh LiFePO4 power station with 1,800W continuous output and a 3,600W surge rating. This review uses EcoFlow's published specifications and calculated runtimes. We have not lab-tested the unit, and nothing here is presented as a personal test result.
 
+> **Shopping the Black Friday sales (Nov 27)?** Compare units by price per watt-hour before you buy: see our [Black Friday 2026 power station guide](/blog/black-friday-2026-power-station-buying-guide/).
+
 <p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. We earn a small commission if you buy through our links, at no extra cost to you. Specifications come from manufacturer pages and runtimes are calculations, not our own tests.</em></p>
 
 <div class="cta-container"><a href="https://www.amazon.com/dp/B0DCC2BVFW?tag=ecolivingjo0d-20" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">Check EcoFlow DELTA 3 Plus Price</a></div>

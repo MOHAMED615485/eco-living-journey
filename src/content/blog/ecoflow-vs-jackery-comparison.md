@@ -12,6 +12,8 @@ faqSchema: true
 
 **The short answer:** for one chest freezer or refrigerator, both units work. The EcoFlow DELTA 3 Plus has more output, a higher surge rating, faster wall charging and can be expanded. The Jackery Explorer 1000 V2 is lighter and slightly larger in capacity. This comparison uses published manufacturer specifications and calculated runtimes, not our own tests.
 
+> **Shopping the Black Friday sales (Nov 27)?** Compare units by price per watt-hour before you buy: see our [Black Friday 2026 power station guide](/blog/black-friday-2026-power-station-buying-guide/).
+
 <p style="font-size:0.85rem;color:#666;padding:10px 16px;background:#f9f9f9;border-left:3px solid #2d6a4f;margin-bottom:1.5rem;border-radius:4px;"><em>This post contains affiliate links. We earn a small commission if you buy through our links, at no extra cost to you. Specifications come from manufacturer pages and runtimes are calculations, not our own tests.</em></p>
 
 ---

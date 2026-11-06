@@ -15,6 +15,8 @@ updatedDate: "Oct 7 2026"
 
 Most "best solar generator" lists repeat manufacturer specs or test with a lamp and a phone charger. This one compares the published specifications of the three units we recommend most against the loads homeowners actually run: a refrigerator, a CPAP machine and a window air conditioner. The figures come from manufacturer specifications and calculations, not lab testing, and each one is explained so you can check it. Last updated October 2026.
 
+> **Shopping the Black Friday sales (Nov 27)?** Compare units by price per watt-hour before you buy: see our [Black Friday 2026 power station guide](/blog/black-friday-2026-power-station-buying-guide/).
+
 ---
 
 ## 🏆 Best Solar Generators of 2026: Quick Comparison
