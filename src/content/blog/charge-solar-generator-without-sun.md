@@ -1,6 +1,6 @@
 ---
-title: "How to Charge a Solar Generator Without Sun (6 Real Methods)"
-description: "No sun? No problem. Here are 6 proven ways to charge your solar generator without sunlight — from wall outlets to car charging to cloudy day tips that actually work."
+title: "How to Charge a Solar Generator Without Sun (6 Methods)"
+description: "Charge a solar generator with no sun: wall outlet, car 12V, gas generator, cloudy-day solar and more, plus how to prep before a storm."
 pubDate: 2026-08-01
 updatedDate: "Oct 7 2026"
 heroImage: "../../assets/charge-solar-generator-without-sun.webp"
@@ -265,8 +265,8 @@ If you have a gas generator, connect it to your solar generator's AC input for w
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "How to Charge a Solar Generator Without Sun (6 Real Methods)",
-  "description": "No sun? No problem. Here are 6 proven ways to charge your solar generator without sunlight — from wall outlets to car charging to cloudy day tips that actually work.",
+  "headline": "How to Charge a Solar Generator Without Sun (6 Methods)",
+  "description": "Charge a solar generator with no sun: wall outlet, car 12V, gas generator, cloudy-day solar and more, plus how to prep before a storm.",
   "datePublished": "2026-08-01",
   "dateModified": "Oct 7 2026",
   "author": {
