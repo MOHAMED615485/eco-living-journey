@@ -10,6 +10,8 @@ faqSchema: true
 
 This page lists typical running watts, startup surge and daily energy use for 5 to 25 cu ft chest freezers, then shows what that means when you size a solar generator or portable power station. The figures are ranges compiled from manufacturer specification sheets, ENERGY STAR criteria and EnergyGuide labels. They are not lab measurements, so treat your own freezer's nameplate as the final word.
 
+> **Shopping the Black Friday sales (Nov 27)?** Compare units by price per watt-hour before you buy: see our [Black Friday 2026 power station guide](/blog/black-friday-2026-power-station-buying-guide/).
+
 ---
 
 ## ⚡ Quick Answer

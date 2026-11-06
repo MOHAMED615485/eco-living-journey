@@ -13,6 +13,8 @@ category: "Best Solar Generators"
 
 Most solar generator reviews focus on light bulbs and phone chargers. This one focuses on chest freezers, the load that actually trips a unit that is too small. The figures come from manufacturer specifications and calculations, not lab testing, and each one is explained so you can check it. Last updated October 2026.
 
+> **Shopping the Black Friday sales (Nov 27)?** Compare units by price per watt-hour before you buy: see our [Black Friday 2026 power station guide](/blog/black-friday-2026-power-station-buying-guide/).
+
 ---
 
 ## Quick Picks

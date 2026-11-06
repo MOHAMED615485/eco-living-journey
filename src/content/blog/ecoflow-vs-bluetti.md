@@ -13,6 +13,8 @@ category: "Solar Generator Reviews"
 
 This comparison is built from the manufacturers' published specifications and from calculations, not from lab testing. Runtimes are calculated from battery capacity and typical appliance draw, and each figure is explained so you can check it yourself. Last updated October 2026.
 
+> **Shopping the Black Friday sales (Nov 27)?** Compare units by price per watt-hour before you buy: see our [Black Friday 2026 power station guide](/blog/black-friday-2026-power-station-buying-guide/).
+
 ---
 
 ## Specs Side by Side

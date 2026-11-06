@@ -29,8 +29,8 @@ Lower is better, **but only if the unit has the output and surge rating you need
 ## 🎯 What Each Size Is For
 
 - **About 270Wh (e.g., Bluetti EB3A, 268Wh):** phones, router, lights, CPAP for a night or two.
-- **About 1,000Wh (e.g., Jackery Explorer 1000 V2, EcoFlow DELTA 3 Plus):** fridge for roughly half a day, plus small loads.
-- **About 2,000Wh and up (e.g., Bluetti Elite 200 V2):** fridge plus freezer and lights for about a day, longer with solar.
+- **About 1,000Wh (e.g., [Jackery Explorer 1000 V2](/blog/jackery-explorer-1000-v2-review/), [EcoFlow DELTA 3 Plus](/blog/ecoflow-delta-3-plus-review/)):** fridge for roughly half a day, plus small loads.
+- **About 2,000Wh and up (e.g., Bluetti Elite 200 V2, compared in our [EcoFlow vs Bluetti guide](/blog/ecoflow-vs-bluetti/)):** fridge plus freezer and lights for about a day, longer with solar.
 
 Compare these in our [spec comparison](/blog/ecoflow-vs-jackery-comparison/) and our guide to [the best units under $1,000](/blog/best-solar-generator-under-1000/).
 
@@ -44,7 +44,7 @@ Compare these in our [spec comparison](/blog/ecoflow-vs-jackery-comparison/) and
 
 ## 🎁 Add a First Aid Kit
 
-SurviveX is offering code **GETREADY10** for 10% off through November 30, 2026, and free shipping over $50. <a href="https://www.awin1.com/cread.php?awinmid=124484&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">See SurviveX First Aid Kits</a>
+SurviveX has told publishers it plans Black Friday and Cyber Monday promotions running through December 21, 2026. Its code **GETREADY10** gives 10% off through November 30, 2026, and free shipping over $50. <a href="https://www.awin1.com/cread.php?awinmid=124484&amp;awinaffid=2815020&amp;ued=https%3A%2F%2Fsurvive-x.com%2Fcollections%2Ffirst-aid-kits" class="cta-button-amazon" target="_blank" rel="sponsored nofollow">See SurviveX First Aid Kits</a>
 
 ## ⏱️ Timing
 
@@ -55,6 +55,9 @@ Some retailers start sales before the day itself. Compare prices across a few da
 ## 🔗 Related Guides
 
 - [Best units under $1,000](/blog/best-solar-generator-under-1000/)
+- [Best solar generator for a chest freezer](/blog/best-solar-generator-chest-freezer-2026/)
+- [Jackery Explorer 1000 V2 review](/blog/jackery-explorer-1000-v2-review/)
+- [EcoFlow DELTA 3 Plus review](/blog/ecoflow-delta-3-plus-review/)
 - [EcoFlow vs Jackery spec comparison](/blog/ecoflow-vs-jackery-comparison/)
 - [LiFePO4 vs lithium-ion](/blog/lifepo4-vs-lithium-ion/)
 - [Surge vs running watts](/blog/surge-vs-running-watts/)
@@ -132,7 +135,7 @@ Buying from the manufacturer or an authorized seller makes warranty claims simpl
   "headline": "Black Friday 2026 Power Station Buying Guide: How to Spot a Real Deal",
   "description": "Black Friday is November 27, 2026. Learn how to compare power stations by price per watt-hour, check real warranties and avoid inflated 'was' prices. No fake deals, just how to shop.",
   "datePublished": "Oct 08 2026",
-  "dateModified": "Oct 08 2026",
+  "dateModified": "Nov 06 2026",
   "author": {
     "@type": "Person",
     "name": "Ethan Reynolds"
