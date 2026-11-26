@@ -75,19 +75,104 @@ if (location.hostname.endsWith('.pages.dev')) {
 <link rel="dns-prefetch" href="https://scripts.clarity.ms" />
 <link rel="dns-prefetch" href="https://www.clarity.ms" />
 
-<!-- GA4 deferred to not block render -->
-<script>
+<!-- GA4 queue is initialized before page interaction; library download remains deferred until load. -->
+<script is:inline>
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = window.gtag || function(){ window.dataLayer.push(arguments); };
+  window.gtag('js', new Date());
+  window.gtag('config', 'G-R4DLNKRS96', { 'transport_type': 'beacon' });
   window.addEventListener('load', function() {
     var s = document.createElement('script');
     s.async = true;
     s.src = 'https://www.googletagmanager.com/gtag/js?id=G-R4DLNKRS96';
     document.head.appendChild(s);
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-R4DLNKRS96', { 'transport_type': 'beacon' });
-    window.gtag = gtag;
   });
+</script>
+
+<!-- Affiliate click measurement: queues safely until GA4 is configured. No destination URLs are changed. -->
+<script is:inline>
+(function () {
+  if (window.__ecoAffiliateTrackingInstalled) return;
+  window.__ecoAffiliateTrackingInstalled = true;
+
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = window.gtag || function () {
+    window.dataLayer.push(arguments);
+  };
+
+  var awinAdvertisers = {
+    '59183': 'jackery',
+    '59271': 'bluetti',
+    '124484': 'survivex'
+  };
+  var pendingEvents = [];
+
+  function sendAffiliateEvent(params) {
+    if (document.readyState === 'complete') {
+      window.gtag('event', 'affiliate_click', params);
+    } else {
+      pendingEvents.push(params);
+    }
+  }
+
+  window.addEventListener('load', function () {
+    pendingEvents.forEach(function (params) {
+      window.gtag('event', 'affiliate_click', params);
+    });
+    pendingEvents = [];
+  });
+
+  document.addEventListener('click', function (event) {
+    var link = event.target && event.target.closest
+      ? event.target.closest('a[href]')
+      : null;
+    if (!link) return;
+
+    var url;
+    try {
+      url = new URL(link.href, window.location.href);
+    } catch (error) {
+      return;
+    }
+
+    var host = url.hostname.toLowerCase();
+    var isAwin = host === 'awin1.com' || host.endsWith('.awin1.com');
+    var isAmazon = /^www\.amazon\.(com|co\.uk|ca|de|fr|it|es|nl|se|pl|com\.au|co\.jp)$/i.test(host)
+      && url.searchParams.has('tag');
+
+    if (!isAwin && !isAmazon) return;
+
+    var advertiserId = isAwin ? (url.searchParams.get('awinmid') || '') : '';
+    var merchant = isAmazon ? 'amazon' : (awinAdvertisers[advertiserId] || 'awin');
+    var placement = 'content';
+
+    if (link.closest('.cta-container, .cta-button-amazon')) {
+      placement = 'cta';
+    } else if (link.closest('table')) {
+      placement = 'table';
+    } else if (link.closest('header')) {
+      placement = 'header';
+    } else if (link.closest('footer')) {
+      placement = 'footer';
+    }
+
+    var product = link.getAttribute('data-product')
+      || link.getAttribute('aria-label')
+      || link.getAttribute('title')
+      || (link.textContent || '').trim().replace(/\s+/g, ' ').slice(0, 100)
+      || 'unspecified';
+
+    sendAffiliateEvent({
+      merchant: merchant,
+      affiliate_network: isAmazon ? 'amazon_associates' : 'awin',
+      advertiser_id: advertiserId || 'not_applicable',
+      product: product,
+      article_path: window.location.pathname,
+      placement: placement,
+      link_domain: host
+    });
+  }, true);
+})();
 </script>
 
 <!-- Microsoft Clarity deferred -->
