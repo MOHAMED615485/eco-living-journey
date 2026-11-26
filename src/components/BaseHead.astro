@@ -75,18 +75,17 @@ if (location.hostname.endsWith('.pages.dev')) {
 <link rel="dns-prefetch" href="https://scripts.clarity.ms" />
 <link rel="dns-prefetch" href="https://www.clarity.ms" />
 
-<!-- GA4 deferred to not block render -->
-<script>
+<!-- GA4 queue is initialized before page interaction; library download remains deferred until load. -->
+<script is:inline>
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = window.gtag || function(){ window.dataLayer.push(arguments); };
+  window.gtag('js', new Date());
+  window.gtag('config', 'G-R4DLNKRS96', { 'transport_type': 'beacon' });
   window.addEventListener('load', function() {
     var s = document.createElement('script');
     s.async = true;
     s.src = 'https://www.googletagmanager.com/gtag/js?id=G-R4DLNKRS96';
     document.head.appendChild(s);
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-R4DLNKRS96', { 'transport_type': 'beacon' });
-    window.gtag = gtag;
   });
 </script>
 
@@ -138,7 +137,7 @@ if (location.hostname.endsWith('.pages.dev')) {
 
     var host = url.hostname.toLowerCase();
     var isAwin = host === 'awin1.com' || host.endsWith('.awin1.com');
-    var isAmazon = /^www\\.amazon\\.(com|co\\.uk|ca|de|fr|it|es|nl|se|pl|com\\.au|co\\.jp)$/i.test(host)
+    var isAmazon = /^www\.amazon\.(com|co\.uk|ca|de|fr|it|es|nl|se|pl|com\.au|co\.jp)$/i.test(host)
       && url.searchParams.has('tag');
 
     if (!isAwin && !isAmazon) return;
@@ -160,7 +159,7 @@ if (location.hostname.endsWith('.pages.dev')) {
     var product = link.getAttribute('data-product')
       || link.getAttribute('aria-label')
       || link.getAttribute('title')
-      || (link.textContent || '').trim().replace(/\\s+/g, ' ').slice(0, 100)
+      || (link.textContent || '').trim().replace(/\s+/g, ' ').slice(0, 100)
       || 'unspecified';
 
     sendAffiliateEvent({
